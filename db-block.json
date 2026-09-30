@@ -1,3 +1,9 @@
 {
-
+  "blocked": {
+    "3.128.78.7": {
+      "reason": "IP proxy / VPN terdeteksi",
+      "by": "auto-proxy",
+      "at": "2026-09-30T02:46:55.067Z"
+    }
+  }
 }
