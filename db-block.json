@@ -4,6 +4,11 @@
       "reason": "IP proxy / VPN terdeteksi",
       "by": "auto-proxy",
       "at": "2026-09-30T02:46:55.067Z"
+    },
+    "54.254.203.161": {
+      "reason": "nyepam",
+      "by": "owner",
+      "at": "2026-09-30T02:52:40.356Z"
     }
   }
 }
