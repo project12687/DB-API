@@ -4,7 +4,12 @@
       "reason": "IP proxy / VPN terdeteksi",
       "by": "auto-proxy",
       "at": "2026-09-30T02:46:55.067Z"
+    },
+    "20.250.116.198": {
+      "reason": "IP proxy / VPN terdeteksi",
+      "by": "auto-proxy",
+      "at": "2026-09-30T03:37:32.726Z"
     }
-
-  }
+  },
+  "allowed": {}
 }
