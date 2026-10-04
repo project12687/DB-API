@@ -4,6 +4,11 @@
       "type": "rch",
       "createdAt": "2026-10-04T04:18:37.503Z",
       "expiresAt": null
+    },
+    "rin-trial": {
+      "type": "non-rch",
+      "createdAt": "2026-10-04T04:22:47.858Z",
+      "expiresAt": "2026-10-18T04:22:47.637Z"
     }
   }
 }
