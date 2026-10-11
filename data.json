@@ -348,10 +348,11 @@
       "pass": "s1$cf5f91b06c3c78a45f06849304766713$83feb13250f30adc42c8b22cb1094afe1dc8dcce12c13d976691ae8ada2d7408",
       "apikey": "rin_43e0849b3cbce101c9",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2404:c0:c203:9bab:3bdc:ad0a:2e54:f58b",
       "regIp": "2404:c0:c203:9bab:3bdc:ad0a:2e54:f58b",
       "createdAt": "2026-10-11T23:52:12.662Z",
-      "lastLogin": "2026-10-11T23:52:12.662Z",
+      "lastLogin": "2026-10-11T23:52:59.696Z",
       "extra": 0,
       "window": {
         "start": 0,
