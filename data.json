@@ -359,6 +359,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "dhanyajayakak@gmail.com": {
+      "name": "dhanyy",
+      "email": "dhanyajayakak@gmail.com",
+      "pass": "s1$a2fb541471c767b0b4c5bf5d86ef82cc$e095de41b51253e4f82d5aee51aaa26b3a327124af2a36ed70103cea182c426c",
+      "apikey": "rin_3a3cece64a257be8d4",
+      "cap": "free",
+      "ip": "140.213.32.67",
+      "regIp": "140.213.32.67",
+      "createdAt": "2026-10-11T23:55:34.115Z",
+      "lastLogin": "2026-10-11T23:55:34.115Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
