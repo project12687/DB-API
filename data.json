@@ -143,6 +143,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "rakkukyou@gmail.com": {
+      "name": "rakku",
+      "email": "rakkukyou@gmail.com",
+      "pass": "s1$55a6ff5984dd84ce532176a142fbc9f3$69a3dfe1504989338a21b417d6f705679e1f5690cd4f21379d4d8466fb91f0bd",
+      "apikey": "rin_7ac2528701f2422b7d",
+      "cap": "free",
+      "ip": "103.66.62.159",
+      "regIp": "103.66.62.159",
+      "createdAt": "2026-10-11T15:16:47.715Z",
+      "lastLogin": "2026-10-11T15:16:47.715Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
