@@ -1,0 +1,21 @@
+{
+  "users": {
+    "kedebongtunas@gmail.com": {
+      "name": "rinaa",
+      "email": "kedebongtunas@gmail.com",
+      "pass": "s1$b0b4eef16f1bba2b1ff5e71acfcf482f$191faac7125d383417c74efa833b732cdd857c3d99e92fa292ecd205c4b415e2",
+      "apikey": "rin_4829a50d21352ac3ba",
+      "cap": "free",
+      "ip": "103.158.252.54",
+      "regIp": "103.158.252.54",
+      "createdAt": "2026-10-11T05:20:02.775Z",
+      "lastLogin": "2026-10-11T05:20:02.775Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    }
+  }
+}
