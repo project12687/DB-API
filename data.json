@@ -251,6 +251,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "sgg4346@gmail.com": {
+      "name": "Xynn",
+      "email": "sgg4346@gmail.com",
+      "pass": "s1$b926730fb3dd7962a5bc5aa7d2e8b67b$6314379b62e2c1edd11fb20ac506a207541d3708e55cc68303d320f7b7d23b0b",
+      "apikey": "rin_b14509a54261cbe22f",
+      "cap": "free",
+      "ip": "103.217.224.175",
+      "regIp": "103.217.224.175",
+      "createdAt": "2026-10-11T18:23:07.283Z",
+      "lastLogin": "2026-10-11T18:23:07.283Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
