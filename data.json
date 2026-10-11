@@ -276,10 +276,11 @@
       "pass": "s1$1b07f9e009c8656ee4639633a9dc68e0$cd773500f7f1c19d2bd0be143412e0c0adcd51c20307fd4e3294f1cddc6aeb32",
       "apikey": "rin_5e195992dbf9574945",
       "cap": "free",
+      "vipUntil": null,
       "ip": "140.213.42.110",
       "regIp": "140.213.42.110",
       "createdAt": "2026-10-11T21:31:39.018Z",
-      "lastLogin": "2026-10-11T21:31:39.018Z",
+      "lastLogin": "2026-10-11T21:35:06.091Z",
       "extra": 0,
       "window": {
         "start": 0,
