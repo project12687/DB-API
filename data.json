@@ -89,6 +89,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "razeerh08@gmail.com": {
+      "name": "Razeerh",
+      "email": "razeerh08@gmail.com",
+      "pass": "s1$d395cdfbdafff14d8b1620e70f7e8c22$27805a9bb3a6eb456371bae67424ea6640c982cb859439d6a471ea225125dc27",
+      "apikey": "rin_810fe330e8cea82f04",
+      "cap": "free",
+      "ip": "2400:9800:521:fd02:59bf:e150:ad8:57f5",
+      "regIp": "2400:9800:521:fd02:59bf:e150:ad8:57f5",
+      "createdAt": "2026-10-11T15:01:12.226Z",
+      "lastLogin": "2026-10-11T15:01:12.226Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
