@@ -233,6 +233,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "irzymarketbusiness@gmail.com": {
+      "name": "irzy",
+      "email": "irzymarket.business@gmail.com",
+      "pass": "s1$6f486c033231634b3dc9633c2d27824d$2fdfbf5c98a8dfee9468ba1c362155276f59af037e30dba507036b50da4b7d95",
+      "apikey": "rin_78fc48e2997e3bcaf1",
+      "cap": "free",
+      "ip": "2402:8780:1059:1399:4d0b:314e:93d1:7fe4",
+      "regIp": "2402:8780:1059:1399:4d0b:314e:93d1:7fe4",
+      "createdAt": "2026-10-11T16:37:51.007Z",
+      "lastLogin": "2026-10-11T16:37:51.007Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
