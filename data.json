@@ -114,10 +114,28 @@
       "pass": "s1$c67abaaf11ac68c92d96255bee4d3ec9$4c7ee5c95bd6903152a37294c296b23d155099d91c539d2553378ec48576e14b",
       "apikey": "rin_c659e4740295b363ed",
       "cap": "free",
+      "vipUntil": null,
       "ip": "36.82.93.192",
       "regIp": "36.82.93.192",
       "createdAt": "2026-10-11T15:11:53.852Z",
       "lastLogin": "2026-10-11T15:11:53.852Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "sovita@gmail.com": {
+      "name": "sovita",
+      "email": "sovita@gmail.com",
+      "pass": "s1$bfbc5027bb0b89081f9fc5f242adb58b$7d9566bd3a3df22d61b1a36fa58787559eaedaa380506a4c19ee7df2e4406b65",
+      "apikey": "rin_7a4b0b8c147a96c00d",
+      "cap": "free",
+      "ip": "103.81.255.46",
+      "regIp": "103.81.255.46",
+      "createdAt": "2026-10-11T15:14:05.160Z",
+      "lastLogin": "2026-10-11T15:14:05.160Z",
       "extra": 0,
       "window": {
         "start": 0,
