@@ -186,10 +186,28 @@
       "pass": "s1$6853151b0c2f93412e667f9ddd64a4f7$7e22a4b90ecf7682e491597df2ac9c4ddd0aa44f61786825efc6e51eb84a09f0",
       "apikey": "rin_58d149463fe02f23b2",
       "cap": "free",
+      "vipUntil": null,
       "ip": "202.59.196.147",
       "regIp": "202.59.196.147",
       "createdAt": "2026-10-11T15:25:50.173Z",
       "lastLogin": "2026-10-11T15:25:50.173Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "yuniatimobi@gmail.com": {
+      "name": "adnan",
+      "email": "yuniatimobi@gmail.com",
+      "pass": "s1$fec5cf14846282d9380dbdd2eabeae0b$7c645be20428bbcc296f2eab47e692fc52332a438ead1da99432c0120972201d",
+      "apikey": "rin_b9c97a541fdeea7b58",
+      "cap": "free",
+      "ip": "2404:c0:dc01:2e5:3c75:d517:ac0a:945b",
+      "regIp": "2404:c0:dc01:2e5:3c75:d517:ac0a:945b",
+      "createdAt": "2026-10-11T15:35:40.460Z",
+      "lastLogin": "2026-10-11T15:35:40.460Z",
       "extra": 0,
       "window": {
         "start": 0,
