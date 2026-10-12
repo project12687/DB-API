@@ -539,6 +539,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "riskputraaa@gmail.com": {
+      "name": "riskputraaa",
+      "email": "riskputraaa@gmail.com",
+      "pass": "s1$81307357dd422b63726435ef9be140d3$86a9424bed6c855b7eaf77dcf39fac4406f8b541b8a16a77671f0d67a3ba4eb7",
+      "apikey": "rin_e966add9596e2984e6",
+      "cap": "free",
+      "ip": "103.166.32.223",
+      "regIp": "103.166.32.223",
+      "createdAt": "2026-10-12T10:25:30.789Z",
+      "lastLogin": "2026-10-12T10:25:30.789Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
