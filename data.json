@@ -629,6 +629,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "radianjaki@gmail.com": {
+      "name": "keyy",
+      "email": "radianjaki@gmail.com",
+      "pass": "s1$74a3f46368929afe76f33e6964368234$8fd616579e40f108f6163ceffb5abcc5a92300d2af16d8eb7ce553e0152ecdf6",
+      "apikey": "rin_c36a175dbd288320dc",
+      "cap": "free",
+      "ip": "2400:9800:581:5b2b:1:0:319f:199",
+      "regIp": "2400:9800:581:5b2b:1:0:319f:199",
+      "createdAt": "2026-10-12T12:55:45.623Z",
+      "lastLogin": "2026-10-12T12:55:45.623Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
