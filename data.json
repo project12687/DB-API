@@ -449,6 +449,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "onez78594@gmail.com": {
+      "name": "Onez",
+      "email": "onez78594@gmail.com",
+      "pass": "s1$359fbf6188784db53e358ce13e9176ec$ba0a74e4e7e7e64a03f4796b1ec28f60c72695f1bdc5e5739c97380597600db1",
+      "apikey": "rin_c6d5ac7b3be2fa6207",
+      "cap": "free",
+      "ip": "114.10.77.75",
+      "regIp": "114.10.77.75",
+      "createdAt": "2026-10-12T03:03:41.278Z",
+      "lastLogin": "2026-10-12T03:03:41.278Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
