@@ -420,10 +420,28 @@
       "pass": "s1$8e096642dcc8054bda3a3aaba3f1a13f$6a3507561580ee3ec12558bc8c0da2c0e8441bc19e534f3f92b494a41820afa9",
       "apikey": "rin_90e93db3610f68e9b9",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2400:9800:30e:eb66:18dd:a1eb:a709:1c0",
       "regIp": "2400:9800:30e:eb66:18dd:a1eb:a709:1c0",
       "createdAt": "2026-10-12T01:09:55.352Z",
       "lastLogin": "2026-10-12T01:09:55.352Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "bblaba992@gmail.com": {
+      "name": "yannDep",
+      "email": "bblaba992@gmail.com",
+      "pass": "s1$ad7b41b72df9d8ffe977e22188555a1f$7479972f87c24839e82d631b6b7c378b423fc5b1d88d36b9545e3fbac88a3eac",
+      "apikey": "rin_50cd20f599e5b0e661",
+      "cap": "free",
+      "ip": "2400:9800:9b1:8a62:a00a:d2ff:fe39:666d",
+      "regIp": "2400:9800:9b1:8a62:a00a:d2ff:fe39:666d",
+      "createdAt": "2026-10-12T02:45:14.703Z",
+      "lastLogin": "2026-10-12T02:45:14.703Z",
       "extra": 0,
       "window": {
         "start": 0,
