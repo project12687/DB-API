@@ -384,10 +384,28 @@
       "pass": "s1$6066980303bd39ec6c389f96ebc4541d$af8eb2e6a7448c95e2468f2f61d1fb8770afd540b839981b8cef2ec0f103fb7b",
       "apikey": "rin_bbd45b52e88e33b6d8",
       "cap": "free",
+      "vipUntil": null,
       "ip": "182.2.84.63",
       "regIp": "182.2.84.63",
       "createdAt": "2026-10-12T00:37:54.819Z",
       "lastLogin": "2026-10-12T00:37:54.819Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "imutreyna644@gmail.com": {
+      "name": "Reyna Imut",
+      "email": "imutreyna644@gmail.com",
+      "pass": "s1$f6e946de5e92892761e12c4a38df6a3c$e9918cbea9498f1960813141e1333ff38d93c7b742343656e47ab7f05da7da97",
+      "apikey": "rin_00661adf985c07b6fb",
+      "cap": "free",
+      "ip": "2400:9800:820:ae5:b6eb:c1d5:9ced:d953",
+      "regIp": "2400:9800:820:ae5:b6eb:c1d5:9ced:d953",
+      "createdAt": "2026-10-12T00:48:55.284Z",
+      "lastLogin": "2026-10-12T00:48:55.284Z",
       "extra": 0,
       "window": {
         "start": 0,
