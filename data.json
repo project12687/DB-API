@@ -582,10 +582,28 @@
       "pass": "s1$35f7e07f3cb4a6351b2c34520c613e88$c69c008317a1739ad5a58a655313828c3984b4240fad68812b949526c90947b2",
       "apikey": "rin_1a25e6c2cbc18bbf50",
       "cap": "free",
+      "vipUntil": null,
       "ip": "157.15.45.117",
       "regIp": "157.15.45.117",
       "createdAt": "2026-10-12T11:15:38.882Z",
       "lastLogin": "2026-10-12T11:15:38.882Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "jaenajaemin316@gmail.com": {
+      "name": "vann",
+      "email": "jaenajaemin316@gmail.com",
+      "pass": "s1$998f31318d824010e8cfbd3d6c2e13fe$e495f90bef256bb530dbfe578fbae019bc1a860df31976b17c19abf85bedf157",
+      "apikey": "rin_5badb210dca312a86d",
+      "cap": "free",
+      "ip": "103.108.33.189",
+      "regIp": "103.108.33.189",
+      "createdAt": "2026-10-12T11:21:38.105Z",
+      "lastLogin": "2026-10-12T11:21:38.105Z",
       "extra": 0,
       "window": {
         "start": 0,
