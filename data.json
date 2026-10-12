@@ -413,6 +413,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "gibranedits@gmail.com": {
+      "name": "lucky",
+      "email": "gibranedits@gmail.com",
+      "pass": "s1$8e096642dcc8054bda3a3aaba3f1a13f$6a3507561580ee3ec12558bc8c0da2c0e8441bc19e534f3f92b494a41820afa9",
+      "apikey": "rin_90e93db3610f68e9b9",
+      "cap": "free",
+      "ip": "2400:9800:30e:eb66:18dd:a1eb:a709:1c0",
+      "regIp": "2400:9800:30e:eb66:18dd:a1eb:a709:1c0",
+      "createdAt": "2026-10-12T01:09:55.352Z",
+      "lastLogin": "2026-10-12T01:09:55.352Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
