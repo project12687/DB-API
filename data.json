@@ -575,6 +575,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "akbarhilal089@gmail.com": {
+      "name": "AkbarHilal",
+      "email": "akbarhilal089@gmail.com",
+      "pass": "s1$35f7e07f3cb4a6351b2c34520c613e88$c69c008317a1739ad5a58a655313828c3984b4240fad68812b949526c90947b2",
+      "apikey": "rin_1a25e6c2cbc18bbf50",
+      "cap": "free",
+      "ip": "157.15.45.117",
+      "regIp": "157.15.45.117",
+      "createdAt": "2026-10-12T11:15:38.882Z",
+      "lastLogin": "2026-10-12T11:15:38.882Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
