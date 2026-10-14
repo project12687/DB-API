@@ -755,6 +755,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "vinznesia@gmail.com": {
+      "name": "vinn",
+      "email": "vinznesia@gmail.com",
+      "pass": "s1$e43de0b7ec334e1835c3bc83804f63a0$a6f5eab5c943fadfe175e5fd04ca725e2a47d4c3338aae0703df822a3a408261",
+      "apikey": "rin_ba174c07e8a3cec9fc",
+      "cap": "free",
+      "ip": "103.152.93.82",
+      "regIp": "103.152.93.82",
+      "createdAt": "2026-10-14T07:17:52.089Z",
+      "lastLogin": "2026-10-14T07:17:52.089Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
