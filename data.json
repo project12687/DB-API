@@ -726,10 +726,28 @@
       "pass": "s1$f6d12bafb593b505d13af4893343d58a$10fe90e4d7eb428205675dd4aff1ecff5eaebabdea407ae3f35d8ded0e1eec28",
       "apikey": "rin_76ce808d910489e391",
       "cap": "free",
+      "vipUntil": null,
       "ip": "140.213.73.249",
       "regIp": "140.213.73.249",
       "createdAt": "2026-10-14T00:06:24.888Z",
       "lastLogin": "2026-10-14T00:06:24.888Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "thesup09@gmail.com": {
+      "name": "radipgtg",
+      "email": "thesup09@gmail.com",
+      "pass": "s1$93b45c1fe23729ed089645a7d6b1bc01$93c68a0fb329e3bf4d04501a1eb2ec11bd23efca47c47bc6c45235d18a5b451a",
+      "apikey": "rin_18308ea45e79d859eb",
+      "cap": "free",
+      "ip": "163.61.90.221",
+      "regIp": "163.61.90.221",
+      "createdAt": "2026-10-14T04:06:52.200Z",
+      "lastLogin": "2026-10-14T04:06:52.200Z",
       "extra": 0,
       "window": {
         "start": 0,
