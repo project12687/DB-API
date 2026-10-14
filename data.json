@@ -482,7 +482,7 @@
       "extra": 0,
       "window": {
         "start": 1791881813682,
-        "hits": 5,
+        "hits": 6,
         "reacts": 1
       }
     },
@@ -762,6 +762,7 @@
       "pass": "s1$e43de0b7ec334e1835c3bc83804f63a0$a6f5eab5c943fadfe175e5fd04ca725e2a47d4c3338aae0703df822a3a408261",
       "apikey": "rin_ba174c07e8a3cec9fc",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.152.93.82",
       "regIp": "103.152.93.82",
       "createdAt": "2026-10-14T07:17:52.089Z",
