@@ -791,6 +791,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "ddnanac@gmail.com": {
+      "name": "ddnanac",
+      "email": "ddnanac@gmail.com",
+      "pass": "s1$564ff03af2a4f7f81a46f4da381cc22d$a60fd908176fb2bae4c70358421c847d2f79655f08533feeabd5730f35221742",
+      "apikey": "rin_650b799ea83b9f1c7e",
+      "cap": "free",
+      "ip": "103.168.254.21",
+      "regIp": "103.168.254.21",
+      "createdAt": "2026-10-14T09:49:03.441Z",
+      "lastLogin": "2026-10-14T09:49:03.441Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
