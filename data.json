@@ -708,10 +708,28 @@
       "pass": "s1$50f8afad90cb67ec37da7d425d5cac84$3dfb6e2c8bdab5088ded62b1575595fe335e5ea5be8d15b7094d49ef37cdb324",
       "apikey": "rin_28003f7098bcf50941",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.155.201.59",
       "regIp": "103.155.201.59",
       "createdAt": "2026-10-13T23:03:24.885Z",
       "lastLogin": "2026-10-13T23:03:24.885Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "fiturmediafire@gmail.com": {
+      "name": "Yelah",
+      "email": "fiturmediafire@gmail.com",
+      "pass": "s1$f6d12bafb593b505d13af4893343d58a$10fe90e4d7eb428205675dd4aff1ecff5eaebabdea407ae3f35d8ded0e1eec28",
+      "apikey": "rin_76ce808d910489e391",
+      "cap": "free",
+      "ip": "140.213.73.249",
+      "regIp": "140.213.73.249",
+      "createdAt": "2026-10-14T00:06:24.888Z",
+      "lastLogin": "2026-10-14T00:06:24.888Z",
       "extra": 0,
       "window": {
         "start": 0,
