@@ -1,0 +1,13 @@
+{
+  "codes": [
+    {
+      "code": "rina",
+      "amount": 1,
+      "maxIps": 1,
+      "expiresAt": "2026-10-15T05:43:55.300Z",
+      "createdAt": "2026-10-15T05:42:55.300Z",
+      "claims": []
+    }
+  ],
+  "bonus": {}
+}
