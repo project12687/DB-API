@@ -996,15 +996,16 @@
       "pass": "s1$e4d199fa18c342c325c6bb9fa9fb0661$b7253fb8a7584a6f43948c33bea752206d267ffead39fe82f1732cc7f982353a",
       "apikey": "rin_2f09a20bc4bb556bc3",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.173.138.154",
       "regIp": "103.173.138.154",
       "createdAt": "2026-10-15T16:08:11.492Z",
       "lastLogin": "2026-10-15T16:08:11.492Z",
       "extra": 0,
       "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
+        "start": 1792080561764,
+        "hits": 1,
+        "reacts": 1
       }
     }
   }
