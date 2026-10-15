@@ -888,15 +888,16 @@
       "pass": "s1$ed17126e1e9143afe0e0c606d2394789$fd5155bc568c4949d370973d6687bb062cfebe29cb409bd52178ce73f634da18",
       "apikey": "rin_8a4ee943ed52a9ac9f",
       "cap": "free",
+      "vipUntil": null,
       "ip": "157.66.37.6",
       "regIp": "157.66.37.6",
       "createdAt": "2026-10-15T06:23:51.893Z",
       "lastLogin": "2026-10-15T06:23:51.893Z",
       "extra": 0,
       "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
+        "start": 1792045494197,
+        "hits": 1,
+        "reacts": 1
       }
     }
   }
