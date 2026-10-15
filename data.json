@@ -935,6 +935,23 @@
         "hits": 2,
         "reacts": 2
       }
+    },
+    "problade25@gmail.com": {
+      "name": "Moonfluxers",
+      "email": "problade25@gmail.com",
+      "pass": "s1$ea714bf29d3f1fa25671f50d3c7003a0$e0f1bf66f6b11689d63f4eb7387a87b3e55c987476e575c6740a98d73e80530b",
+      "apikey": "rin_059a55047a20abdcb9",
+      "cap": "free",
+      "ip": "2404:8000:103b:cb5e:b954:953e:dca0:b851",
+      "regIp": "2404:8000:103b:cb5e:b954:953e:dca0:b851",
+      "createdAt": "2026-10-15T13:24:54.822Z",
+      "lastLogin": "2026-10-15T13:24:54.822Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
