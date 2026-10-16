@@ -1187,6 +1187,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "kongpedog@gmail.com": {
+      "name": "hamz",
+      "email": "kongpedog@gmail.com",
+      "pass": "s1$e7f6d73f5c948910edd36a83573ce131$457e50f8cee09e7c8f8f145d116fb2ff5c61c202e6e63cc827cd7595e46c763a",
+      "apikey": "rin_cbe017fbf7257da79c",
+      "cap": "free",
+      "ip": "2404:c0:2580::6d1d:49b1",
+      "regIp": "2404:c0:2580::6d1d:49b1",
+      "createdAt": "2026-10-16T18:29:21.405Z",
+      "lastLogin": "2026-10-16T18:29:21.405Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
