@@ -1223,6 +1223,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "seikageen@gmail.com": {
+      "name": "Sei Kagenou",
+      "email": "seikageen@gmail.com",
+      "pass": "s1$0ae42390560065efe64c4d4e441c5490$43201dc7897fc510b56b7526c5279fd7b026624d3592199b7e6f79a9689cbf0a",
+      "apikey": "rin_9905d7a62927fd6dcc",
+      "cap": "free",
+      "ip": "125.160.156.48",
+      "regIp": "125.160.156.48",
+      "createdAt": "2026-10-17T06:53:49.945Z",
+      "lastLogin": "2026-10-17T06:53:49.945Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
