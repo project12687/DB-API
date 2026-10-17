@@ -1241,6 +1241,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "yonkounoamz@gmail.com": {
+      "name": "amz",
+      "email": "yonkounoamz@gmail.com",
+      "pass": "s1$a17914c2406e431714f06b4a074a1f45$d78b1f2e4fad6e6831f088942343669fcebc91425fdc03395e48e4acf0475447",
+      "apikey": "rin_1292efae0f92647d8d",
+      "cap": "free",
+      "ip": "158.140.171.24",
+      "regIp": "158.140.171.24",
+      "createdAt": "2026-10-17T09:26:58.199Z",
+      "lastLogin": "2026-10-17T09:26:58.199Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
