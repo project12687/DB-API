@@ -1097,6 +1097,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "sdnwangyy@gmail.com": {
+      "name": "ShiroNet",
+      "email": "sdnwangyy@gmail.com",
+      "pass": "s1$5b46cdccf414ed692a4ad18dbee9363b$2b25c576ceffe3a081c88f5db3bf5d20ee40a3a6dce1d478fa111919adc8e5e8",
+      "apikey": "rin_32036c5c62f3dcfc1f",
+      "cap": "free",
+      "ip": "114.79.19.76",
+      "regIp": "114.79.19.76",
+      "createdAt": "2026-10-17T00:15:29.998Z",
+      "lastLogin": "2026-10-17T00:15:29.998Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
