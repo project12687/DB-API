@@ -1259,6 +1259,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "agungofficial101@gmail.com": {
+      "name": "Gunz",
+      "email": "agungofficial101@gmail.com",
+      "pass": "s1$e262c83001843fde95d5aa82f79b645f$2bfe8e733fabb62c61db6d6b80455aa0150db9a5cf9e935f17bf20f51a2cb56f",
+      "apikey": "rin_d6ad61d8ece1be934c",
+      "cap": "free",
+      "ip": "210.79.146.150",
+      "regIp": "210.79.146.150",
+      "createdAt": "2026-10-17T16:36:38.930Z",
+      "lastLogin": "2026-10-17T16:36:38.930Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
