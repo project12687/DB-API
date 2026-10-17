@@ -1212,15 +1212,16 @@
       "pass": "s1$cc2c3dcbc6cee62af45a3073fb75a503$fa28f18b489bc70e6069e0389aa6d80d729d518df9d266e455b096f980c8f591",
       "apikey": "rin_7cfc064effb5900059",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.173.138.154",
       "regIp": "103.173.138.154",
       "createdAt": "2026-10-17T05:08:51.721Z",
       "lastLogin": "2026-10-17T05:08:51.721Z",
       "extra": 0,
       "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
+        "start": 1792213784683,
+        "hits": 1,
+        "reacts": 1
       }
     }
   }
