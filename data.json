@@ -1133,6 +1133,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "dkzrikyu181@gmail.com": {
+      "name": "Vannnn",
+      "email": "dkzrikyu181@gmail.com",
+      "pass": "s1$3a10ae8608947d227b9afa9407d14c46$f98b488d946d167593f55d6703c5c7e4f08e6748f5e8fb66fcbcd73e98c09919",
+      "apikey": "rin_8ddd87d70505140425",
+      "cap": "free",
+      "ip": "216.243.112.155",
+      "regIp": "216.243.112.155",
+      "createdAt": "2026-10-17T01:17:10.050Z",
+      "lastLogin": "2026-10-17T01:17:10.050Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
