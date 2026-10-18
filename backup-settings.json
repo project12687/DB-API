@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "lastDate": "",
-  "lastAt": null,
-  "lastOk": false,
-  "lastMessage": ""
+  "lastDate": "2026-10-19",
+  "lastAt": "2026-10-18T17:00:13.072Z",
+  "lastOk": true,
+  "lastMessage": "Berhasil (data.json, rch.json, rch-vip.json)"
 }
