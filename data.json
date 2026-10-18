@@ -1295,6 +1295,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "panelkenn@gmail.com": {
+      "name": "kenn",
+      "email": "panelkenn@gmail.com",
+      "pass": "s1$43fc31f958f57b9696082f517d3bcdc1$e766110e91a4511782a89260a118f6e87bf0a1f2ff02d3dd4b2aeecbc131d23a",
+      "apikey": "rin_6c14d1555095278691",
+      "cap": "free",
+      "ip": "2405:8180:a03:1e68:e9bd:9574:2ff5:a5de",
+      "regIp": "2405:8180:a03:1e68:e9bd:9574:2ff5:a5de",
+      "createdAt": "2026-10-18T09:32:52.157Z",
+      "lastLogin": "2026-10-18T09:32:52.157Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
