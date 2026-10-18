@@ -1511,6 +1511,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "muhamadriski82645@gmail.com": {
+      "name": "rapxz",
+      "email": "muhamadriski82645@gmail.com",
+      "pass": "s1$ccd3be0aa31ecb10783761a3205d2659$8c7f3b7672e403485f68e23ba7a1629ac0f0eaa8b4a61b2b221ba0e67553b685",
+      "apikey": "rin_b63e6f260f1cf08b71",
+      "cap": "free",
+      "ip": "103.242.104.121",
+      "regIp": "103.242.104.121",
+      "createdAt": "2026-10-18T22:26:17.970Z",
+      "lastLogin": "2026-10-18T22:26:17.970Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
