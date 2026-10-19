@@ -11,9 +11,9 @@
       "regIp": "103.158.252.54",
       "createdAt": "2026-10-11T05:45:48.390Z",
       "lastLogin": "2026-10-13T03:57:03.418Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-19T12:05:35.069Z",
+      "bannedReason": "IP 103.158.252.54 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 0,
@@ -1592,6 +1592,23 @@
       "extra": 0,
       "window": {
         "start": 1792407395993,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "ryynuncheck@gmail.com": {
+      "name": "ryyn",
+      "email": "ryynuncheck@gmail.com",
+      "pass": "s1$253e61760bd8b4ce7ba4c4c8e8e3dc72$7b59078829bec88627ee767ee167b42b9a956549802dabb2c461633360c86750",
+      "apikey": "rin_5e5cd4db0fa2f4c58e",
+      "cap": "free",
+      "ip": "103.158.252.54",
+      "regIp": "103.158.252.54",
+      "createdAt": "2026-10-19T12:05:35.069Z",
+      "lastLogin": "2026-10-19T12:05:35.069Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
         "hits": 0,
         "reacts": 0
       }
