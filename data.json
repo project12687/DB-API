@@ -1,26 +1,5 @@
 {
   "users": {
-    "tessaja@gmail.com": {
-      "name": "rinaxx",
-      "email": "tessaja@gmail.com",
-      "pass": "s1$355790a9299b2e5770bad46b2adce255$4cc5fcf0c581dd6bc50d3fbb1f4b434d4b43286f0fe71f4bb3bd5642d2d00bae",
-      "apikey": "rin_6e1946fc30ec054728",
-      "cap": "vip",
-      "vipUntil": "2026-10-16T03:22:17.708Z",
-      "ip": "103.158.252.54",
-      "regIp": "103.158.252.54",
-      "createdAt": "2026-10-11T05:45:48.390Z",
-      "lastLogin": "2026-10-13T03:57:03.418Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
-      "extra": 0,
-      "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
-      }
-    },
     "nafasproject123@gmail.com": {
       "name": "Nafas Project",
       "email": "nafasproject123@gmail.com",
