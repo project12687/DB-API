@@ -1665,15 +1665,19 @@
       "pass": "s1$ec3906097464c6602b72019945c09ef5$0ce7cc65de28cecaeef9b1de6fea66656ddb263375b798b89a0c57eab1ecdb33",
       "apikey": "rin_79bc685ef13ba96d74",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.133.63.102",
       "regIp": "103.133.63.102",
       "createdAt": "2026-10-20T12:26:57.801Z",
       "lastLogin": "2026-10-20T12:26:57.801Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
+        "start": 1792499310535,
+        "hits": 1,
+        "reacts": 1
       }
     }
   }
