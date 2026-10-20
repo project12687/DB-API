@@ -1700,6 +1700,23 @@
         "hits": 2,
         "reacts": 0
       }
+    },
+    "haqicuy10@gmail.com": {
+      "name": "Linny",
+      "email": "haqicuy10@gmail.com",
+      "pass": "s1$556bb38b1232841983ba70de36dcfef9$7fc5733a3de0aecd7187c039a34390ba06d6ccf4f2d78ae017915a4646f54e47",
+      "apikey": "rin_c0b1ce205911d9c96a",
+      "cap": "free",
+      "ip": "114.10.18.134",
+      "regIp": "114.10.18.134",
+      "createdAt": "2026-10-20T14:31:39.688Z",
+      "lastLogin": "2026-10-20T14:31:39.688Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
