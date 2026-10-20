@@ -1658,6 +1658,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "jembuy@gmail.com": {
+      "name": "jembuy",
+      "email": "jembuy@gmail.com",
+      "pass": "s1$ec3906097464c6602b72019945c09ef5$0ce7cc65de28cecaeef9b1de6fea66656ddb263375b798b89a0c57eab1ecdb33",
+      "apikey": "rin_79bc685ef13ba96d74",
+      "cap": "free",
+      "ip": "103.133.63.102",
+      "regIp": "103.133.63.102",
+      "createdAt": "2026-10-20T12:26:57.801Z",
+      "lastLogin": "2026-10-20T12:26:57.801Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
