@@ -1859,9 +1859,26 @@
       "regIp": "103.141.170.56",
       "createdAt": "2026-10-22T07:02:21.804Z",
       "lastLogin": "2026-10-22T07:02:21.804Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-22T07:03:38.306Z",
+      "bannedReason": "IP 103.141.170.57 dipakai untuk mendaftar akun baru",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "hahahahhah@gmail.com": {
+      "name": "hahah",
+      "email": "hahahahhah@gmail.com",
+      "pass": "s1$14b09ee8f9c31b44fa52ea523b7a6bdd$c1578660a35559339c396a58ffa63e27fddfb530f05678c486bd2692c228bb05",
+      "apikey": "rin_ab2cf2f5f9ad60221c",
+      "cap": "free",
+      "ip": "103.141.170.57",
+      "regIp": "103.141.170.57",
+      "createdAt": "2026-10-22T07:03:38.306Z",
+      "lastLogin": "2026-10-22T07:03:38.306Z",
       "extra": 0,
       "window": {
         "start": 0,
