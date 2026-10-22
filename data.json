@@ -1917,10 +1917,31 @@
       "pass": "s1$25bc592a4e47cbaa4e7fdf4a40c64a9d$660174050e4fbb537642737a81b437336b56369075460fc1884ef5e1a12250fd",
       "apikey": "rin_5ab515f6118007e9cd",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.141.170.59",
       "regIp": "103.141.170.59",
       "createdAt": "2026-10-22T07:05:43.159Z",
       "lastLogin": "2026-10-22T07:05:43.159Z",
+      "banned": true,
+      "bannedAt": "2026-10-22T07:08:32.000Z",
+      "bannedReason": "IP 103.141.170.59 dipakai untuk mendaftar akun baru",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "yonso4677@gmail.com": {
+      "name": "vhbbkijk",
+      "email": "yonso4677@gmail.com",
+      "pass": "s1$cb70bd53fac82c0aff6543f777a92cba$f6552d2b3717b7f0be77ff71b766ea463db2df4032cbf713308fdb1d2d6f19ea",
+      "apikey": "rin_3eefc1d7a4aa5b506c",
+      "cap": "free",
+      "ip": "103.141.170.59",
+      "regIp": "103.141.170.59",
+      "createdAt": "2026-10-22T07:08:32.000Z",
+      "lastLogin": "2026-10-22T07:08:32.000Z",
       "extra": 0,
       "window": {
         "start": 0,
