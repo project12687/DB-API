@@ -1959,10 +1959,31 @@
       "pass": "s1$a31ec657006d21ac9d688c9e4bfc6157$c484fe7d2e901fe792fe2a448303140799ebdac1c21a1fefa0daa873687b1e3b",
       "apikey": "rin_43da6e61634b872639",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.141.170.56",
       "regIp": "103.141.170.56",
       "createdAt": "2026-10-22T07:18:46.105Z",
       "lastLogin": "2026-10-22T07:18:46.105Z",
+      "banned": true,
+      "bannedAt": "2026-10-22T07:19:37.753Z",
+      "bannedReason": "IP 103.141.170.56 dipakai untuk mendaftar akun baru",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "bot_6cv1n8@gmail.com": {
+      "name": "bot_6cv1n8",
+      "email": "bot_6cv1n8@gmail.com",
+      "pass": "s1$3f6d1e3695a52c97d26d873d0b5269aa$d8c85ba5a3421815c1bb7c97a7f960c5828815256bbaa7ae6df9bc15b81cf50a",
+      "apikey": "rin_34b76a3a088c1a9957",
+      "cap": "free",
+      "ip": "103.141.170.56",
+      "regIp": "103.141.170.56",
+      "createdAt": "2026-10-22T07:19:37.753Z",
+      "lastLogin": "2026-10-22T07:19:37.753Z",
       "extra": 0,
       "window": {
         "start": 0,
