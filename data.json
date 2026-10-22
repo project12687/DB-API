@@ -1875,10 +1875,31 @@
       "pass": "s1$14b09ee8f9c31b44fa52ea523b7a6bdd$c1578660a35559339c396a58ffa63e27fddfb530f05678c486bd2692c228bb05",
       "apikey": "rin_ab2cf2f5f9ad60221c",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.141.170.57",
       "regIp": "103.141.170.57",
       "createdAt": "2026-10-22T07:03:38.306Z",
       "lastLogin": "2026-10-22T07:03:38.306Z",
+      "banned": true,
+      "bannedAt": "2026-10-22T07:04:19.170Z",
+      "bannedReason": "IP 103.141.170.57 dipakai untuk mendaftar akun baru",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "dnjfjdjj@gmail.com": {
+      "name": "bdjdj",
+      "email": "dnjfjdjj@gmail.com",
+      "pass": "s1$f13f2f7d33f87ef56bea9ac992bc0db6$90cd577e1301abadbf6cb779ef46189ddefe3d0ea34ad9af4483a7e8f2c5d3e3",
+      "apikey": "rin_56a64ed30aff43f9f8",
+      "cap": "free",
+      "ip": "103.141.170.57",
+      "regIp": "103.141.170.57",
+      "createdAt": "2026-10-22T07:04:19.170Z",
+      "lastLogin": "2026-10-22T07:04:19.170Z",
       "extra": 0,
       "window": {
         "start": 0,
