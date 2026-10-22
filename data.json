@@ -2010,6 +2010,26 @@
         "start": 0,
         "hits": 0,
         "reacts": 0
+      },
+      "banned": true,
+      "bannedAt": "2026-10-22T07:20:39.143Z",
+      "bannedReason": "IP 103.141.170.56 dipakai untuk mendaftar akun baru"
+    },
+    "bot_iudnoh@gmail.com": {
+      "name": "bot_iudnoh",
+      "email": "bot_iudnoh@gmail.com",
+      "pass": "s1$7e2b574e19abe46e7ad37386c5a79a20$7134999f6817b16cc51d05191f999eb23d203ffb5383aed48daa2b75e83dbc73",
+      "apikey": "rin_55d319ad83880533ec",
+      "cap": "free",
+      "ip": "103.141.170.56",
+      "regIp": "103.141.170.56",
+      "createdAt": "2026-10-22T07:20:39.143Z",
+      "lastLogin": "2026-10-22T07:20:39.143Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
       }
     }
   }
