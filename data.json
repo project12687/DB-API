@@ -1812,10 +1812,31 @@
       "pass": "s1$547ef412a1eea86b7ea562c20442dee0$eeeabde68a1eaf26510ed667a179527b69f51654ab638195400e3917d3ae3586",
       "apikey": "rin_1903084fe11a59a93b",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.141.170.59",
       "regIp": "103.141.170.59",
       "createdAt": "2026-10-22T06:57:48.305Z",
       "lastLogin": "2026-10-22T06:57:48.305Z",
+      "banned": true,
+      "bannedAt": "2026-10-22T06:58:18.342Z",
+      "bannedReason": "IP 103.141.170.59 dipakai untuk mendaftar akun baru",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "ikazzxcv@gmail.com": {
+      "name": "ikazz",
+      "email": "ikazzxcv@gmail.com",
+      "pass": "s1$1df0b770da052deee3cb6e69d1695d21$c29ed7cd94587f963a384a0673354350139896e70c78249f495471c2c323a1a4",
+      "apikey": "rin_2f2981384bcb647020",
+      "cap": "free",
+      "ip": "103.141.170.59",
+      "regIp": "103.141.170.59",
+      "createdAt": "2026-10-22T06:58:18.342Z",
+      "lastLogin": "2026-10-22T06:58:18.342Z",
       "extra": 0,
       "window": {
         "start": 0,
