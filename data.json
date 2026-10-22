@@ -1775,9 +1775,9 @@
       "regIp": "103.141.170.58",
       "createdAt": "2026-10-22T06:30:15.929Z",
       "lastLogin": "2026-10-22T06:30:15.929Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-22T06:57:48.305Z",
+      "bannedReason": "IP 103.141.170.59 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1792650872446,
@@ -1796,9 +1796,26 @@
       "regIp": "103.141.170.57",
       "createdAt": "2026-10-22T06:52:28.322Z",
       "lastLogin": "2026-10-22T06:52:28.322Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-22T06:57:48.305Z",
+      "bannedReason": "IP 103.141.170.59 dipakai untuk mendaftar akun baru",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "yaonso@gmail.com": {
+      "name": "yaon",
+      "email": "yaonso@gmail.com",
+      "pass": "s1$547ef412a1eea86b7ea562c20442dee0$eeeabde68a1eaf26510ed667a179527b69f51654ab638195400e3917d3ae3586",
+      "apikey": "rin_1903084fe11a59a93b",
+      "cap": "free",
+      "ip": "103.141.170.59",
+      "regIp": "103.141.170.59",
+      "createdAt": "2026-10-22T06:57:48.305Z",
+      "lastLogin": "2026-10-22T06:57:48.305Z",
       "extra": 0,
       "window": {
         "start": 0,
