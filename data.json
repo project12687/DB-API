@@ -2043,10 +2043,31 @@
       "pass": "s1$6c6c511ed23d0c27da975f3b396934a5$5fc902bd4c1402a14199f26ed5ffaf78d7723c26967a7a7161722fd9bc84102d",
       "apikey": "rin_176ad81e41e5049ff4",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.141.170.57",
       "regIp": "103.141.170.57",
       "createdAt": "2026-10-22T07:22:27.287Z",
       "lastLogin": "2026-10-22T07:22:27.287Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "ikkyxd78@gmail.com": {
+      "name": "nano",
+      "email": "ikkyxd78@gmail.com",
+      "pass": "s1$2716ebaf1deafea46b8fbb3e1ebc699a$7563b77a33cb5e17128f3f7073f01df9cd71cf30099a9282b0601080ff7302af",
+      "apikey": "rin_dc4b5842ce10c801b2",
+      "cap": "free",
+      "ip": "103.141.170.59",
+      "regIp": "103.141.170.59",
+      "createdAt": "2026-10-22T07:25:23.941Z",
+      "lastLogin": "2026-10-22T07:25:23.941Z",
       "extra": 0,
       "window": {
         "start": 0,
