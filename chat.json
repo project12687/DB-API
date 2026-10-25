@@ -1,141 +1,79 @@
 {
-  "messages": [
-    {
-      "id": "mvnl01b94d5ca4",
-      "t": "admin",
-      "th": "a806e79667d5",
-      "uk": "a806e79667d5",
-      "text": "ini apa",
-      "img": "c-da614ad3197597dc.png",
-      "at": 1792917858214
-    },
-    {
-      "id": "mvnl0k4t769219",
-      "t": "admin",
-      "th": "a806e79667d5",
-      "uk": "admin",
-      "text": "ya apa aja",
-      "img": "",
-      "at": 1792917882605
-    },
-    {
-      "id": "mvnl2mle08fbb3",
-      "t": "admin",
-      "th": "a806e79667d5",
-      "uk": "a806e79667d5",
-      "text": "halo min",
-      "img": "",
-      "at": 1792917979106
-    },
-    {
-      "id": "mvnl2t5j0156e5",
-      "t": "admin",
-      "th": "a806e79667d5",
-      "uk": "a806e79667d5",
-      "text": "iya kenapa ya",
-      "img": "",
-      "at": 1792917987607
-    },
-    {
-      "id": "mvnl30te0c76f1",
-      "t": "admin",
-      "th": "a806e79667d5",
-      "uk": "admin",
-      "text": "gapapa",
-      "img": "",
-      "at": 1792917997538
-    },
-    {
-      "id": "mvnl3n6744f765",
-      "t": "room",
-      "th": "",
-      "uk": "admin",
-      "text": "welcome",
-      "img": "",
-      "at": 1792918026511
-    },
-    {
-      "id": "mvnl93f1528f76",
-      "t": "admin",
-      "th": "a806e79667d5",
-      "uk": "a806e79667d5",
-      "text": "🗿",
-      "img": "",
-      "at": 1792918280845
-    },
-    {
-      "id": "mvnount544bb43",
-      "t": "admin",
-      "th": "ad3b6ed0313a",
-      "uk": "ad3b6ed0313a",
-      "text": "Admin",
-      "img": "",
-      "at": 1792924325897
-    },
-    {
-      "id": "mvnow892f55a82",
-      "t": "admin",
-      "th": "ad3b6ed0313a",
-      "uk": "admin",
-      "text": "iya",
-      "img": "",
-      "at": 1792924399046
-    },
-    {
-      "id": "mvns39lwbd7cd5",
-      "t": "room",
-      "th": "",
-      "uk": "636c11c89012",
-      "text": "Aloo",
-      "img": "",
-      "at": 1792929766244
-    }
-  ],
   "profiles": {
     "a806e79667d5": {
+      "key": "",
       "username": "ryyn",
       "bio": "kepo",
-      "avatar": "a-f3cf8c89536b0692.png"
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "8f718f9314f3": {
+      "key": "",
       "username": "yayayaya",
       "bio": "",
-      "avatar": ""
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "admin": {
+      "key": "",
       "username": "Admin Rin",
       "bio": "Admin resmi Rin API",
-      "avatar": "a-064fe730e75de39c.png"
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "cbfe80b8b1f6": {
+      "key": "",
       "username": "estheryu",
       "bio": "",
-      "avatar": ""
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "e678a693936e": {
+      "key": "",
       "username": "cerix",
       "bio": "",
-      "avatar": ""
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "f8c899d3c0ad": {
+      "key": "",
       "username": "cuki",
       "bio": "",
-      "avatar": ""
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "ad3b6ed0313a": {
+      "key": "",
       "username": "raffdev",
       "bio": "",
-      "avatar": ""
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     },
     "636c11c89012": {
+      "key": "",
       "username": "hamz",
       "bio": "",
-      "avatar": ""
+      "avatar": "",
+      "createdAt": 0,
+      "updatedAt": 0
     }
   },
-  "blocked": {},
-  "reads": {
-    "a806e79667d5": 1792918405805,
-    "ad3b6ed0313a": 1792932167274
-  }
+  "room": [
+    {
+      "id": "mvobuox3777b10",
+      "u": "admin",
+      "t": "welcome",
+      "i": "",
+      "ts": 1792962958504
+    }
+  ],
+  "dms": {},
+  "blocked": {}
 }
