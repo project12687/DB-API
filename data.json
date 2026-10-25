@@ -2162,6 +2162,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "raffnih385@gmail.com": {
+      "name": "RaffDev",
+      "email": "raffnih385@gmail.com",
+      "pass": "s1$e158c791d586c05ae6852b998fd3fa33$d2891d1b33febdc1b9d8d8129d4eda5283f4e72680dae5b5bb133f89f24fb313",
+      "apikey": "rin_12ba909cfebc2ba580",
+      "cap": "free",
+      "ip": "103.171.165.222",
+      "regIp": "103.171.165.222",
+      "createdAt": "2026-10-25T10:31:37.824Z",
+      "lastLogin": "2026-10-25T10:31:37.824Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
