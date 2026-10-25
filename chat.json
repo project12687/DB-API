@@ -82,6 +82,21 @@
       "ts": 1792962958504
     }
   ],
-  "dms": {},
+  "dms": {
+    "56b7c6e6b4d3": {
+      "msgs": [
+        {
+          "id": "mvoc13z56dfcb1",
+          "f": "u",
+          "t": "halo min",
+          "i": "",
+          "ts": 1792963257953
+        }
+      ],
+      "lastTs": 1792963257953,
+      "unreadAdmin": 1,
+      "unreadUser": 0
+    }
+  },
   "blocked": {}
 }
