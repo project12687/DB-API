@@ -1575,27 +1575,6 @@
         "reacts": 0
       }
     },
-    "ryynuncheck@gmail.com": {
-      "name": "ryyn",
-      "email": "ryynuncheck@gmail.com",
-      "pass": "s1$253e61760bd8b4ce7ba4c4c8e8e3dc72$7b59078829bec88627ee767ee167b42b9a956549802dabb2c461633360c86750",
-      "apikey": "malsel08",
-      "cap": "vip",
-      "vipUntil": "2026-10-21T21:02:57.478Z",
-      "ip": "103.158.252.54",
-      "regIp": "103.158.252.54",
-      "createdAt": "2026-10-19T12:05:35.069Z",
-      "lastLogin": "2026-10-25T21:20:39.616Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
-      "extra": 0,
-      "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
-      }
-    },
     "reymethod2@gmail.com": {
       "name": "Reyrajaiblis",
       "email": "reymethod2@gmail.com",
@@ -2253,10 +2232,14 @@
       "pass": "s1$6c41df3cb8b1d1834106b1f7e8baf459$7792de84e5a8e391d000d8ac936a9af20bbb38629cb567ee73f97752cb285db0",
       "apikey": "rin_f763a7fea5d2b0ce70",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2402:5680:99d6:6945::1",
       "regIp": "2402:5680:99d6:6945::1",
       "createdAt": "2026-10-26T10:50:23.922Z",
       "lastLogin": "2026-10-26T10:50:23.922Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
