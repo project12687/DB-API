@@ -2232,10 +2232,31 @@
       "pass": "s1$5625b74bd82922b57c6b785346ba9f0c$ccb61654fa9f191a59521c8b6fd3233ea8162731bd42facd2b763531d410d22e",
       "apikey": "rin_65b2f04de60518b89c",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2400:9800:970:28e4:9936:f0b1:7b:91d1",
       "regIp": "2400:9800:970:28e4:9936:f0b1:7b:91d1",
       "createdAt": "2026-10-26T10:48:07.737Z",
       "lastLogin": "2026-10-26T10:48:07.737Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "anjayalok@gmail.com": {
+      "name": "bkp",
+      "email": "anjayalok@gmail.com",
+      "pass": "s1$6c41df3cb8b1d1834106b1f7e8baf459$7792de84e5a8e391d000d8ac936a9af20bbb38629cb567ee73f97752cb285db0",
+      "apikey": "rin_f763a7fea5d2b0ce70",
+      "cap": "free",
+      "ip": "2402:5680:99d6:6945::1",
+      "regIp": "2402:5680:99d6:6945::1",
+      "createdAt": "2026-10-26T10:50:23.922Z",
+      "lastLogin": "2026-10-26T10:50:23.922Z",
       "extra": 0,
       "window": {
         "start": 0,
