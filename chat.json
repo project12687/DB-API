@@ -331,6 +331,20 @@
       "lastTs": 1793012148687,
       "unreadAdmin": 0,
       "unreadUser": 0
+    },
+    "989a8160c115": {
+      "msgs": [
+        {
+          "id": "mvp568eb29ae98",
+          "f": "u",
+          "t": "Woy admin",
+          "i": "",
+          "ts": 1793012205827
+        }
+      ],
+      "lastTs": 1793012205827,
+      "unreadAdmin": 1,
+      "unreadUser": 0
     }
   },
   "blocked": {}
