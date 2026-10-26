@@ -274,6 +274,20 @@
       "lastTs": 1792985758519,
       "unreadAdmin": 0,
       "unreadUser": 0
+    },
+    "634a5398bb59": {
+      "msgs": [
+        {
+          "id": "mvp54tmy83a745",
+          "f": "u",
+          "t": "halo min",
+          "i": "",
+          "ts": 1793012140042
+        }
+      ],
+      "lastTs": 1793012140042,
+      "unreadAdmin": 1,
+      "unreadUser": 0
     }
   },
   "blocked": {}
