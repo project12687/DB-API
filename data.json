@@ -2379,10 +2379,31 @@
       "pass": "s1$ae0bd381a3e8c959068d6002dd32a5eb$69040074fc9c9e6cd6d74b8f9c9099f8b568c52216330901e89a2208b845b4e8",
       "apikey": "rin_bd523d7854f43d5b9a",
       "cap": "free",
+      "vipUntil": null,
       "ip": "114.5.240.13",
       "regIp": "114.5.240.13",
       "createdAt": "2026-10-26T12:09:01.995Z",
       "lastLogin": "2026-10-26T12:09:01.995Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "rdeforento@gmail.com": {
+      "name": "RennZSync",
+      "email": "rdeforento@gmail.com",
+      "pass": "s1$404edd25d318f968b776a1637147ed9a$0a77b0c2a33454f2185b659e087b0c51aeb621d70070ebdffbcd327ee6ef0ebf",
+      "apikey": "rin_c268600a743d9bd8bd",
+      "cap": "free",
+      "ip": "103.218.183.149",
+      "regIp": "103.218.183.149",
+      "createdAt": "2026-10-26T12:36:15.461Z",
+      "lastLogin": "2026-10-26T12:36:15.461Z",
       "extra": 0,
       "window": {
         "start": 0,
