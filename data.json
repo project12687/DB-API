@@ -2211,10 +2211,31 @@
       "pass": "s1$ce88c24852c6b5e3f18c0424478087a3$6fada0d020be423c142ebed2d18a5af94770379178cf47a01479a2548019a4b7",
       "apikey": "rin_2ed9c2404abb268e04",
       "cap": "free",
+      "vipUntil": null,
       "ip": "165.99.239.51",
       "regIp": "165.99.239.51",
       "createdAt": "2026-10-26T10:42:36.563Z",
       "lastLogin": "2026-10-26T10:42:36.563Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "botv05010@gmail.com": {
+      "name": "Wyne.",
+      "email": "botv05010@gmail.com",
+      "pass": "s1$5625b74bd82922b57c6b785346ba9f0c$ccb61654fa9f191a59521c8b6fd3233ea8162731bd42facd2b763531d410d22e",
+      "apikey": "rin_65b2f04de60518b89c",
+      "cap": "free",
+      "ip": "2400:9800:970:28e4:9936:f0b1:7b:91d1",
+      "regIp": "2400:9800:970:28e4:9936:f0b1:7b:91d1",
+      "createdAt": "2026-10-26T10:48:07.737Z",
+      "lastLogin": "2026-10-26T10:48:07.737Z",
       "extra": 0,
       "window": {
         "start": 0,
