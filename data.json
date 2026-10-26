@@ -2274,10 +2274,31 @@
       "pass": "s1$30d9bc51b3314df65400ad592cba2d63$e13c2d18f10217170ef4341fdb19e20b948c584d2d2bd400162a43e8ca912d93",
       "apikey": "rin_c85305f4a22e312ea2",
       "cap": "free",
+      "vipUntil": null,
       "ip": "140.213.140.141",
       "regIp": "140.213.140.141",
       "createdAt": "2026-10-26T10:54:59.156Z",
       "lastLogin": "2026-10-26T10:54:59.156Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "xyraaservice@gmail.com": {
+      "name": "Kyxzz",
+      "email": "xyraaservice@gmail.com",
+      "pass": "s1$534b11a2fdf487b40733be10722d81a7$cb8d7b6cf9adf3c51a5d2ae8d9222f8b086093ab882134fa5405cc4f7484c463",
+      "apikey": "rin_6120e5d19fb4233658",
+      "cap": "free",
+      "ip": "103.155.166.80",
+      "regIp": "103.155.166.80",
+      "createdAt": "2026-10-26T11:03:08.838Z",
+      "lastLogin": "2026-10-26T11:03:08.838Z",
       "extra": 0,
       "window": {
         "start": 0,
