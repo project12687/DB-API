@@ -2456,6 +2456,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "psedde@gmail.com": {
+      "name": "pese",
+      "email": "psedde@gmail.com",
+      "pass": "s1$358fbe9529e2816dedeeb267414d0db2$2ed24d6752f5d9bd39b827b14214c8fb4872d8655af60a99179fa7d97970710a",
+      "apikey": "rin_fc59a83aabc4f2b1ad",
+      "cap": "free",
+      "ip": "140.213.153.124",
+      "regIp": "140.213.153.124",
+      "createdAt": "2026-10-26T23:51:47.032Z",
+      "lastLogin": "2026-10-26T23:51:47.032Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
