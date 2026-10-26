@@ -1070,6 +1070,25 @@
       "lastTs": 1793012791876,
       "unreadAdmin": 0,
       "unreadUser": 1
+    },
+    "634a5398bb59": {
+      "msgs": [
+        {
+          "id": "mvpuxok58d4b98",
+          "f": "u",
+          "t": "halo",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "ts": 1793055476887
+        }
+      ],
+      "lastTs": 1793055476887,
+      "unreadAdmin": 1,
+      "unreadUser": 0
     }
   },
   "blocked": {}
