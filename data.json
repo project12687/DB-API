@@ -2316,10 +2316,31 @@
       "pass": "s1$9cc89913b4efd901284397e00aa8b2fc$ccd61952b081845b8d389c8e7b186501beb34c5b26882e33689cc765509f01e1",
       "apikey": "rin_3ec481aa5d87b4e01d",
       "cap": "free",
+      "vipUntil": null,
       "ip": "182.48.83.18",
       "regIp": "182.48.83.18",
       "createdAt": "2026-10-26T11:35:30.429Z",
       "lastLogin": "2026-10-26T11:35:30.429Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "gicyx10101@gmail.com": {
+      "name": "gicyx",
+      "email": "gicyx10101@gmail.com",
+      "pass": "s1$e9a8a5171527144ecf9126066b875ac6$b278d651baffc986320a894c39556dfcf64f0e5f8210647ca291518db19eab7f",
+      "apikey": "rin_c04f4d1467e987ee88",
+      "cap": "free",
+      "ip": "103.186.90.12",
+      "regIp": "103.186.90.12",
+      "createdAt": "2026-10-26T11:42:53.467Z",
+      "lastLogin": "2026-10-26T11:42:53.467Z",
       "extra": 0,
       "window": {
         "start": 0,
