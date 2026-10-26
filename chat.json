@@ -352,6 +352,20 @@
       "lastTs": 1793012211981,
       "unreadAdmin": 0,
       "unreadUser": 0
+    },
+    "878f047a2a7d": {
+      "msgs": [
+        {
+          "id": "mvp5811t52d6d5",
+          "f": "u",
+          "t": "admin",
+          "i": "",
+          "ts": 1793012289617
+        }
+      ],
+      "lastTs": 1793012289617,
+      "unreadAdmin": 1,
+      "unreadUser": 0
     }
   },
   "blocked": {}
