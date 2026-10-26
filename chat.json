@@ -113,10 +113,17 @@
           "t": "apa",
           "i": "7582a8f7b31a16cb88aa.png",
           "ts": 1792963417162
+        },
+        {
+          "id": "mvopfdiu5aa059",
+          "f": "u",
+          "t": "kin itu kok ero",
+          "i": "",
+          "ts": 1792985758519
         }
       ],
-      "lastTs": 1792963417162,
-      "unreadAdmin": 0,
+      "lastTs": 1792985758519,
+      "unreadAdmin": 1,
       "unreadUser": 0
     }
   },
