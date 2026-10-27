@@ -2044,6 +2044,25 @@
       "lastTs": 1793080887963,
       "unreadAdmin": 0,
       "unreadUser": 1
+    },
+    "92b67293bcc0": {
+      "msgs": [
+        {
+          "id": "mvqaphpd80b511",
+          "f": "u",
+          "t": "Atmin cewe atau cowo",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "ts": 1793081968609
+        }
+      ],
+      "lastTs": 1793081968609,
+      "unreadAdmin": 1,
+      "unreadUser": 0
     }
   },
   "blocked": {
