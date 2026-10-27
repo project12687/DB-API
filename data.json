@@ -2708,6 +2708,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "dindaku@gmail.com": {
+      "name": "Dinda",
+      "email": "dindaku@gmail.com",
+      "pass": "s1$4c04de3abe7758d978df641eb1e1e8e9$a380efdc840318fbf6a13249fa12721e357ecd38d9303f9787b4ff01134f2f5a",
+      "apikey": "rin_26689a8f5520686fff",
+      "cap": "free",
+      "ip": "114.79.5.5",
+      "regIp": "114.79.5.5",
+      "createdAt": "2026-10-27T06:19:18.211Z",
+      "lastLogin": "2026-10-27T06:19:18.211Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
