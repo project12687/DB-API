@@ -311,6 +311,14 @@
       "avatar": "",
       "createdAt": 1793077654635,
       "updatedAt": 1793077654635
+    },
+    "1921357f09d6": {
+      "key": "kontol@gmail.com",
+      "username": "Kontol",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793077683784,
+      "updatedAt": 1793077683784
     }
   },
   "room": [
@@ -1010,6 +1018,18 @@
       "x": {},
       "m": [],
       "ts": 1793077680683
+    },
+    {
+      "id": "mvq85m6gcdbb3e",
+      "u": "634a5398bb59",
+      "t": "aktifkan notifikasi di profil",
+      "i": "",
+      "v": "",
+      "d": 0,
+      "r": null,
+      "x": {},
+      "m": [],
+      "ts": 1793077682056
     }
   ],
   "dms": {
