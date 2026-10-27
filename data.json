@@ -2589,10 +2589,31 @@
       "pass": "s1$330665977c3a85c0bd1b9cd27845cde8$70004a05513f0f73c4d435cac7342cb5f82e18995888b0426d340367293c5dff",
       "apikey": "rin_f83bb8423179e0c3d9",
       "cap": "free",
+      "vipUntil": null,
       "ip": "114.79.1.209",
       "regIp": "114.79.1.209",
       "createdAt": "2026-10-27T05:08:01.373Z",
       "lastLogin": "2026-10-27T05:08:01.373Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "yoshiki@gmail.com": {
+      "name": "Yoshiki",
+      "email": "yoshiki@gmail.com",
+      "pass": "s1$6ddb028901337f592a14880f54443d7e$9e5a62713eaaebc44a9505f6e7f70f8ed052adfca9b54b89e6796ff39b634636",
+      "apikey": "rin_feb7af12086fcb0f6c",
+      "cap": "free",
+      "ip": "114.12.34.205",
+      "regIp": "114.12.34.205",
+      "createdAt": "2026-10-27T05:17:38.853Z",
+      "lastLogin": "2026-10-27T05:17:38.853Z",
       "extra": 0,
       "window": {
         "start": 0,
