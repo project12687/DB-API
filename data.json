@@ -2484,10 +2484,31 @@
       "pass": "s1$f3a7ce656bb379e4d395cfedd0b1ada6$e8e7eaf558ae968180154e7e6d19c4be1c8606b97b3656f2b5d39b2e9459296e",
       "apikey": "rin_24359aa345483bfdf2",
       "cap": "free",
+      "vipUntil": null,
       "ip": "114.10.114.214",
       "regIp": "114.10.114.214",
       "createdAt": "2026-10-27T00:12:33.660Z",
       "lastLogin": "2026-10-27T00:12:33.660Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "aliefdanuarta1@gmail.com": {
+      "name": "Alip Danuarta",
+      "email": "aliefdanuarta1@gmail.com",
+      "pass": "s1$959be9b52b8a3ce5dfd8401d3da02efa$c4c6af08767160d5415521d66393a1768aad3c65ac8a9e3f5a3c9cfb4abbc618",
+      "apikey": "rin_e48f5a901423445d6a",
+      "cap": "free",
+      "ip": "182.6.85.58",
+      "regIp": "182.6.85.58",
+      "createdAt": "2026-10-27T00:41:49.113Z",
+      "lastLogin": "2026-10-27T00:41:49.113Z",
       "extra": 0,
       "window": {
         "start": 0,
