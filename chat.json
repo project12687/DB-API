@@ -1876,21 +1876,8 @@
       "unreadUser": 0
     },
     "1921357f09d6": {
-      "msgs": [
-        {
-          "id": "mvq8qxlq0de783",
-          "f": "u",
-          "t": "Setoran min",
-          "i": "7bbb51cda7c7751e455e.png",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "ts": 1793078676638
-        }
-      ],
-      "lastTs": 1793078676638,
+      "msgs": [],
+      "lastTs": 0,
       "unreadAdmin": 0,
       "unreadUser": 0
     }
