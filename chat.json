@@ -332,9 +332,9 @@
       "key": "lrefelicia98@gmail.com",
       "username": "xLànkncēr's",
       "bio": "",
-      "avatar": "",
+      "avatar": "b0902475c598ebd38feb.png",
       "createdAt": 1793079815611,
-      "updatedAt": 1793079858005
+      "updatedAt": 1793079874305
     }
   },
   "room": [
@@ -2021,7 +2021,9 @@
       "bg": 0,
       "ts": 1793079835326,
       "exp": 1793166235326,
-      "v": []
+      "v": [
+        "admin"
+      ]
     }
   ],
   "statusImgs": {
