@@ -1,0 +1,17 @@
+{
+  "vapid": null,
+  "subs": {
+    "ac246c2f8ea5d1bdc73a37ee242aea5d": {
+      "uid": "admin",
+      "role": "a",
+      "sub": {
+        "endpoint": "https://jmt17.google.com/fcm/send/dlWdzjNNNe8:APA91bHZ4EKYwxPiFL2SeVe9ruO-SJlkXXR7fFLT8ykeJuKCF4sf-HvQHFMoJBwwBB_BaKNfSwKfnvt_Dur7cPFBMQ9Vr2X_YAaz_wz5PV2BkKfgxOYyuGItL1ixKrX6nEbrMVhrAL1n",
+        "keys": {
+          "p256dh": "BLLitLOzMc5ulWhpn4wcta42pbtSgfbzZtHsrBvWssPjXQwK7WSOBewts8yfdawIrvHZim-DLUHeTlnxipdmrdQ",
+          "auth": "p7V1_50dBtoSY2Fc0e7NUA"
+        }
+      },
+      "at": 1793077035464
+    }
+  }
+}
