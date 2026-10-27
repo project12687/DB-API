@@ -23,7 +23,7 @@
           "auth": "ySOgrGg39kysxEPLOsVr5g"
         }
       },
-      "at": 1793077738871
+      "at": 1793083698986
     },
     "a772313694194c7d1eb776c9769535fc": {
       "uid": "5964e5e8dbba",
@@ -36,18 +36,6 @@
         }
       },
       "at": 1793078352725
-    },
-    "49d320c8880cc5feece051c56d9999f2": {
-      "uid": "admin",
-      "role": "a",
-      "sub": {
-        "endpoint": "https://jmt17.google.com/fcm/send/cwYpM1pN-Qo:APA91bF4HHA8RO_JUGa92iVnuSdmfyDOAOIfEZiSY4FhQPPwzE_7NOKhOe6vx9Unge3wcm3PTu9I00PgyDnquUxBSh8riBeH7LMWZWJ3wAnDXofDgVcOnctxTBSIGDMZ9K1Kv7gtwVmH",
-        "keys": {
-          "p256dh": "BEgcJau8CHY7VWpUf9bmwIx6Cu9xA2ajxu4lqPXxen1vJvRUhGHWMT2AlJ2ICuPBzm0fCUFil9kGPA0NBXjHnmI",
-          "auth": "xla5Fg4n57UNILWpmmuNiw"
-        }
-      },
-      "at": 1793080877163
     }
   }
 }
