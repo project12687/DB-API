@@ -2778,10 +2778,31 @@
       "pass": "s1$4b4848349185940cabf6948c0941a198$d1bfaeef9a85646d3ff7a4bde63b8f02005961288ad382ea4df2d430bc590356",
       "apikey": "rin_81d714210608f524ed",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2400:9800:bc2:e3c5:c949:3185:78a6:466e",
       "regIp": "2400:9800:bc2:e3c5:c949:3185:78a6:466e",
       "createdAt": "2026-10-27T07:51:04.374Z",
       "lastLogin": "2026-10-27T07:51:04.374Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "tokisakifamily4@gmail.com": {
+      "name": "Raito",
+      "email": "tokisakifamily4@gmail.com",
+      "pass": "s1$6f037831ef3bf0b4e6d5a1487be99ad2$ccad541a3535f717496b16f9c2ccb3131d38765d113e4b4c68fb719d67bf0a7f",
+      "apikey": "rin_cc13ca411181b8da9a",
+      "cap": "free",
+      "ip": "2400:9800:922:4df9:4a53:35e4:e276:1cd0",
+      "regIp": "2400:9800:922:4df9:4a53:35e4:e276:1cd0",
+      "createdAt": "2026-10-27T08:01:50.370Z",
+      "lastLogin": "2026-10-27T08:01:50.370Z",
       "extra": 0,
       "window": {
         "start": 0,
