@@ -2925,10 +2925,31 @@
       "pass": "s1$c1b13fc527c29ff987869a1453a1a940$87e63ff70b546d4c88089f4efa06ab8e84466e8582a08a9930a94159393c0a43",
       "apikey": "rin_f9350406d0ad69d937",
       "cap": "free",
+      "vipUntil": null,
       "ip": "114.5.103.146",
       "regIp": "114.5.103.146",
       "createdAt": "2026-10-27T11:01:40.320Z",
       "lastLogin": "2026-10-27T11:01:40.320Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "yudasimanjuntak125@gmail.com": {
+      "name": "yudty",
+      "email": "yudasimanjuntak125@gmail.com",
+      "pass": "s1$84faa214c110d09a265bb5b25c0107b5$eb9f0993b04809d0531faff9596176555204fb461ce59f11a0b382091d9fd83c",
+      "apikey": "rin_6447d6b8f05fbe4fb0",
+      "cap": "free",
+      "ip": "182.253.63.52",
+      "regIp": "182.253.63.52",
+      "createdAt": "2026-10-27T11:14:49.465Z",
+      "lastLogin": "2026-10-27T11:14:49.465Z",
       "extra": 0,
       "window": {
         "start": 0,
