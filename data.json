@@ -2526,10 +2526,31 @@
       "pass": "s1$60f25dbe342fb66bf8e1aa179aa3ddae$20b0b691f5c22f4aa23aa72f37ae92eceb3ee07f72ed5621311472397f054676",
       "apikey": "rin_0d6fba992fc1beaa93",
       "cap": "free",
+      "vipUntil": null,
       "ip": "157.85.221.92",
       "regIp": "157.85.221.92",
       "createdAt": "2026-10-27T01:17:02.356Z",
       "lastLogin": "2026-10-27T01:17:02.356Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "bijiku@gmail.com": {
+      "name": "Biji",
+      "email": "bijiku@gmail.com",
+      "pass": "s1$13d38d9e097e257dd4c63305027824ce$69b8e6f32530384976215a4aca0b8feff986dc966ffd2d91901c63040638509c",
+      "apikey": "rin_2563b2b721f1883fc5",
+      "cap": "free",
+      "ip": "182.3.103.135",
+      "regIp": "182.3.103.135",
+      "createdAt": "2026-10-27T02:47:38.096Z",
+      "lastLogin": "2026-10-27T02:47:38.096Z",
       "extra": 0,
       "window": {
         "start": 0,
