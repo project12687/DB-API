@@ -1192,8 +1192,8 @@
       "bannedReason": "",
       "extra": 0,
       "window": {
-        "start": 1793006215683,
-        "hits": 11,
+        "start": 1793094878614,
+        "hits": 1,
         "reacts": 0
       }
     },
@@ -2862,10 +2862,14 @@
       "pass": "s1$fad22030d4acdf5ef11b51f541c6300a$5b55002cdda3d7c453ff809f6d2f334046025e28ab383f8bda6fed2e8be220e7",
       "apikey": "rin_e2cf54c4065a25a4a0",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2400:9800:118:3791:b972:f668:2212:3e",
       "regIp": "2400:9800:118:3791:b972:f668:2212:3e",
       "createdAt": "2026-10-27T09:47:15.076Z",
       "lastLogin": "2026-10-27T09:47:15.076Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
