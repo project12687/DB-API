@@ -3009,10 +3009,31 @@
       "pass": "s1$984787f87baca3e905145eba590dbf0d$23514dfb312e1c9eef79efc7fd82ec26ebc879e4095e6a64c86630cc969b31c1",
       "apikey": "rin_0230e4d659a7e3a3af",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2404:c0:ba04:915f:79d7:bbcb:8bdb:cebd",
       "regIp": "2404:c0:ba04:915f:79d7:bbcb:8bdb:cebd",
       "createdAt": "2026-10-27T13:21:53.339Z",
       "lastLogin": "2026-10-27T13:21:53.339Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "kayeyebohay@gmail.com": {
+      "name": "felixiority",
+      "email": "kayeyebohay@gmail.com",
+      "pass": "s1$ad2f11c5e903ca2360a55b0245806430$31cf5c718d7614506287a4fe27b3b4afda29623873f64317c41cbbc563215424",
+      "apikey": "rin_b9b265ef437fa42be6",
+      "cap": "free",
+      "ip": "2404:c0:319a:5f6a:18e2:4faf:6a83:4d20",
+      "regIp": "2404:c0:319a:5f6a:18e2:4faf:6a83:4d20",
+      "createdAt": "2026-10-27T13:52:29.586Z",
+      "lastLogin": "2026-10-27T13:52:29.586Z",
       "extra": 0,
       "window": {
         "start": 0,
