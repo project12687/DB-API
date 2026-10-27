@@ -2594,9 +2594,9 @@
       "regIp": "114.79.1.209",
       "createdAt": "2026-10-27T05:08:01.373Z",
       "lastLogin": "2026-10-27T05:20:58.763Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-27T06:53:55.443Z",
+      "bannedReason": "IP 114.79.1.209 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 0,
@@ -2748,6 +2748,23 @@
       "window": {
         "start": 1793083110832,
         "hits": 7,
+        "reacts": 0
+      }
+    },
+    "jauhaaja@gmail.com": {
+      "name": "Jauh",
+      "email": "jauhaaja@gmail.com",
+      "pass": "s1$f42c3e974f2e1a711b05cf7a1caa26ba$1751ee55ba2ffb604fc2e3e1da25f1b10f2a0128a13bacaf54f0fc75cf2a4e0e",
+      "apikey": "rin_9471911c4cd1519458",
+      "cap": "free",
+      "ip": "114.79.1.209",
+      "regIp": "114.79.1.209",
+      "createdAt": "2026-10-27T06:53:55.443Z",
+      "lastLogin": "2026-10-27T06:53:55.443Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
         "reacts": 0
       }
     }
