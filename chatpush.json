@@ -1,18 +1,6 @@
 {
   "vapid": null,
   "subs": {
-    "f2e1a133dbc21fe52fb6b5de475a8037": {
-      "uid": "634a5398bb59",
-      "role": "u",
-      "sub": {
-        "endpoint": "https://fcm.googleapis.com/fcm/send/erMO0edaFN8:APA91bEnrSlZgw1GT40ASYPfPBri3dC0XnYHGDpVakAWBVjnxyd_ukNT56qhy9Imqcq2SMDK0Dj_3NQiqjdBEkGXD6bMcEVNxXfJDon_CavbGtpovDKkPqbX23f7l-ZGz289Zumdarlr",
-        "keys": {
-          "p256dh": "BI-h-k9ZGz0emtjqqCgs8cnAuMSnh5JxJz0eDoKGU-zXLkTuLGU9fEcg_YlCiMwZ4UNFCZooJ1dUsd2H5BX2Qkg",
-          "auth": "_u-VVIJNONd-52kOv8uIMA"
-        }
-      },
-      "at": 1793077154582
-    },
     "b51e768a6cac51a5235be84a04c89051": {
       "uid": "1e753f4eadbb",
       "role": "u",
