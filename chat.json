@@ -130,11 +130,11 @@
     },
     "1e753f4eadbb": {
       "key": "znalunit@gmail.com",
-      "username": "🗿",
+      "username": "ngotak dikit mas",
       "bio": "",
       "avatar": "f7d4d4d45928707a5afe.png",
       "createdAt": 1793011922521,
-      "updatedAt": 1793078644367
+      "updatedAt": 1793078676398
     },
     "634a5398bb59": {
       "key": "ryynhosting@gmail.com",
@@ -1873,6 +1873,25 @@
       ],
       "lastTs": 1793077455993,
       "unreadAdmin": 0,
+      "unreadUser": 0
+    },
+    "1921357f09d6": {
+      "msgs": [
+        {
+          "id": "mvq8qxlq0de783",
+          "f": "u",
+          "t": "Setoran min",
+          "i": "7bbb51cda7c7751e455e.png",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "ts": 1793078676638
+        }
+      ],
+      "lastTs": 1793078676638,
+      "unreadAdmin": 1,
       "unreadUser": 0
     }
   },
