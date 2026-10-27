@@ -2505,10 +2505,31 @@
       "pass": "s1$959be9b52b8a3ce5dfd8401d3da02efa$c4c6af08767160d5415521d66393a1768aad3c65ac8a9e3f5a3c9cfb4abbc618",
       "apikey": "rin_e48f5a901423445d6a",
       "cap": "free",
+      "vipUntil": null,
       "ip": "182.6.85.58",
       "regIp": "182.6.85.58",
       "createdAt": "2026-10-27T00:41:49.113Z",
       "lastLogin": "2026-10-27T00:41:49.113Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "riskyer@gmail.com": {
+      "name": "riky",
+      "email": "risky.er@gmail.com",
+      "pass": "s1$60f25dbe342fb66bf8e1aa179aa3ddae$20b0b691f5c22f4aa23aa72f37ae92eceb3ee07f72ed5621311472397f054676",
+      "apikey": "rin_0d6fba992fc1beaa93",
+      "cap": "free",
+      "ip": "157.85.221.92",
+      "regIp": "157.85.221.92",
+      "createdAt": "2026-10-27T01:17:02.356Z",
+      "lastLogin": "2026-10-27T01:17:02.356Z",
       "extra": 0,
       "window": {
         "start": 0,
