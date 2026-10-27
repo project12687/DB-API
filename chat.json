@@ -1284,26 +1284,6 @@
     }
   },
   "blocked": {},
-  "status": [
-    {
-      "id": "mvq7wat98f1379",
-      "u": "admin",
-      "t": "",
-      "i": "e7383dbf18a49b9f7728.png",
-      "c": "tess",
-      "bg": 0,
-      "ts": 1793077247421,
-      "exp": 1793163647421,
-      "v": [
-        "634a5398bb59"
-      ]
-    }
-  ],
-  "statusImgs": {
-    "e7383dbf18a49b9f7728.png": {
-      "u": "admin",
-      "ts": 1793077247039,
-      "used": true
-    }
-  }
+  "status": [],
+  "statusImgs": {}
 }
