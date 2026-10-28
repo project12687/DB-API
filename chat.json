@@ -4273,12 +4273,21 @@
       "used": true
     }
   },
-  "calls": [],
+  "calls": [
+    {
+      "id": "mvreix6mpumkt2",
+      "a": "634a5398bb59",
+      "b": "admin",
+      "st": "declined",
+      "ts": 1793148846718,
+      "dur": 0
+    }
+  ],
   "stats": {
     "daily": {
       "2026-10-28": {
         "m": 1,
-        "c": 0,
+        "c": 1,
         "u": 0,
         "g": 0
       }
