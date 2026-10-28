@@ -4229,10 +4229,27 @@
         "admin",
         "be5a164ec95d"
       ],
-      "msgs": [],
-      "lastTs": 0,
+      "msgs": [
+        {
+          "id": "mvrgy6vx2339e3",
+          "u": "be5a164ec95d",
+          "t": "mas kalau buat akun lebih dari 2 di 1 device emang gak bisa ya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793152918365,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793152918365,
       "timer": 0,
-      "unread": {}
+      "unread": {
+        "admin": 1
+      }
     }
   },
   "blocked": {
@@ -4785,7 +4802,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 28,
+        "m": 29,
         "c": 8,
         "u": 4,
         "g": 1
