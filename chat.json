@@ -3417,11 +3417,7 @@
             "t": "nanti ku ganti scrape nya",
             "k": ""
           },
-          "x": {
-            "😂": [
-              "admin"
-            ]
-          },
+          "x": {},
           "m": [],
           "s": 0,
           "ts": 1793197753370,
@@ -4735,6 +4731,18 @@
       "type": "dm",
       "mem": [
         "a850d01d317f",
+        "admin"
+      ],
+      "msgs": [],
+      "lastTs": 0,
+      "timer": 0,
+      "unread": {}
+    },
+    "d_0ba6e174e051_admin": {
+      "id": "d_0ba6e174e051_admin",
+      "type": "dm",
+      "mem": [
+        "0ba6e174e051",
         "admin"
       ],
       "msgs": [],
