@@ -3490,23 +3490,9 @@
           "s": 0,
           "ts": 1793012496109,
           "exp": 0
-        },
-        {
-          "id": "mvp5islgd5b123",
-          "u": "admin",
-          "t": "belajar juga di kuis coding nanti ada soal per codingan tinggal jawab",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012791876,
-          "exp": 0
         }
       ],
-      "lastTs": 1793012791876,
+      "lastTs": 1793012496109,
       "timer": 0,
       "unread": {
         "878f047a2a7d": 1
