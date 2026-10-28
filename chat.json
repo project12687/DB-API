@@ -4030,7 +4030,8 @@
         "1e753f4eadbb",
         "a14ab5eb0e83",
         "8fb21147efb6",
-        "6db70b0a900a"
+        "6db70b0a900a",
+        "4a2dd999fabc"
       ],
       "msgs": [
         {
@@ -4298,9 +4299,23 @@
           "s": 0,
           "ts": 1793201485988,
           "exp": 0
+        },
+        {
+          "id": "mvsauzmo2d6014",
+          "u": "",
+          "t": "saga bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793203157472,
+          "exp": 0
         }
       ],
-      "lastTs": 1793201485988,
+      "lastTs": 1793203157472,
       "timer": 0,
       "unread": {
         "49db73edbc20": 3,
