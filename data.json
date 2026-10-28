@@ -1880,9 +1880,9 @@
       "regIp": "165.99.239.51",
       "createdAt": "2026-10-26T10:42:36.563Z",
       "lastLogin": "2026-10-28T16:42:29.118Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-28T16:45:10.469Z",
+      "bannedReason": "IP 202.70.133.42 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1793205803600,
@@ -2933,6 +2933,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "kenznewyc@gmail.com": {
+      "name": "Hahah",
+      "email": "kenznewyc@gmail.com",
+      "pass": "s1$a7c910962430138d2ba5b654413bc7a9$afd49e3b013aa7c3e4f420412f9b7dfe7b4f6e02fdc3c07a7318adcacfe20d06",
+      "apikey": "rin_3de457307886ff8c6f",
+      "cap": "free",
+      "ip": "202.70.133.42",
+      "regIp": "202.70.133.42",
+      "createdAt": "2026-10-28T16:45:10.469Z",
+      "lastLogin": "2026-10-28T16:45:10.469Z",
       "extra": 0,
       "window": {
         "start": 0,
