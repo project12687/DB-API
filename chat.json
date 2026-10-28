@@ -52,7 +52,8 @@
         "grp": true,
         "blocks": [],
         "pins": [
-          "g_3e0613bbb1"
+          "g_3e0613bbb1",
+          "room"
         ],
         "muted": [],
         "clr": {},
