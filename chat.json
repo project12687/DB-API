@@ -1645,20 +1645,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp689plabcdd0",
-          "u": "86b844cc75aa",
-          "t": "kayanya harus di benerin dah css docs",
-          "i": "f5c4565640f1a2fc1838.png",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793013980457,
-          "exp": 0
-        },
-        {
           "id": "mvp68dqz4060fb",
           "u": "86b844cc75aa",
           "t": "di gw normal aja",
@@ -3443,9 +3429,23 @@
           "s": 0,
           "ts": 1793199031828,
           "exp": 0
+        },
+        {
+          "id": "mvs8h3p9e4e84c",
+          "u": "5964e5e8dbba",
+          "t": "https://roselynsound.my.id",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793199150333,
+          "exp": 0
         }
       ],
-      "lastTs": 1793199031828,
+      "lastTs": 1793199150333,
       "timer": 0,
       "unread": {}
     },
@@ -5474,9 +5474,7 @@
       ],
       "lastTs": 1793198983641,
       "timer": 0,
-      "unread": {
-        "admin": 3
-      }
+      "unread": {}
     }
   },
   "blocked": {
@@ -5569,7 +5567,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 114,
+        "m": 115,
         "c": 17,
         "u": 12,
         "g": 2
