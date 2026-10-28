@@ -6,7 +6,18 @@
       "bio": "kepo",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "8f718f9314f3": {
       "key": "",
@@ -14,7 +25,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "admin": {
       "key": "",
@@ -22,7 +44,18 @@
       "bio": "Admin resmi Rin API",
       "avatar": "2219a5c556221d465760.png",
       "createdAt": 0,
-      "updatedAt": 1793014260432
+      "updatedAt": 1793014260432,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 1793128976567
+      }
     },
     "cbfe80b8b1f6": {
       "key": "",
@@ -30,7 +63,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "e678a693936e": {
       "key": "",
@@ -38,7 +82,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "f8c899d3c0ad": {
       "key": "",
@@ -46,7 +101,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "ad3b6ed0313a": {
       "key": "",
@@ -54,7 +120,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "636c11c89012": {
       "key": "",
@@ -62,7 +139,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 0,
-      "updatedAt": 0
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "56b7c6e6b4d3": {
       "key": "ryynuncheck@gmail.com",
@@ -70,7 +158,18 @@
       "bio": "ya",
       "avatar": "",
       "createdAt": 1792963248738,
-      "updatedAt": 1793011837263
+      "updatedAt": 1793011837263,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a14ab5eb0e83": {
       "key": "ytvamz062@gmail.com",
@@ -78,7 +177,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1792963676243,
-      "updatedAt": 1792963676243
+      "updatedAt": 1792963676243,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "5964e5e8dbba": {
       "key": "dhanyajayakak@gmail.com",
@@ -86,7 +196,18 @@
       "bio": "Hai aku dhanyy",
       "avatar": "1b7d84abfd4fa0f89f1c.png",
       "createdAt": 1792987097451,
-      "updatedAt": 1793021983990
+      "updatedAt": 1793021983990,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "b50cf4c9feee": {
       "key": "fiturmediafire@gmail.com",
@@ -94,7 +215,18 @@
       "bio": "Kont",
       "avatar": "",
       "createdAt": 1792999229567,
-      "updatedAt": 1792999381306
+      "updatedAt": 1792999381306,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "8fb21147efb6": {
       "key": "peshonatangerang@gmail.com",
@@ -102,7 +234,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1792999949347,
-      "updatedAt": 1792999949347
+      "updatedAt": 1792999949347,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "df1f1e9f9d58": {
       "key": "ariptod543@gmail.com",
@@ -110,7 +253,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793011359140,
-      "updatedAt": 1793011359140
+      "updatedAt": 1793011359140,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "49db73edbc20": {
       "key": "botv05010@gmail.com",
@@ -118,7 +272,18 @@
       "bio": "Haloo Semua!",
       "avatar": "9c539c1aa3d94f27a5ae.png",
       "createdAt": 1793011690624,
-      "updatedAt": 1793011804003
+      "updatedAt": 1793011804003,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "2b279da6f7cf": {
       "key": "anjayalok@gmail.com",
@@ -126,7 +291,18 @@
       "bio": "Belum ada bio.",
       "avatar": "",
       "createdAt": 1793011826470,
-      "updatedAt": 1793012526398
+      "updatedAt": 1793012526398,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "1e753f4eadbb": {
       "key": "znalunit@gmail.com",
@@ -134,7 +310,18 @@
       "bio": "",
       "avatar": "f7d4d4d45928707a5afe.png",
       "createdAt": 1793011922521,
-      "updatedAt": 1793078676398
+      "updatedAt": 1793078676398,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "634a5398bb59": {
       "key": "ryynhosting@gmail.com",
@@ -142,7 +329,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793011975238,
-      "updatedAt": 1793011975238
+      "updatedAt": 1793011975238,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "878f047a2a7d": {
       "key": "ff5458884@gmail.com",
@@ -150,7 +348,18 @@
       "bio": "Ada seorang anak bernama *Nazz*.\n\nSetiap pulang sekolah, dia selalu mampir ke warung kecil milik ibunya di pinggir jalan.",
       "avatar": "",
       "createdAt": 1793012101646,
-      "updatedAt": 1793012276769
+      "updatedAt": 1793012276769,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "989a8160c115": {
       "key": "aji404485@gmail.com",
@@ -158,7 +367,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793012163675,
-      "updatedAt": 1793012163675
+      "updatedAt": 1793012163675,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "86b844cc75aa": {
       "key": "xyraaservice@gmail.com",
@@ -166,7 +386,18 @@
       "bio": "ntah https://app.kyzznekoo.my.id",
       "avatar": "c8c67d09fd5ce8ae8b5b.png",
       "createdAt": 1793012591207,
-      "updatedAt": 1793012844247
+      "updatedAt": 1793012844247,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "3a4b279f0951": {
       "key": "kongpedog@gmail.com",
@@ -174,7 +405,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793012609115,
-      "updatedAt": 1793012609115
+      "updatedAt": 1793012609115,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "6b4eec05e5dd": {
       "key": "nzronfire@gmail.com",
@@ -182,7 +424,18 @@
       "bio": "https://nzr.is-a.dev/yume-music",
       "avatar": "60558fc278323a7d655e.png",
       "createdAt": 1793014533045,
-      "updatedAt": 1793015217374
+      "updatedAt": 1793015217374,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a2577d8d0484": {
       "key": "gicyx10101@gmail.com",
@@ -190,7 +443,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793014976944,
-      "updatedAt": 1793014976944
+      "updatedAt": 1793014976944,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "1befc889c5b1": {
       "key": "rdhmsfh@gmail.com",
@@ -198,7 +462,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793015359037,
-      "updatedAt": 1793015359037
+      "updatedAt": 1793015359037,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a06571e5885b": {
       "key": "akunbaruhwnih1987@gmail.com",
@@ -206,7 +481,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793016544933,
-      "updatedAt": 1793016544933
+      "updatedAt": 1793016544933,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a676ad3c6c5d": {
       "key": "rdeforento@gmail.com",
@@ -214,7 +500,18 @@
       "bio": "",
       "avatar": "182cb3e404923a67e599.png",
       "createdAt": 1793018177812,
-      "updatedAt": 1793018227122
+      "updatedAt": 1793018227122,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "e85afd3c6287": {
       "key": "lanngood25@gmail.com",
@@ -222,7 +519,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793019755560,
-      "updatedAt": 1793019755560
+      "updatedAt": 1793019755560,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "dd4d1433785a": {
       "key": "versiqofficial@gmail.com",
@@ -230,7 +538,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793034709762,
-      "updatedAt": 1793034709762
+      "updatedAt": 1793034709762,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "51f518f81183": {
       "key": "lutfitm95@gmail.com",
@@ -238,7 +557,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793051274351,
-      "updatedAt": 1793051274351
+      "updatedAt": 1793051274351,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "ed133aeb6641": {
       "key": "psedde@gmail.com",
@@ -246,7 +576,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793058709885,
-      "updatedAt": 1793058709885
+      "updatedAt": 1793058709885,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "4f1babbb3f3a": {
       "key": "nuhinanime@gmail.com",
@@ -254,7 +595,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793059235206,
-      "updatedAt": 1793059235206
+      "updatedAt": 1793059235206,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "149993ccae94": {
       "key": "kurniawanhamdani875@gmail.com",
@@ -262,7 +614,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793059956036,
-      "updatedAt": 1793059956036
+      "updatedAt": 1793059956036,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "5f74fd418352": {
       "key": "nera94801@gmail.com",
@@ -270,7 +633,18 @@
       "bio": "?",
       "avatar": "8834f0ea4cca6209a7c2.png",
       "createdAt": 1793060075339,
-      "updatedAt": 1793060165227
+      "updatedAt": 1793060165227,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "e51fdc16d86a": {
       "key": "aliefdanuarta1@gmail.com",
@@ -278,7 +652,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793061711464,
-      "updatedAt": 1793061711464
+      "updatedAt": 1793061711464,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "23f87759497b": {
       "key": "riskyer@gmail.com",
@@ -286,7 +671,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793063825458,
-      "updatedAt": 1793063825458
+      "updatedAt": 1793063825458,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "b97bf59d888a": {
       "key": "bijiku@gmail.com",
@@ -294,7 +690,18 @@
       "bio": "",
       "avatar": "6ce88070ed8024280154.png",
       "createdAt": 1793069262749,
-      "updatedAt": 1793069485663
+      "updatedAt": 1793069485663,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "4a2dd999fabc": {
       "key": "nagashiryu25@gmail.com",
@@ -302,7 +709,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793077547002,
-      "updatedAt": 1793077547002
+      "updatedAt": 1793077547002,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "0349b717580f": {
       "key": "kamungapainwk@gmail.com",
@@ -310,7 +728,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793077654635,
-      "updatedAt": 1793077654635
+      "updatedAt": 1793077654635,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "1921357f09d6": {
       "key": "kontol@gmail.com",
@@ -318,7 +747,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793077683784,
-      "updatedAt": 1793077683784
+      "updatedAt": 1793077683784,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "d2bae07abe63": {
       "key": "yoshiki@gmail.com",
@@ -326,7 +766,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793078261152,
-      "updatedAt": 1793078261152
+      "updatedAt": 1793078261152,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "323bfa4ac604": {
       "key": "lrefelicia98@gmail.com",
@@ -334,7 +785,18 @@
       "bio": "",
       "avatar": "63d196badeee0271d2ec.png",
       "createdAt": 1793079815611,
-      "updatedAt": 1793079896391
+      "updatedAt": 1793079896391,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "4d95ba23d94e": {
       "key": "julykomang985@gmail.com",
@@ -342,7 +804,18 @@
       "bio": "",
       "avatar": "38ca900416dc4d369d43.png",
       "createdAt": 1793080593803,
-      "updatedAt": 1793080666484
+      "updatedAt": 1793080666484,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "d976e63871a3": {
       "key": "tiopurwokerto@gmail.com",
@@ -350,7 +823,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793080667314,
-      "updatedAt": 1793080667314
+      "updatedAt": 1793080667314,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "8b6a05ced5f4": {
       "key": "ykazky993@gmail.com",
@@ -358,7 +842,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793080754709,
-      "updatedAt": 1793080754709
+      "updatedAt": 1793080754709,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "018e477b0061": {
       "key": "ythmalkist@gmail.com",
@@ -366,7 +861,18 @@
       "bio": "",
       "avatar": "0758ca2dda003c93638a.png",
       "createdAt": 1793080940832,
-      "updatedAt": 1793081114386
+      "updatedAt": 1793081114386,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "e06d672c3a02": {
       "key": "raihanpermana219@gmail.com",
@@ -374,7 +880,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793081295302,
-      "updatedAt": 1793081295302
+      "updatedAt": 1793081295302,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "92b67293bcc0": {
       "key": "dindaku@gmail.com",
@@ -382,7 +899,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793081960584,
-      "updatedAt": 1793081960584
+      "updatedAt": 1793081960584,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "6849341c5cb6": {
       "key": "jauhaaja@gmail.com",
@@ -390,7 +918,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793084037712,
-      "updatedAt": 1793084037712
+      "updatedAt": 1793084037712,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "719ab9c9dd64": {
       "key": "ssfhjjjjkijjnn@gmail.com",
@@ -398,7 +937,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793087467082,
-      "updatedAt": 1793087467082
+      "updatedAt": 1793087467082,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "d7a6312f0444": {
       "key": "tokisakifamily4@gmail.com",
@@ -406,7 +956,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793088113681,
-      "updatedAt": 1793088113681
+      "updatedAt": 1793088113681,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "07bea719089d": {
       "key": "sayangryda@gmail.com",
@@ -414,7 +975,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793089140667,
-      "updatedAt": 1793089140667
+      "updatedAt": 1793089140667,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "dcbf74738a31": {
       "key": "tenangbro27@gmail.com",
@@ -422,7 +994,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793092054061,
-      "updatedAt": 1793092054061
+      "updatedAt": 1793092054061,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "24a048a09961": {
       "key": "saminasurender738@gmail.com",
@@ -430,7 +1013,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793094437632,
-      "updatedAt": 1793094437632
+      "updatedAt": 1793094437632,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "ea5704600ca3": {
       "key": "bblaba992@gmail.com",
@@ -438,7 +1032,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793094902338,
-      "updatedAt": 1793094902338
+      "updatedAt": 1793094902338,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "9901add5c346": {
       "key": "ngntd93@gmail.com",
@@ -446,7 +1051,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793097648220,
-      "updatedAt": 1793097648220
+      "updatedAt": 1793097648220,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "5b5526a5ee71": {
       "key": "laga10070@gmail.com",
@@ -454,7 +1070,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793098434338,
-      "updatedAt": 1793098434338
+      "updatedAt": 1793098434338,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a3231a58acf9": {
       "key": "febzonly6@gmail.com",
@@ -462,7 +1089,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793098536291,
-      "updatedAt": 1793098536291
+      "updatedAt": 1793098536291,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "8a654aacdb7e": {
       "key": "satriahubdeals@gmail.com",
@@ -470,7 +1108,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793098902740,
-      "updatedAt": 1793098902740
+      "updatedAt": 1793098902740,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "66ccc3a69f88": {
       "key": "yudasimanjuntak125@gmail.com",
@@ -478,7 +1127,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793099692121,
-      "updatedAt": 1793099692121
+      "updatedAt": 1793099692121,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "f0bc2ae29318": {
       "key": "ap0737652@gmail.com",
@@ -486,7 +1146,18 @@
       "bio": "",
       "avatar": "07fd33bd2988bea55f3c.png",
       "createdAt": 1793101740135,
-      "updatedAt": 1793101816574
+      "updatedAt": 1793101816574,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "3dce3d23e917": {
       "key": "reytyas670@gmail.com",
@@ -494,7 +1165,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793102505079,
-      "updatedAt": 1793102505079
+      "updatedAt": 1793102505079,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "d350c14c714d": {
       "key": "akbarhilal089@gmail.com",
@@ -502,7 +1184,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793105477440,
-      "updatedAt": 1793105477440
+      "updatedAt": 1793105477440,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "49df7db7b2e7": {
       "key": "a73750974@gmail.com",
@@ -510,7 +1203,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793107315764,
-      "updatedAt": 1793107315764
+      "updatedAt": 1793107315764,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "e472877a2153": {
       "key": "xbgxtmpqwgztzcfav@gmail.com",
@@ -518,7 +1222,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793108734725,
-      "updatedAt": 1793108734725
+      "updatedAt": 1793108734725,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "dca6156eb5e8": {
       "key": "imutreyna644@gmail.com",
@@ -526,7 +1241,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793108855236,
-      "updatedAt": 1793108855236
+      "updatedAt": 1793108855236,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "ec172535c6e8": {
       "key": "kayeyebohay@gmail.com",
@@ -534,7 +1260,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793109191552,
-      "updatedAt": 1793109191552
+      "updatedAt": 1793109191552,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a5e78a3d04a3": {
       "key": "esenaktau3@gmail.com",
@@ -542,7 +1279,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793110343799,
-      "updatedAt": 1793110343799
+      "updatedAt": 1793110343799,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "a850d01d317f": {
       "key": "aditya@gmail.com",
@@ -550,7 +1298,18 @@
       "bio": "",
       "avatar": "34f21920cff8156d58fb.png",
       "createdAt": 1793110536759,
-      "updatedAt": 1793110601300
+      "updatedAt": 1793110601300,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "fdf9030be88d": {
       "key": "sjsjjsjsjsjsjs@gmail.com",
@@ -558,7 +1317,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793112897045,
-      "updatedAt": 1793112897045
+      "updatedAt": 1793112897045,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "6deeadf9efe0": {
       "key": "ddnanac@gmail.com",
@@ -566,7 +1336,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793121195790,
-      "updatedAt": 1793121195790
+      "updatedAt": 1793121195790,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "4289545bf220": {
       "key": "ryynnnxz@gmail.com",
@@ -574,7 +1355,18 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793128845658,
-      "updatedAt": 1793128845658
+      "updatedAt": 1793128845658,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     },
     "6ca43cf3ee84": {
       "key": "zyrogans@gmail.com",
@@ -582,1573 +1374,85 @@
       "bio": "",
       "avatar": "",
       "createdAt": 1793146050451,
-      "updatedAt": 1793146050451
+      "updatedAt": 1793146050451,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     }
   },
-  "room": [
-    {
-      "id": "mvobuox3777b10",
-      "t": "welcome",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1792962958504,
-      "u": "admin"
-    },
-    {
-      "id": "mvoq8csi828a5b",
-      "t": "ini global kah?",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1792987110594,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvoxgbtt5e9dbd",
-      "t": "Tes",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1792999239905,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvoxh6ll562196",
-      "t": "Gokil",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1792999279786,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvp4kddwa3e809",
-      "t": "iya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793011185860,
-      "u": "admin"
-    },
-    {
-      "id": "mvp4ohss298854",
-      "t": "ada eai ga",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793011378204,
-      "u": "df1f1e9f9d58"
-    },
-    {
-      "id": "mvp4ox15da5e84",
-      "t": "buat apa jga",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793011397945,
-      "u": "admin"
-    },
-    {
-      "id": "mvp4vsen1202fd",
-      "t": "Haloo semua! Aku pengguna baru!",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793011718543,
-      "u": "49db73edbc20"
-    },
-    {
-      "id": "mvp511ty776366",
-      "t": "Itamiyo",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793011964038,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvp51fph58a358",
-      "t": "halo semua",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793011982021,
-      "u": "634a5398bb59"
-    },
-    {
-      "id": "mvp530421c3180",
-      "t": "Gak bisa reply chat wkwk",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012055122,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvp53ob7a54e59",
-      "t": "lagi proses perbaikan sekalian ada fitur kirim sticker",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012086483,
-      "u": "admin"
-    },
-    {
-      "id": "mvp5545wd5083d",
-      "t": "mabar ml yok abis selesai sholat",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012153684,
-      "u": "878f047a2a7d"
-    },
-    {
-      "id": "mvp55ihn4baf37",
-      "t": "Tutor buat woy",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012172251,
-      "u": "989a8160c115"
-    },
-    {
-      "id": "mvp55u5c9a026f",
-      "t": "Btw ini base nya pakai apa njir kok bisa 🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012187360,
-      "u": "989a8160c115"
-    },
-    {
-      "id": "mvp566y3435bb6",
-      "t": "ya pake database buat simpan data nya/chat",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012203947,
-      "u": "admin"
-    },
-    {
-      "id": "mvp598xx84f5b7",
-      "t": "Hai, saya menggunakan whatsapp!",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012346501,
-      "u": "2b279da6f7cf"
-    },
-    {
-      "id": "mvp5dfbs92409d",
-      "t": "Bukan WhatsApp sih ini, melainkan web wkwk",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012541400,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvp5f3f47f8a86",
-      "t": "wah boleh¹ nih konsep🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012619280,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp5f7vo188362",
-      "t": "min fitur nya bagus bagus",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012625060,
-      "u": "3a4b279f0951"
-    },
-    {
-      "id": "mvp5fnlo628cd8",
-      "t": "boleh promosi ga si?",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012645436,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp5g52y599903",
-      "t": "ini nyambung ke wa kah",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012668090,
-      "u": "3a4b279f0951"
-    },
-    {
-      "id": "mvp5gj505ea70f",
-      "t": "engga bg",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012686308,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp5kfbt8a6996",
-      "t": "prasaan ada chat tadi🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012867993,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp5km098b8e58",
-      "t": "boleh promosi",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012876649,
-      "u": "admin"
-    },
-    {
-      "id": "mvp5l5zh098dfa",
-      "t": "nih app.kyzznekoo.my.id",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012902541,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp5ll1w68072e",
-      "t": "btw tq ya konsepnya 🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793012922068,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp5rwwjd2efa4",
-      "t": "miring gini",
-      "i": "02977fa9e629165f71c4.png",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793013217363,
-      "u": "admin"
-    },
-    {
-      "id": "mvp5t0sl197e4b",
-      "t": "paling penting nanti add notifikasi pesan ya biar tau kalo ada pesan masuk",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793013269061,
-      "u": "admin"
-    },
-    {
-      "id": "mvp689plabcdd0",
-      "t": "kayanya harus di benerin dah css docs",
-      "i": "f5c4565640f1a2fc1838.png",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793013980457,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp68dqz4060fb",
-      "t": "di gw normal aja",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793013985691,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp6a1bxd0fcd7",
-      "t": "saran gw kalo mau ada notif apk aja performa web kurang kalo ada notif",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014062909,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp6djvt09dc69",
-      "t": "bikin css yang bisa atur layout atau ukuran layar device user biar pas",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014226921,
-      "u": "admin"
-    },
-    {
-      "id": "mvp6hino97a2f7",
-      "t": "nah itu masalahnya bukan w desainernya,  emang susah katanya bikin responsif di hp , deskopmah aman, nanti w chat lagi deh",
-      "i": "01b64bb909496fcbadcc.png",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014411956,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp6kdlbc3a288",
-      "t": "hie",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014545359,
-      "u": "6b4eec05e5dd"
-    },
-    {
-      "id": "mvp6m58n42ed27",
-      "t": "p when ya api idn live notif :v",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014627848,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvp6noqb3525c7",
-      "t": "kak rin saran buat fitur tag 🙂 + skin buble chat :v",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014699763,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvp6r2o878bf7f",
-      "t": "gw buat aja kali ya 🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793014857800,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvp6vr7c54be5e",
-      "t": "huh",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793015076216,
-      "u": "6b4eec05e5dd"
-    },
-    {
-      "id": "mvp6x7jh35c75c",
-      "t": "/fx.js, /notice.js, /landing.js, /auth.js",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793015144045,
-      "u": "6b4eec05e5dd"
-    },
-    {
-      "id": "mvp6x90f976498",
-      "t": "ok",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793015145951,
-      "u": "6b4eec05e5dd"
-    },
-    {
-      "id": "mvp8i5q0c32a70",
-      "t": "@Kyxzz buat 🙂",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793017801080,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvp8qnj9bc5543",
-      "t": "🍇🔥 𝐅𝐑𝐄𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐁𝐎𝐓 — 𝐋𝐘𝐍𝐍𝐀 𝐀𝐈 𝐕𝟑 🔥\n\nScript bot dengan fitur yang lumayan lengkap! 🤖⚡\n\n✅ Support Telegram & WhatsApp\n✅ Bisa connect keduanya atau salah satu saja\n✅ Banyak fitur AI, downloader, tools, dan lainnya\n✅ Sistem plugin yang mudah dikembangkan\n✅ Dilengkapi password protection panel\n\n📥 Download Script:\nhttps://sfile.co/rt1kdlz49IX \n\n🤖 Demo Bot: https://t.me/LynnaAI_Bot\n📢 Channel: https://t.me/AboutLynna\n👨🏻‍💻 Developer: https://t.me/RennZSync1\n \n🔒 password default: LYNNA_AI (bisa kalian ubah di config.js)\nJangan lupa join channel untuk info update selanjutnya! 🚀\n\n🍇 𝐋𝐘𝐍𝐍𝐀 𝐀𝐈 𝐕𝟑 — 𝐎𝐍𝐄 𝐒𝐂𝐑𝐈𝐏𝐓, 𝐓𝐖𝐎 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌𝐒!",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793018197413,
-      "u": "a676ad3c6c5d"
-    },
-    {
-      "id": "mvp8zpcmfbdf48",
-      "t": "@ᴅʜᴀɴʏʏ-ɪɴғɪɴɪᴛʏ gas aja si tapi kayanya bakal pake firebase buat simpen chatnya boros db kalo simpen di db🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793018619670,
-      "u": "86b844cc75aa"
-    },
-    {
-      "id": "mvpay3dt7aea58",
-      "t": ":v",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793021903777,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvpaygkrc4b7ad",
-      "t": "ada renz juga",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793021920875,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvpazj4h41d10d",
-      "t": "kalau ada notif JKT48 yg lagi live kan jadi gampang:v tau nya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793021970833,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvpshj2h3f502b",
-      "t": "Ppp",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {
-        "👍": [
-          "admin"
-        ]
-      },
-      "m": [],
-      "ts": 1793051364041,
-      "u": "51f518f81183"
-    },
-    {
-      "id": "mvpup59k6ad7c8",
-      "t": "udah bisa react atau reply ya pencet pesan user aja",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {
-        "😮": [
-          "49db73edbc20"
-        ]
-      },
-      "m": [],
-      "ts": 1793055078632,
-      "u": "admin"
-    },
-    {
-      "id": "mvpupaoocb92c9",
-      "t": "ga ada",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvpazj4h41d10d",
-        "w": "5964e5e8dbba",
-        "t": "kalau ada notif JKT48 yg lagi live kan jadi gampang:v tau nya",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793055085656,
-      "u": "admin"
-    },
-    {
-      "id": "mvpx06wr9cab34",
-      "t": "Gg",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793058953211,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvpx3pa458cdc1",
-      "t": "ga tuh",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793059116989,
-      "u": "admin"
-    },
-    {
-      "id": "mvq81qog25d6b6",
-      "t": "Gua koreksi bahwa notifikasi belom fix",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077501264,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8200x0114b6",
-      "t": "udah itu aktifkan aja",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077513377,
-      "u": "admin"
-    },
-    {
-      "id": "mvq858kke1b1af",
-      "t": "tes",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077664420,
-      "u": "0349b717580f"
-    },
-    {
-      "id": "mvq85cvra82a10",
-      "t": "iya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077670007,
-      "u": "634a5398bb59"
-    },
-    {
-      "id": "mvq85l4bdf0e13",
-      "t": "cb chat guys",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077680683,
-      "u": "a14ab5eb0e83"
-    },
-    {
-      "id": "mvq85m6gcdbb3e",
-      "t": "aktifkan notifikasi di profil",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077682056,
-      "u": "634a5398bb59"
-    },
-    {
-      "id": "mvq85wyh610346",
-      "t": "belom bisa chat sesama user lagi di proses",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq85l4bdf0e13",
-        "w": "a14ab5eb0e83",
-        "t": "cb chat guys",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793077696025,
-      "u": "634a5398bb59"
-    },
-    {
-      "id": "mvq86mm1370465",
-      "t": "sip",
-      "i": "0f2c8781f398d571d1cb.png",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077729273,
-      "u": "a14ab5eb0e83"
-    },
-    {
-      "id": "mvq8733eac9a32",
-      "t": "add one viee @Admin Rin",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [
-        {
-          "id": "admin",
-          "n": "Admin Rin"
-        }
-      ],
-      "ts": 1793077750635,
-      "u": "a14ab5eb0e83"
-    },
-    {
-      "id": "mvq87phg42cb98",
-      "t": "next ganti tampilan kayak WhatsApp ini terlalu simpel and juga mau add bisa crate group dan saluran",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077779652,
-      "u": "634a5398bb59"
-    },
-    {
-      "id": "mvq8aa3850d25f",
-      "t": "Min rin",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077899668,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8ai2hf11a84",
-      "t": "iya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077910009,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8azqs8cf5ad",
-      "t": "Ini chat global pakai ws kah?",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077932916,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8b83r9669eb",
-      "t": "Udah work sayang",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077943751,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8bv77942251",
-      "t": "Maksudnya?",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077973683,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8bwzlecb527",
-      "t": "Woi",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077976001,
-      "u": "1921357f09d6"
-    },
-    {
-      "id": "mvq8cexif6cdfa",
-      "t": "Sayang tidak",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793077999254,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8cn6va651a6",
-      "t": "Asede",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078009959,
-      "u": "1921357f09d6"
-    },
-    {
-      "id": "mvq8cpml59b693",
-      "t": "tinggal ganti tampilan aja",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078013118,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8cw5x4c5333",
-      "t": "masih kurang gk bisa kirim stiker",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078021589,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8czx23f6483",
-      "t": "wkwk",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078026455,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8d8743f7430",
-      "t": "Gak bisa reply jir 🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078037184,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8dfcl4c1304",
-      "t": "Oh bisa",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8cx6uc9f920",
-        "w": "1921357f09d6",
-        "t": "Setoran",
-        "k": "img"
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078046453,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8dknuf4fc00",
-      "t": "duh pria bokep",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8cx6uc9f920",
-        "w": "1921357f09d6",
-        "t": "Setoran",
-        "k": "img"
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078053338,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8dm7j58d2e0",
-      "t": "pencet aja",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078055343,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8dyek6924cf",
-      "t": "Boleh tau kah min? 🗿",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8azqs8cf5ad",
-        "w": "b50cf4c9feee",
-        "t": "Ini chat global pakai ws kah?",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078071148,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8dym72d3789",
-      "t": "cocok buat selingkuh",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078071423,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8e5ue5d6ca8",
-      "t": "ws apa",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078080790,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8ecpc0ab7b1",
-      "t": "Websocket",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8e5ue5d6ca8",
-        "w": "admin",
-        "t": "ws apa",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078089681,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8egl794901c",
-      "t": "kagak",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078094715,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8ek6fcd4ff4",
-      "t": "bisa kirim stiker sih kak biar enak",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8dm7j58d2e0",
-        "w": "admin",
-        "t": "pencet aja",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078099367,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8erdg7cf2fc",
-      "t": "_Kontol membuat status baru_",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078108692,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8etrn08057d",
-      "t": "Hebad",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078111795,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8flk8ba967b",
-      "t": "bisa gk itu bahasa kotor di jaga dikit",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078147816,
-      "u": "1e753f4eadbb"
-    },
-    {
-      "id": "mvq8ftrlf649ce",
-      "t": "Owh",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8egl794901c",
-        "w": "admin",
-        "t": "kagak",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078158449,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8g7dy57a5d4",
-      "t": "Bro, aku cuman salin tempel notif yang muncul tadi",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8flk8ba967b",
-        "w": "1e753f4eadbb",
-        "t": "bisa gk itu bahasa kotor di jaga dikit",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793078176102,
-      "u": "b50cf4c9feee"
-    },
-    {
-      "id": "mvq8gotg508a25",
-      "t": "lagi di proses",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {
-        "🙏": [
-          "719ab9c9dd64"
-        ],
-        "😂": [
-          "719ab9c9dd64",
-          "6b4eec05e5dd"
-        ]
-      },
-      "m": [],
-      "ts": 1793078198692,
-      "u": "admin"
-    },
-    {
-      "id": "mvq8k2tt5a84e3",
-      "t": "Kok dihapus min",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078356817,
-      "u": "1921357f09d6"
-    },
-    {
-      "id": "mvq8k79w1518cf",
-      "t": "anu",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078362580,
-      "u": "5964e5e8dbba"
-    },
-    {
-      "id": "mvq8olobf0e406",
-      "t": "Hehe",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078567867,
-      "u": "1921357f09d6"
-    },
-    {
-      "id": "mvq8rx0a9a17ab",
-      "t": "yayaya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793078722522,
-      "u": "admin"
-    },
-    {
-      "id": "mvq9iywba8252b",
-      "t": "oi",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793079984683,
-      "u": "323bfa4ac604"
-    },
-    {
-      "id": "mvq9lj8o807b82",
-      "t": "ya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq8k2tt5a84e3",
-        "w": "1921357f09d6",
-        "t": "Kok dihapus min",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793080104360,
-      "u": "admin"
-    },
-    {
-      "id": "mvq9w8m67fa59e",
-      "t": "ah ah",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793080603806,
-      "u": "4d95ba23d94e"
-    },
-    {
-      "id": "mvq9ykyy6ffcdb",
-      "u": "4d95ba23d94e",
-      "t": "langsung saja\njulzaexce.my.id",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793080713130
-    },
-    {
-      "id": "mvqa40o899331c",
-      "u": "018e477b0061",
-      "t": "Ga logis",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793080966760
-    },
-    {
-      "id": "mvqabuua18e543",
-      "u": "e06d672c3a02",
-      "t": "P",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793081332451
-    },
-    {
-      "id": "mvqbyduaad1c4a",
-      "u": "6849341c5cb6",
-      "t": "Langsung saja\nrainachat.top",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq9ykyy6ffcdb",
-        "w": "4d95ba23d94e",
-        "t": "langsung saja julzaexce.my.id",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793084063122
-    },
-    {
-      "id": "mvqedfn754e5ca",
-      "u": "d7a6312f0444",
-      "t": "Peh",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793088124532
-    },
-    {
-      "id": "mvqgpyrtd5b15c",
-      "u": "dcbf74738a31",
-      "t": "p",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793092068426
-    },
-    {
-      "id": "mvqi2tz17ddd47",
-      "u": "admin",
-      "t": "yaya",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793094348349
-    },
-    {
-      "id": "mvqi50xifd72d1",
-      "u": "24a048a09961",
-      "t": "Peler",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {
-        "😂": [
-          "018e477b0061"
-        ]
-      },
-      "m": [],
-      "ts": 1793094450678
-    },
-    {
-      "id": "mvqig7wm964fc4",
-      "u": "ea5704600ca3",
-      "t": "info rest api jir",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793094972934
-    },
-    {
-      "id": "mvqitt17248d88",
-      "u": "a14ab5eb0e83",
-      "t": "@yannDep vamxapi.my.id",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [
-        {
-          "id": "ea5704600ca3",
-          "n": "yannDep"
-        }
-      ],
-      "ts": 1793095606843
-    },
-    {
-      "id": "mvqksljd6b3733",
-      "u": "8a654aacdb7e",
-      "t": "wouyyyy",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793098909705
-    },
-    {
-      "id": "mvqlh1jva4ff74",
-      "u": "66ccc3a69f88",
-      "t": "@Admin Rin buatin Spotify downloader",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [
-        {
-          "id": "admin",
-          "n": "Admin Rin"
-        }
-      ],
-      "ts": 1793100050203
-    },
-    {
-      "id": "mvqlhpck1ed677",
-      "u": "admin",
-      "t": "ada itu",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvqlh1jva4ff74",
-        "w": "66ccc3a69f88",
-        "t": "@Admin Rin buatin Spotify downloader",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793100081044
-    },
-    {
-      "id": "mvqmil3aa6cd14",
-      "u": "f0bc2ae29318",
-      "t": "test",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793101801798
-    },
-    {
-      "id": "mvqmn13y952a8c",
-      "u": "admin",
-      "t": "masuk",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793102009182
-    },
-    {
-      "id": "mvqmpmg6d12800",
-      "u": "989a8160c115",
-      "t": "Tes",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793102130150
-    },
-    {
-      "id": "mvqmpz04f84866",
-      "u": "989a8160c115",
-      "t": "",
-      "i": "",
-      "v": "4ca5a86159797ddb6673.webm",
-      "d": 3,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793102146420
-    },
-    {
-      "id": "mvqnfgy21bf619",
-      "u": "admin",
-      "t": "nanti ada gebrakan baru nich",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793103336074
-    },
-    {
-      "id": "mvqrb9h6a6dc38",
-      "u": "86b844cc75aa",
-      "t": "njir gebrakan",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvqnfgy21bf619",
-        "w": "admin",
-        "t": "nanti ada gebrakan baru nich",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793109858234
-    },
-    {
-      "id": "mvqrms4p8ac7ed",
-      "u": "a5e78a3d04a3",
-      "t": "jir",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793110395625
-    },
-    {
-      "id": "mvqskeg52bf9ad",
-      "u": "86b844cc75aa",
-      "t": "ini siapa jir",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": {
-        "id": "mvq85wyh610346",
-        "w": "634a5398bb59",
-        "t": "belom bisa chat sesama user lagi di proses",
-        "k": ""
-      },
-      "x": {},
-      "m": [],
-      "ts": 1793111964197
-    },
-    {
-      "id": "mvqwtkcba89ce7",
-      "u": "6b4eec05e5dd",
-      "t": "ok",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793119110203
-    },
-    {
-      "id": "mvr2nlod125964",
-      "u": "4289545bf220",
-      "t": "tes",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793128909693
-    },
-    {
-      "id": "mvr2p19z3bb95b",
-      "u": "4289545bf220",
-      "t": "gabut jirlah",
-      "i": "",
-      "v": "",
-      "d": 0,
-      "r": null,
-      "x": {},
-      "m": [],
-      "ts": 1793128976567
-    }
-  ],
-  "dms": {
-    "989a8160c115": {
+  "convs": {
+    "room": {
+      "id": "room",
+      "type": "room",
+      "mem": [],
       "msgs": [
         {
-          "id": "mvp568eb29ae98",
-          "t": "Woy admin",
+          "id": "mvobuox3777b10",
+          "u": "admin",
+          "t": "welcome",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012205827,
-          "f": "u"
+          "s": 0,
+          "ts": 1792962958504,
+          "exp": 0
         },
         {
-          "id": "mvp56d593df9b5",
+          "id": "mvoq8csi828a5b",
+          "u": "5964e5e8dbba",
+          "t": "ini global kah?",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1792987110594,
+          "exp": 0
+        },
+        {
+          "id": "mvoxgbtt5e9dbd",
+          "u": "b50cf4c9feee",
+          "t": "Tes",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1792999239905,
+          "exp": 0
+        },
+        {
+          "id": "mvoxh6ll562196",
+          "u": "b50cf4c9feee",
+          "t": "Gokil",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1792999279786,
+          "exp": 0
+        },
+        {
+          "id": "mvp4kddwa3e809",
+          "u": "admin",
           "t": "iya",
           "i": "",
           "v": "",
@@ -2156,90 +1460,726 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012211981,
-          "f": "a"
+          "s": 0,
+          "ts": 1793011185860,
+          "exp": 0
         },
         {
-          "id": "mvpk2k6cd9347d",
-          "t": "Ganteng banget Luh😭",
+          "id": "mvp4ohss298854",
+          "u": "df1f1e9f9d58",
+          "t": "ada eai ga",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793037228720,
-          "f": "u"
+          "s": 0,
+          "ts": 1793011378204,
+          "exp": 0
         },
         {
-          "id": "mvpk2ur7c0339f",
-          "t": "Eh btw bikin kek emoji nya kayak IP 🗿",
+          "id": "mvp4ox15da5e84",
+          "u": "admin",
+          "t": "buat apa jga",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793037242419,
-          "f": "u"
+          "s": 0,
+          "ts": 1793011397945,
+          "exp": 0
         },
         {
-          "id": "mvpk38489b2d62",
-          "t": "Btw pakai apa nih kok bisa live gitu chat nya",
+          "id": "mvp4vsen1202fd",
+          "u": "49db73edbc20",
+          "t": "Haloo semua! Aku pengguna baru!",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793037259736,
-          "f": "u"
+          "s": 0,
+          "ts": 1793011718543,
+          "exp": 0
         },
         {
-          "id": "mvpuuzchb08ece",
-          "t": "ya bisa aja",
+          "id": "mvp511ty776366",
+          "u": "1e753f4eadbb",
+          "t": "Itamiyo",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793055350897,
-          "f": "a"
+          "s": 0,
+          "ts": 1793011964038,
+          "exp": 0
         },
         {
-          "id": "mvqmqqsac3ca6d",
-          "f": "u",
-          "t": "Yeh",
+          "id": "mvp51fph58a358",
+          "u": "634a5398bb59",
+          "t": "halo semua",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793102182426
-        }
-      ],
-      "lastTs": 1793102182426,
-      "unreadAdmin": 0,
-      "unreadUser": 0
-    },
-    "878f047a2a7d": {
-      "msgs": [
+          "s": 0,
+          "ts": 1793011982021,
+          "exp": 0
+        },
         {
-          "id": "mvp5811t52d6d5",
-          "t": "admin",
+          "id": "mvp530421c3180",
+          "u": "1e753f4eadbb",
+          "t": "Gak bisa reply chat wkwk",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012289617,
-          "f": "u"
+          "s": 0,
+          "ts": 1793012055122,
+          "exp": 0
         },
         {
-          "id": "mvp58c8tcd9eba",
+          "id": "mvp53ob7a54e59",
+          "u": "admin",
+          "t": "lagi proses perbaikan sekalian ada fitur kirim sticker",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012086483,
+          "exp": 0
+        },
+        {
+          "id": "mvp5545wd5083d",
+          "u": "878f047a2a7d",
+          "t": "mabar ml yok abis selesai sholat",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012153684,
+          "exp": 0
+        },
+        {
+          "id": "mvp55ihn4baf37",
+          "u": "989a8160c115",
+          "t": "Tutor buat woy",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012172251,
+          "exp": 0
+        },
+        {
+          "id": "mvp55u5c9a026f",
+          "u": "989a8160c115",
+          "t": "Btw ini base nya pakai apa njir kok bisa 🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012187360,
+          "exp": 0
+        },
+        {
+          "id": "mvp566y3435bb6",
+          "u": "admin",
+          "t": "ya pake database buat simpan data nya/chat",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012203947,
+          "exp": 0
+        },
+        {
+          "id": "mvp598xx84f5b7",
+          "u": "2b279da6f7cf",
+          "t": "Hai, saya menggunakan whatsapp!",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012346501,
+          "exp": 0
+        },
+        {
+          "id": "mvp5dfbs92409d",
+          "u": "1e753f4eadbb",
+          "t": "Bukan WhatsApp sih ini, melainkan web wkwk",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012541400,
+          "exp": 0
+        },
+        {
+          "id": "mvp5f3f47f8a86",
+          "u": "86b844cc75aa",
+          "t": "wah boleh¹ nih konsep🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012619280,
+          "exp": 0
+        },
+        {
+          "id": "mvp5f7vo188362",
+          "u": "3a4b279f0951",
+          "t": "min fitur nya bagus bagus",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012625060,
+          "exp": 0
+        },
+        {
+          "id": "mvp5fnlo628cd8",
+          "u": "86b844cc75aa",
+          "t": "boleh promosi ga si?",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012645436,
+          "exp": 0
+        },
+        {
+          "id": "mvp5g52y599903",
+          "u": "3a4b279f0951",
+          "t": "ini nyambung ke wa kah",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012668090,
+          "exp": 0
+        },
+        {
+          "id": "mvp5gj505ea70f",
+          "u": "86b844cc75aa",
+          "t": "engga bg",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012686308,
+          "exp": 0
+        },
+        {
+          "id": "mvp5kfbt8a6996",
+          "u": "86b844cc75aa",
+          "t": "prasaan ada chat tadi🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012867993,
+          "exp": 0
+        },
+        {
+          "id": "mvp5km098b8e58",
+          "u": "admin",
+          "t": "boleh promosi",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012876649,
+          "exp": 0
+        },
+        {
+          "id": "mvp5l5zh098dfa",
+          "u": "86b844cc75aa",
+          "t": "nih app.kyzznekoo.my.id",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012902541,
+          "exp": 0
+        },
+        {
+          "id": "mvp5ll1w68072e",
+          "u": "86b844cc75aa",
+          "t": "btw tq ya konsepnya 🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012922068,
+          "exp": 0
+        },
+        {
+          "id": "mvp5rwwjd2efa4",
+          "u": "admin",
+          "t": "miring gini",
+          "i": "02977fa9e629165f71c4.png",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793013217363,
+          "exp": 0
+        },
+        {
+          "id": "mvp5t0sl197e4b",
+          "u": "admin",
+          "t": "paling penting nanti add notifikasi pesan ya biar tau kalo ada pesan masuk",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793013269061,
+          "exp": 0
+        },
+        {
+          "id": "mvp689plabcdd0",
+          "u": "86b844cc75aa",
+          "t": "kayanya harus di benerin dah css docs",
+          "i": "f5c4565640f1a2fc1838.png",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793013980457,
+          "exp": 0
+        },
+        {
+          "id": "mvp68dqz4060fb",
+          "u": "86b844cc75aa",
+          "t": "di gw normal aja",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793013985691,
+          "exp": 0
+        },
+        {
+          "id": "mvp6a1bxd0fcd7",
+          "u": "86b844cc75aa",
+          "t": "saran gw kalo mau ada notif apk aja performa web kurang kalo ada notif",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014062909,
+          "exp": 0
+        },
+        {
+          "id": "mvp6djvt09dc69",
+          "u": "admin",
+          "t": "bikin css yang bisa atur layout atau ukuran layar device user biar pas",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014226921,
+          "exp": 0
+        },
+        {
+          "id": "mvp6hino97a2f7",
+          "u": "86b844cc75aa",
+          "t": "nah itu masalahnya bukan w desainernya,  emang susah katanya bikin responsif di hp , deskopmah aman, nanti w chat lagi deh",
+          "i": "01b64bb909496fcbadcc.png",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014411956,
+          "exp": 0
+        },
+        {
+          "id": "mvp6kdlbc3a288",
+          "u": "6b4eec05e5dd",
+          "t": "hie",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014545359,
+          "exp": 0
+        },
+        {
+          "id": "mvp6m58n42ed27",
+          "u": "5964e5e8dbba",
+          "t": "p when ya api idn live notif :v",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014627848,
+          "exp": 0
+        },
+        {
+          "id": "mvp6noqb3525c7",
+          "u": "5964e5e8dbba",
+          "t": "kak rin saran buat fitur tag 🙂 + skin buble chat :v",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014699763,
+          "exp": 0
+        },
+        {
+          "id": "mvp6r2o878bf7f",
+          "u": "86b844cc75aa",
+          "t": "gw buat aja kali ya 🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793014857800,
+          "exp": 0
+        },
+        {
+          "id": "mvp6vr7c54be5e",
+          "u": "6b4eec05e5dd",
+          "t": "huh",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793015076216,
+          "exp": 0
+        },
+        {
+          "id": "mvp6x7jh35c75c",
+          "u": "6b4eec05e5dd",
+          "t": "/fx.js, /notice.js, /landing.js, /auth.js",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793015144045,
+          "exp": 0
+        },
+        {
+          "id": "mvp6x90f976498",
+          "u": "6b4eec05e5dd",
+          "t": "ok",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793015145951,
+          "exp": 0
+        },
+        {
+          "id": "mvp8i5q0c32a70",
+          "u": "5964e5e8dbba",
+          "t": "@Kyxzz buat 🙂",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793017801080,
+          "exp": 0
+        },
+        {
+          "id": "mvp8qnj9bc5543",
+          "u": "a676ad3c6c5d",
+          "t": "🍇🔥 𝐅𝐑𝐄𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐁𝐎𝐓 — 𝐋𝐘𝐍𝐍𝐀 𝐀𝐈 𝐕𝟑 🔥\n\nScript bot dengan fitur yang lumayan lengkap! 🤖⚡\n\n✅ Support Telegram & WhatsApp\n✅ Bisa connect keduanya atau salah satu saja\n✅ Banyak fitur AI, downloader, tools, dan lainnya\n✅ Sistem plugin yang mudah dikembangkan\n✅ Dilengkapi password protection panel\n\n📥 Download Script:\nhttps://sfile.co/rt1kdlz49IX \n\n🤖 Demo Bot: https://t.me/LynnaAI_Bot\n📢 Channel: https://t.me/AboutLynna\n👨🏻‍💻 Developer: https://t.me/RennZSync1\n \n🔒 password default: LYNNA_AI (bisa kalian ubah di config.js)\nJangan lupa join channel untuk info update selanjutnya! 🚀\n\n🍇 𝐋𝐘𝐍𝐍𝐀 𝐀𝐈 𝐕𝟑 — 𝐎𝐍𝐄 𝐒𝐂𝐑𝐈𝐏𝐓, 𝐓𝐖𝐎 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌𝐒!",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793018197413,
+          "exp": 0
+        },
+        {
+          "id": "mvp8zpcmfbdf48",
+          "u": "86b844cc75aa",
+          "t": "@ᴅʜᴀɴʏʏ-ɪɴғɪɴɪᴛʏ gas aja si tapi kayanya bakal pake firebase buat simpen chatnya boros db kalo simpen di db🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793018619670,
+          "exp": 0
+        },
+        {
+          "id": "mvpay3dt7aea58",
+          "u": "5964e5e8dbba",
+          "t": ":v",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793021903777,
+          "exp": 0
+        },
+        {
+          "id": "mvpaygkrc4b7ad",
+          "u": "5964e5e8dbba",
+          "t": "ada renz juga",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793021920875,
+          "exp": 0
+        },
+        {
+          "id": "mvpazj4h41d10d",
+          "u": "5964e5e8dbba",
+          "t": "kalau ada notif JKT48 yg lagi live kan jadi gampang:v tau nya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793021970833,
+          "exp": 0
+        },
+        {
+          "id": "mvpshj2h3f502b",
+          "u": "51f518f81183",
+          "t": "Ppp",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {
+            "👍": [
+              "admin"
+            ]
+          },
+          "m": [],
+          "s": 0,
+          "ts": 1793051364041,
+          "exp": 0
+        },
+        {
+          "id": "mvpup59k6ad7c8",
+          "u": "admin",
+          "t": "udah bisa react atau reply ya pencet pesan user aja",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {
+            "😮": [
+              "49db73edbc20"
+            ]
+          },
+          "m": [],
+          "s": 0,
+          "ts": 1793055078632,
+          "exp": 0
+        },
+        {
+          "id": "mvpupaoocb92c9",
+          "u": "admin",
+          "t": "ga ada",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvpazj4h41d10d",
+            "w": "5964e5e8dbba",
+            "t": "kalau ada notif JKT48 yg lagi live kan jadi gampang:v tau nya",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793055085656,
+          "exp": 0
+        },
+        {
+          "id": "mvpx06wr9cab34",
+          "u": "1e753f4eadbb",
+          "t": "Gg",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793058953211,
+          "exp": 0
+        },
+        {
+          "id": "mvpx3pa458cdc1",
+          "u": "admin",
+          "t": "ga tuh",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793059116989,
+          "exp": 0
+        },
+        {
+          "id": "mvq81qog25d6b6",
+          "u": "1e753f4eadbb",
+          "t": "Gua koreksi bahwa notifikasi belom fix",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793077501264,
+          "exp": 0
+        },
+        {
+          "id": "mvq8200x0114b6",
+          "u": "admin",
+          "t": "udah itu aktifkan aja",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793077513377,
+          "exp": 0
+        },
+        {
+          "id": "mvq858kke1b1af",
+          "u": "0349b717580f",
+          "t": "tes",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793077664420,
+          "exp": 0
+        },
+        {
+          "id": "mvq85cvra82a10",
+          "u": "634a5398bb59",
           "t": "iya",
           "i": "",
           "v": "",
@@ -2247,162 +2187,706 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012304125,
-          "f": "a"
+          "s": 0,
+          "ts": 1793077670007,
+          "exp": 0
         },
         {
-          "id": "mvp58o4kbceccf",
-          "t": "ajarin coding dong",
+          "id": "mvq85l4bdf0e13",
+          "u": "a14ab5eb0e83",
+          "t": "cb chat guys",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012319524,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077680683,
+          "exp": 0
         },
         {
-          "id": "mvp58yvl55a321",
-          "t": "angkat aku jadi muridmu😊",
+          "id": "mvq85m6gcdbb3e",
+          "u": "634a5398bb59",
+          "t": "aktifkan notifikasi di profil",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012333457,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077682056,
+          "exp": 0
         },
         {
-          "id": "mvp5936h7c87d4",
-          "t": "belajar je di yt banyak",
+          "id": "mvq85wyh610346",
+          "u": "634a5398bb59",
+          "t": "belom bisa chat sesama user lagi di proses",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq85l4bdf0e13",
+            "w": "a14ab5eb0e83",
+            "t": "cb chat guys",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793077696025,
+          "exp": 0
+        },
+        {
+          "id": "mvq86mm1370465",
+          "u": "a14ab5eb0e83",
+          "t": "sip",
+          "i": "0f2c8781f398d571d1cb.png",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793077729273,
+          "exp": 0
+        },
+        {
+          "id": "mvq8733eac9a32",
+          "u": "a14ab5eb0e83",
+          "t": "add one viee @Admin Rin",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [
+            {
+              "id": "admin",
+              "n": "Admin Rin"
+            }
+          ],
+          "s": 0,
+          "ts": 1793077750635,
+          "exp": 0
+        },
+        {
+          "id": "mvq87phg42cb98",
+          "u": "634a5398bb59",
+          "t": "next ganti tampilan kayak WhatsApp ini terlalu simpel and juga mau add bisa crate group dan saluran",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012339033,
-          "f": "a"
+          "s": 0,
+          "ts": 1793077779652,
+          "exp": 0
         },
         {
-          "id": "mvp59mms52df13",
-          "t": "pusing kalo di yt",
+          "id": "mvq8aa3850d25f",
+          "u": "b50cf4c9feee",
+          "t": "Min rin",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012364244,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077899668,
+          "exp": 0
         },
         {
-          "id": "mvp59xp95a3b69",
-          "t": "udah nyoba 2 tahun lebih gk bisa bisa",
+          "id": "mvq8ai2hf11a84",
+          "u": "admin",
+          "t": "iya",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012378589,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077910009,
+          "exp": 0
         },
         {
-          "id": "mvp5a8lk36882f",
-          "t": "belajar nya sambil praktek jangan liat doang",
+          "id": "mvq8azqs8cf5ad",
+          "u": "b50cf4c9feee",
+          "t": "Ini chat global pakai ws kah?",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012392712,
-          "f": "a"
+          "s": 0,
+          "ts": 1793077932916,
+          "exp": 0
         },
         {
-          "id": "mvp5b7sma3aa3a",
-          "t": "gw gitu cuma ya gitulah setiap berhasil selalu ada kegagalan dari hp",
+          "id": "mvq8b83r9669eb",
+          "u": "1e753f4eadbb",
+          "t": "Udah work sayang",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012438326,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077943751,
+          "exp": 0
         },
         {
-          "id": "mvp5cgdp806d0a",
-          "t": "waktu itu nyoba di javaacrip sekarang di termux itupun make github orang😇",
+          "id": "mvq8bv77942251",
+          "u": "b50cf4c9feee",
+          "t": "Maksudnya?",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012496109,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077973683,
+          "exp": 0
         },
         {
-          "id": "mvp5islgd5b123",
-          "t": "belajar juga di kuis coding nanti ada soal per codingan tinggal jawab",
+          "id": "mvq8bwzlecb527",
+          "u": "1921357f09d6",
+          "t": "Woi",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793012791876,
-          "f": "a"
-        }
-      ],
-      "lastTs": 1793012791876,
-      "unreadAdmin": 0,
-      "unreadUser": 1
-    },
-    "634a5398bb59": {
-      "msgs": [
+          "s": 0,
+          "ts": 1793077976001,
+          "exp": 0
+        },
         {
-          "id": "mvpuxok58d4b98",
-          "t": "halo",
+          "id": "mvq8cexif6cdfa",
+          "u": "1e753f4eadbb",
+          "t": "Sayang tidak",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793055476887,
-          "f": "u"
+          "s": 0,
+          "ts": 1793077999254,
+          "exp": 0
         },
         {
-          "id": "mvpuyotc2a9483",
-          "t": "",
-          "i": "",
-          "v": "17a560e7ab15ab41ffe8.webm",
-          "d": 2,
-          "r": null,
-          "x": {},
-          "m": [],
-          "ts": 1793055523872,
-          "f": "a"
-        },
-        {
-          "id": "mvpv2sj3674e6b",
-          "t": "min",
+          "id": "mvq8cn6va651a6",
+          "u": "1921357f09d6",
+          "t": "Asede",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793055715311,
-          "f": "u"
+          "s": 0,
+          "ts": 1793078009959,
+          "exp": 0
         },
         {
-          "id": "mvpv32lz06a029",
+          "id": "mvq8cpml59b693",
+          "u": "admin",
+          "t": "tinggal ganti tampilan aja",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078013118,
+          "exp": 0
+        },
+        {
+          "id": "mvq8cw5x4c5333",
+          "u": "1e753f4eadbb",
+          "t": "masih kurang gk bisa kirim stiker",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078021589,
+          "exp": 0
+        },
+        {
+          "id": "mvq8czx23f6483",
+          "u": "1e753f4eadbb",
+          "t": "wkwk",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078026455,
+          "exp": 0
+        },
+        {
+          "id": "mvq8d8743f7430",
+          "u": "b50cf4c9feee",
+          "t": "Gak bisa reply jir 🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078037184,
+          "exp": 0
+        },
+        {
+          "id": "mvq8dfcl4c1304",
+          "u": "b50cf4c9feee",
+          "t": "Oh bisa",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8cx6uc9f920",
+            "w": "1921357f09d6",
+            "t": "Setoran",
+            "k": "img"
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078046453,
+          "exp": 0
+        },
+        {
+          "id": "mvq8dknuf4fc00",
+          "u": "1e753f4eadbb",
+          "t": "duh pria bokep",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8cx6uc9f920",
+            "w": "1921357f09d6",
+            "t": "Setoran",
+            "k": "img"
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078053338,
+          "exp": 0
+        },
+        {
+          "id": "mvq8dm7j58d2e0",
+          "u": "admin",
+          "t": "pencet aja",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078055343,
+          "exp": 0
+        },
+        {
+          "id": "mvq8dyek6924cf",
+          "u": "b50cf4c9feee",
+          "t": "Boleh tau kah min? 🗿",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8azqs8cf5ad",
+            "w": "b50cf4c9feee",
+            "t": "Ini chat global pakai ws kah?",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078071148,
+          "exp": 0
+        },
+        {
+          "id": "mvq8dym72d3789",
+          "u": "admin",
+          "t": "cocok buat selingkuh",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078071423,
+          "exp": 0
+        },
+        {
+          "id": "mvq8e5ue5d6ca8",
+          "u": "admin",
+          "t": "ws apa",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078080790,
+          "exp": 0
+        },
+        {
+          "id": "mvq8ecpc0ab7b1",
+          "u": "b50cf4c9feee",
+          "t": "Websocket",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8e5ue5d6ca8",
+            "w": "admin",
+            "t": "ws apa",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078089681,
+          "exp": 0
+        },
+        {
+          "id": "mvq8egl794901c",
+          "u": "admin",
+          "t": "kagak",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078094715,
+          "exp": 0
+        },
+        {
+          "id": "mvq8ek6fcd4ff4",
+          "u": "1e753f4eadbb",
+          "t": "bisa kirim stiker sih kak biar enak",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8dm7j58d2e0",
+            "w": "admin",
+            "t": "pencet aja",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078099367,
+          "exp": 0
+        },
+        {
+          "id": "mvq8erdg7cf2fc",
+          "u": "b50cf4c9feee",
+          "t": "_Kontol membuat status baru_",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078108692,
+          "exp": 0
+        },
+        {
+          "id": "mvq8etrn08057d",
+          "u": "b50cf4c9feee",
+          "t": "Hebad",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078111795,
+          "exp": 0
+        },
+        {
+          "id": "mvq8flk8ba967b",
+          "u": "1e753f4eadbb",
+          "t": "bisa gk itu bahasa kotor di jaga dikit",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078147816,
+          "exp": 0
+        },
+        {
+          "id": "mvq8ftrlf649ce",
+          "u": "b50cf4c9feee",
+          "t": "Owh",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8egl794901c",
+            "w": "admin",
+            "t": "kagak",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078158449,
+          "exp": 0
+        },
+        {
+          "id": "mvq8g7dy57a5d4",
+          "u": "b50cf4c9feee",
+          "t": "Bro, aku cuman salin tempel notif yang muncul tadi",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8flk8ba967b",
+            "w": "1e753f4eadbb",
+            "t": "bisa gk itu bahasa kotor di jaga dikit",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078176102,
+          "exp": 0
+        },
+        {
+          "id": "mvq8gotg508a25",
+          "u": "admin",
+          "t": "lagi di proses",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {
+            "😂": [
+              "719ab9c9dd64",
+              "6b4eec05e5dd"
+            ],
+            "🙏": [
+              "719ab9c9dd64"
+            ]
+          },
+          "m": [],
+          "s": 0,
+          "ts": 1793078198692,
+          "exp": 0
+        },
+        {
+          "id": "mvq8k2tt5a84e3",
+          "u": "1921357f09d6",
+          "t": "Kok dihapus min",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078356817,
+          "exp": 0
+        },
+        {
+          "id": "mvq8k79w1518cf",
+          "u": "5964e5e8dbba",
+          "t": "anu",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078362580,
+          "exp": 0
+        },
+        {
+          "id": "mvq8olobf0e406",
+          "u": "1921357f09d6",
+          "t": "Hehe",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078567867,
+          "exp": 0
+        },
+        {
+          "id": "mvq8rx0a9a17ab",
+          "u": "admin",
+          "t": "yayaya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793078722522,
+          "exp": 0
+        },
+        {
+          "id": "mvq9iywba8252b",
+          "u": "323bfa4ac604",
+          "t": "oi",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793079984683,
+          "exp": 0
+        },
+        {
+          "id": "mvq9lj8o807b82",
+          "u": "admin",
+          "t": "ya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq8k2tt5a84e3",
+            "w": "1921357f09d6",
+            "t": "Kok dihapus min",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793080104360,
+          "exp": 0
+        },
+        {
+          "id": "mvq9w8m67fa59e",
+          "u": "4d95ba23d94e",
+          "t": "ah ah",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793080603806,
+          "exp": 0
+        },
+        {
+          "id": "mvq9ykyy6ffcdb",
+          "u": "4d95ba23d94e",
+          "t": "langsung saja\njulzaexce.my.id",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793080713130,
+          "exp": 0
+        },
+        {
+          "id": "mvqa40o899331c",
+          "u": "018e477b0061",
+          "t": "Ga logis",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793080966760,
+          "exp": 0
+        },
+        {
+          "id": "mvqabuua18e543",
+          "u": "e06d672c3a02",
+          "t": "P",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793081332451,
+          "exp": 0
+        },
+        {
+          "id": "mvqbyduaad1c4a",
+          "u": "6849341c5cb6",
+          "t": "Langsung saja\nrainachat.top",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq9ykyy6ffcdb",
+            "w": "4d95ba23d94e",
+            "t": "langsung saja julzaexce.my.id",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793084063122,
+          "exp": 0
+        },
+        {
+          "id": "mvqedfn754e5ca",
+          "u": "d7a6312f0444",
+          "t": "Peh",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793088124532,
+          "exp": 0
+        },
+        {
+          "id": "mvqgpyrtd5b15c",
+          "u": "dcbf74738a31",
           "t": "p",
           "i": "",
           "v": "",
@@ -2410,11 +2894,321 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793055728375,
-          "f": "u"
+          "s": 0,
+          "ts": 1793092068426,
+          "exp": 0
         },
         {
-          "id": "mvpv7imm393509",
+          "id": "mvqi2tz17ddd47",
+          "u": "admin",
+          "t": "yaya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793094348349,
+          "exp": 0
+        },
+        {
+          "id": "mvqi50xifd72d1",
+          "u": "24a048a09961",
+          "t": "Peler",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {
+            "😂": [
+              "018e477b0061"
+            ]
+          },
+          "m": [],
+          "s": 0,
+          "ts": 1793094450678,
+          "exp": 0
+        },
+        {
+          "id": "mvqig7wm964fc4",
+          "u": "ea5704600ca3",
+          "t": "info rest api jir",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793094972934,
+          "exp": 0
+        },
+        {
+          "id": "mvqitt17248d88",
+          "u": "a14ab5eb0e83",
+          "t": "@yannDep vamxapi.my.id",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [
+            {
+              "id": "ea5704600ca3",
+              "n": "yannDep"
+            }
+          ],
+          "s": 0,
+          "ts": 1793095606843,
+          "exp": 0
+        },
+        {
+          "id": "mvqksljd6b3733",
+          "u": "8a654aacdb7e",
+          "t": "wouyyyy",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793098909705,
+          "exp": 0
+        },
+        {
+          "id": "mvqlh1jva4ff74",
+          "u": "66ccc3a69f88",
+          "t": "@Admin Rin buatin Spotify downloader",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [
+            {
+              "id": "admin",
+              "n": "Admin Rin"
+            }
+          ],
+          "s": 0,
+          "ts": 1793100050203,
+          "exp": 0
+        },
+        {
+          "id": "mvqlhpck1ed677",
+          "u": "admin",
+          "t": "ada itu",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvqlh1jva4ff74",
+            "w": "66ccc3a69f88",
+            "t": "@Admin Rin buatin Spotify downloader",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793100081044,
+          "exp": 0
+        },
+        {
+          "id": "mvqmil3aa6cd14",
+          "u": "f0bc2ae29318",
+          "t": "test",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793101801798,
+          "exp": 0
+        },
+        {
+          "id": "mvqmn13y952a8c",
+          "u": "admin",
+          "t": "masuk",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793102009182,
+          "exp": 0
+        },
+        {
+          "id": "mvqmpmg6d12800",
+          "u": "989a8160c115",
+          "t": "Tes",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793102130150,
+          "exp": 0
+        },
+        {
+          "id": "mvqmpz04f84866",
+          "u": "989a8160c115",
+          "t": "",
+          "i": "",
+          "v": "4ca5a86159797ddb6673.webm",
+          "d": 3,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793102146420,
+          "exp": 0
+        },
+        {
+          "id": "mvqnfgy21bf619",
+          "u": "admin",
+          "t": "nanti ada gebrakan baru nich",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793103336074,
+          "exp": 0
+        },
+        {
+          "id": "mvqrb9h6a6dc38",
+          "u": "86b844cc75aa",
+          "t": "njir gebrakan",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvqnfgy21bf619",
+            "w": "admin",
+            "t": "nanti ada gebrakan baru nich",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793109858234,
+          "exp": 0
+        },
+        {
+          "id": "mvqrms4p8ac7ed",
+          "u": "a5e78a3d04a3",
+          "t": "jir",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793110395625,
+          "exp": 0
+        },
+        {
+          "id": "mvqskeg52bf9ad",
+          "u": "86b844cc75aa",
+          "t": "ini siapa jir",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvq85wyh610346",
+            "w": "634a5398bb59",
+            "t": "belom bisa chat sesama user lagi di proses",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793111964197,
+          "exp": 0
+        },
+        {
+          "id": "mvqwtkcba89ce7",
+          "u": "6b4eec05e5dd",
+          "t": "ok",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793119110203,
+          "exp": 0
+        },
+        {
+          "id": "mvr2nlod125964",
+          "u": "4289545bf220",
+          "t": "tes",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793128909693,
+          "exp": 0
+        },
+        {
+          "id": "mvr2p19z3bb95b",
+          "u": "4289545bf220",
+          "t": "gabut jirlah",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793128976567,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793128976567,
+      "timer": 0,
+      "unread": {}
+    },
+    "d_989a8160c115_admin": {
+      "id": "d_989a8160c115_admin",
+      "type": "dm",
+      "mem": [
+        "989a8160c115",
+        "admin"
+      ],
+      "msgs": [
+        {
+          "id": "mvp568eb29ae98",
+          "u": "989a8160c115",
+          "t": "Woy admin",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012205827,
+          "exp": 0
+        },
+        {
+          "id": "mvp56d593df9b5",
+          "u": "admin",
           "t": "iya",
           "i": "",
           "v": "",
@@ -2422,35 +3216,265 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793055935758,
-          "f": "a"
+          "s": 0,
+          "ts": 1793012211981,
+          "exp": 0
         },
         {
-          "id": "mvpvsuyw7f2508",
-          "t": "Joo",
+          "id": "mvpk2k6cd9347d",
+          "u": "989a8160c115",
+          "t": "Ganteng banget Luh😭",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793056931528,
-          "f": "u"
+          "s": 0,
+          "ts": 1793037228720,
+          "exp": 0
         },
         {
-          "id": "mvq0iwxw579738",
-          "t": "gapapa",
+          "id": "mvpk2ur7c0339f",
+          "u": "989a8160c115",
+          "t": "Eh btw bikin kek emoji nya kayak IP 🗿",
           "i": "",
           "v": "",
           "d": 0,
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793064865604,
-          "f": "a"
+          "s": 0,
+          "ts": 1793037242419,
+          "exp": 0
         },
         {
-          "id": "mvq7ueb6a2223a",
+          "id": "mvpk38489b2d62",
+          "u": "989a8160c115",
+          "t": "Btw pakai apa nih kok bisa live gitu chat nya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793037259736,
+          "exp": 0
+        },
+        {
+          "id": "mvpuuzchb08ece",
+          "u": "admin",
+          "t": "ya bisa aja",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793055350897,
+          "exp": 0
+        },
+        {
+          "id": "mvqmqqsac3ca6d",
+          "u": "989a8160c115",
+          "t": "Yeh",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793102182426,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793102182426,
+      "timer": 0,
+      "unread": {}
+    },
+    "d_878f047a2a7d_admin": {
+      "id": "d_878f047a2a7d_admin",
+      "type": "dm",
+      "mem": [
+        "878f047a2a7d",
+        "admin"
+      ],
+      "msgs": [
+        {
+          "id": "mvp5811t52d6d5",
+          "u": "878f047a2a7d",
+          "t": "admin",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012289617,
+          "exp": 0
+        },
+        {
+          "id": "mvp58c8tcd9eba",
+          "u": "admin",
+          "t": "iya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012304125,
+          "exp": 0
+        },
+        {
+          "id": "mvp58o4kbceccf",
+          "u": "878f047a2a7d",
+          "t": "ajarin coding dong",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012319524,
+          "exp": 0
+        },
+        {
+          "id": "mvp58yvl55a321",
+          "u": "878f047a2a7d",
+          "t": "angkat aku jadi muridmu😊",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012333457,
+          "exp": 0
+        },
+        {
+          "id": "mvp5936h7c87d4",
+          "u": "admin",
+          "t": "belajar je di yt banyak",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012339033,
+          "exp": 0
+        },
+        {
+          "id": "mvp59mms52df13",
+          "u": "878f047a2a7d",
+          "t": "pusing kalo di yt",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012364244,
+          "exp": 0
+        },
+        {
+          "id": "mvp59xp95a3b69",
+          "u": "878f047a2a7d",
+          "t": "udah nyoba 2 tahun lebih gk bisa bisa",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012378589,
+          "exp": 0
+        },
+        {
+          "id": "mvp5a8lk36882f",
+          "u": "admin",
+          "t": "belajar nya sambil praktek jangan liat doang",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012392712,
+          "exp": 0
+        },
+        {
+          "id": "mvp5b7sma3aa3a",
+          "u": "878f047a2a7d",
+          "t": "gw gitu cuma ya gitulah setiap berhasil selalu ada kegagalan dari hp",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012438326,
+          "exp": 0
+        },
+        {
+          "id": "mvp5cgdp806d0a",
+          "u": "878f047a2a7d",
+          "t": "waktu itu nyoba di javaacrip sekarang di termux itupun make github orang😇",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012496109,
+          "exp": 0
+        },
+        {
+          "id": "mvp5islgd5b123",
+          "u": "admin",
+          "t": "belajar juga di kuis coding nanti ada soal per codingan tinggal jawab",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793012791876,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793012791876,
+      "timer": 0,
+      "unread": {
+        "878f047a2a7d": 1
+      }
+    },
+    "d_634a5398bb59_admin": {
+      "id": "d_634a5398bb59_admin",
+      "type": "dm",
+      "mem": [
+        "634a5398bb59",
+        "admin"
+      ],
+      "msgs": [
+        {
+          "id": "mvpuxok58d4b98",
+          "u": "634a5398bb59",
           "t": "halo",
           "i": "",
           "v": "",
@@ -2458,11 +3482,111 @@
           "r": null,
           "x": {},
           "m": [],
+          "s": 0,
+          "ts": 1793055476887,
+          "exp": 0
+        },
+        {
+          "id": "mvpuyotc2a9483",
+          "u": "admin",
+          "t": "",
+          "i": "",
+          "v": "17a560e7ab15ab41ffe8.webm",
+          "d": 2,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793055523872,
+          "exp": 0
+        },
+        {
+          "id": "mvpv2sj3674e6b",
+          "u": "634a5398bb59",
+          "t": "min",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793055715311,
+          "exp": 0
+        },
+        {
+          "id": "mvpv32lz06a029",
+          "u": "634a5398bb59",
+          "t": "p",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793055728375,
+          "exp": 0
+        },
+        {
+          "id": "mvpv7imm393509",
+          "u": "admin",
+          "t": "iya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793055935758,
+          "exp": 0
+        },
+        {
+          "id": "mvpvsuyw7f2508",
+          "u": "634a5398bb59",
+          "t": "Joo",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793056931528,
+          "exp": 0
+        },
+        {
+          "id": "mvq0iwxw579738",
+          "u": "admin",
+          "t": "gapapa",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793064865604,
+          "exp": 0
+        },
+        {
+          "id": "mvq7ueb6a2223a",
+          "u": "634a5398bb59",
+          "t": "halo",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
           "ts": 1793077158642,
-          "f": "u"
+          "exp": 0
         },
         {
           "id": "mvq7uoux0f6d9f",
+          "u": "634a5398bb59",
           "t": "lagi apa kamu",
           "i": "",
           "v": "",
@@ -2470,11 +3594,13 @@
           "r": null,
           "x": {},
           "m": [],
+          "s": 0,
           "ts": 1793077172313,
-          "f": "u"
+          "exp": 0
         },
         {
           "id": "mvq7v0s48c975f",
+          "u": "634a5398bb59",
           "t": "gapapa sih aku mah b aja",
           "i": "",
           "v": "",
@@ -2482,11 +3608,13 @@
           "r": null,
           "x": {},
           "m": [],
+          "s": 0,
           "ts": 1793077187764,
-          "f": "u"
+          "exp": 0
         },
         {
           "id": "mvq80iwv7488a4",
+          "u": "admin",
           "t": "ya",
           "i": "",
           "v": "",
@@ -2494,11 +3622,13 @@
           "r": null,
           "x": {},
           "m": [],
+          "s": 0,
           "ts": 1793077444543,
-          "f": "a"
+          "exp": 0
         },
         {
           "id": "mvq80rqx70c7d2",
+          "u": "admin",
           "t": "ada apa ya",
           "i": "",
           "v": "",
@@ -2506,12 +3636,13 @@
           "r": null,
           "x": {},
           "m": [],
+          "s": 0,
           "ts": 1793077455993,
-          "f": "a"
+          "exp": 0
         },
         {
           "id": "mvqi27zxeb939b",
-          "f": "a",
+          "u": "admin",
           "t": "yan",
           "i": "",
           "v": "",
@@ -2519,24 +3650,38 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793094319869
+          "s": 0,
+          "ts": 1793094319869,
+          "exp": 0
         }
       ],
       "lastTs": 1793094319869,
-      "unreadAdmin": 0,
-      "unreadUser": 0
+      "timer": 0,
+      "unread": {}
     },
-    "1921357f09d6": {
+    "d_1921357f09d6_admin": {
+      "id": "d_1921357f09d6_admin",
+      "type": "dm",
+      "mem": [
+        "1921357f09d6",
+        "admin"
+      ],
       "msgs": [],
       "lastTs": 0,
-      "unreadAdmin": 0,
-      "unreadUser": 0
+      "timer": 0,
+      "unread": {}
     },
-    "4d95ba23d94e": {
+    "d_4d95ba23d94e_admin": {
+      "id": "d_4d95ba23d94e_admin",
+      "type": "dm",
+      "mem": [
+        "4d95ba23d94e",
+        "admin"
+      ],
       "msgs": [
         {
           "id": "mvq9yrftefb7a7",
-          "f": "u",
+          "u": "4d95ba23d94e",
           "t": "hi",
           "i": "",
           "v": "",
@@ -2544,11 +3689,13 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793080721513
+          "s": 0,
+          "ts": 1793080721513,
+          "exp": 0
         },
         {
           "id": "mvqa2bveae3d2a",
-          "f": "a",
+          "u": "admin",
           "t": "ya",
           "i": "",
           "v": "",
@@ -2556,18 +3703,28 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793080887963
+          "s": 0,
+          "ts": 1793080887963,
+          "exp": 0
         }
       ],
       "lastTs": 1793080887963,
-      "unreadAdmin": 0,
-      "unreadUser": 1
+      "timer": 0,
+      "unread": {
+        "4d95ba23d94e": 1
+      }
     },
-    "92b67293bcc0": {
+    "d_92b67293bcc0_admin": {
+      "id": "d_92b67293bcc0_admin",
+      "type": "dm",
+      "mem": [
+        "92b67293bcc0",
+        "admin"
+      ],
       "msgs": [
         {
           "id": "mvqaphpd80b511",
-          "f": "u",
+          "u": "92b67293bcc0",
           "t": "Atmin cewe atau cowo",
           "i": "",
           "v": "",
@@ -2575,11 +3732,13 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793081968609
+          "s": 0,
+          "ts": 1793081968609,
+          "exp": 0
         },
         {
           "id": "mvqaq54cae4065",
-          "f": "a",
+          "u": "admin",
           "t": "cwek",
           "i": "",
           "v": "",
@@ -2587,11 +3746,13 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793081998956
+          "s": 0,
+          "ts": 1793081998956,
+          "exp": 0
         },
         {
           "id": "mvqar5izfdcb0f",
-          "f": "u",
+          "u": "92b67293bcc0",
           "t": "Ril or fek",
           "i": "",
           "v": "",
@@ -2599,11 +3760,13 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793082046140
+          "s": 0,
+          "ts": 1793082046140,
+          "exp": 0
         },
         {
           "id": "mvqargg25cd6da",
-          "f": "a",
+          "u": "admin",
           "t": "real",
           "i": "",
           "v": "",
@@ -2611,11 +3774,13 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793082060290
+          "s": 0,
+          "ts": 1793082060290,
+          "exp": 0
         },
         {
           "id": "mvqbtlrkfa5e3a",
-          "f": "u",
+          "u": "92b67293bcc0",
           "t": "Aku jg",
           "i": "",
           "v": "",
@@ -2623,11 +3788,13 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793083840112
+          "s": 0,
+          "ts": 1793083840112,
+          "exp": 0
         },
         {
           "id": "mvqi24mjd693d1",
-          "f": "a",
+          "u": "admin",
           "t": "iyaa",
           "i": "",
           "v": "",
@@ -2635,12 +3802,16 @@
           "r": null,
           "x": {},
           "m": [],
-          "ts": 1793094315499
+          "s": 0,
+          "ts": 1793094315499,
+          "exp": 0
         }
       ],
       "lastTs": 1793094315499,
-      "unreadAdmin": 0,
-      "unreadUser": 1
+      "timer": 0,
+      "unread": {
+        "92b67293bcc0": 1
+      }
     }
   },
   "blocked": {
@@ -3101,5 +4272,9 @@
       "ts": 1793119102912,
       "used": true
     }
+  },
+  "calls": [],
+  "stats": {
+    "daily": {}
   }
 }
