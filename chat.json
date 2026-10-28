@@ -1643,20 +1643,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp5ll1w68072e",
-          "u": "86b844cc75aa",
-          "t": "btw tq ya konsepnya 🗿",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012922068,
-          "exp": 0
-        },
-        {
           "id": "mvp5rwwjd2efa4",
           "u": "admin",
           "t": "miring gini",
@@ -3436,9 +3422,28 @@
           "s": 0,
           "ts": 1793197766105,
           "exp": 0
+        },
+        {
+          "id": "mvs7qgb4fb400b",
+          "u": "admin",
+          "t": "kan ada yang play satunya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvs7n5sq305224",
+            "w": "c30a7848eb9e",
+            "t": "Oke min butuh banget itunya buat webmusic😭",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793197906960,
+          "exp": 0
         }
       ],
-      "lastTs": 1793197766105,
+      "lastTs": 1793197906960,
       "timer": 0,
       "unread": {}
     },
@@ -3994,7 +3999,8 @@
         "admin",
         "634a5398bb59",
         "49db73edbc20",
-        "2b279da6f7cf"
+        "2b279da6f7cf",
+        "5b5526a5ee71"
       ],
       "msgs": [
         {
@@ -4164,9 +4170,23 @@
           "s": 1,
           "ts": 1793197026695,
           "exp": 0
+        },
+        {
+          "id": "mvs7qdhvcf6229",
+          "u": "",
+          "t": "Daniel N. bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793197903315,
+          "exp": 0
         }
       ],
-      "lastTs": 1793197026695,
+      "lastTs": 1793197903315,
       "timer": 0,
       "unread": {
         "49db73edbc20": 1
@@ -4900,7 +4920,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 64,
+        "m": 65,
         "c": 11,
         "u": 12,
         "g": 2
