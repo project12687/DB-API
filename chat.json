@@ -3822,7 +3822,8 @@
       "type": "group",
       "mem": [
         "admin",
-        "634a5398bb59"
+        "634a5398bb59",
+        "49db73edbc20"
       ],
       "msgs": [
         {
@@ -3866,9 +3867,23 @@
           "s": 0,
           "ts": 1793152909315,
           "exp": 0
+        },
+        {
+          "id": "mvrgzz8v19c015",
+          "u": "",
+          "t": "Wyne. bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793153001775,
+          "exp": 0
         }
       ],
-      "lastTs": 1793152909315,
+      "lastTs": 1793153001775,
       "timer": 0,
       "unread": {
         "admin": 1
