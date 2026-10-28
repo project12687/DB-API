@@ -1624,20 +1624,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp51fph58a358",
-          "u": "634a5398bb59",
-          "t": "halo semua",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793011982021,
-          "exp": 0
-        },
-        {
           "id": "mvp530421c3180",
           "u": "1e753f4eadbb",
           "t": "Gak bisa reply chat wkwk",
@@ -3407,9 +3393,23 @@
           "s": 0,
           "ts": 1793181442299,
           "exp": 0
+        },
+        {
+          "id": "mvs6sosx40224b",
+          "u": "c30a7848eb9e",
+          "t": "Weii tolong kenapa kok play-spotify gabisa",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793196331665,
+          "exp": 0
         }
       ],
-      "lastTs": 1793181442299,
+      "lastTs": 1793196331665,
       "timer": 0,
       "unread": {}
     },
@@ -4850,7 +4850,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 47,
+        "m": 48,
         "c": 10,
         "u": 11,
         "g": 1
