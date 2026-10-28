@@ -1624,20 +1624,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp530421c3180",
-          "u": "1e753f4eadbb",
-          "t": "Gak bisa reply chat wkwk",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012055122,
-          "exp": 0
-        },
-        {
           "id": "mvp53ob7a54e59",
           "u": "admin",
           "t": "lagi proses perbaikan sekalian ada fitur kirim sticker",
@@ -3407,9 +3393,28 @@
           "s": 0,
           "ts": 1793196331665,
           "exp": 0
+        },
+        {
+          "id": "mvs715iza20ec6",
+          "u": "admin",
+          "t": "nanti ku ganti scrape nya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": {
+            "id": "mvs6sosx40224b",
+            "w": "c30a7848eb9e",
+            "t": "Weii tolong kenapa kok play-spotify gabisa",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793196726587,
+          "exp": 0
         }
       ],
-      "lastTs": 1793196331665,
+      "lastTs": 1793196726587,
       "timer": 0,
       "unread": {}
     },
@@ -4826,7 +4831,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 48,
+        "m": 49,
         "c": 10,
         "u": 11,
         "g": 1
