@@ -5671,6 +5671,18 @@
       "lastTs": 1793199245023,
       "timer": 0,
       "unread": {}
+    },
+    "d_5964e5e8dbba_989a8160c115": {
+      "id": "d_5964e5e8dbba_989a8160c115",
+      "type": "dm",
+      "mem": [
+        "5964e5e8dbba",
+        "989a8160c115"
+      ],
+      "msgs": [],
+      "lastTs": 0,
+      "timer": 0,
+      "unread": {}
     }
   },
   "blocked": {
@@ -5696,7 +5708,8 @@
         "0ba6e174e051",
         "c30a7848eb9e",
         "4a2dd999fabc",
-        "f0bc2ae29318"
+        "f0bc2ae29318",
+        "989a8160c115"
       ]
     },
     {
