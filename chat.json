@@ -3867,7 +3867,8 @@
       "mem": [
         "admin",
         "634a5398bb59",
-        "49db73edbc20"
+        "49db73edbc20",
+        "2b279da6f7cf"
       ],
       "msgs": [
         {
@@ -4009,9 +4010,23 @@
           "s": 1,
           "ts": 1793153769095,
           "exp": 0
+        },
+        {
+          "id": "mvrozed81b5c5e",
+          "u": "",
+          "t": ".. bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793166411644,
+          "exp": 0
         }
       ],
-      "lastTs": 1793153769095,
+      "lastTs": 1793166411644,
       "timer": 0,
       "unread": {
         "49db73edbc20": 1
