@@ -214,7 +214,7 @@
         ],
         "muted": [],
         "clr": {},
-        "rr": 1793197186553
+        "rr": 1793197216835
       }
     },
     "b50cf4c9feee": {
@@ -1623,20 +1623,6 @@
       "type": "room",
       "mem": [],
       "msgs": [
-        {
-          "id": "mvp5dfbs92409d",
-          "u": "1e753f4eadbb",
-          "t": "Bukan WhatsApp sih ini, melainkan web wkwk",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012541400,
-          "exp": 0
-        },
         {
           "id": "mvp5f3f47f8a86",
           "u": "86b844cc75aa",
@@ -3412,9 +3398,23 @@
           "s": 0,
           "ts": 1793197203861,
           "exp": 0
+        },
+        {
+          "id": "mvs7bnsz1582f2",
+          "u": "admin",
+          "t": "terus pake dns and nama server nya ganti di akun domain nya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793197216835,
+          "exp": 0
         }
       ],
-      "lastTs": 1793197203861,
+      "lastTs": 1793197216835,
       "timer": 0,
       "unread": {}
     },
@@ -4855,7 +4855,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 55,
+        "m": 56,
         "c": 10,
         "u": 11,
         "g": 1
