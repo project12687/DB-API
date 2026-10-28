@@ -1624,20 +1624,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp5l5zh098dfa",
-          "u": "86b844cc75aa",
-          "t": "nih app.kyzznekoo.my.id",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012902541,
-          "exp": 0
-        },
-        {
           "id": "mvp5ll1w68072e",
           "u": "86b844cc75aa",
           "t": "btw tq ya konsepnya 🗿",
@@ -3417,9 +3403,23 @@
           "s": 0,
           "ts": 1793197753370,
           "exp": 0
+        },
+        {
+          "id": "mvs7nfmh64b5f6",
+          "u": "c30a7848eb9e",
+          "t": "Kalo boleh Prem sini gw premium account gw",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793197766105,
+          "exp": 0
         }
       ],
-      "lastTs": 1793197753370,
+      "lastTs": 1793197766105,
       "timer": 0,
       "unread": {}
     },
@@ -4869,7 +4869,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 63,
+        "m": 64,
         "c": 11,
         "u": 11,
         "g": 2
