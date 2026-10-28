@@ -3899,6 +3899,35 @@
         "inf": true
       },
       "createdAt": 1793148941999
+    },
+    "d_5964e5e8dbba_admin": {
+      "id": "d_5964e5e8dbba_admin",
+      "type": "dm",
+      "mem": [
+        "5964e5e8dbba",
+        "admin"
+      ],
+      "msgs": [
+        {
+          "id": "mvrepcms036825",
+          "u": "admin",
+          "t": "keren ga nih",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793149146676,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793149146676,
+      "timer": 0,
+      "unread": {
+        "5964e5e8dbba": 1
+      }
     }
   },
   "blocked": {
@@ -4375,7 +4404,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 4,
+        "m": 5,
         "c": 1,
         "u": 0,
         "g": 1
