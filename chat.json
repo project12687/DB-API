@@ -3845,7 +3845,8 @@
       "id": "g_3e0613bbb1",
       "type": "group",
       "mem": [
-        "admin"
+        "admin",
+        "634a5398bb59"
       ],
       "msgs": [
         {
@@ -3861,9 +3862,23 @@
           "s": 1,
           "ts": 1793148941999,
           "exp": 0
+        },
+        {
+          "id": "mvremy5c8554ed",
+          "u": "",
+          "t": "Ryyn bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793149034592,
+          "exp": 0
         }
       ],
-      "lastTs": 1793148941999,
+      "lastTs": 1793149034592,
       "timer": 0,
       "unread": {},
       "adm": [
