@@ -1624,20 +1624,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp53ob7a54e59",
-          "u": "admin",
-          "t": "lagi proses perbaikan sekalian ada fitur kirim sticker",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012086483,
-          "exp": 0
-        },
-        {
           "id": "mvp5545wd5083d",
           "u": "878f047a2a7d",
           "t": "mabar ml yok abis selesai sholat",
@@ -3412,9 +3398,23 @@
           "s": 0,
           "ts": 1793196726587,
           "exp": 0
+        },
+        {
+          "id": "mvs79qn9436925",
+          "u": "5964e5e8dbba",
+          "t": "hmmm",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793197127205,
+          "exp": 0
         }
       ],
-      "lastTs": 1793196726587,
+      "lastTs": 1793197127205,
       "timer": 0,
       "unread": {}
     },
@@ -4855,7 +4855,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 49,
+        "m": 50,
         "c": 10,
         "u": 11,
         "g": 1
