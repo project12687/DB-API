@@ -3951,9 +3951,23 @@
           "s": 1,
           "ts": 1793153744517,
           "exp": 0
+        },
+        {
+          "id": "mvrhgfbb7c7ef7",
+          "u": "",
+          "t": "Semua anggota bisa mengirim pesan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793153769095,
+          "exp": 0
         }
       ],
-      "lastTs": 1793153744517,
+      "lastTs": 1793153769095,
       "timer": 0,
       "unread": {
         "49db73edbc20": 1
@@ -3967,7 +3981,7 @@
       "avatar": "555d002b3c02cacdd50e.png",
       "code": "dbb300e7644173e4",
       "set": {
-        "adm": true,
+        "adm": false,
         "inv": true,
         "inf": true
       },
