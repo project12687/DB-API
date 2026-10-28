@@ -13,18 +13,6 @@
       },
       "at": 1793164201427
     },
-    "1cc062291b6a907c04ffc8b03c3cc45c": {
-      "uid": "a14ab5eb0e83",
-      "role": "u",
-      "sub": {
-        "endpoint": "https://fcm.googleapis.com/fcm/send/eVax8lRrTuw:APA91bHDcrX599kjmJW5p0w8fvO5j3WUmpb-mUN-KeFaKuYjYSbog3tLa-9kJGnz68Dy_l7U35nHmZkw2FusWC6idhy4P-quImTmduMPpTk3XRZg8SuSclPxd7smXYGmOb76zfo9Odri",
-        "keys": {
-          "p256dh": "BJ0zpld6fVbykYnJbVhiala_dq0yK32gSDxR4U8sUJXhqYW_8lIlsO1bSoF3t8-8CDBmQ4C_Iq2A3-C0wWKhj_U",
-          "auth": "ySOgrGg39kysxEPLOsVr5g"
-        }
-      },
-      "at": 1793198820760
-    },
     "a772313694194c7d1eb776c9769535fc": {
       "uid": "5964e5e8dbba",
       "role": "u",
@@ -71,7 +59,7 @@
           "auth": "y3jbc-6NIQloxypt7-BKtQ"
         }
       },
-      "at": 1793224395078
+      "at": 1793228379896
     }
   }
 }
