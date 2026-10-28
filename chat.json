@@ -1493,6 +1493,25 @@
         "clr": {},
         "rr": 1793150883429
       }
+    },
+    "c406d9fbf5a9": {
+      "key": "riskputraaa@gmail.com",
+      "username": "riskputraaa",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793160126597,
+      "updatedAt": 1793160126597,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0
+      }
     }
   },
   "convs": {
@@ -4982,7 +5001,7 @@
       "2026-10-28": {
         "m": 36,
         "c": 9,
-        "u": 5,
+        "u": 6,
         "g": 1
       }
     }
