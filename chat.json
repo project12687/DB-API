@@ -4001,7 +4001,8 @@
         "49db73edbc20",
         "2b279da6f7cf",
         "5b5526a5ee71",
-        "1e753f4eadbb"
+        "1e753f4eadbb",
+        "a14ab5eb0e83"
       ],
       "msgs": [
         {
@@ -4199,9 +4200,23 @@
           "s": 1,
           "ts": 1793198337793,
           "exp": 0
+        },
+        {
+          "id": "mvs8a36gcc782f",
+          "u": "",
+          "t": "vamz bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793198823064,
+          "exp": 0
         }
       ],
-      "lastTs": 1793198337793,
+      "lastTs": 1793198823064,
       "timer": 0,
       "unread": {
         "49db73edbc20": 1
