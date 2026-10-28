@@ -2568,7 +2568,7 @@
       "pass": "s1$79be3e878069d7edb59c0a77c0b51a10$21c9fecfc2060d9a345a29ac54b73598662cfc1c98080332a0ffb334a819d9f1",
       "apikey": "geisbsisgwiwbwisbssusbauwb233",
       "cap": "vip",
-      "vipUntil": "2026-10-28T04:34:59.822Z",
+      "vipUntil": null,
       "ip": "101.255.211.215",
       "regIp": "114.12.1.136",
       "createdAt": "2026-10-27T04:32:34.259Z",
