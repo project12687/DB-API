@@ -1395,20 +1395,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvoq8csi828a5b",
-          "u": "5964e5e8dbba",
-          "t": "ini global kah?",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1792987110594,
-          "exp": 0
-        },
-        {
           "id": "mvoxgbtt5e9dbd",
           "u": "b50cf4c9feee",
           "t": "Tes",
@@ -3178,9 +3164,23 @@
           "s": 0,
           "ts": 1793148743291,
           "exp": 0
+        },
+        {
+          "id": "mvrem8rqb1cd00",
+          "u": "admin",
+          "t": "https://apiii-xrina.my.id/chat#join=dbb300e7644173e4\n\njoin group",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793149001702,
+          "exp": 0
         }
       ],
-      "lastTs": 1793148743291,
+      "lastTs": 1793149001702,
       "timer": 0,
       "unread": {}
     },
@@ -4356,7 +4356,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 3,
+        "m": 4,
         "c": 1,
         "u": 0,
         "g": 1
