@@ -4713,46 +4713,6 @@
       "lastTs": 0,
       "timer": 0,
       "unread": {}
-    },
-    "g_649338c0a0": {
-      "id": "g_649338c0a0",
-      "type": "group",
-      "mem": [
-        "634a5398bb59"
-      ],
-      "msgs": [
-        {
-          "id": "mvs7gzik90ebd4",
-          "u": "",
-          "t": "Ryyn membuat grup \"YES\".",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 1,
-          "ts": 1793197465292,
-          "exp": 0
-        }
-      ],
-      "lastTs": 1793197465292,
-      "timer": 0,
-      "unread": {},
-      "adm": [
-        "634a5398bb59"
-      ],
-      "owner": "634a5398bb59",
-      "name": "YES",
-      "bio": "ua",
-      "avatar": "",
-      "code": "021b1e46c3659c61",
-      "set": {
-        "adm": false,
-        "inv": true,
-        "inf": true
-      },
-      "createdAt": 1793197465292
     }
   },
   "blocked": {
