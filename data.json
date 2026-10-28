@@ -2499,27 +2499,6 @@
         "reacts": 0
       }
     },
-    "kontol@gmail.com": {
-      "name": "Kontol",
-      "email": "kontol@gmail.com",
-      "pass": "s1$330665977c3a85c0bd1b9cd27845cde8$70004a05513f0f73c4d435cac7342cb5f82e18995888b0426d340367293c5dff",
-      "apikey": "rin_f83bb8423179e0c3d9",
-      "cap": "free",
-      "vipUntil": null,
-      "ip": "114.79.1.209",
-      "regIp": "114.79.1.209",
-      "createdAt": "2026-10-27T05:08:01.373Z",
-      "lastLogin": "2026-10-27T05:20:58.763Z",
-      "banned": true,
-      "bannedAt": "2026-10-27T06:53:55.443Z",
-      "bannedReason": "IP 114.79.1.209 dipakai untuk mendaftar akun baru",
-      "extra": 0,
-      "window": {
-        "start": 0,
-        "hits": 0,
-        "reacts": 0
-      }
-    },
     "yoshiki@gmail.com": {
       "name": "Yoshiki",
       "email": "yoshiki@gmail.com",
