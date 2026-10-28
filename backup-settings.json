@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "lastDate": "2026-10-28",
-  "lastAt": "2026-10-28T17:02:22.819Z",
-  "lastOk": false,
-  "lastMessage": "Gagal kirim ke Telegram: timeout of 120000ms exceeded"
+  "lastDate": "2026-10-29",
+  "lastAt": "2026-10-28T17:03:07.278Z",
+  "lastOk": true,
+  "lastMessage": "Berhasil (9 file data, 48 media)"
 }
