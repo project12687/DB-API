@@ -1624,20 +1624,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp55u5c9a026f",
-          "u": "989a8160c115",
-          "t": "Btw ini base nya pakai apa njir kok bisa 🗿",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793012187360,
-          "exp": 0
-        },
-        {
           "id": "mvp566y3435bb6",
           "u": "admin",
           "t": "ya pake database buat simpan data nya/chat",
@@ -3412,9 +3398,23 @@
           "s": 0,
           "ts": 1793197154146,
           "exp": 0
+        },
+        {
+          "id": "mvs7an5p72c4b9",
+          "u": "5964e5e8dbba",
+          "t": "terus cara nyambungin nya ke html kita gimna?",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793197169341,
+          "exp": 0
         }
       ],
-      "lastTs": 1793197154146,
+      "lastTs": 1793197169341,
       "timer": 0,
       "unread": {}
     },
@@ -4855,7 +4855,7 @@
   "stats": {
     "daily": {
       "2026-10-28": {
-        "m": 52,
+        "m": 53,
         "c": 10,
         "u": 11,
         "g": 1
