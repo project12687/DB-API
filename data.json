@@ -3135,10 +3135,31 @@
       "pass": "s1$f4b6edf325344b697d109bdb07299770$96578a7a62e691e790b68d09132123f9cfb57c2a6d5dfc9adc8d500ae049a088",
       "apikey": "rin_a7d930ed8b40dac46e",
       "cap": "free",
+      "vipUntil": null,
       "ip": "103.108.33.100",
       "regIp": "103.108.33.100",
       "createdAt": "2026-10-28T01:26:21.620Z",
       "lastLogin": "2026-10-28T01:26:21.620Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "muwakj@gmail.com": {
+      "name": "Zann",
+      "email": "muwakj@gmail.com",
+      "pass": "s1$2442dc9590c701adb5dd6f3d09986d5c$7d6392e2198f9f2c9369e3c32c4b7e88121acbe264e21d541b4ce6c4aee67351",
+      "apikey": "rin_5881176960e362700b",
+      "cap": "free",
+      "ip": "36.65.57.41",
+      "regIp": "36.65.57.41",
+      "createdAt": "2026-10-28T01:29:00.121Z",
+      "lastLogin": "2026-10-28T01:29:00.121Z",
       "extra": 0,
       "window": {
         "start": 0,
