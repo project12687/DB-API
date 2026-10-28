@@ -40,11 +40,11 @@
     },
     "admin": {
       "key": "",
-      "username": "Admin Rin",
+      "username": "Rin",
       "bio": "Admin resmi Rin API",
       "avatar": "2219a5c556221d465760.png",
       "createdAt": 0,
-      "updatedAt": 1793014260432,
+      "updatedAt": 1793197302864,
       "pref": {
         "bubble": "kapsul",
         "snd": true,
