@@ -306,7 +306,9 @@
         "prev": true,
         "grp": true,
         "blocks": [],
-        "pins": [],
+        "pins": [
+          "d_2b279da6f7cf_admin"
+        ],
         "muted": [],
         "clr": {},
         "rr": 1793160221161
