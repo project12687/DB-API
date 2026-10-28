@@ -5680,37 +5680,6 @@
   },
   "status": [
     {
-      "id": "mvqwtf0a597c30",
-      "u": "6b4eec05e5dd",
-      "t": "",
-      "i": "e4ec953ea090eb6520da.png",
-      "c": "",
-      "bg": 0,
-      "ts": 1793119103290,
-      "exp": 1793205503290,
-      "v": [
-        "admin",
-        "6ca43cf3ee84",
-        "1e753f4eadbb",
-        "634a5398bb59",
-        "c0f72ac74176",
-        "5964e5e8dbba",
-        "d976e63871a3",
-        "49db73edbc20",
-        "df649ba33d6b",
-        "66ccc3a69f88",
-        "c406d9fbf5a9",
-        "2b279da6f7cf",
-        "361cfd336959",
-        "4f1babbb3f3a",
-        "296160ef8feb",
-        "0ba6e174e051",
-        "c30a7848eb9e",
-        "4a2dd999fabc",
-        "f0bc2ae29318"
-      ]
-    },
-    {
       "id": "mvs1gwor7f5e2e",
       "u": "5964e5e8dbba",
       "t": "Halo para jomok",
@@ -5750,13 +5719,7 @@
       ]
     }
   ],
-  "statusImgs": {
-    "e4ec953ea090eb6520da.png": {
-      "u": "6b4eec05e5dd",
-      "ts": 1793119102912,
-      "used": true
-    }
-  },
+  "statusImgs": {},
   "calls": [
     {
       "id": "mmvrsy8zn",
