@@ -4031,7 +4031,8 @@
         "a14ab5eb0e83",
         "8fb21147efb6",
         "6db70b0a900a",
-        "4a2dd999fabc"
+        "4a2dd999fabc",
+        "f0bc2ae29318"
       ],
       "msgs": [
         {
@@ -4327,9 +4328,23 @@
           "s": 0,
           "ts": 1793203236744,
           "exp": 0
+        },
+        {
+          "id": "mvsblgr0c70534",
+          "u": "",
+          "t": "LanzCihuyy bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793204392716,
+          "exp": 0
         }
       ],
-      "lastTs": 1793203236744,
+      "lastTs": 1793204392716,
       "timer": 0,
       "unread": {
         "49db73edbc20": 4,
