@@ -2951,14 +2951,31 @@
       "regIp": "202.70.133.42",
       "createdAt": "2026-10-28T16:45:10.469Z",
       "lastLogin": "2026-10-28T16:45:10.469Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-28T16:48:44.982Z",
+      "bannedReason": "IP 202.70.133.42 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1793205994676,
         "hits": 1,
         "reacts": 1
+      }
+    },
+    "ariventod11@gmail.com": {
+      "name": "Kikuk",
+      "email": "ariventod11@gmail.com",
+      "pass": "s1$cd2d7c5aa0b9cddd35daf91035a73b28$d117bb40336b42ff30bc7ddd12e67426beaeba0692c48ec831ed080b4863ffb9",
+      "apikey": "rin_69a37ec6229680b238",
+      "cap": "free",
+      "ip": "202.70.133.42",
+      "regIp": "202.70.133.42",
+      "createdAt": "2026-10-28T16:48:44.982Z",
+      "lastLogin": "2026-10-28T16:48:44.982Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
       }
     }
   }
