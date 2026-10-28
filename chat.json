@@ -328,7 +328,9 @@
         "pins": [
           "room"
         ],
-        "muted": [],
+        "muted": [
+          "room"
+        ],
         "clr": {
           "room": 1793164283777
         },
