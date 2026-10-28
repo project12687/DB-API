@@ -51,7 +51,9 @@
         "prev": true,
         "grp": true,
         "blocks": [],
-        "pins": [],
+        "pins": [
+          "g_3e0613bbb1"
+        ],
         "muted": [],
         "clr": {},
         "rr": 1793149001702
