@@ -3842,6 +3842,46 @@
       "unread": {
         "92b67293bcc0": 1
       }
+    },
+    "g_3e0613bbb1": {
+      "id": "g_3e0613bbb1",
+      "type": "group",
+      "mem": [
+        "admin"
+      ],
+      "msgs": [
+        {
+          "id": "mvrekypb7fc34f",
+          "u": "",
+          "t": "Admin Rin membuat grup \"GROUP RINA\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793148941999,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793148941999,
+      "timer": 0,
+      "unread": {},
+      "adm": [
+        "admin"
+      ],
+      "owner": "admin",
+      "name": "GROUP RINA",
+      "bio": "gatau test aja",
+      "avatar": "",
+      "code": "41c0530799e4452c",
+      "set": {
+        "adm": false,
+        "inv": true,
+        "inf": true
+      },
+      "createdAt": 1793148941999
     }
   },
   "blocked": {
@@ -4319,7 +4359,7 @@
         "m": 3,
         "c": 1,
         "u": 0,
-        "g": 0
+        "g": 1
       }
     }
   }
