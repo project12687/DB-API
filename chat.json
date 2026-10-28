@@ -4126,9 +4126,23 @@
           "s": 1,
           "ts": 1793166411644,
           "exp": 0
+        },
+        {
+          "id": "mvs77l3b666f17",
+          "u": "",
+          "t": "Admin Rin mengganti nama grup menjadi \"GROUP || RIN API'S\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793197026695,
+          "exp": 0
         }
       ],
-      "lastTs": 1793166411644,
+      "lastTs": 1793197026695,
       "timer": 0,
       "unread": {
         "49db73edbc20": 1
@@ -4137,7 +4151,7 @@
         "admin"
       ],
       "owner": "admin",
-      "name": "GROUP RINA",
+      "name": "GROUP || RIN API'S",
       "bio": "gatau test aja",
       "avatar": "555d002b3c02cacdd50e.png",
       "code": "dbb300e7644173e4",
