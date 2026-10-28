@@ -55,7 +55,9 @@
           "g_3e0613bbb1",
           "room"
         ],
-        "muted": [],
+        "muted": [
+          "d_0ba6e174e051_admin"
+        ],
         "clr": {
           "d_5964e5e8dbba_admin": 1793149639736,
           "d_92b67293bcc0_admin": 1793151151074
