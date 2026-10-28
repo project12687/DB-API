@@ -2981,6 +2981,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "snakyxy41@gmail.com": {
+      "name": "snakyxy",
+      "email": "snakyxy41@gmail.com",
+      "pass": "s1$40f08432650f3575f50a1212010251ff$e5bf81d0cca67f2fd4521e08fb7b1a5aedc5d23a17bbe6f26db717eb76895bae",
+      "apikey": "rin_03f2d21fef4bf17e32",
+      "cap": "free",
+      "ip": "103.25.195.121",
+      "regIp": "103.25.195.121",
+      "createdAt": "2026-10-28T22:17:06.722Z",
+      "lastLogin": "2026-10-28T22:17:06.722Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
