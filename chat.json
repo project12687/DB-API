@@ -4655,31 +4655,6 @@
   },
   "status": [
     {
-      "id": "mvqmidpvac855d",
-      "u": "f0bc2ae29318",
-      "t": "",
-      "i": "979421026e2035a0fde7.png",
-      "c": "",
-      "bg": 0,
-      "ts": 1793101792243,
-      "exp": 1793188192243,
-      "v": [
-        "admin",
-        "989a8160c115",
-        "3dce3d23e917",
-        "ec172535c6e8",
-        "86b844cc75aa",
-        "a850d01d317f",
-        "6ca43cf3ee84",
-        "1e753f4eadbb",
-        "c0f72ac74176",
-        "df649ba33d6b",
-        "2b279da6f7cf",
-        "296160ef8feb",
-        "5964e5e8dbba"
-      ]
-    },
-    {
       "id": "mvqrd2dw7f3be3",
       "u": "86b844cc75aa",
       "t": "tes",
@@ -4745,11 +4720,6 @@
     }
   ],
   "statusImgs": {
-    "979421026e2035a0fde7.png": {
-      "u": "f0bc2ae29318",
-      "ts": 1793101791911,
-      "used": true
-    },
     "e4ec953ea090eb6520da.png": {
       "u": "6b4eec05e5dd",
       "ts": 1793119102912,
