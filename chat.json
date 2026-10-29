@@ -1708,20 +1708,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp6a1bxd0fcd7",
-          "u": "86b844cc75aa",
-          "t": "saran gw kalo mau ada notif apk aja performa web kurang kalo ada notif",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793014062909,
-          "exp": 0
-        },
-        {
           "id": "mvp6djvt09dc69",
           "u": "admin",
           "t": "bikin css yang bisa atur layout atau ukuran layar device user biar pas",
@@ -3511,9 +3497,23 @@
           "s": 0,
           "ts": 1793236464370,
           "exp": 0
+        },
+        {
+          "id": "mvsupzlyff19c3",
+          "u": "admin",
+          "t": "ya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793236516486,
+          "exp": 0
         }
       ],
-      "lastTs": 1793236464370,
+      "lastTs": 1793236516486,
       "timer": 0,
       "unread": {}
     },
@@ -5850,7 +5850,7 @@
         "g": 2
       },
       "2026-10-29": {
-        "m": 3,
+        "m": 4,
         "c": 0,
         "u": 2,
         "g": 0
