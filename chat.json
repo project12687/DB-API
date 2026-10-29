@@ -4244,7 +4244,8 @@
         "f0bc2ae29318",
         "0c29c77e3a97",
         "5ecc8a0a9814",
-        "f15f3c8bfec2"
+        "f15f3c8bfec2",
+        "5770c6e76738"
       ],
       "msgs": [
         {
@@ -4713,9 +4714,23 @@
           "s": 0,
           "ts": 1793269385412,
           "exp": 0
+        },
+        {
+          "id": "mvu1m5afc196c6",
+          "u": "",
+          "t": "RaffDev bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793308560711,
+          "exp": 0
         }
       ],
-      "lastTs": 1793269385412,
+      "lastTs": 1793308560711,
       "timer": 0,
       "unread": {
         "49db73edbc20": 13,
