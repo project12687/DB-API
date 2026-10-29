@@ -4096,7 +4096,8 @@
         "6db70b0a900a",
         "4a2dd999fabc",
         "f0bc2ae29318",
-        "0c29c77e3a97"
+        "0c29c77e3a97",
+        "5ecc8a0a9814"
       ],
       "msgs": [
         {
@@ -4453,9 +4454,23 @@
           "s": 1,
           "ts": 1793236213565,
           "exp": 0
+        },
+        {
+          "id": "mvszi8nnaeb633",
+          "u": "",
+          "t": "ada adalah bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793244553042,
+          "exp": 0
         }
       ],
-      "lastTs": 1793236213565,
+      "lastTs": 1793244553042,
       "timer": 0,
       "unread": {
         "49db73edbc20": 7,
