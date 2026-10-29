@@ -5938,9 +5938,26 @@
       "v": [
         "5964e5e8dbba"
       ]
+    },
+    {
+      "id": "mvt78md3b819fb",
+      "u": "5964e5e8dbba",
+      "t": "",
+      "i": "5dab7164d1229e2785b5.png",
+      "c": "Hai everyone",
+      "bg": 0,
+      "ts": 1793257541175,
+      "exp": 1793343941175,
+      "v": []
     }
   ],
-  "statusImgs": {},
+  "statusImgs": {
+    "5dab7164d1229e2785b5.png": {
+      "u": "5964e5e8dbba",
+      "ts": 1793257540830,
+      "used": true
+    }
+  },
   "calls": [
     {
       "id": "mmvrsy8zn",
