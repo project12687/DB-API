@@ -3114,10 +3114,31 @@
       "pass": "s1$f2d9019018a81278392943ba02d75cda$04ae03d2a4c041b1994780c52338880d1bc0e40aa29c75246048a1bef3274b38",
       "apikey": "rin_a9499266947a1226fa",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2402:8780:106b:7107:5d15:9a7a:62a6:d42d",
       "regIp": "2402:8780:106b:7107:5d15:9a7a:62a6:d42d",
       "createdAt": "2026-10-29T10:54:15.146Z",
       "lastLogin": "2026-10-29T10:54:15.146Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "aledongandongan@gmail.com": {
+      "name": "kanzz",
+      "email": "aledongandongan@gmail.com",
+      "pass": "s1$55ab1ea68015fea1be8dfb9887522c4a$f3ca84fa211b0f40513becbe4b6b40d03558204e6902fc1fc839b49496d04b58",
+      "apikey": "rin_58c4fef752c9cf4d6b",
+      "cap": "free",
+      "ip": "103.26.189.66",
+      "regIp": "103.26.189.66",
+      "createdAt": "2026-10-29T11:09:39.049Z",
+      "lastLogin": "2026-10-29T11:09:39.049Z",
       "extra": 0,
       "window": {
         "start": 0,
