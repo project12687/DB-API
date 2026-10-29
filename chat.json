@@ -1708,20 +1708,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp68dqz4060fb",
-          "u": "86b844cc75aa",
-          "t": "di gw normal aja",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793013985691,
-          "exp": 0
-        },
-        {
           "id": "mvp6a1bxd0fcd7",
           "u": "86b844cc75aa",
           "t": "saran gw kalo mau ada notif apk aja performa web kurang kalo ada notif",
@@ -3511,9 +3497,23 @@
           "s": 0,
           "ts": 1793201843668,
           "exp": 0
+        },
+        {
+          "id": "mvsuovea15729f",
+          "u": "0c29c77e3a97",
+          "t": "Halo everyone",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793236464370,
+          "exp": 0
         }
       ],
-      "lastTs": 1793201843668,
+      "lastTs": 1793236464370,
       "timer": 0,
       "unread": {}
     },
@@ -5850,7 +5850,7 @@
         "g": 2
       },
       "2026-10-29": {
-        "m": 2,
+        "m": 3,
         "c": 0,
         "u": 2,
         "g": 0
