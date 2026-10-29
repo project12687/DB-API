@@ -1708,20 +1708,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp6hino97a2f7",
-          "u": "86b844cc75aa",
-          "t": "nah itu masalahnya bukan w desainernya,  emang susah katanya bikin responsif di hp , deskopmah aman, nanti w chat lagi deh",
-          "i": "01b64bb909496fcbadcc.png",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793014411956,
-          "exp": 0
-        },
-        {
           "id": "mvp6kdlbc3a288",
           "u": "6b4eec05e5dd",
           "t": "hie",
@@ -3511,9 +3497,23 @@
           "s": 0,
           "ts": 1793236855219,
           "exp": 0
+        },
+        {
+          "id": "mvsv4m19fe9779",
+          "u": "admin",
+          "t": "aktif",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793237198733,
+          "exp": 0
         }
       ],
-      "lastTs": 1793236855219,
+      "lastTs": 1793237198733,
       "timer": 0,
       "unread": {}
     },
@@ -5850,7 +5850,7 @@
         "g": 2
       },
       "2026-10-29": {
-        "m": 5,
+        "m": 6,
         "c": 0,
         "u": 2,
         "g": 0
