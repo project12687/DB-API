@@ -5879,6 +5879,46 @@
       "lastTs": 0,
       "timer": 0,
       "unread": {}
+    },
+    "g_72e5aa4125": {
+      "id": "g_72e5aa4125",
+      "type": "group",
+      "mem": [
+        "989a8160c115"
+      ],
+      "msgs": [
+        {
+          "id": "mvt83dw478685c",
+          "u": "",
+          "t": "Aldo membuat grup \"Aldo\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793258976532,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793258976532,
+      "timer": 0,
+      "unread": {},
+      "adm": [
+        "989a8160c115"
+      ],
+      "owner": "989a8160c115",
+      "name": "Aldo",
+      "bio": "Wel wel wel",
+      "avatar": "",
+      "code": "4a7f3b1fa8bb6e76",
+      "set": {
+        "adm": false,
+        "inv": true,
+        "inf": true
+      },
+      "createdAt": 1793258976532
     }
   },
   "blocked": {
@@ -5980,7 +6020,7 @@
         "m": 8,
         "c": 0,
         "u": 5,
-        "g": 0
+        "g": 1
       }
     }
   }
