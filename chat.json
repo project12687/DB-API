@@ -1524,7 +1524,7 @@
         "pins": [],
         "muted": [],
         "clr": {},
-        "rr": 1793160221161
+        "rr": 1793237198733
       }
     },
     "361cfd336959": {
@@ -5978,6 +5978,18 @@
         "inf": true
       },
       "createdAt": 1793258976532
+    },
+    "d_5964e5e8dbba_9901add5c346": {
+      "id": "d_5964e5e8dbba_9901add5c346",
+      "type": "dm",
+      "mem": [
+        "5964e5e8dbba",
+        "9901add5c346"
+      ],
+      "msgs": [],
+      "lastTs": 0,
+      "timer": 0,
+      "unread": {}
     }
   },
   "blocked": {
