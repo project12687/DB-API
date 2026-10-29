@@ -3035,14 +3035,31 @@
       "regIp": "202.70.133.42",
       "createdAt": "2026-10-29T00:56:46.630Z",
       "lastLogin": "2026-10-29T00:56:46.630Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-29T00:59:26.054Z",
+      "bannedReason": "IP 202.70.133.42 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1793235454434,
         "hits": 1,
         "reacts": 1
+      }
+    },
+    "kenzcihuy07@gmail.com": {
+      "name": "bagas",
+      "email": "kenzcihuy07@gmail.com",
+      "pass": "s1$7c775fea7040d9d16dcea582c60a440c$e3b581a7f55cb0d68a7b0efc5af0057f940ee5fc4cdc5ba47e66892adb25d265",
+      "apikey": "rin_3b646d1d78c94c7571",
+      "cap": "free",
+      "ip": "202.70.133.42",
+      "regIp": "202.70.133.42",
+      "createdAt": "2026-10-29T00:59:26.054Z",
+      "lastLogin": "2026-10-29T00:59:26.054Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
       }
     }
   }
