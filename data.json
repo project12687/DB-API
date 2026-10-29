@@ -3086,6 +3086,23 @@
         "hits": 2,
         "reacts": 0
       }
+    },
+    "itsukiyuuki7@gmail.com": {
+      "name": "Yuuki",
+      "email": "itsukiyuuki7@gmail.com",
+      "pass": "s1$71655c73d6c75257794d99800e62551b$0041516a6066e64c9aa9df564776d76a7bb679662f4accf2dc3db9b899b10d70",
+      "apikey": "rin_62590e5aec24d10cd5",
+      "cap": "free",
+      "ip": "2405:3800:81a:c9fa:f0c5:8eff:fe30:19ee",
+      "regIp": "2405:3800:81a:c9fa:f0c5:8eff:fe30:19ee",
+      "createdAt": "2026-10-29T04:12:38.351Z",
+      "lastLogin": "2026-10-29T04:12:38.351Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
