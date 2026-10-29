@@ -1708,20 +1708,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp6djvt09dc69",
-          "u": "admin",
-          "t": "bikin css yang bisa atur layout atau ukuran layar device user biar pas",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793014226921,
-          "exp": 0
-        },
-        {
           "id": "mvp6hino97a2f7",
           "u": "86b844cc75aa",
           "t": "nah itu masalahnya bukan w desainernya,  emang susah katanya bikin responsif di hp , deskopmah aman, nanti w chat lagi deh",
@@ -3511,9 +3497,23 @@
           "s": 0,
           "ts": 1793236516486,
           "exp": 0
+        },
+        {
+          "id": "mvsux8z73dd8f0",
+          "u": "0c29c77e3a97",
+          "t": "Tele mu aktif apa ga min?",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793236855219,
+          "exp": 0
         }
       ],
-      "lastTs": 1793236516486,
+      "lastTs": 1793236855219,
       "timer": 0,
       "unread": {}
     },
@@ -5850,7 +5850,7 @@
         "g": 2
       },
       "2026-10-29": {
-        "m": 4,
+        "m": 5,
         "c": 0,
         "u": 2,
         "g": 0
