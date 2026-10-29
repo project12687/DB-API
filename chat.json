@@ -4138,7 +4138,8 @@
         "4a2dd999fabc",
         "f0bc2ae29318",
         "0c29c77e3a97",
-        "5ecc8a0a9814"
+        "5ecc8a0a9814",
+        "f15f3c8bfec2"
       ],
       "msgs": [
         {
@@ -4537,9 +4538,23 @@
           "s": 0,
           "ts": 1793244594652,
           "exp": 0
+        },
+        {
+          "id": "mvt127kp38a5e6",
+          "u": "",
+          "t": "Yuuki bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793247164377,
+          "exp": 0
         }
       ],
-      "lastTs": 1793244594652,
+      "lastTs": 1793247164377,
       "timer": 0,
       "unread": {
         "49db73edbc20": 9,
