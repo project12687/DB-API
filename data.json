@@ -3083,7 +3083,7 @@
       "extra": 0,
       "window": {
         "start": 1793246405685,
-        "hits": 19,
+        "hits": 20,
         "reacts": 0
       }
     },
@@ -3219,10 +3219,14 @@
       "pass": "s1$706b19ed93ae67694c496a0b610a3e67$1ba153e191151cdff7276f636c0521376ea3932b7687616bb92e2b3f692885dc",
       "apikey": "rin_452e60f15af1b10e75",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2404:1c40:75:fce:d52:8848:dbab:4c0c",
       "regIp": "2404:1c40:75:fce:d52:8848:dbab:4c0c",
       "createdAt": "2026-10-30T02:40:18.517Z",
       "lastLogin": "2026-10-30T02:40:18.517Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
