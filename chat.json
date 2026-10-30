@@ -1826,7 +1826,9 @@
         "prev": true,
         "grp": true,
         "blocks": [],
-        "pins": [],
+        "pins": [
+          "g_fedf93b3b2"
+        ],
         "muted": [],
         "clr": {},
         "rr": 1793199031828,
