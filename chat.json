@@ -2101,7 +2101,7 @@
       "pref": {
         "bubble": "klasik",
         "snd": false,
-        "prev": true,
+        "prev": false,
         "grp": true,
         "blocks": [],
         "pins": [],
