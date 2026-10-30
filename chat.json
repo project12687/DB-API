@@ -2099,32 +2099,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvpupaoocb92c9",
-          "u": "admin",
-          "t": "ga ada",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": {
-            "id": "mvpazj4h41d10d",
-            "w": "5964e5e8dbba",
-            "t": "kalau ada notif JKT48 yg lagi live kan jadi gampang:v tau nya",
-            "k": ""
-          },
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793055085656,
-          "exp": 0
-        },
-        {
           "id": "mvpx06wr9cab34",
           "u": "1e753f4eadbb",
           "t": "Gg",
@@ -4749,9 +4723,30 @@
           "s": 0,
           "ts": 1793346407388,
           "exp": 0
+        },
+        {
+          "id": "mvuog8vac33eb2",
+          "u": "admin",
+          "t": "bisa kirim gambar/vidio 1x kiat",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793346916582,
+          "exp": 0
         }
       ],
-      "lastTs": 1793346407388,
+      "lastTs": 1793346916582,
       "timer": 0,
       "unread": {}
     },
@@ -8586,7 +8581,7 @@
         "g": 1
       },
       "2026-10-30": {
-        "m": 14,
+        "m": 15,
         "c": 7,
         "u": 3,
         "g": 1
