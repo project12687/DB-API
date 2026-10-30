@@ -2076,31 +2076,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvpshj2h3f502b",
-          "u": "51f518f81183",
-          "t": "Ppp",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {
-            "👍": [
-              "admin"
-            ]
-          },
-          "m": [],
-          "s": 0,
-          "ts": 1793051364041,
-          "exp": 0
-        },
-        {
           "id": "mvpup59k6ad7c8",
           "u": "admin",
           "t": "udah bisa react atau reply ya pencet pesan user aja",
@@ -4734,9 +4709,30 @@
           "s": 0,
           "ts": 1793341265834,
           "exp": 0
+        },
+        {
+          "id": "mvuo4hjwda7f2a",
+          "u": "admin",
+          "t": "cek update terbaru udah bisa vc dan add sticker+ curi sticker dll lah",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793346367964,
+          "exp": 0
         }
       ],
-      "lastTs": 1793341265834,
+      "lastTs": 1793346367964,
       "timer": 0,
       "unread": {}
     },
@@ -8487,7 +8483,7 @@
         "g": 1
       },
       "2026-10-30": {
-        "m": 11,
+        "m": 12,
         "c": 5,
         "u": 2,
         "g": 0
