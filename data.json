@@ -3233,6 +3233,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "hahaha@gmail.com": {
+      "name": "Tess",
+      "email": "hahaha@gmail.com",
+      "pass": "s1$b961089495f552bc723d264923f89f2c$ce4b73de0791e2e20d9053fa2f0c5717379209e622ceb06368a42e06b0c4851b",
+      "apikey": "rin_8fea9e6693db2b6244",
+      "cap": "free",
+      "ip": "2400:9800:307:9f75:18e3:3bc7:7ab1:8b94",
+      "regIp": "2400:9800:307:9f75:18e3:3bc7:7ab1:8b94",
+      "createdAt": "2026-10-30T07:59:07.622Z",
+      "lastLogin": "2026-10-30T07:59:07.622Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
