@@ -2166,27 +2166,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvpx3pa458cdc1",
-          "u": "admin",
-          "t": "ga tuh",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793059116989,
-          "exp": 0
-        },
-        {
           "id": "mvq81qog25d6b6",
           "u": "1e753f4eadbb",
           "t": "Gua koreksi bahwa notifikasi belom fix",
@@ -4811,9 +4790,30 @@
           "s": 0,
           "ts": 1793351515362,
           "exp": 0
+        },
+        {
+          "id": "mvut7c4ddec842",
+          "u": "634a5398bb59",
+          "t": "https://apiii-xrina.my.id/rch#redeem",
+          "i": "bf6fea6ba4b95a2c1863.png",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793354898973,
+          "exp": 0
         }
       ],
-      "lastTs": 1793351515362,
+      "lastTs": 1793354898973,
       "timer": 0,
       "unread": {}
     },
@@ -9012,7 +9012,7 @@
         "g": 1
       },
       "2026-10-30": {
-        "m": 30,
+        "m": 31,
         "c": 16,
         "u": 6,
         "g": 2
