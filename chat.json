@@ -1250,7 +1250,7 @@
       "createdAt": 1793108734725,
       "updatedAt": 1793108734725,
       "pref": {
-        "bubble": "klasik",
+        "bubble": "neon",
         "snd": true,
         "prev": true,
         "grp": true,
@@ -6162,6 +6162,18 @@
       "mem": [
         "9d74da8868f3",
         "admin"
+      ],
+      "msgs": [],
+      "lastTs": 0,
+      "timer": 0,
+      "unread": {}
+    },
+    "d_6deeadf9efe0_e472877a2153": {
+      "id": "d_6deeadf9efe0_e472877a2153",
+      "type": "dm",
+      "mem": [
+        "6deeadf9efe0",
+        "e472877a2153"
       ],
       "msgs": [],
       "lastTs": 0,
