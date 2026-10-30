@@ -8705,6 +8705,46 @@
       "lastTs": 0,
       "timer": 0,
       "unread": {}
+    },
+    "g_0f6d0d7359": {
+      "id": "g_0f6d0d7359",
+      "type": "group",
+      "mem": [
+        "63f7cfafd24b"
+      ],
+      "msgs": [
+        {
+          "id": "mvur980oc614e8",
+          "u": "",
+          "t": "Fariq Akbar123 membuat grup \"Hahha\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793351627736,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793351627736,
+      "timer": 0,
+      "unread": {},
+      "adm": [
+        "63f7cfafd24b"
+      ],
+      "owner": "63f7cfafd24b",
+      "name": "Hahha",
+      "bio": "",
+      "avatar": "",
+      "code": "ceb5c6a8d9aef797",
+      "set": {
+        "adm": false,
+        "inv": true,
+        "inf": true
+      },
+      "createdAt": 1793351627736
     }
   },
   "blocked": {
@@ -8932,7 +8972,7 @@
         "m": 29,
         "c": 16,
         "u": 5,
-        "g": 1
+        "g": 2
       }
     }
   }
