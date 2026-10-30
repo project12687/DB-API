@@ -8304,6 +8304,46 @@
       "lastTs": 0,
       "timer": 0,
       "unread": {}
+    },
+    "g_fedf93b3b2": {
+      "id": "g_fedf93b3b2",
+      "type": "group",
+      "mem": [
+        "6db70b0a900a"
+      ],
+      "msgs": [
+        {
+          "id": "mvuob60f6716a4",
+          "u": "",
+          "t": "hentai membuat grup \"porno\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793346679599,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793346679599,
+      "timer": 0,
+      "unread": {},
+      "adm": [
+        "6db70b0a900a"
+      ],
+      "owner": "6db70b0a900a",
+      "name": "porno",
+      "bio": "hai",
+      "avatar": "",
+      "code": "bf41ed2a31ad8c90",
+      "set": {
+        "adm": false,
+        "inv": true,
+        "inf": true
+      },
+      "createdAt": 1793346679599
     }
   },
   "blocked": {
@@ -8556,7 +8596,7 @@
         "m": 14,
         "c": 5,
         "u": 3,
-        "g": 0
+        "g": 1
       }
     }
   }
