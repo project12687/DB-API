@@ -6134,28 +6134,6 @@
   },
   "status": [
     {
-      "id": "mvsular45e5a36",
-      "u": "0c29c77e3a97",
-      "t": "Tes buat status",
-      "i": "",
-      "c": "",
-      "bg": 0,
-      "ts": 1793236297648,
-      "exp": 1793322697648,
-      "v": [
-        "admin",
-        "512b1c6eb53d",
-        "5964e5e8dbba",
-        "1e753f4eadbb",
-        "9901add5c346",
-        "c406d9fbf5a9",
-        "78f795b5c5c7",
-        "bf8c3e658f69",
-        "1eca7ce14757",
-        "ea5704600ca3"
-      ]
-    },
-    {
       "id": "mvt3zfs29bac52",
       "u": "admin",
       "t": "premium edopoint & limit rch gas kan",
