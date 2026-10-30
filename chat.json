@@ -8815,54 +8815,6 @@
       "dur": 0
     },
     {
-      "id": "mvunyay1zob674",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "missed",
-      "ts": 1793346079465,
-      "dur": 0
-    },
-    {
-      "id": "mmvunytvr",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "missed",
-      "ts": 1793346104007,
-      "dur": 0
-    },
-    {
-      "id": "mvunzdwsv2k613",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "ended",
-      "ts": 1793346129964,
-      "dur": 5
-    },
-    {
-      "id": "mvunzrvmgadrje",
-      "a": "admin",
-      "b": "634a5398bb59",
-      "st": "ended",
-      "ts": 1793346148066,
-      "dur": 33
-    },
-    {
-      "id": "mvuodkm95e2dur",
-      "a": "admin",
-      "b": "634a5398bb59",
-      "st": "missed",
-      "ts": 1793346791841,
-      "dur": 0
-    },
-    {
-      "id": "mvuody1iygkxsz",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "ended",
-      "ts": 1793346809238,
-      "dur": 64
-    },
-    {
       "id": "mvuonapa8sho20",
       "a": "admin",
       "b": "2ad22060a940",
@@ -8885,46 +8837,6 @@
       "st": "ended",
       "ts": 1793347378513,
       "dur": 16
-    },
-    {
-      "id": "mvuoradrqlqrj8",
-      "a": "634a5398bb59",
-      "b": "2ad22060a940",
-      "st": "ended",
-      "ts": 1793347431759,
-      "dur": 16
-    },
-    {
-      "id": "mmvuozube",
-      "a": "admin",
-      "b": "634a5398bb59",
-      "st": "missed",
-      "ts": 1793347830842,
-      "dur": 0
-    },
-    {
-      "id": "mvup043yt9pper",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "ended",
-      "ts": 1793347843534,
-      "dur": 186
-    },
-    {
-      "id": "mvup9zb50en4ey",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "missed",
-      "ts": 1793348303873,
-      "dur": 0
-    },
-    {
-      "id": "mvupa8654ox8ux",
-      "a": "634a5398bb59",
-      "b": "admin",
-      "st": "declined",
-      "ts": 1793348315357,
-      "dur": 0
     }
   ],
   "stats": {
