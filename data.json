@@ -3338,6 +3338,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "hzhostid2@gmail.com": {
+      "name": "Kaiizn",
+      "email": "hzhostid2@gmail.com",
+      "pass": "s1$04d0c3a4b21d4cd68108dc54d99a402f$8c97e5d2ae7f050c5fc72bd6f2c0ac522d052a0c1bfbe79f06935f003ddfa783",
+      "apikey": "rin_7e7b44bf89377cecda",
+      "cap": "free",
+      "ip": "2001:448a:7070:6985:f989:5a49:ac6d:4667",
+      "regIp": "2001:448a:7070:6985:f989:5a49:ac6d:4667",
+      "createdAt": "2026-10-30T21:06:26.589Z",
+      "lastLogin": "2026-10-30T21:06:26.589Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
