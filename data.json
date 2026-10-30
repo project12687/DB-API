@@ -3345,10 +3345,31 @@
       "pass": "s1$04d0c3a4b21d4cd68108dc54d99a402f$8c97e5d2ae7f050c5fc72bd6f2c0ac522d052a0c1bfbe79f06935f003ddfa783",
       "apikey": "rin_7e7b44bf89377cecda",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2001:448a:7070:6985:f989:5a49:ac6d:4667",
       "regIp": "2001:448a:7070:6985:f989:5a49:ac6d:4667",
       "createdAt": "2026-10-30T21:06:26.589Z",
       "lastLogin": "2026-10-30T21:06:26.589Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "helenzent@gmail.com": {
+      "name": "VALL",
+      "email": "helenzent@gmail.com",
+      "pass": "s1$3f5c1896d90e0cb4897a24251e1ed7af$7103290031dbfed2853f8b52fd1f85f70e6fdb9c53b58ba8d5e87483890d8ab2",
+      "apikey": "rin_a388993d616972196e",
+      "cap": "free",
+      "ip": "103.111.94.170",
+      "regIp": "103.111.94.170",
+      "createdAt": "2026-10-30T23:47:19.787Z",
+      "lastLogin": "2026-10-30T23:47:19.787Z",
       "extra": 0,
       "window": {
         "start": 0,
