@@ -1863,20 +1863,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvp8zpcmfbdf48",
-          "u": "86b844cc75aa",
-          "t": "@ᴅʜᴀɴʏʏ-ɪɴғɪɴɪᴛʏ gas aja si tapi kayanya bakal pake firebase buat simpen chatnya boros db kalo simpen di db🗿",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793018619670,
-          "exp": 0
-        },
-        {
           "id": "mvpay3dt7aea58",
           "u": "5964e5e8dbba",
           "t": ":v",
@@ -3681,9 +3667,23 @@
           "s": 0,
           "ts": 1793322597234,
           "exp": 0
+        },
+        {
+          "id": "mvud3p5p6d9aff",
+          "u": "admin",
+          "t": "nanti untuk chat ini ada update ya",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793327855389,
+          "exp": 0
         }
       ],
-      "lastTs": 1793322597234,
+      "lastTs": 1793327855389,
       "timer": 0,
       "unread": {}
     },
@@ -6243,7 +6243,7 @@
         "g": 1
       },
       "2026-10-30": {
-        "m": 3,
+        "m": 4,
         "c": 0,
         "u": 1,
         "g": 0
