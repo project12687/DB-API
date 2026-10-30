@@ -3296,6 +3296,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "chatgptv909@gmail.com": {
+      "name": "Cdv",
+      "email": "chatgptv909@gmail.com",
+      "pass": "s1$3f3cd38a3517c6870b1d542142d9d0fd$b142765756151797a1a659f0407b784788bc307fe8d48b7f65a0795f78ea1076",
+      "apikey": "rin_9c2559ed88688eebff",
+      "cap": "free",
+      "ip": "114.10.77.117",
+      "regIp": "114.10.77.117",
+      "createdAt": "2026-10-30T15:31:30.548Z",
+      "lastLogin": "2026-10-30T15:31:30.548Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
