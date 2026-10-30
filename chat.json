@@ -5743,7 +5743,8 @@
         "0c29c77e3a97",
         "5ecc8a0a9814",
         "f15f3c8bfec2",
-        "5770c6e76738"
+        "5770c6e76738",
+        "63f7cfafd24b"
       ],
       "msgs": [
         {
@@ -6464,9 +6465,23 @@
           "s": 1,
           "ts": 1793308560711,
           "exp": 0
+        },
+        {
+          "id": "mvur72o8df2069",
+          "u": "",
+          "t": "Fariq Akbar123 bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793351527496,
+          "exp": 0
         }
       ],
-      "lastTs": 1793308560711,
+      "lastTs": 1793351527496,
       "timer": 0,
       "unread": {
         "49db73edbc20": 13,
