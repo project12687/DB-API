@@ -1882,20 +1882,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvpaygkrc4b7ad",
-          "u": "5964e5e8dbba",
-          "t": "ada renz juga",
-          "i": "",
-          "v": "",
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793021920875,
-          "exp": 0
-        },
-        {
           "id": "mvpazj4h41d10d",
           "u": "5964e5e8dbba",
           "t": "kalau ada notif JKT48 yg lagi live kan jadi gampang:v tau nya",
@@ -3700,9 +3686,23 @@
           "s": 0,
           "ts": 1793328511594,
           "exp": 0
+        },
+        {
+          "id": "mvudjhf2fe56c8",
+          "u": "634a5398bb59",
+          "t": "list nya",
+          "i": "40ed27814929703daec8.png",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793328591854,
+          "exp": 0
         }
       ],
-      "lastTs": 1793328511594,
+      "lastTs": 1793328591854,
       "timer": 0,
       "unread": {}
     },
@@ -6292,7 +6292,7 @@
         "g": 1
       },
       "2026-10-30": {
-        "m": 5,
+        "m": 6,
         "c": 1,
         "u": 2,
         "g": 0
