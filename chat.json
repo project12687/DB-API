@@ -2100,7 +2100,7 @@
       "updatedAt": 1793347150529,
       "pref": {
         "bubble": "klasik",
-        "snd": true,
+        "snd": false,
         "prev": true,
         "grp": true,
         "blocks": [],
