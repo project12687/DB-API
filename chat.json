@@ -8537,42 +8537,6 @@
   },
   "status": [
     {
-      "id": "mvt9kvjg29db90",
-      "u": "1e753f4eadbb",
-      "t": "Titut bahagia",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "z": 1,
-        "px": 0,
-        "py": 0,
-        "f": "none",
-        "b": 0,
-        "fit": "cover",
-        "tx": []
-      },
-      "ts": 1793261472172,
-      "exp": 1793347872172,
-      "v": [
-        "admin",
-        "9901add5c346",
-        "c406d9fbf5a9",
-        "78f795b5c5c7",
-        "1eca7ce14757",
-        "ea5704600ca3",
-        "5964e5e8dbba",
-        "634a5398bb59",
-        "e472877a2153",
-        "0c29c77e3a97",
-        "45ee6bea6abc"
-      ],
-      "lk": []
-    },
-    {
       "id": "mvtf6zoc5dac1a",
       "u": "c406d9fbf5a9",
       "t": "y",
