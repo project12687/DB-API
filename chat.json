@@ -2102,7 +2102,7 @@
         "bubble": "klasik",
         "snd": false,
         "prev": false,
-        "grp": true,
+        "grp": false,
         "blocks": [],
         "pins": [],
         "muted": [],
