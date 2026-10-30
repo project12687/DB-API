@@ -6177,26 +6177,6 @@
   },
   "status": [
     {
-      "id": "mvt3zfs29bac52",
-      "u": "admin",
-      "t": "premium edopoint & limit rch gas kan",
-      "i": "",
-      "c": "",
-      "bg": 0,
-      "ts": 1793252073890,
-      "exp": 1793338473890,
-      "v": [
-        "5964e5e8dbba",
-        "1e753f4eadbb",
-        "9901add5c346",
-        "c406d9fbf5a9",
-        "78f795b5c5c7",
-        "86b844cc75aa",
-        "1eca7ce14757",
-        "ea5704600ca3"
-      ]
-    },
-    {
       "id": "mvt78md3b819fb",
       "u": "5964e5e8dbba",
       "t": "",
