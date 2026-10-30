@@ -6234,12 +6234,28 @@
         "1e753f4eadbb",
         "9d74da8868f3"
       ]
+    },
+    {
+      "id": "mvudj845f84a40",
+      "u": "634a5398bb59",
+      "t": "",
+      "i": "b191a6e9050aba3d7ef4.png",
+      "c": "lagi di proses",
+      "bg": 0,
+      "ts": 1793328579797,
+      "exp": 1793414979797,
+      "v": []
     }
   ],
   "statusImgs": {
     "5dab7164d1229e2785b5.png": {
       "u": "5964e5e8dbba",
       "ts": 1793257540830,
+      "used": true
+    },
+    "b191a6e9050aba3d7ef4.png": {
+      "u": "634a5398bb59",
+      "ts": 1793328579346,
       "used": true
     }
   },
