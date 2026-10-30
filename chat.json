@@ -8426,35 +8426,6 @@
       "lk": []
     },
     {
-      "id": "mvudj845f84a40",
-      "u": "634a5398bb59",
-      "t": "",
-      "i": "b191a6e9050aba3d7ef4.png",
-      "vd": "",
-      "c": "lagi di proses",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "z": 1,
-        "px": 0,
-        "py": 0,
-        "f": "none",
-        "b": 0,
-        "fit": "cover",
-        "tx": []
-      },
-      "ts": 1793328579797,
-      "exp": 1793414979797,
-      "v": [
-        "admin",
-        "e472877a2153",
-        "0c29c77e3a97",
-        "45ee6bea6abc"
-      ],
-      "lk": []
-    },
-    {
       "id": "mvul3pow7006e9",
       "u": "0c29c77e3a97",
       "t": "Hola semuanya",
@@ -8511,11 +8482,6 @@
     }
   ],
   "statusImgs": {
-    "b191a6e9050aba3d7ef4.png": {
-      "u": "634a5398bb59",
-      "ts": 1793328579346,
-      "used": true
-    },
     "e2d9c0c793b1d358a41e.mp4": {
       "u": "admin",
       "ts": 1793346676885,
