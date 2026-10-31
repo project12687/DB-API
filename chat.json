@@ -7193,24 +7193,47 @@
           "s": 0,
           "ts": 1793452619472,
           "exp": 0
+        },
+        {
+          "id": "mvx1bdqnd78868",
+          "u": "0c29c77e3a97",
+          "t": "Min, mau tanya, limit request berapa / apa gitu ada apa nggak si?\nSoalnya kok botku beberapa kali nggak bisa ngeksekusi perintah nya",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793489456975,
+          "exp": 0
         }
       ],
-      "lastTs": 1793452619472,
+      "lastTs": 1793489456975,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 31,
-        "5b5526a5ee71": 30,
-        "4a2dd999fabc": 27,
-        "f0bc2ae29318": 26,
-        "a14ab5eb0e83": 25,
-        "5ecc8a0a9814": 22,
-        "f15f3c8bfec2": 22,
-        "8fb21147efb6": 18,
-        "5770c6e76738": 18,
-        "634a5398bb59": 14,
-        "6db70b0a900a": 12,
-        "2b279da6f7cf": 10,
-        "63f7cfafd24b": 1
+        "49db73edbc20": 32,
+        "5b5526a5ee71": 31,
+        "4a2dd999fabc": 28,
+        "f0bc2ae29318": 27,
+        "a14ab5eb0e83": 26,
+        "5ecc8a0a9814": 23,
+        "f15f3c8bfec2": 23,
+        "8fb21147efb6": 19,
+        "5770c6e76738": 19,
+        "634a5398bb59": 15,
+        "6db70b0a900a": 13,
+        "2b279da6f7cf": 11,
+        "63f7cfafd24b": 2,
+        "admin": 1,
+        "1e753f4eadbb": 1
       },
       "adm": [
         "admin"
@@ -9813,7 +9836,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 0,
+        "m": 1,
         "c": 0,
         "u": 1,
         "g": 0
