@@ -6980,25 +6980,52 @@
           "s": 0,
           "ts": 1793451753799,
           "exp": 0
+        },
+        {
+          "id": "mvwewg6001d7fc",
+          "u": "0c29c77e3a97",
+          "t": "Api min, buka. Fitur di web chat ini",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvwev9s7abafda",
+            "w": "admin",
+            "t": "cek ch ku and kalo chat ada add kirim sticker,vc, kirim 1x liat dll",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793451808728,
+          "exp": 0
         }
       ],
-      "lastTs": 1793451753799,
+      "lastTs": 1793451808728,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 24,
-        "5b5526a5ee71": 23,
-        "4a2dd999fabc": 20,
-        "f0bc2ae29318": 19,
-        "a14ab5eb0e83": 18,
-        "5ecc8a0a9814": 15,
-        "f15f3c8bfec2": 15,
-        "8fb21147efb6": 11,
-        "5770c6e76738": 11,
-        "63f7cfafd24b": 10,
-        "634a5398bb59": 7,
-        "1e753f4eadbb": 7,
-        "6db70b0a900a": 5,
-        "2b279da6f7cf": 3
+        "49db73edbc20": 25,
+        "5b5526a5ee71": 24,
+        "4a2dd999fabc": 21,
+        "f0bc2ae29318": 20,
+        "a14ab5eb0e83": 19,
+        "5ecc8a0a9814": 16,
+        "f15f3c8bfec2": 16,
+        "8fb21147efb6": 12,
+        "5770c6e76738": 12,
+        "63f7cfafd24b": 11,
+        "634a5398bb59": 8,
+        "1e753f4eadbb": 8,
+        "6db70b0a900a": 6,
+        "2b279da6f7cf": 4,
+        "admin": 1
       },
       "adm": [
         "admin"
@@ -9520,7 +9547,7 @@
         "g": 2
       },
       "2026-10-31": {
-        "m": 11,
+        "m": 12,
         "c": 0,
         "u": 10,
         "g": 0
