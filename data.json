@@ -74,9 +74,9 @@
       "regIp": "49.0.26.43",
       "createdAt": "2026-10-11T14:59:04.677Z",
       "lastLogin": "2026-10-11T14:59:04.677Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-10-31T11:51:32.912Z",
+      "bannedReason": "IP 49.0.26.43 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 0,
@@ -3500,6 +3500,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "esthgenn@gmail.com": {
+      "name": "Estheryu",
+      "email": "esthgenn@gmail.com",
+      "pass": "s1$551659a72a2acb08a3ca254772fcc5f6$464595e041769704bc9276fdb1e19b417b71157768516c30a311e83fe3245289",
+      "apikey": "rin_aa609bcbe30c43c6d4",
+      "cap": "free",
+      "ip": "49.0.26.43",
+      "regIp": "49.0.26.43",
+      "createdAt": "2026-10-31T11:51:32.912Z",
+      "lastLogin": "2026-10-31T11:51:32.912Z",
       "extra": 0,
       "window": {
         "start": 0,
