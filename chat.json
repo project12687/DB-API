@@ -2305,6 +2305,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "27988247c335": {
+      "key": "jielnotdev@gmail.com",
+      "username": "nama saya",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793431634072,
+      "updatedAt": 1793431634072,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -9407,7 +9428,7 @@
       "2026-10-31": {
         "m": 5,
         "c": 0,
-        "u": 6,
+        "u": 7,
         "g": 0
       }
     }
