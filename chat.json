@@ -7027,25 +7027,52 @@
           "s": 0,
           "ts": 1793451856454,
           "exp": 0
+        },
+        {
+          "id": "mvwey3dj0a0e5b",
+          "u": "admin",
+          "t": "*URL :* https://apiii-xrina.my.id/\n𝗗𝗼𝗰𝘀 :  https://apiii-xrina.my.id/docs\n\n*# NEW*\n\n/canvas/ttdm  *( yng lagi viral )*\n/canvas/afinitasml\n/canvas/fakedev1\n/canvas/fakedev2\n/ai/dravyn-ai\n/ai/elyvyn\n/ai/klyra\n/ai/lyvren-chat\n/ai/myvra-ai\n/ai/noxora-ai\n/ai/orrvyn-chat\n/ai/quelyx-ai\n/ai/velrix-chat\n/ai/zavynt\n/upload/aceimg \n/tools/shortlink2 \n/tools/songai \n/tools/bandingkan-hp\n\n*# FIX*\n\n/download/instagram \n/canvas/codesnap \n\n*date :* 31/10/2026",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvwexgzqa6036d",
+            "w": "0c29c77e3a97",
+            "t": "Aaaaaa.... Gimana yah ngejelasinnya takut salah nangkep",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793451885463,
+          "exp": 0
         }
       ],
-      "lastTs": 1793451856454,
+      "lastTs": 1793451885463,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 26,
-        "5b5526a5ee71": 25,
-        "4a2dd999fabc": 22,
-        "f0bc2ae29318": 21,
-        "a14ab5eb0e83": 20,
-        "5ecc8a0a9814": 17,
-        "f15f3c8bfec2": 17,
-        "8fb21147efb6": 13,
-        "5770c6e76738": 13,
-        "63f7cfafd24b": 12,
-        "634a5398bb59": 9,
-        "1e753f4eadbb": 9,
-        "6db70b0a900a": 7,
-        "2b279da6f7cf": 5
+        "49db73edbc20": 27,
+        "5b5526a5ee71": 26,
+        "4a2dd999fabc": 23,
+        "f0bc2ae29318": 22,
+        "a14ab5eb0e83": 21,
+        "5ecc8a0a9814": 18,
+        "f15f3c8bfec2": 18,
+        "8fb21147efb6": 14,
+        "5770c6e76738": 14,
+        "63f7cfafd24b": 13,
+        "634a5398bb59": 10,
+        "1e753f4eadbb": 10,
+        "6db70b0a900a": 8,
+        "2b279da6f7cf": 6,
+        "0c29c77e3a97": 1
       },
       "adm": [
         "admin"
@@ -9567,7 +9594,7 @@
         "g": 2
       },
       "2026-10-31": {
-        "m": 13,
+        "m": 14,
         "c": 0,
         "u": 10,
         "g": 0
