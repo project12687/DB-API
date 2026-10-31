@@ -6954,25 +6954,52 @@
           "s": 0,
           "ts": 1793451708848,
           "exp": 0
+        },
+        {
+          "id": "mvwev9s7abafda",
+          "u": "admin",
+          "t": "cek ch ku and kalo chat ada add kirim sticker,vc, kirim 1x liat dll",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvweub3kfb6ae1",
+            "w": "0c29c77e3a97",
+            "t": "Ada api baru ga mint?",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793451753799,
+          "exp": 0
         }
       ],
-      "lastTs": 1793451708848,
+      "lastTs": 1793451753799,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 23,
-        "5b5526a5ee71": 22,
-        "4a2dd999fabc": 19,
-        "f0bc2ae29318": 18,
-        "a14ab5eb0e83": 17,
-        "5ecc8a0a9814": 14,
-        "f15f3c8bfec2": 14,
-        "8fb21147efb6": 10,
-        "5770c6e76738": 10,
-        "63f7cfafd24b": 9,
-        "634a5398bb59": 6,
-        "1e753f4eadbb": 6,
-        "6db70b0a900a": 4,
-        "2b279da6f7cf": 2
+        "49db73edbc20": 24,
+        "5b5526a5ee71": 23,
+        "4a2dd999fabc": 20,
+        "f0bc2ae29318": 19,
+        "a14ab5eb0e83": 18,
+        "5ecc8a0a9814": 15,
+        "f15f3c8bfec2": 15,
+        "8fb21147efb6": 11,
+        "5770c6e76738": 11,
+        "63f7cfafd24b": 10,
+        "634a5398bb59": 7,
+        "1e753f4eadbb": 7,
+        "6db70b0a900a": 5,
+        "2b279da6f7cf": 3,
+        "0c29c77e3a97": 1
       },
       "adm": [
         "admin"
@@ -9467,7 +9494,7 @@
         "g": 2
       },
       "2026-10-31": {
-        "m": 10,
+        "m": 11,
         "c": 0,
         "u": 10,
         "g": 0
