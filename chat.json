@@ -2293,32 +2293,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvq85wyh610346",
-          "u": "634a5398bb59",
-          "t": "belom bisa chat sesama user lagi di proses",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": {
-            "id": "mvq85l4bdf0e13",
-            "w": "a14ab5eb0e83",
-            "t": "cb chat guys",
-            "k": ""
-          },
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793077696025,
-          "exp": 0
-        },
-        {
           "id": "mvq86mm1370465",
           "u": "a14ab5eb0e83",
           "t": "sip",
@@ -4948,9 +4922,35 @@
           "s": 0,
           "ts": 1793426450214,
           "exp": 0
+        },
+        {
+          "id": "mvw040hje16ead",
+          "u": "admin",
+          "t": "ada tapi bisa ratusan ribu lah di atas 130+",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvvzsxeu93729f",
+            "w": "0ced869dcfa3",
+            "t": "@Rin ga ada niatan bikin plan react ch permanen kah",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793426967415,
+          "exp": 0
         }
       ],
-      "lastTs": 1793426450214,
+      "lastTs": 1793426967415,
       "timer": 0,
       "unread": {}
     },
@@ -9416,7 +9416,7 @@
         "g": 2
       },
       "2026-10-31": {
-        "m": 4,
+        "m": 5,
         "c": 0,
         "u": 5,
         "g": 0
