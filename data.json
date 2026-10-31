@@ -3380,6 +3380,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "nyyvinne@gmail.com": {
+      "name": "danzz",
+      "email": "nyyvinne@gmail.com",
+      "pass": "s1$38d73ca991cb3694212bbf643bf79477$5fcdb01c7fd2a9423b0f476e900fdbb99ffc842d3b912ca0ac7a703b0ab142fc",
+      "apikey": "rin_31a76b0ed18e366e09",
+      "cap": "free",
+      "ip": "210.87.74.139",
+      "regIp": "210.87.74.139",
+      "createdAt": "2026-10-31T03:49:23.153Z",
+      "lastLogin": "2026-10-31T03:49:23.153Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
