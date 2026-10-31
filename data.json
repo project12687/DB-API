@@ -3408,10 +3408,31 @@
       "pass": "s1$623918b9501ff9148810b7bca74d1a3c$e13e8e89ce681b281e06d1ad080d506c73d190092531d46bae20c9435425a3b3",
       "apikey": "rin_7eb750eddb82c3d6be",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2001:448a:2010:30fd:8102:3f67:c992:1c72",
       "regIp": "2001:448a:2010:30fd:8102:3f67:c992:1c72",
       "createdAt": "2026-10-31T04:27:36.872Z",
       "lastLogin": "2026-10-31T04:27:36.872Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "ds4612542@gmail.com": {
+      "name": "Danzystore",
+      "email": "ds4612542@gmail.com",
+      "pass": "s1$97e9ad940d6cb73d4df7effd9e18afea$835ae8159e5a0b70e74a558dac2765cb00eb7065674fb8e6af1a4494f1e406c3",
+      "apikey": "rin_2d1c930193db492a4c",
+      "cap": "free",
+      "ip": "103.156.233.27",
+      "regIp": "103.156.233.27",
+      "createdAt": "2026-10-31T04:28:32.906Z",
+      "lastLogin": "2026-10-31T04:28:32.906Z",
       "extra": 0,
       "window": {
         "start": 0,
