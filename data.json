@@ -3443,6 +3443,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "ilyaskarim583@gmail.com": {
+      "name": "Velix",
+      "email": "ilyaskarim583@gmail.com",
+      "pass": "s1$2824999be2c8107050f760712ae06488$9a57a9884e0ba0359205b52e6dcd61b910c60be92f00c502a2a29225c7912e8c",
+      "apikey": "rin_6fca99df46997551a1",
+      "cap": "free",
+      "ip": "2400:9800:fe:c229:18e3:7fb0:a6f3:9c37",
+      "regIp": "2400:9800:fe:c229:18e3:7fb0:a6f3:9c37",
+      "createdAt": "2026-10-31T04:30:22.619Z",
+      "lastLogin": "2026-10-31T04:30:22.619Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
