@@ -2133,7 +2133,7 @@
         "pins": [],
         "muted": [],
         "clr": {},
-        "rr": 1793351515362,
+        "rr": 1793449755976,
         "swm": "",
         "swp": "br"
       }
@@ -2378,6 +2378,27 @@
       "updatedAt": 1793447518222,
       "pref": {
         "bubble": "awan",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 1793449755976,
+        "swm": "",
+        "swp": "br"
+      }
+    },
+    "456a0fd34a0f": {
+      "key": "kenzstrx@gmail.com",
+      "username": "kenz",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793452459395,
+      "updatedAt": 1793452459395,
+      "pref": {
+        "bubble": "klasik",
         "snd": true,
         "prev": true,
         "grp": true,
@@ -9454,7 +9475,8 @@
         "ba385afcfbee",
         "5964e5e8dbba",
         "099d9c6e7541",
-        "0c29c77e3a97"
+        "0c29c77e3a97",
+        "63f7cfafd24b"
       ],
       "lk": []
     },
@@ -9484,7 +9506,8 @@
       "exp": 1793536263442,
       "v": [
         "admin",
-        "0c29c77e3a97"
+        "0c29c77e3a97",
+        "63f7cfafd24b"
       ],
       "lk": []
     },
@@ -9513,7 +9536,8 @@
       "ts": 1793451758494,
       "exp": 1793538158494,
       "v": [
-        "admin"
+        "admin",
+        "63f7cfafd24b"
       ],
       "lk": []
     }
@@ -9666,7 +9690,7 @@
       "2026-10-31": {
         "m": 17,
         "c": 0,
-        "u": 10,
+        "u": 11,
         "g": 0
       }
     }
