@@ -7417,25 +7417,52 @@
           "s": 0,
           "ts": 1793535405490,
           "exp": 0
+        },
+        {
+          "id": "mvxsoy3wade91d",
+          "u": "admin",
+          "t": "nanti cuma 200 kata doang",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvxskfo36f28f7",
+            "w": "1e753f4eadbb",
+            "t": "Post status teks di web ini dikasih batasan anjrit 500 teks sedangkan teks promosi gua aja",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793535439532,
+          "exp": 0
         }
       ],
-      "lastTs": 1793535405490,
+      "lastTs": 1793535439532,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 39,
-        "5b5526a5ee71": 38,
-        "4a2dd999fabc": 35,
-        "f0bc2ae29318": 34,
-        "a14ab5eb0e83": 33,
-        "5ecc8a0a9814": 30,
-        "f15f3c8bfec2": 30,
-        "8fb21147efb6": 26,
-        "5770c6e76738": 26,
-        "634a5398bb59": 22,
-        "6db70b0a900a": 20,
-        "2b279da6f7cf": 18,
-        "0c29c77e3a97": 7,
-        "63f7cfafd24b": 3
+        "49db73edbc20": 40,
+        "5b5526a5ee71": 39,
+        "4a2dd999fabc": 36,
+        "f0bc2ae29318": 35,
+        "a14ab5eb0e83": 34,
+        "5ecc8a0a9814": 31,
+        "f15f3c8bfec2": 31,
+        "8fb21147efb6": 27,
+        "5770c6e76738": 27,
+        "634a5398bb59": 23,
+        "6db70b0a900a": 21,
+        "2b279da6f7cf": 19,
+        "0c29c77e3a97": 8,
+        "63f7cfafd24b": 4,
+        "1e753f4eadbb": 1
       },
       "adm": [
         "admin"
@@ -10144,7 +10171,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 21,
+        "m": 22,
         "c": 4,
         "u": 1,
         "g": 0
