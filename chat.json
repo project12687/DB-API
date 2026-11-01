@@ -2431,6 +2431,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "436abe2177ef": {
+      "key": "amirulfathan92@gmail.com",
+      "username": "kaze",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793540675253,
+      "updatedAt": 1793540675253,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -10171,7 +10192,7 @@
       "2026-11-01": {
         "m": 24,
         "c": 6,
-        "u": 1,
+        "u": 2,
         "g": 0
       }
     }
