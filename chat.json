@@ -9940,6 +9940,42 @@
       "lastTs": 0,
       "timer": 0,
       "unread": {}
+    },
+    "d_0c8d9507f32f_admin": {
+      "id": "d_0c8d9507f32f_admin",
+      "type": "dm",
+      "mem": [
+        "0c8d9507f32f",
+        "admin"
+      ],
+      "msgs": [
+        {
+          "id": "mvy0xv6n20a097",
+          "u": "0c8d9507f32f",
+          "t": "min, ini knpa fto profile nya gede\nhttps://kappa.lol/MHCVzq",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793549292575,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1793549292575,
+      "timer": 0,
+      "unread": {
+        "admin": 1
+      }
     }
   },
   "blocked": {
@@ -10292,7 +10328,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 24,
+        "m": 25,
         "c": 6,
         "u": 6,
         "g": 0
