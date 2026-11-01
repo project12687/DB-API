@@ -7292,25 +7292,52 @@
           "s": 0,
           "ts": 1793493041689,
           "exp": 0
+        },
+        {
+          "id": "mvx6djfu456c6d",
+          "u": "63f7cfafd24b",
+          "t": "Min request menu ai yang ada url gambar Ama sesiond id dan model lagi dong\n\nKayak Gemini atau gpt",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvx3g7q16dd032",
+            "w": "admin",
+            "t": "makanya jangan ddos",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793497955754,
+          "exp": 0
         }
       ],
-      "lastTs": 1793493041689,
+      "lastTs": 1793497955754,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 35,
-        "5b5526a5ee71": 34,
-        "4a2dd999fabc": 31,
-        "f0bc2ae29318": 30,
-        "a14ab5eb0e83": 29,
-        "5ecc8a0a9814": 26,
-        "f15f3c8bfec2": 26,
-        "8fb21147efb6": 22,
-        "5770c6e76738": 22,
-        "634a5398bb59": 18,
-        "6db70b0a900a": 16,
-        "2b279da6f7cf": 14,
-        "1e753f4eadbb": 3,
-        "0c29c77e3a97": 3
+        "49db73edbc20": 36,
+        "5b5526a5ee71": 35,
+        "4a2dd999fabc": 32,
+        "f0bc2ae29318": 31,
+        "a14ab5eb0e83": 30,
+        "5ecc8a0a9814": 27,
+        "f15f3c8bfec2": 27,
+        "8fb21147efb6": 23,
+        "5770c6e76738": 23,
+        "634a5398bb59": 19,
+        "6db70b0a900a": 17,
+        "2b279da6f7cf": 15,
+        "1e753f4eadbb": 4,
+        "0c29c77e3a97": 4,
+        "admin": 1
       },
       "adm": [
         "admin"
@@ -10054,7 +10081,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 5,
+        "m": 6,
         "c": 4,
         "u": 1,
         "g": 0
