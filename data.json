@@ -3518,9 +3518,9 @@
       "regIp": "49.0.26.43",
       "createdAt": "2026-10-31T11:51:32.912Z",
       "lastLogin": "2026-10-31T11:51:32.912Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-01T14:45:50.162Z",
+      "bannedReason": "IP 49.0.26.43 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 0,
@@ -3626,6 +3626,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "estwinkme@gmail.com": {
+      "name": "Esther",
+      "email": "estwinkme@gmail.com",
+      "pass": "s1$99a1887b86772f645644d1eed5ea650b$55b42c3ce73482186d825243fdebada22f9d29bc8410f22b05095bbbfe77e05b",
+      "apikey": "rin_d66b34f66eb90480a4",
+      "cap": "free",
+      "ip": "49.0.26.43",
+      "regIp": "49.0.26.43",
+      "createdAt": "2026-11-01T14:45:50.162Z",
+      "lastLogin": "2026-11-01T14:45:50.162Z",
       "extra": 0,
       "window": {
         "start": 0,
