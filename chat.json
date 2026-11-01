@@ -7375,25 +7375,47 @@
           "s": 0,
           "ts": 1793498529876,
           "exp": 0
+        },
+        {
+          "id": "mvxskfo36f28f7",
+          "u": "1e753f4eadbb",
+          "t": "Post status teks di web ini dikasih batasan anjrit 500 teks sedangkan teks promosi gua aja melebihi 500 teks, juga pas post teks sebanyak 500 lebih itu,enggak rapi status teks nya malah berantakan. \n-\n- ini aku bukan ngejlekin web isi tapi kasih sedetail lagi biar enak pemakaian",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793535229011,
+          "exp": 0
         }
       ],
-      "lastTs": 1793498529876,
+      "lastTs": 1793535229011,
       "timer": 0,
       "unread": {
-        "49db73edbc20": 37,
-        "5b5526a5ee71": 36,
-        "4a2dd999fabc": 33,
-        "f0bc2ae29318": 32,
-        "a14ab5eb0e83": 31,
-        "5ecc8a0a9814": 28,
-        "f15f3c8bfec2": 28,
-        "8fb21147efb6": 24,
-        "5770c6e76738": 24,
-        "634a5398bb59": 20,
-        "6db70b0a900a": 18,
-        "2b279da6f7cf": 16,
-        "0c29c77e3a97": 5,
-        "63f7cfafd24b": 1
+        "49db73edbc20": 38,
+        "5b5526a5ee71": 37,
+        "4a2dd999fabc": 34,
+        "f0bc2ae29318": 33,
+        "a14ab5eb0e83": 32,
+        "5ecc8a0a9814": 29,
+        "f15f3c8bfec2": 29,
+        "8fb21147efb6": 25,
+        "5770c6e76738": 25,
+        "634a5398bb59": 21,
+        "6db70b0a900a": 19,
+        "2b279da6f7cf": 17,
+        "0c29c77e3a97": 6,
+        "63f7cfafd24b": 2,
+        "admin": 1
       },
       "adm": [
         "admin"
@@ -10102,7 +10124,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 19,
+        "m": 20,
         "c": 4,
         "u": 1,
         "g": 0
