@@ -2440,27 +2440,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvq8bv77942251",
-          "u": "b50cf4c9feee",
-          "t": "Maksudnya?",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793077973683,
-          "exp": 0
-        },
-        {
           "id": "mvq8bwzlecb527",
           "u": "1921357f09d6",
           "t": "Woi",
@@ -5104,9 +5083,35 @@
           "s": 0,
           "ts": 1793531090589,
           "exp": 0
+        },
+        {
+          "id": "mvxq82zna82a5e",
+          "u": "admin",
+          "t": "𝗔𝗣𝗜𝗞𝗘𝗬 𝗩𝗜𝗣 𝗔𝗖𝗖𝗘𝗦𝗦\n━━━━━━━━━━━━━━━\n# 𝗩𝗜𝗣 𝗘𝗗𝗢𝗣𝗢𝗜𝗡𝗧\n- 1 Day : 3K\n- 7 Days : 5K\n- 30 Days : 8K [POPULAR]\n- 90 Days : 11K\n- 365 Days : 17K\n- Permanent : 20K\n\n𝗡𝗢𝗧𝗘 : Bebas Akses Premium Tanpa Limit Kecuali RCH\n\n# 𝗩𝗜𝗣 𝗥𝗖𝗛 𝗟𝗜𝗠𝗜𝗧\n- 10 Limit : 2.5K\n- 15 Limit : 3K\n- 20 Limit : 3.5K\n- 25 Limit : 4K\n- 30 Limit : 4.5K\n- 40 Limit : 5K\n- 50 Limit : 5.5K\n━━━━━━━━━━━━━━━\n\n𝗕𝗨𝗬 : t.me/rin0108\n*ATAU :* https://apiii-xrina.my.id/chat",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvxq3qfxcbf205",
+            "w": "8b842741af1d",
+            "t": "Cara vip kek mana",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793531293475,
+          "exp": 0
         }
       ],
-      "lastTs": 1793531090589,
+      "lastTs": 1793531293475,
       "timer": 0,
       "unread": {}
     },
@@ -10082,7 +10087,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 18,
+        "m": 19,
         "c": 4,
         "u": 1,
         "g": 0
