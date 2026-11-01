@@ -2536,6 +2536,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "d82e9b783553": {
+      "key": "myyprojek@gmail.com",
+      "username": "raa",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793553462568,
+      "updatedAt": 1793553462568,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -10513,6 +10534,12 @@
         "m": 34,
         "c": 6,
         "u": 6,
+        "g": 0
+      },
+      "2026-11-02": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
         "g": 0
       }
     }
