@@ -2440,27 +2440,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvq8ai2hf11a84",
-          "u": "admin",
-          "t": "iya",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793077910009,
-          "exp": 0
-        },
-        {
           "id": "mvq8azqs8cf5ad",
           "u": "b50cf4c9feee",
           "t": "Ini chat global pakai ws kah?",
@@ -5099,9 +5078,35 @@
           "s": 0,
           "ts": 1793495958071,
           "exp": 0
+        },
+        {
+          "id": "mvx72uye6f4a7b",
+          "u": "admin",
+          "t": "firebase",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mvx56q0n7974fd",
+            "w": "a2577d8d0484",
+            "t": "@Rin bikin room chat kaya gini databasenya pake apaan?",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793499137078,
+          "exp": 0
         }
       ],
-      "lastTs": 1793495958071,
+      "lastTs": 1793499137078,
       "timer": 0,
       "unread": {}
     },
@@ -10151,7 +10156,7 @@
         "g": 0
       },
       "2026-11-01": {
-        "m": 9,
+        "m": 10,
         "c": 4,
         "u": 1,
         "g": 0
