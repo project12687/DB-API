@@ -2494,6 +2494,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "9593ca946922": {
+      "key": "sovita@gmail.com",
+      "username": "sovita",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793546451136,
+      "updatedAt": 1793546451136,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -10252,7 +10273,7 @@
       "2026-11-01": {
         "m": 24,
         "c": 6,
-        "u": 4,
+        "u": 5,
         "g": 0
       }
     }
