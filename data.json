@@ -3548,6 +3548,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "saiishdw@gmail.com": {
+      "name": "javier",
+      "email": "saiishdw@gmail.com",
+      "pass": "s1$c324486fd43e429b955d4606d8cb19cc$6a5afd05eebfcac4571cf19180269a8d9f4addca3c484b23980bb792bb43cc08",
+      "apikey": "rin_4f4812776cf0273e0b",
+      "cap": "free",
+      "ip": "45.251.6.225",
+      "regIp": "45.251.6.225",
+      "createdAt": "2026-11-01T03:00:23.136Z",
+      "lastLogin": "2026-11-01T03:00:23.136Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
