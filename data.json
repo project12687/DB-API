@@ -1943,9 +1943,9 @@
       "regIp": "103.158.252.54",
       "createdAt": "2026-10-26T10:52:52.679Z",
       "lastLogin": "2026-10-30T08:24:48.139Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-02T02:54:21.080Z",
+      "bannedReason": "IP 103.158.252.54 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1793442928454,
@@ -3710,6 +3710,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "tesaja@gmail.com": {
+      "name": "pek",
+      "email": "tesaja@gmail.com",
+      "pass": "s1$f6ee91366e732d2f77bb0393b6c57711$d7fb77a5922b2b20e57c80d80e0a1ceee323a4946c7b999f54681a5e44c2c353",
+      "apikey": "rin_5b29ff74ba72250693",
+      "cap": "free",
+      "ip": "103.158.252.54",
+      "regIp": "103.158.252.54",
+      "createdAt": "2026-11-02T02:54:21.080Z",
+      "lastLogin": "2026-11-02T02:54:21.080Z",
       "extra": 0,
       "window": {
         "start": 0,
