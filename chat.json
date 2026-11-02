@@ -6236,7 +6236,8 @@
         "5ecc8a0a9814",
         "f15f3c8bfec2",
         "5770c6e76738",
-        "63f7cfafd24b"
+        "63f7cfafd24b",
+        "991e806b0e7f"
       ],
       "msgs": [
         {
@@ -7673,9 +7674,23 @@
           "s": 0,
           "ts": 1793556784697,
           "exp": 0
+        },
+        {
+          "id": "mvylsm1k41a551",
+          "u": "",
+          "t": "Ino.Digital bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1793584319383,
+          "exp": 0
         }
       ],
-      "lastTs": 1793556784697,
+      "lastTs": 1793584319383,
       "timer": 0,
       "unread": {
         "49db73edbc20": 43,
