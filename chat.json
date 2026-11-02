@@ -2557,6 +2557,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "991e806b0e7f": {
+      "key": "inisipit9@gmail.com",
+      "username": "Ino.Digital",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793584181442,
+      "updatedAt": 1793584181442,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -10236,41 +10257,6 @@
   },
   "status": [
     {
-      "id": "mvx68p9ke93454",
-      "u": "63f7cfafd24b",
-      "t": "Tes",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1793497730024,
-      "exp": 1793584130024,
-      "v": [
-        "admin",
-        "099d9c6e7541",
-        "1e753f4eadbb",
-        "634a5398bb59",
-        "e85afd3c6287",
-        "0c8d9507f32f",
-        "0c29c77e3a97"
-      ],
-      "lk": []
-    },
-    {
       "id": "mvx9071hb4dd9e",
       "u": "634a5398bb59",
       "t": "",
@@ -10544,7 +10530,7 @@
       "2026-11-02": {
         "m": 4,
         "c": 0,
-        "u": 1,
+        "u": 2,
         "g": 0
       }
     }
