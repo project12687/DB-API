@@ -72,18 +72,6 @@
         }
       },
       "at": 1793572545888
-    },
-    "d704284f648a8285aafb7e839fd12cb8": {
-      "uid": "805f4a18263f",
-      "role": "u",
-      "sub": {
-        "endpoint": "https://fcm.googleapis.com/fcm/send/cZ9I1tH9sUI:APA91bFF-DAQeks8vrPP3J0HAuOdhNJ_yXsKkr6Auyn-t3ygAI4SC5iQbA8XA5KPJq2kWHqSmaLQKHTVeQ1OsSH5HnYqwWble3ChUU_08yqv5z_5Bw7dNCTeZoPST2ZwhGqhFX0t0F8e",
-        "keys": {
-          "p256dh": "BJHYCXSdeysDVS45WWxOYmMcg1ILe9Syqi2C2_hCe_h2X07W82oOgs6ysW4f-OsqmxSZLVPDjrT5gnoc3miterA",
-          "auth": "DyaX58Eh33BR_g8YAZqI3g"
-        }
-      },
-      "at": 1793588239446
     }
   }
 }
