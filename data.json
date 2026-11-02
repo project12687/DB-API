@@ -3758,6 +3758,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "yannrzy@gmail.com": {
+      "name": "yannrzy",
+      "email": "yannrzy@gmail.com",
+      "pass": "s1$34a799ec97758648332354234918cd74$dce8f8cfdc749024f61b31f20075b5c30cdb7eaa375ddcff21cd6940ae83693c",
+      "apikey": "rin_6c58091df1a0e03305",
+      "cap": "free",
+      "ip": "103.112.120.4",
+      "regIp": "103.112.120.4",
+      "createdAt": "2026-11-02T07:42:17.261Z",
+      "lastLogin": "2026-11-02T07:42:17.261Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
