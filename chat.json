@@ -2652,27 +2652,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvq8egl794901c",
-          "u": "admin",
-          "t": "kagak",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793078094715,
-          "exp": 0
-        },
-        {
           "id": "mvq8ek6fcd4ff4",
           "u": "1e753f4eadbb",
           "t": "bisa kirim stiker sih kak biar enak",
@@ -5341,9 +5320,30 @@
           "s": 0,
           "ts": 1793717326527,
           "exp": 0
+        },
+        {
+          "id": "mw0szwsi862858",
+          "u": "admin",
+          "t": "November tuh udah 4 akun gw crate November demua",
+          "i": "e5a0abbbc0113ee7a652.png",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793717349569,
+          "exp": 0
         }
       ],
-      "lastTs": 1793717326527,
+      "lastTs": 1793717349569,
       "timer": 0,
       "unread": {}
     },
@@ -10893,7 +10893,7 @@
         "g": 0
       },
       "2026-11-03": {
-        "m": 18,
+        "m": 19,
         "c": 0,
         "u": 2,
         "g": 0
