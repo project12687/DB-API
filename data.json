@@ -1775,9 +1775,9 @@
       "regIp": "38.183.146.46",
       "createdAt": "2026-10-25T07:55:13.884Z",
       "lastLogin": "2026-10-25T07:55:13.884Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-03T06:56:49.697Z",
+      "bannedReason": "IP 38.183.146.46 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1793676096507,
@@ -3778,6 +3778,23 @@
         "start": 1793605481287,
         "hits": 1,
         "reacts": 1
+      }
+    },
+    "dikafarhn8@gmail.com": {
+      "name": "hann",
+      "email": "dikafarhn8@gmail.com",
+      "pass": "s1$c73446d0da2f78393dcb95940152884b$2eb81823922f9ef17488cd1a2fb71e0449556408852fcba1f393607c15b911b6",
+      "apikey": "rin_098523f5078c8c17d5",
+      "cap": "free",
+      "ip": "38.183.146.46",
+      "regIp": "38.183.146.46",
+      "createdAt": "2026-11-03T06:56:49.697Z",
+      "lastLogin": "2026-11-03T06:56:49.697Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
       }
     }
   }
