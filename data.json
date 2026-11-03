@@ -3821,6 +3821,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "faymantap@gmail.com": {
+      "name": "fay",
+      "email": "faymantap@gmail.com",
+      "pass": "s1$ac1d3fd2a0529369471f38a5cf6bd6fd$832c68b74b1213d10dd3fc74ad2a0b2ee8293c9f8bdea4f3194c26e566d8125d",
+      "apikey": "rin_d20c1ef2dc0fc557b0",
+      "cap": "free",
+      "ip": "103.170.22.144",
+      "regIp": "103.170.22.144",
+      "createdAt": "2026-11-03T14:44:35.309Z",
+      "lastLogin": "2026-11-03T14:44:35.309Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
