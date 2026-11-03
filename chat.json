@@ -10658,41 +10658,7 @@
       "at": 1793078710015
     }
   },
-  "status": [
-    {
-      "id": "mvzbh93l88e7d3",
-      "u": "0c29c77e3a97",
-      "t": "Jangan iri pada jalan orang lain.\nAllah mengatur langkahmu sendiri.\nYang lambat belum tentu tertinggal.\nYang cepat belum tentu selamat.",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1793627459409,
-      "exp": 1793713859409,
-      "v": [
-        "admin",
-        "1e753f4eadbb",
-        "2c55156eeb38",
-        "63f7cfafd24b",
-        "c0c256961017"
-      ],
-      "lk": []
-    }
-  ],
+  "status": [],
   "statusImgs": {},
   "stickers": {
     "admin": [
