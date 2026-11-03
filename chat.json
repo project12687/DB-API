@@ -2673,32 +2673,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvq8ek6fcd4ff4",
-          "u": "1e753f4eadbb",
-          "t": "bisa kirim stiker sih kak biar enak",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": {
-            "id": "mvq8dm7j58d2e0",
-            "w": "admin",
-            "t": "pencet aja",
-            "k": ""
-          },
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793078099367,
-          "exp": 0
-        },
-        {
           "id": "mvq8erdg7cf2fc",
           "u": "b50cf4c9feee",
           "t": "_Kontol membuat status baru_",
@@ -5362,9 +5336,30 @@
           "s": 0,
           "ts": 1793717349569,
           "exp": 0
+        },
+        {
+          "id": "mw0tsmxw2e5b22",
+          "u": "0ced869dcfa3",
+          "t": "Kok di gw kena nya juli ya",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1793718689828,
+          "exp": 0
         }
       ],
-      "lastTs": 1793717349569,
+      "lastTs": 1793718689828,
       "timer": 0,
       "unread": {}
     },
@@ -10914,7 +10909,7 @@
         "g": 0
       },
       "2026-11-03": {
-        "m": 19,
+        "m": 20,
         "c": 0,
         "u": 3,
         "g": 0
