@@ -1277,8 +1277,8 @@
       "extra": 0,
       "window": {
         "start": 1793711180680,
-        "hits": 1,
-        "reacts": 1
+        "hits": 2,
+        "reacts": 2
       }
     },
     "seikageen@gmail.com": {
@@ -3807,10 +3807,14 @@
       "pass": "s1$52d4e0b9aedcc17499702c8f8ad011eb$b5480b507265b774063b3c83b0fb9927fd5faeef92908aae4e6a663abcf223d2",
       "apikey": "rin_2cd454bcc2e00f043f",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2a09:bac5:3a0a:1028::19c:15d",
       "regIp": "2a09:bac5:3a0a:1028::19c:15d",
       "createdAt": "2026-11-03T13:44:08.892Z",
       "lastLogin": "2026-11-03T13:44:08.892Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
