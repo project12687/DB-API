@@ -10444,41 +10444,6 @@
   },
   "status": [
     {
-      "id": "mvyovitia4cd7e",
-      "u": "991e806b0e7f",
-      "t": "",
-      "i": "",
-      "vd": "a8db9c565e20b922bb25.mp4",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1793589494021,
-      "exp": 1793675894021,
-      "v": [
-        "admin",
-        "d82effaeaff7",
-        "0c29c77e3a97",
-        "1e753f4eadbb",
-        "9901add5c346"
-      ],
-      "lk": [
-        "0c29c77e3a97"
-      ]
-    },
-    {
       "id": "mvzbh93l88e7d3",
       "u": "0c29c77e3a97",
       "t": "Jangan iri pada jalan orang lain.\nAllah mengatur langkahmu sendiri.\nYang lambat belum tentu tertinggal.\nYang cepat belum tentu selamat.",
@@ -10509,13 +10474,7 @@
       "lk": []
     }
   ],
-  "statusImgs": {
-    "a8db9c565e20b922bb25.mp4": {
-      "u": "991e806b0e7f",
-      "ts": 1793589493667,
-      "used": true
-    }
-  },
+  "statusImgs": {},
   "stickers": {
     "admin": [
       {
