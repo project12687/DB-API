@@ -3842,6 +3842,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "unemployedrise@gmail.com": {
+      "name": "unemployed",
+      "email": "unemployedrise@gmail.com",
+      "pass": "s1$fd050a254b521fd789239cfd967a0116$04ea78230dd0807f7b076725175cf7dd37e7e5c517065c6c31686cb0bb683035",
+      "apikey": "rin_f28cc61094d4c6a23c",
+      "cap": "free",
+      "ip": "202.58.78.178",
+      "regIp": "202.58.78.178",
+      "createdAt": "2026-11-04T01:35:34.218Z",
+      "lastLogin": "2026-11-04T01:35:34.218Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
