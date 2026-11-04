@@ -2664,6 +2664,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "ed5cb99328ef": {
+      "key": "unemployedrise@gmail.com",
+      "username": "unemployed",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793756136673,
+      "updatedAt": 1793756136673,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -10938,6 +10959,12 @@
         "m": 22,
         "c": 0,
         "u": 3,
+        "g": 0
+      },
+      "2026-11-04": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
         "g": 0
       }
     }
