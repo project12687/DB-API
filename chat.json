@@ -10779,37 +10779,6 @@
   },
   "status": [
     {
-      "id": "mw1hx9dr5f769c",
-      "u": "0c29c77e3a97",
-      "t": "Ya Allah, Jagalah keamanan negeri ini \n🤲",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1793759216319,
-      "exp": 1793845616319,
-      "v": [
-        "admin",
-        "63f7cfafd24b",
-        "ba385afcfbee"
-      ],
-      "lk": []
-    },
-    {
       "id": "mw22qwpnfbd573",
       "u": "ba385afcfbee",
       "t": "ambatebas",
