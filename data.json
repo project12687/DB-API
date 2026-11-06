@@ -3082,9 +3082,9 @@
       "bannedReason": "",
       "extra": 0,
       "window": {
-        "start": 1793849689000,
-        "hits": 6,
-        "reacts": 2
+        "start": 1793961170633,
+        "hits": 1,
+        "reacts": 0
       }
     },
     "itsukiyuuki7@gmail.com": {
@@ -3912,10 +3912,14 @@
       "pass": "s1$f1213392821d68ab29f3b7f88fc9d276$8ec8a37c8028a80d0f67c107d0deadb6e24d77de4c5537f4e35760e9f459d753",
       "apikey": "rin_270110e234c9d4bfc1",
       "cap": "free",
+      "vipUntil": null,
       "ip": "49.0.27.131",
       "regIp": "49.0.27.131",
       "createdAt": "2026-11-06T09:54:59.887Z",
       "lastLogin": "2026-11-06T09:54:59.887Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
