@@ -2685,6 +2685,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "f3530fd9fb2e": {
+      "key": "sammyy7290@gmail.com",
+      "username": "bells",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1793992701206,
+      "updatedAt": 1793992701206,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -11056,6 +11077,12 @@
         "m": 1,
         "c": 0,
         "u": 0,
+        "g": 0
+      },
+      "2026-11-07": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
         "g": 0
       }
     }
