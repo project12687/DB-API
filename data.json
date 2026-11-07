@@ -3989,6 +3989,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "slebew@gmail.com": {
+      "name": "Slebw",
+      "email": "slebew@gmail.com",
+      "pass": "s1$0aa268e57acf733d169cd966814fde52$184f6a84202103dbb9d761b9ecb7d64cae6bcefa042112b728df50cc8bc205f8",
+      "apikey": "rin_1c8e0d7ca33b91c7f5",
+      "cap": "free",
+      "ip": "2a09:bac1:34a0:58::593:f",
+      "regIp": "2a09:bac1:34a0:58::593:f",
+      "createdAt": "2026-11-07T19:51:30.889Z",
+      "lastLogin": "2026-11-07T19:51:30.889Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
