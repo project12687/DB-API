@@ -2706,6 +2706,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "689c1b6ac7bd": {
+      "key": "kelincipercoban01@gmail.com",
+      "username": "hanzzyy",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794020519311,
+      "updatedAt": 1794020519311,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -11082,7 +11103,7 @@
       "2026-11-07": {
         "m": 0,
         "c": 0,
-        "u": 1,
+        "u": 2,
         "g": 0
       }
     }
