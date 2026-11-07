@@ -4010,6 +4010,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "rinaz01@gmail.com": {
+      "name": "rina",
+      "email": "rinaz01@gmail.com",
+      "pass": "s1$5e5320349527ebba4118daf00128725e$b892373444601982935650e9437a1c7a3c81df6d35de001a9c809aa58ec437df",
+      "apikey": "rin_599dbe5c6f636dc5eb",
+      "cap": "free",
+      "ip": "103.158.252.55",
+      "regIp": "103.158.252.55",
+      "createdAt": "2026-11-07T23:55:07.099Z",
+      "lastLogin": "2026-11-07T23:55:07.099Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
