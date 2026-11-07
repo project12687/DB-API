@@ -2736,32 +2736,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvq8ftrlf649ce",
-          "u": "b50cf4c9feee",
-          "t": "Owh",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": {
-            "id": "mvq8egl794901c",
-            "w": "admin",
-            "t": "kagak",
-            "k": ""
-          },
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793078158449,
-          "exp": 0
-        },
-        {
           "id": "mvq8g7dy57a5d4",
           "u": "b50cf4c9feee",
           "t": "Bro, aku cuman salin tempel notif yang muncul tadi",
@@ -5416,9 +5390,30 @@
           "s": 0,
           "ts": 1794047263646,
           "exp": 0
+        },
+        {
+          "id": "mw6lpbxmb2b692",
+          "u": "0c29c77e3a97",
+          "t": "Inpokan cara pake yg netpliik",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1794067895722,
+          "exp": 0
         }
       ],
-      "lastTs": 1794047263646,
+      "lastTs": 1794067895722,
       "timer": 0,
       "unread": {}
     },
@@ -11151,7 +11146,7 @@
         "g": 0
       },
       "2026-11-07": {
-        "m": 3,
+        "m": 4,
         "c": 1,
         "u": 2,
         "g": 0
