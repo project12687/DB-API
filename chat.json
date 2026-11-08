@@ -2757,27 +2757,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvqgpyrtd5b15c",
-          "u": "dcbf74738a31",
-          "t": "p",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793092068426,
-          "exp": 0
-        },
-        {
           "id": "mvqi2tz17ddd47",
           "u": "admin",
           "t": "yaya",
@@ -5424,9 +5403,30 @@
           "s": 0,
           "ts": 1794176263345,
           "exp": 0
+        },
+        {
+          "id": "mw8eakda48a8a1",
+          "u": "0c29c77e3a97",
+          "t": "Min, mau saran respon api dari berbagai media downloader bisa ga ditambahin meta datanya juga?",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1794176381854,
+          "exp": 0
         }
       ],
-      "lastTs": 1794176263345,
+      "lastTs": 1794176381854,
       "timer": 0,
       "unread": {}
     },
@@ -11221,7 +11221,7 @@
         "g": 0
       },
       "2026-11-09": {
-        "m": 1,
+        "m": 2,
         "c": 0,
         "u": 0,
         "g": 0
