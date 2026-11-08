@@ -2757,32 +2757,6 @@
       "mem": [],
       "msgs": [
         {
-          "id": "mvqbyduaad1c4a",
-          "u": "6849341c5cb6",
-          "t": "Langsung saja\nrainachat.top",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": {
-            "id": "mvq9ykyy6ffcdb",
-            "w": "4d95ba23d94e",
-            "t": "langsung saja julzaexce.my.id",
-            "k": ""
-          },
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793084063122,
-          "exp": 0
-        },
-        {
           "id": "mvqedfn754e5ca",
           "u": "d7a6312f0444",
           "t": "Peh",
@@ -5424,9 +5398,30 @@
           "s": 0,
           "ts": 1794068269335,
           "exp": 0
+        },
+        {
+          "id": "mw7lf7ln8118c5",
+          "u": "admin",
+          "t": "setuju ga yang VIP edopoint nanti di chat nya ada cap VIP",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 0,
+          "ts": 1794127889723,
+          "exp": 0
         }
       ],
-      "lastTs": 1794068269335,
+      "lastTs": 1794127889723,
       "timer": 0,
       "unread": {}
     },
@@ -11217,7 +11212,7 @@
         "g": 0
       },
       "2026-11-08": {
-        "m": 0,
+        "m": 1,
         "c": 0,
         "u": 1,
         "g": 0
