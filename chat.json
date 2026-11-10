@@ -239,7 +239,7 @@
         ],
         "muted": [],
         "clr": {},
-        "rr": 1794186118075,
+        "rr": 1794300222408,
         "swm": "DHANYY",
         "swp": "br"
       }
@@ -2810,6 +2810,27 @@
         "rr": 1794211401591,
         "swm": "",
         "swp": "bl"
+      }
+    },
+    "e7b85b42ce08": {
+      "key": "lampeuttu09@gmail.com",
+      "username": "Privasi",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794321235491,
+      "updatedAt": 1794321235491,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
       }
     }
   },
@@ -11391,7 +11412,7 @@
       "2026-11-10": {
         "m": 10,
         "c": 0,
-        "u": 0,
+        "u": 1,
         "g": 0
       }
     }
