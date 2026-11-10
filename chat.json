@@ -11062,39 +11062,7 @@
       "at": 1793078710015
     }
   },
-  "status": [
-    {
-      "id": "mw96xya99e0ef6",
-      "u": "0c29c77e3a97",
-      "t": "Akhirnya...    \nDay Senin    \nAkan segera\nBerakhir",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1794224502225,
-      "exp": 1794310902225,
-      "v": [
-        "be5a164ec95d",
-        "admin",
-        "d82e9b783553"
-      ],
-      "lk": []
-    }
-  ],
+  "status": [],
   "statusImgs": {},
   "stickers": {
     "admin": [
