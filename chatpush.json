@@ -13,18 +13,6 @@
       },
       "at": 1793164201427
     },
-    "a772313694194c7d1eb776c9769535fc": {
-      "uid": "5964e5e8dbba",
-      "role": "u",
-      "sub": {
-        "endpoint": "https://fcm.googleapis.com/fcm/send/diY82bqoQQs:APA91bGRCAREdb6MRcGKX-T2ZK6BWyXWKEB9ornEQ2zud5gmuViOrjv0czwEir5WH8Avz58CXpL3aVRx7tfRKDBBFs6uY8DxDG6ups3dkkEk0lHaY8hEF4s5yKpE2mY_r5aLdbGdIGT2",
-        "keys": {
-          "p256dh": "BPllvA94UFx6BfLjntbgJM0uoJNrX8WPQFClK7FYESFXOFqJbQ4xoNY8t0IRNHPdJfeHAdcy3Uol2d-PqNI1t_k",
-          "auth": "AQwBjyFjvMSP5nXzMAdITQ"
-        }
-      },
-      "at": 1793666916246
-    },
     "21a7c9fa1e52b4cd6e605f30ee4bbfbb": {
       "uid": "1e753f4eadbb",
       "role": "u",
