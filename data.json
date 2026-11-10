@@ -4241,6 +4241,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "dirgamua12@gmail.com": {
+      "name": "Dirga",
+      "email": "dirgamua12@gmail.com",
+      "pass": "s1$7ebd0852789f17e7b64752e81f49af11$59ccbd8a48aff24c33347c2c04e28de8510b8771d9faa4e1617a72d27bc42c2f",
+      "apikey": "rin_c04e038335fa878d79",
+      "cap": "free",
+      "ip": "2404:c0:416d:c1c1:5887:bdff:fef4:d0f8",
+      "regIp": "2404:c0:416d:c1c1:5887:bdff:fef4:d0f8",
+      "createdAt": "2026-11-10T17:36:12.679Z",
+      "lastLogin": "2026-11-10T17:36:12.679Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
