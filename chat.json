@@ -2832,6 +2832,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "19ea3f09a154": {
+      "key": "dirgamua12@gmail.com",
+      "username": "Dirga",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794332465945,
+      "updatedAt": 1794332465945,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -11455,6 +11476,12 @@
       },
       "2026-11-10": {
         "m": 13,
+        "c": 0,
+        "u": 1,
+        "g": 0
+      },
+      "2026-11-11": {
+        "m": 0,
         "c": 0,
         "u": 1,
         "g": 0
