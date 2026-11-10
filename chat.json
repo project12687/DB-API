@@ -2815,10 +2815,10 @@
     "e7b85b42ce08": {
       "key": "lampeuttu09@gmail.com",
       "username": "Privasi",
-      "bio": "",
+      "bio": "hihuuuuu",
       "avatar": "",
       "createdAt": 1794321235491,
-      "updatedAt": 1794321235491,
+      "updatedAt": 1794321274583,
       "pref": {
         "bubble": "klasik",
         "snd": true,
@@ -11074,6 +11074,18 @@
         }
       ],
       "lastTs": 1794067709095,
+      "timer": 0,
+      "unread": {}
+    },
+    "d_5964e5e8dbba_e7b85b42ce08": {
+      "id": "d_5964e5e8dbba_e7b85b42ce08",
+      "type": "dm",
+      "mem": [
+        "5964e5e8dbba",
+        "e7b85b42ce08"
+      ],
+      "msgs": [],
+      "lastTs": 0,
       "timer": 0,
       "unread": {}
     }
