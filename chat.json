@@ -37,18 +37,18 @@
         "last": 1794435800088
       },
       "244002240741": {
-        "n": 4,
+        "n": 6,
         "first": 1794435748277,
-        "last": 1794435786422
+        "last": 1794435808230
       }
     },
     "stats": {
-      "total": 33,
+      "total": 35,
       "daily": {
-        "2026-11-12": 33
+        "2026-11-12": 35
       },
       "cmds": {
-        "menu": 17,
+        "menu": 19,
         "brat": 1,
         "tiktok": 2,
         "gpt": 6,
@@ -13040,9 +13040,175 @@
           "s": 0,
           "ts": 1794435788724,
           "exp": 1794460988724
+        },
+        {
+          "id": "mwcoqwhpba08e3",
+          "u": "244002240741",
+          "t": ".menu",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435804925,
+          "exp": 1794461004925
+        },
+        {
+          "id": "mwcoqwrh08cc76",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, snakyxy! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "📺 Animein",
+              "c": ".menu animein"
+            },
+            {
+              "l": "🐉 Donghive",
+              "c": ".menu donghive"
+            },
+            {
+              "l": "📚 MangaDex",
+              "c": ".menu mangadex"
+            },
+            {
+              "l": "🖼️ Canvas",
+              "c": ".menu canvas"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            },
+            {
+              "l": "🎬 FreeReels",
+              "c": ".menu freereels"
+            },
+            {
+              "l": "🎲 Fun",
+              "c": ".menu fun"
+            },
+            {
+              "l": "🎮 Game",
+              "c": ".menu game"
+            },
+            {
+              "l": "📰 Info",
+              "c": ".menu info"
+            },
+            {
+              "l": "📖 Komik",
+              "c": ".menu komik"
+            },
+            {
+              "l": "📗 Komiku",
+              "c": ".menu komiku"
+            },
+            {
+              "l": "🛠️ Maker",
+              "c": ".menu maker"
+            },
+            {
+              "l": "🔎 Search",
+              "c": ".menu search"
+            },
+            {
+              "l": "🕵️ Stalker",
+              "c": ".menu stalker"
+            },
+            {
+              "l": "🧰 Tools",
+              "c": ".menu tools"
+            },
+            {
+              "l": "☁️ Uploader",
+              "c": ".menu upload"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435805277,
+          "exp": 1794461005277
+        },
+        {
+          "id": "mwcoqyroe79413",
+          "u": "244002240741",
+          "t": ".menu game",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435807876,
+          "exp": 1794461007876
+        },
+        {
+          "id": "mwcoqz1j6202fb",
+          "u": "bot",
+          "t": "🎮 GAME · 14 perintah\nTebak-tebakan dan kuis.\n━━━━━━━━━━━━━━━━\n1. .asahotak\n    Soal asah otak acak beserta jawabannya\n2. .caklontong\n    Soal tebak-tebakan Cak Lontong acak beserta jawaban dan penjelasannya\n3. .kataacak\n    Soal susun huruf acak menjadi kata yang benar\n4. .susunkata\n    Soal susun kata dari huruf yang diacak beserta tipe dan jawabannya\n5. .tebak-voice-ml\n    Tebak hero Mobile Legends dari suara (voice) movement-nya, hero acak…\n6. .tebakbendera\n    Tebak bendera negara acak, berisi gambar bendera dan nama negaranya\n7. .tebakbuah\n    Tebak buah dari petunjuk acak beserta jawabannya\n8. .tebakepep\n    Tebak karakter Free Fire acak dari gambar, berisi jawaban dan deskrip…\n9. .tebakgambar\n    Soal tebak gambar acak beserta jawaban dan petunjuknya\n10. .tebakhewan\n    Tebak hewan dari ciri-cirinya, soal acak beserta jawabannya\n11. .tebakkalimat\n    Soal melengkapi kalimat atau peribahasa acak beserta jawabannya\n12. .tebakkata\n    Tebak kata dari petunjuk acak beserta jawabannya\n13. .tebakkimia\n    Tebak lambang unsur kimia acak beserta nama unsurnya\n14. .tebaktebakan\n    Tebak-tebakan lucu acak beserta jawabannya\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435808230,
+          "exp": 1794461008230
         }
       ],
-      "lastTs": 1794435788724,
+      "lastTs": 1794435808230,
       "timer": 0,
       "unread": {}
     }
@@ -13430,7 +13596,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 107,
+        "m": 111,
         "c": 0,
         "u": 1,
         "g": 0
