@@ -4262,6 +4262,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "dianatech36@gmail.com": {
+      "name": "dana",
+      "email": "dianatech36@gmail.com",
+      "pass": "s1$afd4297e2b7a4aa718948dcb1b698525$fa51f682b4846371d32d855d64ea45c375e842aa911fd2365bedbcb9eb75bb75",
+      "apikey": "rin_be13ec2db73285b8b5",
+      "cap": "free",
+      "ip": "152.166.137.96",
+      "regIp": "152.166.137.96",
+      "createdAt": "2026-11-11T15:39:53.653Z",
+      "lastLogin": "2026-11-11T15:39:53.653Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
