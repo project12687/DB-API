@@ -12908,12 +12908,61 @@
           "s": 0,
           "ts": 1794436792423,
           "exp": 1794461992423
+        },
+        {
+          "id": "mwcpckfn6846d2",
+          "u": "0c29c77e3a97",
+          "t": ".tofigurav2",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794436815731,
+          "exp": 1794462015731
+        },
+        {
+          "id": "mwcpckpf598c7b",
+          "u": "bot",
+          "t": "⚠️ Parameter belum lengkap untuk .tofigurav2\n\n📷 Perintah ini butuh gambar.\n▸ Kirim foto dengan caption .tofigurav2\n▸ Atau balas foto dengan .tofigurav2\n▸ Atau tulis link gambar langsung",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".help tofigurav2",
+              "c": ".help tofigurav2"
+            }
+          ],
+          "s": 0,
+          "ts": 1794436816083,
+          "exp": 1794462016083
         }
       ],
-      "lastTs": 1794436792423,
+      "lastTs": 1794436816083,
       "timer": 0,
       "unread": {
-        "bot": 6
+        "bot": 7
       }
     },
     "d_244002240741_admin": {
@@ -14474,7 +14523,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 150,
+        "m": 152,
         "c": 0,
         "u": 1,
         "g": 0
