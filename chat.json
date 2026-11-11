@@ -15668,10 +15668,24 @@
           "s": 1,
           "ts": 1794438476148,
           "exp": 0
+        },
+        {
+          "id": "mwcqcvax0bf16e",
+          "u": "",
+          "t": "Anjay mengaktifkan pesan hilang (1 hari).",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794438509433,
+          "exp": 0
         }
       ],
-      "lastTs": 1794438476148,
-      "timer": 0,
+      "lastTs": 1794438509433,
+      "timer": 86400000,
       "unread": {},
       "adm": [
         "b4b81ef3e5d3"
