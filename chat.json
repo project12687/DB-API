@@ -37,18 +37,18 @@
         "last": 1794435734746
       },
       "244002240741": {
-        "n": 2,
+        "n": 3,
         "first": 1794435748277,
-        "last": 1794435776672
+        "last": 1794435780958
       }
     },
     "stats": {
-      "total": 29,
+      "total": 30,
       "daily": {
-        "2026-11-12": 29
+        "2026-11-12": 30
       },
       "cmds": {
-        "menu": 14,
+        "menu": 15,
         "brat": 1,
         "tiktok": 2,
         "gpt": 6,
@@ -12772,12 +12772,70 @@
           "s": 0,
           "ts": 1794435776672,
           "exp": 1794460976672
+        },
+        {
+          "id": "mwcoqdq67626ca",
+          "u": "244002240741",
+          "t": ".menu ai 2",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435780606,
+          "exp": 1794460980606
+        },
+        {
+          "id": "mwcoqdzyf71ff6",
+          "u": "bot",
+          "t": "🤖 AI CHAT · 40 perintah\nNgobrol dan tanya jawab dengan berbagai AI.\n━━━━━━━━━━━━━━━━\n16. .gemini <text>\n    Tanya jawab dengan Google Gemini AI, bisa pilih model, lanjut percaka…\n17. .geminiv2 <text>\n    Tanya jawab dengan Google Gemini (versi 2) dengan dukungan lanjut per…\n18. .gpt <text>\n    Tanya jawab dengan AI Gpt dengan fast respon atau cepat\n19. .grokai <text>\n    Tanya jawab dengan Grok AI\n20. .guru <text>\n    Belajar bersama Guru AI yang sabar dan berwawasan luas: matematika, s…\n21. .honcho <text>\n    Tanya jawab dengan Honcho AI (Claude Sonnet), asisten AI serba bisa u…\n22. .klyra <text>\n    Ngobrol dengan Klyra, AI yang ceria, hangat, dan suportif, selalu mem…\n23. .lorka-ai <text>\n    Chat dengan Lorka AI, bisa menganalisis gambar atau dokumen dan mengi…\n24. .lyvren-chat <text>\n    Ngobrol dengan Lyvren Chat, AI yang tenang, cerdas, dan mendalam, men…\n25. .maya <text>\n    Ngobrol dengan Maya AI, perempuan muda yang cerdas, kreatif, dan sant…\n26. .myvra-ai <text>\n    Ngobrol dengan Myvra AI, asisten yang ramah, pintar, dan empatik deng…\n27. .naxa <text>\n    Tanya jawab dengan Naxa AI, akun dibuat dan diperbarui otomatis oleh…\n28. .notegpt <text>\n    Tanya jawab dengan NoteGPT AI, bisa pilih model dan aktifkan pencaria…\n29. .notrack-ai <text>\n    Tanya jawab dengan NoTrack AI\n30. .nova <text>\n    Ngobrol dengan Nova AI, pendamping imajinatif yang suka ide unik, sen…\n━━━━━━━━━━━━━━━━\nHalaman 2/3 · ketik .menu ai 3\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "⬅️ Sebelumnya",
+              "c": ".menu ai 1"
+            },
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu ai 3"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435780958,
+          "exp": 1794460980958
         }
       ],
-      "lastTs": 1794435776672,
+      "lastTs": 1794435780958,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 1,
+        "244002240741": 1
       }
     }
   },
@@ -13164,7 +13222,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 98,
+        "m": 100,
         "c": 0,
         "u": 1,
         "g": 0
