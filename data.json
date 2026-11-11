@@ -1764,27 +1764,6 @@
         "reacts": 0
       }
     },
-    "farhandikaaa432@gmail.com": {
-      "name": "han?",
-      "email": "farhandikaaa432@gmail.com",
-      "pass": "s1$1b8deff058fa5f9a8f7e24d26cb280ca$e3213d5764f7bac5a5b3a377ea125afced1ba9ffa7fdbf5f8d3c0722ea3f1183",
-      "apikey": "rin_fc5992a89304d68623",
-      "cap": "free",
-      "vipUntil": null,
-      "ip": "38.183.146.46",
-      "regIp": "38.183.146.46",
-      "createdAt": "2026-10-25T07:55:13.884Z",
-      "lastLogin": "2026-10-25T07:55:13.884Z",
-      "banned": true,
-      "bannedAt": "2026-11-03T06:56:49.697Z",
-      "bannedReason": "IP 38.183.146.46 dipakai untuk mendaftar akun baru",
-      "extra": 0,
-      "window": {
-        "start": 1793676096507,
-        "hits": 1,
-        "reacts": 1
-      }
-    },
     "namagw11@gmail.com": {
       "name": "andra",
       "email": "namagw11@gmail.com",
@@ -4374,10 +4353,14 @@
       "pass": "s1$6be5389ed56858d00d965d4dfad5a0af$503ceaaec392cd26ae4dc0ed636f8e555ed397e45bd24767a2c89ec2fe39b483",
       "apikey": "rin_509e4705647cebbabc",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2a09:bac5:39e5:37f5::593:1e",
       "regIp": "2a09:bac5:39e5:37f5::593:1e",
       "createdAt": "2026-11-11T23:21:25.594Z",
       "lastLogin": "2026-11-11T23:21:25.594Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
