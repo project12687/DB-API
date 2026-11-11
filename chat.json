@@ -12230,12 +12230,74 @@
           "s": 0,
           "ts": 1794434633600,
           "exp": 1794459833600
+        },
+        {
+          "id": "mwco2aeg7dceb1",
+          "u": "admin",
+          "t": ".bot",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794434656552,
+          "exp": 1794459856552
+        },
+        {
+          "id": "mwco2ao9f3405c",
+          "u": "bot",
+          "t": "❓ Perintah .bot tidak ditemukan.\n\nMaksud kamu:\n▸ .tobotak 📷\n▸ .gpt <text>\n▸ .brat <text>\n\nKetik .menu untuk daftar lengkap.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".tobotak",
+              "c": ".help tobotak"
+            },
+            {
+              "l": ".gpt",
+              "c": ".help gpt"
+            },
+            {
+              "l": ".brat",
+              "c": ".help brat"
+            },
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794434656905,
+          "exp": 1794459856905
         }
       ],
-      "lastTs": 1794434633600,
+      "lastTs": 1794434656905,
       "timer": 0,
       "unread": {
-        "bot": 2
+        "bot": 3,
+        "admin": 1
       }
     }
   },
@@ -12585,7 +12647,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 40,
+        "m": 42,
         "c": 0,
         "u": 0,
         "g": 0
