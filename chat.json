@@ -1,4 +1,34 @@
 {
+  "bot": {
+    "on": true,
+    "rec": {
+      "username": "Rin Bot",
+      "bio": "Asisten otomatis Rin API. Ketik .menu untuk melihat semua fitur.",
+      "avatar": "",
+      "createdAt": 1794433736579,
+      "updatedAt": 0,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
+    },
+    "blocked": {},
+    "users": {},
+    "stats": {
+      "total": 0,
+      "daily": {},
+      "cmds": {}
+    }
+  },
   "profiles": {
     "a806e79667d5": {
       "key": "",
@@ -2862,6 +2892,7 @@
       "mem": [],
       "msgs": [
         {
+          "bt": [],
           "id": "mvrfqkpxa037ec",
           "u": "admin",
           "t": "iya",
@@ -2883,6 +2914,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrl9gc6275bc9",
           "u": "c406d9fbf5a9",
           "t": "p",
@@ -2904,6 +2936,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrlaprdc29bc4",
           "u": "634a5398bb59",
           "t": "iya",
@@ -2925,6 +2958,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrrnqs35a2271",
           "u": "361cfd336959",
           "t": "Oy",
@@ -2946,6 +2980,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrxg9mvd8994b",
           "u": "1e753f4eadbb",
           "t": "Sepi",
@@ -2967,6 +3002,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrxxk3f6c05c9",
           "u": "admin",
           "t": "iya",
@@ -2988,6 +3024,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs6sosx40224b",
           "u": "c30a7848eb9e",
           "t": "Weii tolong kenapa kok play-spotify gabisa",
@@ -3009,6 +3046,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs715iza20ec6",
           "u": "admin",
           "t": "nanti ku ganti scrape nya",
@@ -3035,6 +3073,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs79qn9436925",
           "u": "5964e5e8dbba",
           "t": "hmmm",
@@ -3056,6 +3095,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7a73j7b1580",
           "u": "5964e5e8dbba",
           "t": "misal ni y",
@@ -3077,6 +3117,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7abfmbc7f64",
           "u": "5964e5e8dbba",
           "t": "aku beli domain",
@@ -3098,6 +3139,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7an5p72c4b9",
           "u": "5964e5e8dbba",
           "t": "terus cara nyambungin nya ke html kita gimna?",
@@ -3119,6 +3161,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7b0ftaeb69c",
           "u": "admin",
           "t": "upload ke github / vercel",
@@ -3140,6 +3183,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7bdslc43f6d",
           "u": "5964e5e8dbba",
           "t": "terus",
@@ -3161,6 +3205,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7bnsz1582f2",
           "u": "admin",
           "t": "terus pake dns and nama server nya ganti di akun domain nya",
@@ -3182,6 +3227,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7bwv1f90968",
           "u": "5964e5e8dbba",
           "t": "nah itu dia",
@@ -3203,6 +3249,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7c1b20fc73e",
           "u": "5964e5e8dbba",
           "t": "aku tak paham :v",
@@ -3224,6 +3271,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7c2r707da30",
           "u": "admin",
           "t": "minta eay je",
@@ -3245,6 +3293,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7c7cy44bb01",
           "u": "5964e5e8dbba",
           "t": "okeh",
@@ -3266,6 +3315,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7cfvw58c391",
           "u": "5964e5e8dbba",
           "t": "sayang soal nya 2 domain blm xp",
@@ -3287,6 +3337,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7d2aj41f1cf",
           "u": "admin",
           "t": "mending pake vercel lebih mudah",
@@ -3308,6 +3359,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7n5sq305224",
           "u": "c30a7848eb9e",
           "t": "Oke min butuh banget itunya buat webmusic😭",
@@ -3334,6 +3386,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7nfmh64b5f6",
           "u": "c30a7848eb9e",
           "t": "Kalo boleh Prem sini gw premium account gw",
@@ -3355,6 +3408,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7qgb4fb400b",
           "u": "admin",
           "t": "kan ada yang play satunya",
@@ -3381,6 +3435,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7un4p635869",
           "u": "c30a7848eb9e",
           "t": "Play yt itu mah yang satunya",
@@ -3402,6 +3457,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8ek9g29ae07",
           "u": "5964e5e8dbba",
           "t": "saran ey ay pembuat html bagus +free",
@@ -3423,6 +3479,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsa2tw4c78883",
           "u": "c30a7848eb9e",
           "t": "Claude code bagus",
@@ -3449,6 +3506,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsuovea15729f",
           "u": "0c29c77e3a97",
           "t": "Halo everyone",
@@ -3470,6 +3528,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsupzlyff19c3",
           "u": "admin",
           "t": "ya",
@@ -3491,6 +3550,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsux8z73dd8f0",
           "u": "0c29c77e3a97",
           "t": "Tele mu aktif apa ga min?",
@@ -3512,6 +3572,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsv4m19fe9779",
           "u": "admin",
           "t": "aktif",
@@ -3533,6 +3594,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvtf5v3h91c37d",
           "u": "c406d9fbf5a9",
           "t": "/menu",
@@ -3554,6 +3616,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvtf5yc6455008",
           "u": "c406d9fbf5a9",
           "t": ".menu",
@@ -3575,6 +3638,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvtfyq6w03c104",
           "u": "78f795b5c5c7",
           "t": "jir beneran bisa",
@@ -3596,6 +3660,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvtgdu00bf5535",
           "u": "admin",
           "t": "bisa apa nya tuh",
@@ -3622,6 +3687,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvtgdx60d6dc96",
           "u": "admin",
           "t": "ga ada",
@@ -3648,6 +3714,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvtgx37dad6b6b",
           "u": "86b844cc75aa",
           "t": "njirlah",
@@ -3669,6 +3736,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvu21jbk155a76",
           "u": "ea5704600ca3",
           "t": "pe",
@@ -3690,6 +3758,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvu9yqr76f4989",
           "u": "5964e5e8dbba",
           "t": "pe apa",
@@ -3716,6 +3785,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvu9yzxu77120c",
           "u": "5964e5e8dbba",
           "t": "dia sungguh mempesona",
@@ -3737,6 +3807,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvud3p5p6d9aff",
           "u": "admin",
           "t": "nanti untuk chat ini ada update ya",
@@ -3758,6 +3829,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvudhrhm2bfb8f",
           "u": "admin",
           "t": "update besar\" an ygy nanti",
@@ -3779,6 +3851,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvudjhf2fe56c8",
           "u": "634a5398bb59",
           "t": "list nya",
@@ -3800,6 +3873,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvul34q2f775bc",
           "u": "0c29c77e3a97",
           "t": "Nice minnn",
@@ -3821,6 +3895,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuo4hjwda7f2a",
           "u": "admin",
           "t": "cek update terbaru udah bisa vc dan add sticker+ curi sticker dll lah",
@@ -3842,6 +3917,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuo5bz04fd95b",
           "u": "admin",
           "t": "https://apiii-xrina.my.id/chat#join=dbb300e7644173e4",
@@ -3863,6 +3939,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuog8vac33eb2",
           "u": "admin",
           "t": "bisa kirim gambar/vidio 1x kiat",
@@ -3884,6 +3961,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvur6tb6c70bea",
           "u": "63f7cfafd24b",
           "t": "Anjir",
@@ -3905,6 +3983,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvut7c4ddec842",
           "u": "634a5398bb59",
           "t": "https://apiii-xrina.my.id/rch#redeem",
@@ -3926,6 +4005,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvut7k0ffc3057",
           "u": "634a5398bb59",
           "t": "gaskan",
@@ -3947,6 +4027,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvutg5kc966eeb",
           "u": "634a5398bb59",
           "t": "ga ad kerjaan",
@@ -3968,6 +4049,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvvq2ls3fc1c9c",
           "u": "5964e5e8dbba",
           "t": "",
@@ -3989,6 +4071,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvvq3r5z02b2eb",
           "u": "5964e5e8dbba",
           "t": "kak rin buat telpon grub",
@@ -4015,6 +4098,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvvr2bn9f3c1a4",
           "u": "634a5398bb59",
           "t": "next ,btw ui sw udah di ganti",
@@ -4036,6 +4120,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvvzsxeu93729f",
           "u": "0ced869dcfa3",
           "t": "@Rin ga ada niatan bikin plan react ch permanen kah",
@@ -4062,6 +4147,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvw040hje16ead",
           "u": "admin",
           "t": "ada tapi bisa ratusan ribu lah di atas 130+",
@@ -4088,6 +4174,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwae6ac229d8a",
           "u": "5964e5e8dbba",
           "t": "auto react ch itu satu apikey sama react ch atau gimna sih?",
@@ -4109,6 +4196,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwah5ia86100a",
           "u": "admin",
           "t": "ga ada auto react",
@@ -4130,6 +4218,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwdog94ea29e5",
           "u": "admin",
           "t": "Ikuti saluran RIN API'S || OFFC di WhatsApp: https://whatsapp.com/channel/0029Vb8SClgHQbRwhvyMDo0m\n\nbackup ygy\n\nnanti untuk code Redeem ada di situ 20:00",
@@ -4151,6 +4240,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx56q0n7974fd",
           "u": "a2577d8d0484",
           "t": "@Rin bikin room chat kaya gini databasenya pake apaan?",
@@ -4177,6 +4267,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx72uye6f4a7b",
           "u": "admin",
           "t": "firebase",
@@ -4203,6 +4294,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvyk31ppc26b1a",
           "u": "0c29c77e3a97",
           "t": "Pagii",
@@ -4224,6 +4316,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvyl7b3y636191",
           "u": "0ced869dcfa3",
           "t": "@Rin am prem nya update bill nya, jadi September",
@@ -4250,6 +4343,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvyphon71a33d4",
           "u": "admin",
           "t": "ini mau ganti karna nanti support costum id order",
@@ -4276,6 +4370,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvzajnvi83ebbb",
           "u": "9901add5c346",
           "t": "cek tele woi",
@@ -4302,6 +4397,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvzat05u579fef",
           "u": "admin",
           "t": "wait tenggelam banyak yang chat",
@@ -4328,6 +4424,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvzv918u2be87e",
           "u": "0ced869dcfa3",
           "t": "Kapan",
@@ -4354,6 +4451,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvzv9mtn680fca",
           "u": "admin",
           "t": "udah",
@@ -4380,6 +4478,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw08muecde5417",
           "u": "0ced869dcfa3",
           "t": "Kok gabisa rin",
@@ -4406,6 +4505,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw08n4hc025870",
           "u": "0ced869dcfa3",
           "t": "",
@@ -4427,6 +4527,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw08nb0h4f5b92",
           "u": "0ced869dcfa3",
           "t": "Katanya harus vip, gw kan udah vip",
@@ -4448,6 +4549,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw08neza0e6cb3",
           "u": "0ced869dcfa3",
           "t": "@Rin",
@@ -4474,6 +4576,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0l3limcdeb13",
           "u": "c0c256961017",
           "t": "Cara dapetin cokie nya gimana euy",
@@ -4495,6 +4598,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0nl7qu36a99f",
           "u": "admin",
           "t": "",
@@ -4516,6 +4620,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0rsrt589374a",
           "u": "admin",
           "t": "DONE FIX\n- am-send\n- am-verify \n( bill November)\n\nADD\n- /search/sticker-tiktok\n- /ai/deepseek",
@@ -4537,6 +4642,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0suez0aa8e9b",
           "u": "0ced869dcfa3",
           "t": "Engga, bill nya tetep juli, gw udah tes di 2 akun sama semua, yang bagian prem",
@@ -4563,6 +4669,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0suskl5a26d6",
           "u": "0ced869dcfa3",
           "t": "Sistemnya acak apa gimana bill nya",
@@ -4584,6 +4691,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0szf0f83f3ea",
           "u": "admin",
           "t": "engga",
@@ -4605,6 +4713,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0szwsi862858",
           "u": "admin",
           "t": "November tuh udah 4 akun gw crate November demua",
@@ -4626,6 +4735,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0tsmxw2e5b22",
           "u": "0ced869dcfa3",
           "t": "Kok di gw kena nya juli ya",
@@ -4647,6 +4757,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0tstvia37a36",
           "u": "0ced869dcfa3",
           "t": "Padahal prem",
@@ -4668,6 +4779,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0tsy3e3816bd",
           "u": "0ced869dcfa3",
           "t": "Aneh banget jir",
@@ -4689,6 +4801,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw69f44e8bb6fa",
           "u": "66ccc3a69f88",
           "t": "infokan api ytmp3 super fast ultra maximal",
@@ -4710,6 +4823,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lpbxmb2b692",
           "u": "0c29c77e3a97",
           "t": "Inpokan cara pake yg netpliik",
@@ -4731,6 +4845,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lpols706129",
           "u": "0c29c77e3a97",
           "t": "",
@@ -4752,6 +4867,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lpwmm88781a",
           "u": "0c29c77e3a97",
           "t": "Dari tadi kayak gini doang bejirr",
@@ -4773,6 +4889,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lq2ed8b27d1",
           "u": "admin",
           "t": "ganti\"",
@@ -4794,6 +4911,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lq4e898b7cf",
           "u": "admin",
           "t": "gacha",
@@ -4815,6 +4933,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lqryg1c70f7",
           "u": "0c29c77e3a97",
           "t": "Dari set 10 gw coba",
@@ -4841,6 +4960,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lr1r543c938",
           "u": "0c29c77e3a97",
           "t": "Udah nyaris 2 jam 🫠",
@@ -4862,6 +4982,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6ltu20a41c7a",
           "u": "0c29c77e3a97",
           "t": "Nyobak mode PC atau deyskop kayak gini",
@@ -4883,6 +5004,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lu23s2367a9",
           "u": "0c29c77e3a97",
           "t": "Sabar sabar",
@@ -4904,6 +5026,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lusyz34fffa",
           "u": "admin",
           "t": "banyak tuh yang work",
@@ -4925,6 +5048,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lv7zg4834af",
           "u": "0c29c77e3a97",
           "t": "Iyatah?",
@@ -4946,6 +5070,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lvltc69aff1",
           "u": "0c29c77e3a97",
           "t": "Apa ada yg salah yak",
@@ -4967,6 +5092,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lxc7r2f2fbc",
           "u": "admin",
           "t": "ya",
@@ -4993,6 +5119,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw7lf7ln8118c5",
           "u": "admin",
           "t": "setuju ga yang VIP edopoint nanti di chat nya ada cap VIP",
@@ -5014,6 +5141,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8e80xe94c84e",
           "u": "0c29c77e3a97",
           "t": "Gasin minn bolee",
@@ -5040,6 +5168,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8eakda48a8a1",
           "u": "0c29c77e3a97",
           "t": "Min, mau saran respon api dari berbagai media downloader bisa ga ditambahin meta datanya juga?",
@@ -5061,6 +5190,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8k18zhd9e158",
           "u": "admin",
           "t": "nanti deh nyari",
@@ -5087,6 +5217,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8k38vv5754a8",
           "u": "19bdcd727d37",
           "t": "udah ada cap VIP bagi user vip",
@@ -5108,6 +5239,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8q9dg706516f",
           "u": "0c29c77e3a97",
           "t": "Gelo",
@@ -5129,6 +5261,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8z4c2b3ab24b",
           "u": "7da018001498",
           "t": "Hello",
@@ -5150,6 +5283,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8z55rr98728c",
           "u": "7da018001498",
           "t": "ChatHPT nya HTTP 429 🗿",
@@ -5171,6 +5305,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8zda6tda2383",
           "u": "7da018001498",
           "t": "",
@@ -5192,6 +5327,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw8zfbtu59a088",
           "u": "7da018001498",
           "t": "",
@@ -5218,6 +5354,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw9335lc227788",
           "u": "admin",
           "t": "tergantung amal",
@@ -5244,6 +5381,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa5immqac8960",
           "u": "0c29c77e3a97",
           "t": "",
@@ -5265,6 +5403,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa5jarceb4963",
           "u": "0c29c77e3a97",
           "t": "Yg dari ytmp4",
@@ -5286,6 +5425,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa5ubygd93658",
           "u": "admin",
           "t": "pake ytdl",
@@ -5307,6 +5447,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa6uspe605f97",
           "u": "0c29c77e3a97",
           "t": "Sama min ga bisa",
@@ -5333,6 +5474,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa7n9leb88e85",
           "u": "0c29c77e3a97",
           "t": "",
@@ -5354,6 +5496,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa7ng76e1b323",
           "u": "0c29c77e3a97",
           "t": "Ini juga ga bisa minn",
@@ -5375,6 +5518,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwafu87607cdc5",
           "u": "d82e9b783553",
           "t": "hdvidio gak ada kah",
@@ -5396,6 +5540,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwag0bkraf07bc",
           "u": "admin",
           "t": "ada",
@@ -5417,6 +5562,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwag0wco4c806c",
           "u": "admin",
           "t": "itu emang eror belom ku benerin",
@@ -5443,6 +5589,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwasjqsl80e5f9",
           "u": "e7b85b42ce08",
           "t": "p",
@@ -5464,6 +5611,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwaur5sbe1ca5c",
           "u": "admin",
           "t": "ampas😂",
@@ -5490,6 +5638,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwaz8m8q2fd2eb",
           "u": "19ea3f09a154",
           "t": "Info freee",
@@ -5511,6 +5660,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwbvlno2217772",
           "u": "0c29c77e3a97",
           "t": "Free apa tuh?",
@@ -5550,6 +5700,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvp568eb29ae98",
           "u": "989a8160c115",
           "t": "Woy admin",
@@ -5571,6 +5722,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp56d593df9b5",
           "u": "admin",
           "t": "iya",
@@ -5592,6 +5744,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpk2k6cd9347d",
           "u": "989a8160c115",
           "t": "Ganteng banget Luh😭",
@@ -5613,6 +5766,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpk2ur7c0339f",
           "u": "989a8160c115",
           "t": "Eh btw bikin kek emoji nya kayak IP 🗿",
@@ -5634,6 +5788,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpk38489b2d62",
           "u": "989a8160c115",
           "t": "Btw pakai apa nih kok bisa live gitu chat nya",
@@ -5655,6 +5810,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpuuzchb08ece",
           "u": "admin",
           "t": "ya bisa aja",
@@ -5676,6 +5832,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvqmqqsac3ca6d",
           "u": "989a8160c115",
           "t": "Yeh",
@@ -5710,6 +5867,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvp5811t52d6d5",
           "u": "878f047a2a7d",
           "t": "admin",
@@ -5731,6 +5889,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp58c8tcd9eba",
           "u": "admin",
           "t": "iya",
@@ -5752,6 +5911,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp58o4kbceccf",
           "u": "878f047a2a7d",
           "t": "ajarin coding dong",
@@ -5773,6 +5933,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp58yvl55a321",
           "u": "878f047a2a7d",
           "t": "angkat aku jadi muridmu😊",
@@ -5794,6 +5955,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp5936h7c87d4",
           "u": "admin",
           "t": "belajar je di yt banyak",
@@ -5815,6 +5977,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp59mms52df13",
           "u": "878f047a2a7d",
           "t": "pusing kalo di yt",
@@ -5836,6 +5999,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp59xp95a3b69",
           "u": "878f047a2a7d",
           "t": "udah nyoba 2 tahun lebih gk bisa bisa",
@@ -5857,6 +6021,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp5a8lk36882f",
           "u": "admin",
           "t": "belajar nya sambil praktek jangan liat doang",
@@ -5878,6 +6043,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp5b7sma3aa3a",
           "u": "878f047a2a7d",
           "t": "gw gitu cuma ya gitulah setiap berhasil selalu ada kegagalan dari hp",
@@ -5899,6 +6065,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvp5cgdp806d0a",
           "u": "878f047a2a7d",
           "t": "waktu itu nyoba di javaacrip sekarang di termux itupun make github orang😇",
@@ -5935,6 +6102,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvpuxok58d4b98",
           "u": "634a5398bb59",
           "t": "halo",
@@ -5956,6 +6124,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpuyotc2a9483",
           "u": "admin",
           "t": "",
@@ -5977,6 +6146,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpv2sj3674e6b",
           "u": "634a5398bb59",
           "t": "min",
@@ -5998,6 +6168,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpv32lz06a029",
           "u": "634a5398bb59",
           "t": "p",
@@ -6019,6 +6190,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpv7imm393509",
           "u": "admin",
           "t": "iya",
@@ -6040,6 +6212,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvpvsuyw7f2508",
           "u": "634a5398bb59",
           "t": "Joo",
@@ -6061,6 +6234,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvq0iwxw579738",
           "u": "admin",
           "t": "gapapa",
@@ -6082,6 +6256,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvq7ueb6a2223a",
           "u": "634a5398bb59",
           "t": "halo",
@@ -6103,6 +6278,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvq7uoux0f6d9f",
           "u": "634a5398bb59",
           "t": "lagi apa kamu",
@@ -6124,6 +6300,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvq7v0s48c975f",
           "u": "634a5398bb59",
           "t": "gapapa sih aku mah b aja",
@@ -6145,6 +6322,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvq80iwv7488a4",
           "u": "admin",
           "t": "ya",
@@ -6166,6 +6344,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvq80rqx70c7d2",
           "u": "admin",
           "t": "ada apa ya",
@@ -6187,6 +6366,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvqi27zxeb939b",
           "u": "admin",
           "t": "yan",
@@ -6208,6 +6388,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrejxeq679d2d",
           "u": "634a5398bb59",
           "t": "ted",
@@ -6229,6 +6410,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuntf7f5090ca",
           "u": "admin",
           "t": "kamu ga bakal tau bikin nya",
@@ -6250,6 +6432,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuo7hsed7b4ec",
           "u": "admin",
           "t": "",
@@ -6277,6 +6460,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuouhecfe6025",
           "u": "admin",
           "t": "tess",
@@ -6298,6 +6482,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuounar7f9720",
           "u": "634a5398bb59",
           "t": "masuk",
@@ -6319,6 +6504,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvupcwha3281a3",
           "u": "admin",
           "t": "p",
@@ -6340,6 +6526,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuph9qgdbba3d",
           "u": "admin",
           "t": "p",
@@ -6361,6 +6548,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuphcw17d3f0d",
           "u": "634a5398bb59",
           "t": "haloo",
@@ -6382,6 +6570,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvxcotrxa99f12",
           "u": "634a5398bb59",
           "t": "Kegagalan bukanlah akhir dari\nsegalanya, melainkan cara alam\nsemesta menyuruh Anda untuk\nmencoba lagi dengan cara yang lebih\ncerdas.",
@@ -6428,6 +6617,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvq9yrftefb7a7",
           "u": "4d95ba23d94e",
           "t": "hi",
@@ -6464,6 +6654,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvqaphpd80b511",
           "u": "92b67293bcc0",
           "t": "Atmin cewe atau cowo",
@@ -6517,6 +6708,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvrgzz8v19c015",
           "u": "",
           "t": "Wyne. bergabung lewat link undangan.",
@@ -6538,6 +6730,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrh05f9cb03e7",
           "u": "49db73edbc20",
           "t": "Pagii kak",
@@ -6559,6 +6752,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrh0b9n286e85",
           "u": "634a5398bb59",
           "t": "iya",
@@ -6580,6 +6774,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrhbeco319208",
           "u": "49db73edbc20",
           "t": "Btw ada fitur baru lagi tohh",
@@ -6601,6 +6796,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrhcgw3d67985",
           "u": "admin",
           "t": "banyak",
@@ -6622,6 +6818,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrhfwcle49fa9",
           "u": "",
           "t": "Sekarang hanya admin yang bisa mengirim pesan.",
@@ -6643,6 +6840,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrhgfbb7c7ef7",
           "u": "",
           "t": "Semua anggota bisa mengirim pesan.",
@@ -6664,6 +6862,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrozed81b5c5e",
           "u": "",
           "t": ".. bergabung lewat link undangan.",
@@ -6685,6 +6884,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs77l3b666f17",
           "u": "",
           "t": "Admin Rin mengganti nama grup menjadi \"GROUP || RIN API'S\".",
@@ -6706,6 +6906,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7qdhvcf6229",
           "u": "",
           "t": "Daniel N. bergabung lewat link undangan.",
@@ -6727,6 +6928,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7zoqp5fe989",
           "u": "",
           "t": "cerix bergabung lewat link undangan.",
@@ -6748,6 +6950,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8a36gcc782f",
           "u": "",
           "t": "vamz bergabung lewat link undangan.",
@@ -6769,6 +6972,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8h9ad89a732",
           "u": "",
           "t": "Xie Yan bergabung lewat link undangan.",
@@ -6790,6 +6994,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8io32f3395b",
           "u": "admin",
           "t": "tes",
@@ -6811,6 +7016,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs9uu64f6fb68",
           "u": "",
           "t": "hentai bergabung lewat link undangan.",
@@ -6832,6 +7038,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs9v5wkbfd8f2",
           "u": "6db70b0a900a",
           "t": "keren",
@@ -6853,6 +7060,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsauzmo2d6014",
           "u": "",
           "t": "saga bergabung lewat link undangan.",
@@ -6874,6 +7082,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsawosof9e11c",
           "u": "4a2dd999fabc",
           "t": "makin mirip wa aja🗿👍",
@@ -6895,6 +7104,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsblgr0c70534",
           "u": "",
           "t": "LanzCihuyy bergabung lewat link undangan.",
@@ -6916,6 +7126,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsblnqade9b54",
           "u": "f0bc2ae29318",
           "t": "bjir gacor",
@@ -6937,6 +7148,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsp1wra139aba",
           "u": "admin",
           "t": "iya",
@@ -6963,6 +7175,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvsujhvhc5455e",
           "u": "",
           "t": "jamalkem.cn@gmail.com bergabung lewat link undangan.",
@@ -6984,6 +7197,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvszi8nnaeb633",
           "u": "",
           "t": "ada adalah bergabung lewat link undangan.",
@@ -7005,6 +7219,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvszide4b86e95",
           "u": "5ecc8a0a9814",
           "t": "pe",
@@ -7026,6 +7241,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvszj4rg104a3e",
           "u": "0c29c77e3a97",
           "t": "Pe apa",
@@ -7047,6 +7263,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvt127kp38a5e6",
           "u": "",
           "t": "Yuuki bergabung lewat link undangan.",
@@ -7068,6 +7285,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvt9if6ke765ea",
           "u": "1e753f4eadbb",
           "t": "Emang disini bahas opo",
@@ -7089,6 +7307,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvt9ix7g6d3006",
           "u": "1e753f4eadbb",
           "t": "tambahin bisa kirim sticker",
@@ -7110,6 +7329,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvt9j2t94ec845",
           "u": "1e753f4eadbb",
           "t": "Masak polos gini",
@@ -7131,6 +7351,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvteahfo55bb49",
           "u": "admin",
           "t": "untuk itu nanti dulu lagi update edopoint baru",
@@ -7152,6 +7373,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvu1m5afc196c6",
           "u": "",
           "t": "RaffDev bergabung lewat link undangan.",
@@ -7173,6 +7395,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvur72o8df2069",
           "u": "",
           "t": "Fariq Akbar123 bergabung lewat link undangan.",
@@ -7194,6 +7417,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvur7bxlf28a46",
           "u": "63f7cfafd24b",
           "t": "Keren bet web nya",
@@ -7215,6 +7439,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvurdxp5d4d4fc",
           "u": "admin",
           "t": "iua",
@@ -7236,6 +7461,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvutco18cca77f",
           "u": "1e753f4eadbb",
           "t": "Afa iya",
@@ -7257,6 +7483,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvutf8aqaef0c0",
           "u": "1e753f4eadbb",
           "t": "",
@@ -7278,6 +7505,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuvjyztdd9d5f",
           "u": "6db70b0a900a",
           "t": "",
@@ -7299,6 +7527,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuvk16cd3dd0f",
           "u": "6db70b0a900a",
           "t": "kapan ada stiker",
@@ -7320,6 +7549,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuvkav45605ca",
           "u": "admin",
           "t": "ada",
@@ -7341,6 +7571,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuvkf7d187cff",
           "u": "admin",
           "t": "",
@@ -7362,6 +7593,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvweu4s9de1969",
           "u": "0c29c77e3a97",
           "t": "Apa yg baru nich?",
@@ -7383,6 +7615,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvweub3kfb6ae1",
           "u": "0c29c77e3a97",
           "t": "Ada api baru ga mint?",
@@ -7404,6 +7637,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwev9s7abafda",
           "u": "admin",
           "t": "cek ch ku and kalo chat ada add kirim sticker,vc, kirim 1x liat dll",
@@ -7430,6 +7664,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwewg6001d7fc",
           "u": "0c29c77e3a97",
           "t": "Api min, buka. Fitur di web chat ini",
@@ -7456,6 +7691,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwexgzqa6036d",
           "u": "0c29c77e3a97",
           "t": "Aaaaaa.... Gimana yah ngejelasinnya takut salah nangkep",
@@ -7477,6 +7713,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwey3dj0a0e5b",
           "u": "admin",
           "t": "*URL :* https://apiii-xrina.my.id/\n𝗗𝗼𝗰𝘀 :  https://apiii-xrina.my.id/docs\n\n*# NEW*\n\n/canvas/ttdm  *( yng lagi viral )*\n/canvas/afinitasml\n/canvas/fakedev1\n/canvas/fakedev2\n/ai/dravyn-ai\n/ai/elyvyn\n/ai/klyra\n/ai/lyvren-chat\n/ai/myvra-ai\n/ai/noxora-ai\n/ai/orrvyn-chat\n/ai/quelyx-ai\n/ai/velrix-chat\n/ai/zavynt\n/upload/aceimg \n/tools/shortlink2 \n/tools/songai \n/tools/bandingkan-hp\n\n*# FIX*\n\n/download/instagram \n/canvas/codesnap \n\n*date :* 31/10/2026",
@@ -7503,6 +7740,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwez2oj2da9c1",
           "u": "0c29c77e3a97",
           "t": "Nicekmin",
@@ -7529,6 +7767,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwezcwo9d2f0f",
           "u": "0c29c77e3a97",
           "t": "Thanks bakal ku vobak",
@@ -7550,6 +7789,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwf9ys9b751e5",
           "u": "63f7cfafd24b",
           "t": "Min https://apiii-xrina.my.id/ai/geminiv2?text=Halo\n\nResponnya lama min",
@@ -7571,6 +7811,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvwfdtqoa36500",
           "u": "admin",
           "t": "Gemini v2",
@@ -7597,6 +7838,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx1bdqnd78868",
           "u": "0c29c77e3a97",
           "t": "Min, mau tanya, limit request berapa / apa gitu ada apa nggak si?\nSoalnya kok botku beberapa kali nggak bisa ngeksekusi perintah nya",
@@ -7618,6 +7860,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx2yltf9935e9",
           "u": "63f7cfafd24b",
           "t": "Biasa panel lu IP kena blok web jadi gagal request",
@@ -7644,6 +7887,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx30l7908646b",
           "u": "63f7cfafd24b",
           "t": "🗿 sistem chat ini bagus coba tambah pairing code kayak WhatsApp",
@@ -7665,6 +7909,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx3g7q16dd032",
           "u": "admin",
           "t": "makanya jangan ddos",
@@ -7691,6 +7936,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx6djfu456c6d",
           "u": "63f7cfafd24b",
           "t": "Min request menu ai yang ada url gambar Ama sesiond id dan model lagi dong\n\nKayak Gemini atau gpt",
@@ -7717,6 +7963,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvx6pufo595d0d",
           "u": "admin",
           "t": "next aja lagi nyari skrep nya",
@@ -7743,6 +7990,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvxskfo36f28f7",
           "u": "1e753f4eadbb",
           "t": "Post status teks di web ini dikasih batasan anjrit 500 teks sedangkan teks promosi gua aja melebihi 500 teks, juga pas post teks sebanyak 500 lebih itu,enggak rapi status teks nya malah berantakan. \n-\n- ini aku bukan ngejlekin web isi tapi kasih sedetail lagi biar enak pemakaian",
@@ -7764,6 +8012,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvxso7ua61f1c1",
           "u": "1e753f4eadbb",
           "t": "",
@@ -7785,6 +8034,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvxsoy3wade91d",
           "u": "admin",
           "t": "nanti cuma 200 kata doang",
@@ -7811,6 +8061,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvxsplxuf42015",
           "u": "1e753f4eadbb",
           "t": "Anjay gege",
@@ -7837,6 +8088,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvxsrc5wd839e7",
           "u": "admin",
           "t": "test telepon ga",
@@ -7863,6 +8115,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy5eg5539b8c1",
           "u": "1e753f4eadbb",
           "t": "Tak",
@@ -7889,6 +8142,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvylsm1k41a551",
           "u": "",
           "t": "Ino.Digital bergabung lewat link undangan.",
@@ -7910,6 +8164,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvz5zr4629f0e2",
           "u": "1e753f4eadbb",
           "t": "Ini ada kontak telepon gua🗿",
@@ -7931,6 +8186,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvz5zz4ib78af5",
           "u": "1e753f4eadbb",
           "t": "",
@@ -7952,6 +8208,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvzbexpc2c81cd",
           "u": "0c29c77e3a97",
           "t": "Smeme ga jalan kah mint?",
@@ -7973,6 +8230,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvzbjwgo79b587",
           "u": "admin",
           "t": "gatau kalo gagal ya api nya mokad",
@@ -7999,6 +8257,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw1j9cdxfabcfa",
           "u": "0c29c77e3a97",
           "t": "Minn spill keuntungan vip dogn",
@@ -8020,6 +8279,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw1jemlya317d3",
           "u": "admin",
           "t": "KEUNTUNGAN VIP EDOPOINT \n\n# BISA PAKE EDOPOINT PREMIUM \n# RCH PREMIUM 3X / 24\n# BEBAS SPAM EDOPOINT PREM",
@@ -8046,6 +8306,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw204hhc06dd66",
           "u": "",
           "t": "cica bergabung lewat link undangan.",
@@ -8067,6 +8328,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw22po5s5c035e",
           "u": "",
           "t": "amz bergabung lewat link undangan.",
@@ -8088,6 +8350,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw4w9lxe5e901b",
           "u": "63f7cfafd24b",
           "t": "Sepi",
@@ -8109,6 +8372,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6lq2zv14315c",
           "u": "0c29c77e3a97",
           "t": "Poll",
@@ -8130,6 +8394,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw96v3ko168ec6",
           "u": "0c29c77e3a97",
           "t": "",
@@ -8151,6 +8416,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw96vjwhbb8553",
           "u": "0c29c77e3a97",
           "t": "Halo man teman, ini cara ambil endpoinnya gimana yak",
@@ -8172,6 +8438,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw994grz21e5c7",
           "u": "0c29c77e3a97",
           "t": "Minn.. add stickerly downloader dong",
@@ -8193,6 +8460,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwa5tvsqd753ce",
           "u": "admin",
           "t": "isi dulu",
@@ -8219,6 +8487,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwbz4kms118562",
           "u": "0c29c77e3a97",
           "t": "Min, perbaikan endpoin bakal ngaruh ga ke layanan?\nMisalnya jadi ga bisa diakses sementara, apa gimana gitu",
@@ -8240,6 +8509,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwc1pnu536a00c",
           "u": "admin",
           "t": "engga",
@@ -8266,6 +8536,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwc46vet529775",
           "u": "0c29c77e3a97",
           "t": "Ok",
@@ -8333,6 +8604,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvrepcms036825",
           "u": "admin",
           "t": "keren ga nih",
@@ -8354,6 +8626,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg0ribac29f5",
           "u": "5964e5e8dbba",
           "t": "mayan lag",
@@ -8375,6 +8648,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg19wnb05222",
           "u": "admin",
           "t": "test telephon coba",
@@ -8396,6 +8670,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg28hp88b9f1",
           "u": "5964e5e8dbba",
           "t": "bagus jir",
@@ -8417,6 +8692,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg2n1f65cce3",
           "u": "admin",
           "t": "stay dulu nanti gw bilang telephon lu langsung call",
@@ -8438,6 +8714,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg378j11131a",
           "u": "5964e5e8dbba",
           "t": "ngak sekalian apk in :v",
@@ -8459,6 +8736,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg42nqa32916",
           "u": "5964e5e8dbba",
           "t": "coba aja kek tele bisa buat bot 😥",
@@ -8480,6 +8758,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg467e47d10c",
           "u": "admin",
           "t": "oke work",
@@ -8501,6 +8780,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg4djvab1eb0",
           "u": "admin",
           "t": "ga tau",
@@ -8527,6 +8807,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg4xei07da22",
           "u": "5964e5e8dbba",
           "t": "wkwkk",
@@ -8553,6 +8834,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg5n4c2b71e4",
           "u": "5964e5e8dbba",
           "t": "di sw ngak ada music nya kah??",
@@ -8574,6 +8856,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg6an96dbbfd",
           "u": "admin",
           "t": "next lagi di kerjakan 1'1",
@@ -8595,6 +8878,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg6gby985e17",
           "u": "admin",
           "t": "nanti bisa kirim sticker",
@@ -8616,6 +8900,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg6m4hb60383",
           "u": "5964e5e8dbba",
           "t": "okeh",
@@ -8637,6 +8922,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg72wu5a527f",
           "u": "admin",
           "t": "real time ini dari call and online nya semua fast",
@@ -8658,6 +8944,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg815q63dee2",
           "u": "5964e5e8dbba",
           "t": ":v",
@@ -8679,6 +8966,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrg8mob3b0e79",
           "u": "5964e5e8dbba",
           "t": "udah dulu mau ngerjain tugas",
@@ -8700,6 +8988,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrgxdvqe0d0af",
           "u": "admin",
           "t": "https://webappcreator.amethystlab.org/download/417f57f8-5ed6-459e-b675-7cdcc8da68d2.apk",
@@ -8721,6 +9010,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrgxip4e8ee0a",
           "u": "admin",
           "t": "nah apk nya",
@@ -8742,6 +9032,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrh5j542086e1",
           "u": "admin",
           "t": "cuma ga ada notifikasi nanti",
@@ -8763,6 +9054,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs1fmm6862b87",
           "u": "5964e5e8dbba",
           "t": "tapi kan -_-",
@@ -8784,6 +9076,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs1fxfo465eec",
           "u": "5964e5e8dbba",
           "t": "ini website dari awal udah jadi apk -_-",
@@ -8805,6 +9098,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs1hh4pd3dfd7",
           "u": "admin",
           "t": "iya",
@@ -8839,6 +9133,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvrgsjqf4820cc",
           "u": "c1d07aaa005a",
           "t": "kiw",
@@ -8875,6 +9170,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvrgy6vx2339e3",
           "u": "be5a164ec95d",
           "t": "mas kalau buat akun lebih dari 2 di 1 device emang gak bisa ya",
@@ -8896,6 +9192,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrgysz5a6cf5b",
           "u": "admin",
           "t": "engga",
@@ -8930,6 +9227,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvupbqwb86b573",
           "u": "634a5398bb59",
           "t": "p",
@@ -8966,6 +9264,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvro1386048571",
           "u": "2b279da6f7cf",
           "t": "kiw rin😋😜",
@@ -8987,6 +9286,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvrsuyiv53afcc",
           "u": "admin",
           "t": "knp",
@@ -9021,6 +9321,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvrsy1n563f7dd",
           "u": "be5a164ec95d",
           "t": "p",
@@ -9093,6 +9394,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvs7rzu961fe11",
           "u": "admin",
           "t": "sayang",
@@ -9114,6 +9416,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7thus8c774d",
           "u": "0ba6e174e051",
           "t": "iyaa sayang",
@@ -9135,6 +9438,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7u0sjf64639",
           "u": "admin",
           "t": "hahaha bisa kan",
@@ -9156,6 +9460,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7u73pae44d4",
           "u": "0ba6e174e051",
           "t": "bisaa",
@@ -9177,6 +9482,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7udicd78baf",
           "u": "0ba6e174e051",
           "t": "ko kamu bisa bikin yang begini",
@@ -9198,6 +9504,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7v3ci0ca7de",
           "u": "admin",
           "t": "bisaaa",
@@ -9219,6 +9526,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7v6n0c0b7d4",
           "u": "admin",
           "t": "baca wa dulu",
@@ -9240,6 +9548,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7xaio65034d",
           "u": "admin",
           "t": "Ciba call aku",
@@ -9261,6 +9570,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7ybum8a42c6",
           "u": "0ba6e174e051",
           "t": "itu ada suara nya ga?",
@@ -9282,6 +9592,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7yi7z066a92",
           "u": "admin",
           "t": "kok gagal terhubung ya di aku",
@@ -9303,6 +9614,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7ymyjaeb93a",
           "u": "admin",
           "t": "kamu udah izin kan semua belom",
@@ -9324,6 +9636,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7yud483ed0c",
           "u": "0ba6e174e051",
           "t": "di aku aja menyambungkan gitu",
@@ -9345,6 +9658,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7yzpk2a7428",
           "u": "admin",
           "t": "iya",
@@ -9366,6 +9680,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7z10g374b70",
           "u": "0ba6e174e051",
           "t": "apanyaaa",
@@ -9392,6 +9707,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7zb0s046efa",
           "u": "admin",
           "t": "aku test bisa tadi pas call",
@@ -9413,6 +9729,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7zggmfc1409",
           "u": "admin",
           "t": "yang aku kirim Poto itu",
@@ -9439,6 +9756,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs7zl5g54a83b",
           "u": "admin",
           "t": "",
@@ -9460,6 +9778,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs80ezude3588",
           "u": "0ba6e174e051",
           "t": "gabisa",
@@ -9481,6 +9800,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs81n8hce9d44",
           "u": "admin",
           "t": "yehh pantes ga bisa connect",
@@ -9502,6 +9822,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs81zg3cd88b2",
           "u": "0ba6e174e051",
           "t": "lagg wifinya",
@@ -9523,6 +9844,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8428o88f3de",
           "u": "admin",
           "t": "nah ini ciri khas si rin",
@@ -9544,6 +9866,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs84hgred132b",
           "u": "0ba6e174e051",
           "t": "cih",
@@ -9565,6 +9888,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs84ny81965d1",
           "u": "0ba6e174e051",
           "t": "💔💔",
@@ -9586,6 +9910,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs84pvjee7264",
           "u": "admin",
           "t": "hahaha",
@@ -9607,6 +9932,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs85beee898cb",
           "u": "admin",
           "t": "iya jier",
@@ -9628,6 +9954,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs85ildf83f59",
           "u": "0ba6e174e051",
           "t": "susah kan",
@@ -9649,6 +9976,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs85lc303a076",
           "u": "admin",
           "t": "liat sw aku",
@@ -9670,6 +9998,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs85me64283ee",
           "u": "0ba6e174e051",
           "t": "tau dah",
@@ -9696,6 +10025,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs85r0t15198b",
           "u": "admin",
           "t": "kamu juga bisa bikin sw",
@@ -9717,6 +10047,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs869w0714096",
           "u": "0ba6e174e051",
           "t": "iyaa tapi ntar aja",
@@ -9738,6 +10069,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs86f7ge2ebd5",
           "u": "0ba6e174e051",
           "t": "wah vc",
@@ -9759,6 +10091,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs86le37430df",
           "u": "0ba6e174e051",
           "t": "ntr kmu vc an dong ama….",
@@ -9780,6 +10113,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs86p30f2d27f",
           "u": "admin",
           "t": "jule",
@@ -9801,6 +10135,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs87cy458ac65",
           "u": "0ba6e174e051",
           "t": "oh gmw sm ak?",
@@ -9822,6 +10157,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs87h8s731ed3",
           "u": "0ba6e174e051",
           "t": "oh ok ckp tw",
@@ -9843,6 +10179,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs87sit9724ff",
           "u": "admin",
           "t": "bagus ga sih bisa kirim sticker",
@@ -9864,6 +10201,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs886gp984af1",
           "u": "0ba6e174e051",
           "t": "emang bisa",
@@ -9885,6 +10223,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs88aaced35e6",
           "u": "admin",
           "t": "gampang",
@@ -9906,6 +10245,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs88en122e3a1",
           "u": "0ba6e174e051",
           "t": "gimana",
@@ -9927,6 +10267,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs88y1wee9ea3",
           "u": "admin",
           "t": "kamu ga bakal tau bikin nya",
@@ -9948,6 +10289,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs897jic8f4a0",
           "u": "0ba6e174e051",
           "t": "njir",
@@ -9969,6 +10311,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs89cc7f8b69a",
           "u": "admin",
           "t": "susah",
@@ -9990,6 +10333,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs89vox41c5e8",
           "u": "0ba6e174e051",
           "t": "ga akan ngerti gitu",
@@ -10011,6 +10355,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8bx9y90a8fb",
           "u": "admin",
           "t": "mau belajar 1-5 tahun ga bakal ngerti sih",
@@ -10032,6 +10377,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8czz20b3823",
           "u": "0ba6e174e051",
           "t": "iyaa deh iyaa",
@@ -10053,6 +10399,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8d9xt1d5a8b",
           "u": "0ba6e174e051",
           "t": "tapi ya kamu emang punya bakat nya di sini sih",
@@ -10074,6 +10421,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8dj2x2ccf54",
           "u": "0ba6e174e051",
           "t": "baguss pinter sayang nya akuu",
@@ -10095,6 +10443,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8hetk6c3181",
           "u": "admin",
           "t": "di sanaa bakat aku makan",
@@ -10121,6 +10470,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8j1tl3a1c34",
           "u": "0ba6e174e051",
           "t": "yehh",
@@ -10142,6 +10492,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvs8j4rj230b4a",
           "u": "0ba6e174e051",
           "t": "makan aku?",
@@ -10187,6 +10538,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvt83dw478685c",
           "u": "",
           "t": "Aldo membuat grup \"Aldo\".",
@@ -10294,6 +10646,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvuob60f6716a4",
           "u": "",
           "t": "hentai membuat grup \"porno\".",
@@ -10342,6 +10695,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvuon7hkff8a16",
           "u": "admin",
           "t": "p",
@@ -10363,6 +10717,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuooxdhb8b7b3",
           "u": "2ad22060a940",
           "t": "Ya",
@@ -10384,6 +10739,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuop6bgbb80f6",
           "u": "admin",
           "t": "",
@@ -10405,6 +10761,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuopb3s4923a9",
           "u": "admin",
           "t": "p",
@@ -10426,6 +10783,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvuopqil60e2ed",
           "u": "admin",
           "t": "",
@@ -10460,6 +10818,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvupawru0fdce9",
           "u": "admin",
           "t": "p",
@@ -10507,6 +10866,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvur980oc614e8",
           "u": "",
           "t": "Fariq Akbar123 membuat grup \"Hahha\".",
@@ -10567,6 +10927,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvwjd7gw1dc131",
           "u": "admin",
           "t": "tes",
@@ -10639,6 +11000,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvy0xv6n20a097",
           "u": "0c8d9507f32f",
           "t": "min, ini knpa fto profile nya gede\nhttps://kappa.lol/MHCVzq",
@@ -10660,6 +11022,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy0yctl035fa8",
           "u": "0c8d9507f32f",
           "t": "sory gabisa kirim media min, gtau eror trs dari tadi pdhl file jpg",
@@ -10681,6 +11044,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy1ftxm346091",
           "u": "admin",
           "t": "ganti pp coba",
@@ -10707,6 +11071,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy1id779bf2ef",
           "u": "admin",
           "t": "atau ganti Border",
@@ -10728,6 +11093,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy2kg8r08e945",
           "u": "0c8d9507f32f",
           "t": "tetap sama min",
@@ -10754,6 +11120,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy2kr6g1e1245",
           "u": "0c8d9507f32f",
           "t": "kalo gnti border belum coba sih",
@@ -10775,6 +11142,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy2na3x7b6c38",
           "u": "0c8d9507f32f",
           "t": "tetap sama min waktu gnti border",
@@ -10796,6 +11164,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy2q1bjc61362",
           "u": "0c8d9507f32f",
           "t": "https://kappa.lol/mMIbDy",
@@ -10817,6 +11186,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvy2qcy340e2f2",
           "u": "0c8d9507f32f",
           "t": "kayak gtu min, profile nya ngelewatin batas",
@@ -10838,6 +11208,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvyer5vp40bc72",
           "u": "admin",
           "t": "gw bisa \" aja",
@@ -10874,6 +11245,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mvyo1ylsbef813",
           "u": "admin",
           "t": "p",
@@ -10895,6 +11267,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mvyo25hf93683c",
           "u": "805f4a18263f",
           "t": "p",
@@ -10929,6 +11302,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mw08rfqo3e7741",
           "u": "0ced869dcfa3",
           "t": "Rin",
@@ -10950,6 +11324,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw08rmp7f93dbc",
           "u": "0ced869dcfa3",
           "t": "",
@@ -10971,6 +11346,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw08rtbvf5e432",
           "u": "0ced869dcfa3",
           "t": "Gabisa, padahal gw vip",
@@ -11005,6 +11381,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mw0l4b619f8cce",
           "u": "c0c256961017",
           "t": "Cara dapetin cokie nya gimana min",
@@ -11026,6 +11403,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0l6eke2bf195",
           "u": "admin",
           "t": "am lagi eror ya nanti di benerin",
@@ -11047,6 +11425,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw0leds12ba838",
           "u": "c0c256961017",
           "t": "Ok min",
@@ -11068,6 +11447,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6ljou78053a2",
           "u": "c0c256961017",
           "t": "Kek gini nih maksud gw min quote style potongan stc🗿",
@@ -11089,6 +11469,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mw6llbxj201571",
           "u": "admin",
           "t": "ribet itu",
@@ -11123,6 +11504,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwaskbm200c701",
           "u": "5964e5e8dbba",
           "t": "p",
@@ -11159,6 +11541,58 @@
       ],
       "msgs": [],
       "lastTs": 0,
+      "timer": 0,
+      "unread": {}
+    },
+    "d_admin_bot": {
+      "id": "d_admin_bot",
+      "type": "dm",
+      "mem": [
+        "admin",
+        "bot"
+      ],
+      "msgs": [
+        {
+          "id": "mwcnj1ol261143",
+          "u": "bot",
+          "t": "Halo, Rin! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
+          "s": 0,
+          "ts": 1794433758789,
+          "exp": 1794458958789
+        }
+      ],
+      "lastTs": 1794433758789,
       "timer": 0,
       "unread": {}
     }
@@ -11506,6 +11940,12 @@
         "m": 5,
         "c": 0,
         "u": 1,
+        "g": 0
+      },
+      "2026-11-12": {
+        "m": 1,
+        "c": 0,
+        "u": 0,
         "g": 0
       }
     }
