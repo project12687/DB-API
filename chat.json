@@ -24,22 +24,23 @@
     "blocked": {},
     "users": {
       "admin": {
-        "n": 7,
+        "n": 8,
         "first": 1794433766100,
-        "last": 1794433985812
+        "last": 1794433998560
       }
     },
     "stats": {
-      "total": 7,
+      "total": 8,
       "daily": {
-        "2026-11-12": 7
+        "2026-11-12": 8
       },
       "cmds": {
         "menu": 3,
         "brat": 1,
         "tiktok": 1,
         "gpt": 1,
-        "iqcpink": 1
+        "iqcpink": 1,
+        "help": 1
       }
     }
   },
@@ -11814,12 +11815,62 @@
           "s": 0,
           "ts": 1794433985813,
           "exp": 1794459185813
+        },
+        {
+          "id": "mwcno6f5f41fd6",
+          "u": "admin",
+          "t": ".help",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794433998209,
+          "exp": 1794459198209
+        },
+        {
+          "id": "mwcno6ow16ee4a",
+          "u": "bot",
+          "t": "📖 BANTUAN RIN BOT\n━━━━━━━━━━━━━━━━\n▸ .menu  daftar kategori\n▸ .menu ai  daftar perintah AI\n▸ .help tohitam  detail satu perintah\n▸ .cari musik  cari perintah\n\nPerintah dengan banyak parameter dipisah garis tegak:\n.tts halo dunia | model\n\n📷 Perintah yang butuh gambar: kirim foto dengan caption perintahnya, atau balas foto dengan perintahnya. Foto diupload otomatis ke hosting sementara lalu link-nya dikirim ke API.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794433998560,
+          "exp": 1794459198560
         }
       ],
-      "lastTs": 1794433985813,
+      "lastTs": 1794433998560,
       "timer": 0,
       "unread": {
-        "bot": 8
+        "bot": 9,
+        "admin": 1
       }
     }
   },
@@ -12169,7 +12220,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 21,
+        "m": 23,
         "c": 0,
         "u": 0,
         "g": 0
