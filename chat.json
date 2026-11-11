@@ -13587,9 +13587,7 @@
       ],
       "lastTs": 1794435854054,
       "timer": 0,
-      "unread": {
-        "bot": 1
-      }
+      "unread": {}
     }
   },
   "blocked": {
