@@ -24,18 +24,18 @@
     "blocked": {},
     "users": {
       "admin": {
-        "n": 6,
+        "n": 7,
         "first": 1794433766100,
-        "last": 1794433940000
+        "last": 1794433985812
       }
     },
     "stats": {
-      "total": 6,
+      "total": 7,
       "daily": {
-        "2026-11-12": 6
+        "2026-11-12": 7
       },
       "cmds": {
-        "menu": 2,
+        "menu": 3,
         "brat": 1,
         "tiktok": 1,
         "gpt": 1,
@@ -11765,12 +11765,61 @@
           "s": 0,
           "ts": 1794433946044,
           "exp": 1794459146044
+        },
+        {
+          "id": "mwcnnwl1627225",
+          "u": "admin",
+          "t": ".menu upload",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794433985461,
+          "exp": 1794459185461
+        },
+        {
+          "id": "mwcnnwut8a34b6",
+          "u": "bot",
+          "t": "☁️ UPLOADER · 13 perintah\nUpload file ke hosting dan dapatkan link.\n━━━━━━━━━━━━━━━━\n1. .aceimg 📷\n    Upload gambar ke AceImg lalu dapat link langsung\n2. .aisense 📷\n    Upload file ke AISense lalu dapat link langsung\n3. .bashupload 📷\n    Upload file ke BashUpload lalu dapat link langsung\n4. .deploy 📷\n    Upload file lalu dapat link permanen yang siap dibagikan menggunakan…\n5. .fileditch 📷\n    Upload file ke FileDitch lalu dapat link langsung\n6. .kappa 📷\n    Upload file ke kappa.lol, link permanen\n7. .nekohime 📷\n    Upload file ke cdn.nekohime.site lalu dapat link langsung\n8. .picsurf 📷\n    Upload gambar ke pic.surf lalu dapat link langsung\n9. .poners 📷\n    Upload gambar, video, audio, pdf, zip dan file lain ke pone.rs lalu d…\n10. .quax 📷\n    Upload file ke qu.ax, link permanen\n11. .tmpfiles 📷\n    Upload file ke tmpfiles.org, hasilnya link download langsung\n12. .uguu 📷\n    Upload file ke Uguu lalu dapat link langsung\n13. .uppastebin <text>\n    Upload teks atau kode ke Pastebin lalu dapat link-nya\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794433985813,
+          "exp": 1794459185813
         }
       ],
-      "lastTs": 1794433946044,
+      "lastTs": 1794433985813,
       "timer": 0,
       "unread": {
-        "bot": 7
+        "bot": 8
       }
     }
   },
@@ -12120,7 +12169,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 19,
+        "m": 21,
         "c": 0,
         "u": 0,
         "g": 0
