@@ -15077,12 +15077,44 @@
         "d14424b3da3d"
       ],
       "lk": []
+    },
+    {
+      "id": "mwcpzj2nccc00d",
+      "u": "d14424b3da3d",
+      "t": "",
+      "i": "30d775e6aaf7fffc2e7e.png",
+      "vd": "",
+      "c": "Ada yang mau coba web db gw?",
+      "bg": 0,
+      "ed": {
+        "s": 0,
+        "e": 0,
+        "rot": 0,
+        "cr": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "f": "none",
+        "b": 0,
+        "tx": []
+      },
+      "ts": 1794437887055,
+      "exp": 1794524287055,
+      "v": [],
+      "lk": []
     }
   ],
   "statusImgs": {
     "241e01195412fd8e784d.png": {
       "u": "6fb3e5fd64ca",
       "ts": 1794435087970,
+      "used": true
+    },
+    "30d775e6aaf7fffc2e7e.png": {
+      "u": "d14424b3da3d",
+      "ts": 1794437886614,
       "used": true
     }
   },
