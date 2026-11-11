@@ -15640,11 +15640,87 @@
           "s": 0,
           "ts": 1794438439745,
           "exp": 1794463639745
+        },
+        {
+          "id": "mwcqdzy18abf62",
+          "u": "b4b81ef3e5d3",
+          "t": ".rch",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794438562105,
+          "exp": 1794463762105
+        },
+        {
+          "id": "mwcqe07x8649bd",
+          "u": "bot",
+          "t": "❓ Perintah .rch tidak ditemukan.\n\nMaksud kamu:\n▸ .overchat <text>\n▸ .ttsearch <q>\n▸ .ytsearch <q>\n▸ .cc-search <q>\n▸ .github-srch <q>\n▸ .komik-search <q>\n\nKetik .menu untuk daftar lengkap.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".overchat",
+              "c": ".help overchat"
+            },
+            {
+              "l": ".ttsearch",
+              "c": ".help ttsearch"
+            },
+            {
+              "l": ".ytsearch",
+              "c": ".help ytsearch"
+            },
+            {
+              "l": ".cc-search",
+              "c": ".help cc-search"
+            },
+            {
+              "l": ".github-srch",
+              "c": ".help github-srch"
+            },
+            {
+              "l": ".komik-search",
+              "c": ".help komik-search"
+            },
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794438562461,
+          "exp": 1794463762461
         }
       ],
-      "lastTs": 1794438439745,
+      "lastTs": 1794438562461,
       "timer": 0,
-      "unread": {}
+      "unread": {
+        "bot": 1,
+        "b4b81ef3e5d3": 1
+      }
     },
     "g_22fed8001c": {
       "id": "g_22fed8001c",
@@ -16160,7 +16236,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 203,
+        "m": 205,
         "c": 0,
         "u": 4,
         "g": 1
