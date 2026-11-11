@@ -6761,31 +6761,10 @@
         "63f7cfafd24b",
         "991e806b0e7f",
         "0ba6e174e051",
-        "ba385afcfbee"
+        "ba385afcfbee",
+        "244002240741"
       ],
       "msgs": [
-        {
-          "bt": [],
-          "id": "mvrgzz8v19c015",
-          "u": "",
-          "t": "Wyne. bergabung lewat link undangan.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 1,
-          "ts": 1793153001775,
-          "exp": 0
-        },
         {
           "bt": [],
           "id": "mvrh05f9cb03e7",
@@ -8613,9 +8592,23 @@
           "s": 0,
           "ts": 1794401278085,
           "exp": 0
+        },
+        {
+          "id": "mwcooi6s0bc3eb",
+          "u": "",
+          "t": "snakyxy bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794435693076,
+          "exp": 0
         }
       ],
-      "lastTs": 1794401278085,
+      "lastTs": 1794435693076,
       "timer": 0,
       "unread": {
         "49db73edbc20": 58,
