@@ -12745,9 +12745,9 @@
           "exp": 1794461780873
         },
         {
-          "id": "mwcp7k6fa12d4c",
+          "id": "mwcp7pc601c212",
           "u": "bot",
-          "t": "⏳ Memproses .tobotak…\n📷 Foto sudah diupload, sedang dikirim ke API",
+          "t": "❌ .tobotak gagal\nProses edit gambar gagal di server AI, coba lagi atau ganti gambar.\n\nCoba lagi nanti atau cek cara pakai dengan .help tobotak",
           "i": "",
           "v": "",
           "vd": "",
@@ -12763,11 +12763,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794436582119,
-          "exp": 1794461782119
+          "ts": 1794436588806,
+          "exp": 1794461788806
         }
       ],
-      "lastTs": 1794436582119,
+      "lastTs": 1794436588806,
       "timer": 0,
       "unread": {
         "bot": 3
@@ -14331,7 +14331,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 139,
+        "m": 140,
         "c": 0,
         "u": 1,
         "g": 0
