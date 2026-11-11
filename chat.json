@@ -11668,13 +11668,34 @@
           "s": 0,
           "ts": 1794435473915,
           "exp": 1794460673915
+        },
+        {
+          "id": "mwcojwdm123419",
+          "u": "bot",
+          "t": "✅ .fakedana selesai\n🔗 https://tmpfiles.org/dl/wfA50MdZ4gHw/fakedana-mwcojvmx.bin\n(link sementara, segera unduh)",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435478186,
+          "exp": 1794460678186
         }
       ],
-      "lastTs": 1794435473915,
+      "lastTs": 1794435478186,
       "timer": 0,
       "unread": {
-        "bot": 1,
-        "admin": 1
+        "bot": 1
       }
     },
     "d_6fb3e5fd64ca_admin": {
@@ -12339,7 +12360,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 70,
+        "m": 71,
         "c": 0,
         "u": 1,
         "g": 0
