@@ -37,18 +37,18 @@
         "last": 1794435800088
       },
       "244002240741": {
-        "n": 9,
+        "n": 10,
         "first": 1794435748277,
-        "last": 1794435837448
+        "last": 1794435841656
       }
     },
     "stats": {
-      "total": 38,
+      "total": 39,
       "daily": {
-        "2026-11-12": 38
+        "2026-11-12": 39
       },
       "cmds": {
-        "menu": 20,
+        "menu": 21,
         "brat": 1,
         "tiktok": 2,
         "gpt": 6,
@@ -13413,13 +13413,64 @@
           "s": 0,
           "ts": 1794435837448,
           "exp": 1794461037448
+        },
+        {
+          "id": "mwcorok98c879e",
+          "u": "244002240741",
+          "t": ".menu tools",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435841305,
+          "exp": 1794461041305
+        },
+        {
+          "id": "mwcorou1bd8198",
+          "u": "bot",
+          "t": "🧰 TOOLS · 46 perintah\nAlat bantu: OCR, QR, TTS, screenshot, dan banyak lagi.\n━━━━━━━━━━━━━━━━\n1. .am-send <email>\n    Mengirim Magic Link verifikasi Alight Motion ke alamat email\n2. .am-verify <email> | <magicLink>\n    Memverifikasi Magic Link Alight Motion yang dikirimkan ke email\n3. .bandingkan-hp <hp1> | <hp2>\n    Membandingkan spesifikasi dua smartphone secara berdampingan dari Car…\n4. .bypass <url>\n    Melewati (bypass) link shortener/skiplink dan mengambil link tujuan a…\n5. .bypass-sfl <url>\n    Bypass link shortener SFL (sfl.gl) dan ambil link tujuan aslinya\n6. .bypassv2 <url>\n    Melewati (bypass) link shortener dan mengambil link tujuan aslinya (v…\n7. .cek-nsfw 📷\n    Mendeteksi apakah sebuah gambar mengandung konten NSFW\n8. .cekmail <token>\n    Membaca isi inbox email sementara memakai token dari endpoint tempmai…\n9. .ceknomor-operator <number>\n    Cek operator seluler Indonesia dari nomor HP: operator, brand, prefix…\n10. .cekphising <url>\n    Mengecek apakah sebuah link aman atau mengandung phishing, malware, d…\n11. .cjstoesm\n    Convert kode CommonJS ke ESM (ES Modules)\n12. .convert <url> | <format>\n    Konversi file ke format lain, mendukung semua media (gambar, video, a…\n13. .createvid <prompt>\n    Membuat video dari teks (prompt) menggunakan AI\n14. .esmtocjs\n    Convert kode ESM (ES Modules) ke CommonJS\n15. .fotomusik 📷 | <audio>\n    Mengubah foto + link audio menjadi video MP4 dengan musik (maksimal 5…\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu tools 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu tools 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435841657,
+          "exp": 1794461041657
         }
       ],
-      "lastTs": 1794435837448,
+      "lastTs": 1794435841657,
       "timer": 0,
-      "unread": {
-        "bot": 1
-      }
+      "unread": {}
     }
   },
   "blocked": {
@@ -13805,7 +13856,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 119,
+        "m": 121,
         "c": 0,
         "u": 1,
         "g": 0
