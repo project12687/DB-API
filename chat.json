@@ -2917,7 +2917,9 @@
         "prev": true,
         "grp": true,
         "blocks": [],
-        "pins": [],
+        "pins": [
+          "room"
+        ],
         "muted": [],
         "clr": {},
         "rr": 1794434125241,
