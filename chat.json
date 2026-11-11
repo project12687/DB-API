@@ -15,7 +15,9 @@
         "blocks": [],
         "pins": [],
         "muted": [],
-        "clr": {},
+        "clr": {
+          "d_admin_bot": 1794434775119
+        },
         "rr": 0,
         "swm": "",
         "swp": "br"
