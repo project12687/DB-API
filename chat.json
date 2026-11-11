@@ -32,9 +32,9 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 14,
+        "n": 15,
         "first": 1794435299530,
-        "last": 1794436425148
+        "last": 1794436582119
       },
       "244002240741": {
         "n": 12,
@@ -43,9 +43,9 @@
       }
     },
     "stats": {
-      "total": 45,
+      "total": 46,
       "daily": {
-        "2026-11-12": 45
+        "2026-11-12": 46
       },
       "cmds": {
         "menu": 25,
@@ -61,7 +61,8 @@
         "asahotak": 1,
         "susunkata": 1,
         "stalk-ml": 1,
-        "stalk-telegram": 1
+        "stalk-telegram": 1,
+        "tobotak": 1
       }
     }
   },
@@ -12744,9 +12745,9 @@
           "exp": 1794461780873
         },
         {
-          "id": "mwcp7jhk2cb8f3",
+          "id": "mwcp7k6fa12d4c",
           "u": "bot",
-          "t": "📷 Foto diterima, mengupload ke hosting sementara…",
+          "t": "⏳ Memproses .tobotak…\n📷 Foto sudah diupload, sedang dikirim ke API",
           "i": "",
           "v": "",
           "vd": "",
@@ -12762,11 +12763,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794436581224,
-          "exp": 1794461781224
+          "ts": 1794436582119,
+          "exp": 1794461782119
         }
       ],
-      "lastTs": 1794436581224,
+      "lastTs": 1794436582119,
       "timer": 0,
       "unread": {
         "bot": 3
@@ -14330,7 +14331,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 138,
+        "m": 139,
         "c": 0,
         "u": 1,
         "g": 0
