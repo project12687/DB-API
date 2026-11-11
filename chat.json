@@ -11720,36 +11720,9 @@
           "s": 0,
           "ts": 1794433766101,
           "exp": 1794458966101
-        },
-        {
-          "id": "mwcnlhx48dd9c5",
-          "u": "bot",
-          "t": "Halo! Aku bot yang bekerja dengan perintah berawalan titik.\nKetik .menu untuk melihat semua fitur.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1794433873144,
-          "exp": 1794459073144
         }
       ],
-      "lastTs": 1794433873144,
+      "lastTs": 1794433766101,
       "timer": 0,
       "unread": {
         "bot": 6
