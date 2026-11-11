@@ -2949,6 +2949,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "bf01b1767407": {
+      "key": "elekk4444@gmail.com",
+      "username": "elek",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794436997329,
+      "updatedAt": 1794436997329,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -14710,7 +14731,7 @@
       "2026-11-12": {
         "m": 162,
         "c": 0,
-        "u": 1,
+        "u": 2,
         "g": 0
       }
     }
