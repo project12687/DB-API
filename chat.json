@@ -32,18 +32,18 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 7,
+        "n": 8,
         "first": 1794435299530,
-        "last": 1794435675849
+        "last": 1794435734746
       }
     },
     "stats": {
-      "total": 26,
+      "total": 27,
       "daily": {
-        "2026-11-12": 26
+        "2026-11-12": 27
       },
       "cmds": {
-        "menu": 11,
+        "menu": 12,
         "brat": 1,
         "tiktok": 2,
         "gpt": 6,
@@ -12239,11 +12239,62 @@
           "s": 0,
           "ts": 1794435675849,
           "exp": 1794460875849
+        },
+        {
+          "id": "mwcope2k58f2f3",
+          "u": "0c29c77e3a97",
+          "t": ".menu komik",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435734396,
+          "exp": 1794460934396
+        },
+        {
+          "id": "mwcopecb075d1e",
+          "u": "bot",
+          "t": "📖 KOMIK · 6 perintah\nBaca komik online.\n━━━━━━━━━━━━━━━━\n1. .browse\n    Jelajahi daftar komik di VoraToon\n2. .komik-detail <url>\n    Detail sebuah komik di VoraToon: judul, poster, dan daftar chapter\n3. .komik-home\n    Daftar komik populer dan terbaru dari beranda VoraToon\n4. .komik-search <q>\n    Cari komik di VoraToon berdasarkan judul\n5. .read <url>\n    Ambil semua gambar halaman dari sebuah chapter komik di VoraToon\n6. .update\n    Daftar komik yang baru update chapter terbarunya di VoraToon\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435734747,
+          "exp": 1794460934747
         }
       ],
-      "lastTs": 1794435675849,
+      "lastTs": 1794435734747,
       "timer": 0,
-      "unread": {}
+      "unread": {
+        "bot": 1
+      }
     },
     "d_244002240741_admin": {
       "id": "d_244002240741_admin",
@@ -12450,11 +12501,35 @@
           "s": 0,
           "ts": 1794435707878,
           "exp": 0
+        },
+        {
+          "id": "mwcope2ebca0f1",
+          "u": "admin",
+          "t": "di home chat kan ada tanda + di bawah kanan pencet terus di atas cari nama nya chat bot",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435734390,
+          "exp": 0
         }
       ],
-      "lastTs": 1794435707878,
+      "lastTs": 1794435734390,
       "timer": 0,
-      "unread": {}
+      "unread": {
+        "244002240741": 1
+      }
     }
   },
   "blocked": {
@@ -12840,7 +12915,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 89,
+        "m": 92,
         "c": 0,
         "u": 1,
         "g": 0
