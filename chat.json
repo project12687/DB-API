@@ -15647,6 +15647,46 @@
       "unread": {
         "bot": 2
       }
+    },
+    "g_22fed8001c": {
+      "id": "g_22fed8001c",
+      "type": "group",
+      "mem": [
+        "b4b81ef3e5d3"
+      ],
+      "msgs": [
+        {
+          "id": "mwcqc5mc8a5610",
+          "u": "",
+          "t": "Anjay membuat grup \"Astrobot\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794438476148,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1794438476148,
+      "timer": 0,
+      "unread": {},
+      "adm": [
+        "b4b81ef3e5d3"
+      ],
+      "owner": "b4b81ef3e5d3",
+      "name": "Astrobot",
+      "bio": "Bot orang ini wkwkwkwk",
+      "avatar": "",
+      "code": "c2b3362680ed631a",
+      "set": {
+        "adm": false,
+        "inv": true,
+        "inf": true
+      },
+      "createdAt": 1794438476148
     }
   },
   "blocked": {
@@ -16104,7 +16144,7 @@
         "m": 203,
         "c": 0,
         "u": 4,
-        "g": 0
+        "g": 1
       }
     }
   }
