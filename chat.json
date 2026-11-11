@@ -11722,28 +11722,6 @@
           "exp": 1794458966101
         },
         {
-          "id": "mwcnlhnd3a2ec7",
-          "u": "admin",
-          "t": ". Clara haloo",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794433872793,
-          "exp": 1794459072793
-        },
-        {
           "id": "mwcnlhx48dd9c5",
           "u": "bot",
           "t": "Halo! Aku bot yang bekerja dengan perintah berawalan titik.\nKetik .menu untuk melihat semua fitur.",
