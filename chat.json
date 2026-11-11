@@ -12790,9 +12790,9 @@
           "exp": 1794461858687
         },
         {
-          "id": "mwcp988480dc0d",
+          "id": "mwcp9edn5d65e8",
           "u": "bot",
-          "t": "⏳ Memproses .tochibi…\n📷 Foto sudah diupload, sedang dikirim ke API",
+          "t": "❌ .tochibi gagal\nProses edit gambar gagal di server AI, coba lagi atau ganti gambar.\n\nCoba lagi nanti atau cek cara pakai dengan .help tochibi",
           "i": "",
           "v": "",
           "vd": "",
@@ -12808,11 +12808,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794436659940,
-          "exp": 1794461859940
+          "ts": 1794436667915,
+          "exp": 1794461867915
         }
       ],
-      "lastTs": 1794436659940,
+      "lastTs": 1794436667915,
       "timer": 0,
       "unread": {
         "bot": 4
@@ -14376,7 +14376,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 143,
+        "m": 144,
         "c": 0,
         "u": 1,
         "g": 0
