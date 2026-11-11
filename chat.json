@@ -12530,13 +12530,33 @@
           "s": 0,
           "ts": 1794435945842,
           "exp": 1794461145842
+        },
+        {
+          "id": "mwcotyp70a6d01",
+          "u": "bot",
+          "t": "✅ .stalk-telegram\n━━━━━━━━━━━━━━━━\n• Username: deledetuser\n• Display name: Salem Diaa\n• Full title: Salem Diaa\n• Bio: I am here to answer any question 🫡\n• Avatar url: https://cdn4.telesco.pe/file/T0Kh80eY_i5B_d59Y2Yw1xmO7ckrIzfbveuRNjeQuedQg1HqrlfZGKN3OeiNjDrnfZUJ-92k3OQsi_Fgd0ABt7XJMUZWUSY-rtVmvjeXMixLwmjAIJMiOkslaxYF2pFRiDx9KI5sDjee_Y0B0r-WgHg_vHEBSO_1nvzMJqQH4BmxvjuESxo2yYG6n4J5zbQEx_R-OIndRPK3MeBdslNWMzY5a_RSKEKXDVX_v0rqCMkLb-sBcoZG26hlFLZQuYjIcGcUjfkYBfwmaH8AaQoug4GLeGSb6obYhZ2pkxVg6Xrcaqcm1eUhOVtKDUUykmurgJ-rpE5u8sR-lHW1noHp3w.jpg\n▸ Flags\n  • Fake: tidak\n  • Scam: tidak\n• Deep link: tg://resolve?domain=deledetuser\n• Source url: https://t.me/deledetuser\n• Fetched at: 2026-11-11T22:25:46.479Z",
+          "i": "3884f840da83a3a69987.png",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435947755,
+          "exp": 1794461147755
         }
       ],
-      "lastTs": 1794435945842,
+      "lastTs": 1794435947755,
       "timer": 0,
-      "unread": {
-        "bot": 1
-      }
+      "unread": {}
     },
     "d_244002240741_admin": {
       "id": "d_244002240741_admin",
@@ -14096,7 +14116,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 130,
+        "m": 131,
         "c": 0,
         "u": 1,
         "g": 0
