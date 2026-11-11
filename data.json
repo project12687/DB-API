@@ -4178,6 +4178,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "jamalojis9@gmail.com": {
+      "name": "yannDep",
+      "email": "jamalojis9@gmail.com",
+      "pass": "s1$02a28c7449797c9060835adc947887a8$15c608c0a6f789fabd69f76f1cc84d8cfdcd9d81ab54bde2f33db4ae42bb25ab",
+      "apikey": "rin_2aba495f77ca5c5aa0",
+      "cap": "free",
+      "ip": "2400:9800:920:ba43:883c:35ff:fee4:241a",
+      "regIp": "2400:9800:920:ba43:883c:35ff:fee4:241a",
+      "createdAt": "2026-11-11T23:39:54.720Z",
+      "lastLogin": "2026-11-11T23:39:54.720Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
