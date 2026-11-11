@@ -4185,10 +4185,31 @@
       "pass": "s1$02a28c7449797c9060835adc947887a8$15c608c0a6f789fabd69f76f1cc84d8cfdcd9d81ab54bde2f33db4ae42bb25ab",
       "apikey": "rin_2aba495f77ca5c5aa0",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2400:9800:920:ba43:883c:35ff:fee4:241a",
       "regIp": "2400:9800:920:ba43:883c:35ff:fee4:241a",
       "createdAt": "2026-11-11T23:39:54.720Z",
       "lastLogin": "2026-11-11T23:39:54.720Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "bokep123@gmail.com": {
+      "name": "yy",
+      "email": "bokep123@gmail.com",
+      "pass": "s1$97a6815c27ccf98162cc0641f9a5e8b9$1382bb5233e46310e4ac5430d2acea9ce0cbb5b8e9845e9c25b489d1f84ff2a0",
+      "apikey": "rin_b7858820a287afc3fd",
+      "cap": "free",
+      "ip": "114.79.20.102",
+      "regIp": "114.79.20.102",
+      "createdAt": "2026-11-11T23:53:36.442Z",
+      "lastLogin": "2026-11-11T23:53:36.442Z",
       "extra": 0,
       "window": {
         "start": 0,
