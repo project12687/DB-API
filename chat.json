@@ -11722,28 +11722,6 @@
           "exp": 1794458966101
         },
         {
-          "id": "mwcnl8fv128b45",
-          "u": "admin",
-          "t": ".menu ai",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794433860859,
-          "exp": 1794459060859
-        },
-        {
           "id": "mwcnl8po336749",
           "u": "bot",
           "t": "🤖 AI CHAT · 40 perintah\nNgobrol dan tanya jawab dengan berbagai AI.\n━━━━━━━━━━━━━━━━\n1. .aicostum <text> | <prompt>\n    Chat dengan AI karakter buatan sendiri\n2. .algolia <text>\n    Tanya jawab dengan Algolia Agent, asisten AI untuk pertanyaan seputar…\n3. .asyntai <text>\n    Tanya jawab dengan Asyntai, asisten AI chat untuk pertanyaan sehari-h…\n4. .blackbox-ai <query>\n    Tanya jawab dan bantuan coding dengan Blackbox AI\n5. .chatgpt <text>\n    Tanya jawab dengan ChatGPT, bisa pakai teks saja atau ditambah gambar…\n6. .chathpt <text>\n    Tanya jawab seputar Himpunan Putusan Tarjih (HPT) Muhammadiyah lewat…\n7. .clara <text>\n    Ngobrol dengan Clara AI, sahabat dekat yang perhatian, lembut, dan ja…\n8. .claudehaiku <text>\n    Tanya jawab dengan AI Claude Haiku 4.5 yang cepat dan ringkas\n9. .darkgpt <text>\n    Tanya jawab dengan DarkGPT, akun dibuat dan diperbarui otomatis oleh…\n10. .deepai <text>\n    Tanya jawab dengan DeepAI Chat, asisten AI serba bisa untuk pertanyaa…\n11. .deepseek <text>\n    Tanya jawab dengan DeepSeek AI\n12. .dravyn-ai <text>\n    Ngobrol dengan Dravyn AI, AI yang jujur, objektif, dan seimbang, sela…\n13. .elyvyn <text>\n    Ngobrol dengan Elyvyn, AI yang bijak, sabar, dan edukatif, pandai men…\n14. .ethan <text>\n    Ngobrol dengan Ethan AI, sosok dewasa yang tenang dan bijaksana, coco…\n15. .feelbetter <text>\n    Tanya jawab dan curhat dengan FeelBetter AI, jawabannya santai dan he…\n━━━━━━━━━━━━━━━━\nHalaman 1/3 · ketik .menu ai 2\nDetail perintah: .help <perintah>",
