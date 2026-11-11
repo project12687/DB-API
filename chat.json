@@ -32,9 +32,9 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 16,
+        "n": 17,
         "first": 1794435299530,
-        "last": 1794436659940
+        "last": 1794436754939
       },
       "244002240741": {
         "n": 12,
@@ -43,9 +43,9 @@
       }
     },
     "stats": {
-      "total": 47,
+      "total": 48,
       "daily": {
-        "2026-11-12": 47
+        "2026-11-12": 48
       },
       "cmds": {
         "menu": 25,
@@ -63,7 +63,8 @@
         "stalk-ml": 1,
         "stalk-telegram": 1,
         "tobotak": 1,
-        "tochibi": 1
+        "tochibi": 1,
+        "tofigurav2": 1
       }
     }
   },
@@ -12834,9 +12835,9 @@
           "exp": 1794461953722
         },
         {
-          "id": "mwcpb8uxad8642",
+          "id": "mwcpbaaqeb1487",
           "u": "bot",
-          "t": "📷 Foto diterima, mengupload ke hosting sementara…",
+          "t": "❌ .tofigurav2 gagal\nRequest failed with status code 500\n\nCoba lagi nanti atau cek cara pakai dengan .help tofigurav2",
           "i": "",
           "v": "",
           "vd": "",
@@ -12852,11 +12853,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794436754073,
-          "exp": 1794461954073
+          "ts": 1794436755938,
+          "exp": 1794461955938
         }
       ],
-      "lastTs": 1794436754073,
+      "lastTs": 1794436755938,
       "timer": 0,
       "unread": {
         "bot": 5
@@ -14420,7 +14421,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 146,
+        "m": 148,
         "c": 0,
         "u": 1,
         "g": 0
