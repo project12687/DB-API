@@ -3092,9 +3092,7 @@
         "prev": true,
         "grp": true,
         "blocks": [],
-        "pins": [
-          "d_6a6a32432e01_de92a8a86eb3"
-        ],
+        "pins": [],
         "muted": [],
         "clr": {},
         "rr": 1794441298163,
