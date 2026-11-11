@@ -4332,10 +4332,31 @@
       "pass": "s1$2e3004566f9deb164a7f9f48458ee1ee$b7cf90e3892de3bb8104ad858be1cf6d0cfa9e56eac9e8775d6db30b81c62cd3",
       "apikey": "rin_c840fc6669117f28af",
       "cap": "free",
+      "vipUntil": null,
       "ip": "202.58.75.65",
       "regIp": "202.58.75.65",
       "createdAt": "2026-11-11T22:57:16.896Z",
       "lastLogin": "2026-11-11T22:57:16.896Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "bgsskuy050@gmail.com": {
+      "name": "Anjay",
+      "email": "bgsskuy050@gmail.com",
+      "pass": "s1$0a3a65295638150de5339b362551dee5$27b9d5fe5d3942c37573d891b65c4f033ff8e301f3f13668762c7f8c1c7b1f29",
+      "apikey": "rin_4079ad328ff154ee24",
+      "cap": "free",
+      "ip": "2a09:bac5:3a2c:15f::23:487",
+      "regIp": "2a09:bac5:3a2c:15f::23:487",
+      "createdAt": "2026-11-11T23:03:07.095Z",
+      "lastLogin": "2026-11-11T23:03:07.095Z",
       "extra": 0,
       "window": {
         "start": 0,
