@@ -13418,9 +13418,9 @@
           "exp": 1794462381352
         },
         {
-          "id": "mwcpketl855a28",
+          "id": "mwcpkfpo73a00c",
           "u": "bot",
-          "t": "⏳ Memproses .spotify…",
+          "t": "✅ .spotify\n━━━━━━━━━━━━━━━━\n• Query: p apa\n▸ Artists (5)\n  1. Apathy\n     https://i.scdn.co/image/ab6761610000e5eb89d4d1087a0bdd1e7b0c1beb\n  2. Aparshakti Khurana\n     https://i.scdn.co/image/ab6761610000e5ebcccf87b774ca22ce0403b062\n  3. A Perfect Circle\n     https://i.scdn.co/image/ab6761610000e5eb5011bfcb59463d911b3e6be1\n  4. Apache 207\n     https://i.scdn.co/image/ab6761610000e5ebd8b08d3199d2bd40f909e449\n  5. Rafa Pabón\n     https://i.scdn.co/image/ab6761610000e5ebad327db81e64afec376ee1b2\n▸ Tracks (3)\n  1. I Fall Apart\n     https://i.scdn.co/image/ab67616d00001e0255404f712deb84d0650a4b41\n  2. Appalachian Raised\n     https://i.scdn.co/image/ab67616d00001e028bd48b8a6a0e91fab15657ce\n  3. Pet\n     https://i.scdn.co/image/ab67616d00001e029fce7baa218063d99799ce52\n▸ Albums (5)\n  1. PUNTO Y APARTE\n     https://i.scdn.co/image/ab67616d00001e0245875b6f024135fd9218a87d\n  2. Apart\n     https://i.scdn.co/image/ab67616d00001e0290dbd41a67fd0b398489edc4\n  3. Apaixonado Ao Extremo Vol. 2 (Ao Vivo)\n     https://i.scdn.co/image/ab67616d00001e02a1251d9fc5f212b86b530386\n  4. Dopamine Hits\n     https://i.scdn.co/image/ab67616d00001e02716bcf2425e0a150db6fc7a5\n  5. Gloria por Ceniza\n     https://i.scdn.co/image/ab67616d00001e02858536096640bd64f97d9c36\n▸ Playlists (5)\n  1. Berceuses pour endormir bébé\n     https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ce41c1794f33729d019576fc9\n  2. Baisser le Cortisol en 5 Minutes & Dormir Vite\n     https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da848b5d584188195a326bcf770c\n  3. Musique pour dormir - Sommeil profond - Méditation - Détente - Relaxante - Douce - Zen -…\n     https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ceb916e781174bb64cf180ab1\n  4. Calming Acoustic\n  5. crash out",
           "i": "",
           "v": "",
           "vd": "",
@@ -13436,15 +13436,14 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794437181705,
-          "exp": 1794462381705
+          "ts": 1794437182860,
+          "exp": 1794462382860
         }
       ],
-      "lastTs": 1794437181705,
+      "lastTs": 1794437182860,
       "timer": 0,
       "unread": {
-        "bot": 2,
-        "0c29c77e3a97": 1
+        "bot": 2
       }
     },
     "d_244002240741_admin": {
@@ -14914,9 +14913,9 @@
           "exp": 1794462375764
         },
         {
-          "id": "mwcpkbbp6f225b",
+          "id": "mwcpkg8abdee54",
           "u": "bot",
-          "t": "⏳ Memproses .tobotak…\n📷 Foto sudah diupload, sedang dikirim ke API",
+          "t": "❌ .tobotak gagal\nProses edit gambar gagal di server AI, coba lagi atau ganti gambar.\n\nCoba lagi nanti atau cek cara pakai dengan .help tobotak",
           "i": "",
           "v": "",
           "vd": "",
@@ -14932,14 +14931,15 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794437177173,
-          "exp": 1794462377173
+          "ts": 1794437183530,
+          "exp": 1794462383530
         }
       ],
-      "lastTs": 1794437177173,
+      "lastTs": 1794437183530,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 1,
+        "bf01b1767407": 1
       }
     }
   },
@@ -15328,7 +15328,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 182,
+        "m": 184,
         "c": 0,
         "u": 2,
         "g": 0
