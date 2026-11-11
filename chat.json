@@ -37,18 +37,18 @@
         "last": 1794435800088
       },
       "244002240741": {
-        "n": 11,
+        "n": 12,
         "first": 1794435748277,
-        "last": 1794435854053
+        "last": 1794435861900
       }
     },
     "stats": {
-      "total": 40,
+      "total": 41,
       "daily": {
-        "2026-11-12": 40
+        "2026-11-12": 41
       },
       "cmds": {
-        "menu": 22,
+        "menu": 23,
         "brat": 1,
         "tiktok": 2,
         "gpt": 6,
@@ -13583,9 +13583,62 @@
           "s": 0,
           "ts": 1794435854054,
           "exp": 1794461054054
+        },
+        {
+          "id": "mwcos46he4e5f8",
+          "u": "244002240741",
+          "t": ".menu download",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435861545,
+          "exp": 1794461061545
+        },
+        {
+          "id": "mwcos4gc0322e3",
+          "u": "bot",
+          "t": "📥 DOWNLOADER · 27 perintah\nUnduh video, musik, dan file dari berbagai platform.\n━━━━━━━━━━━━━━━━\n1. .aio <url>\n    Download video/foto/audio dari banyak platform sekaligus lewat satu l…\n2. .aio2 <url>\n    Download video, foto, atau audio dari banyak platform (TikTok, YouTub…\n3. .am-dl <url>\n    Download project atau preset Alight Motion dalam bentuk file zip\n4. .bilibili <url>\n    Download video dari Bilibili lewat link video\n5. .capcut <url>\n    Download video template CapCut tanpa watermark dari link CapCut\n6. .download-soundcloud <url>\n    Mengambil link audio lagu SoundCloud beserta judul, artis, durasi, da…\n7. .facebook <url>\n    Download video Facebook HD beserta audio MP3 nya dengan fast\n8. .gdrive <url>\n    Download file dari Google Drive (link publik)\n9. .igmp3 <url>\n    Ambil audio MP3 dari Instagram Reel\n10. .instagram <url>\n    Download foto/video/reel/carousel dari Instagram, hasilnya berupa lin…\n11. .likee <url>\n    Download video Likee dengan atau tanpa watermark\n12. .mediafire <url>\n    Mengambil info dan link download langsung dari file Mediafire\n13. .pindl <url>\n    Download gambar atau video dari link Pinterest dengan fast\n14. .play <q>\n    Download audio mp3 dari YouTube via pencarian kata kunci\n15. .play-spotify <query>\n    Cari lagu di Spotify berdasarkan judul lalu ambil link download mp3 d…\n━━━━━━━━━━━━━━━━\nHalaman 1/2 · ketik .menu download 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu download 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435861900,
+          "exp": 1794461061900
         }
       ],
-      "lastTs": 1794435854054,
+      "lastTs": 1794435861900,
       "timer": 0,
       "unread": {}
     }
@@ -13973,7 +14026,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 123,
+        "m": 125,
         "c": 0,
         "u": 1,
         "g": 0
