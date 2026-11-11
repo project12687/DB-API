@@ -11617,6 +11617,58 @@
       "lastTs": 0,
       "timer": 0,
       "unread": {}
+    },
+    "d_0c29c77e3a97_bot": {
+      "id": "d_0c29c77e3a97_bot",
+      "type": "dm",
+      "mem": [
+        "0c29c77e3a97",
+        "bot"
+      ],
+      "msgs": [
+        {
+          "id": "mwcodh4gd042ad",
+          "u": "bot",
+          "t": "Halo, jamalkem.cn! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435178480,
+          "exp": 1794460378480
+        }
+      ],
+      "lastTs": 1794435178480,
+      "timer": 0,
+      "unread": {}
     }
   },
   "blocked": {
@@ -12002,7 +12054,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 59,
+        "m": 60,
         "c": 0,
         "u": 1,
         "g": 0
