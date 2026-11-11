@@ -32,9 +32,9 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 9,
+        "n": 10,
         "first": 1794435299530,
-        "last": 1794435793511
+        "last": 1794435800088
       },
       "244002240741": {
         "n": 4,
@@ -43,12 +43,12 @@
       }
     },
     "stats": {
-      "total": 32,
+      "total": 33,
       "daily": {
-        "2026-11-12": 32
+        "2026-11-12": 33
       },
       "cmds": {
-        "menu": 16,
+        "menu": 17,
         "brat": 1,
         "tiktok": 2,
         "gpt": 6,
@@ -12411,12 +12411,61 @@
           "s": 0,
           "ts": 1794435793511,
           "exp": 1794460993511
+        },
+        {
+          "id": "mwcoqshl7565be",
+          "u": "0c29c77e3a97",
+          "t": ".menu stalker",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435799737,
+          "exp": 1794460999737
+        },
+        {
+          "id": "mwcoqsrc893d6f",
+          "u": "bot",
+          "t": "🕵️ STALKER · 12 perintah\nCek profil akun publik di berbagai platform.\n━━━━━━━━━━━━━━━━\n1. .npm-stalk <name>\n    Cek detail package NPM: versi terbaru, versi publish, jumlah dependen…\n2. .stalk-ff <uid>\n    Stalk akun Free Fire berdasarkan UID: nickname, level, rank, guild, c…\n3. .stalk-genshin <uid>\n    Stalk profil Genshin Impact dari UID: nickname, level, pencapaian, da…\n4. .stalk-gh <username>\n    Cek profil akun GitHub: info akun, daftar repository, aktivitas terba…\n5. .stalk-ig <username>\n    Stalk akun Instagram berdasarkan username: profil lengkap, followers,…\n6. .stalk-ml <id> | <server>\n    Stalk akun Mobile Legends berdasarkan ID dan Server: nickname dan reg…\n7. .stalk-roblox <username>\n    Stalk akun Roblox berdasarkan username: profil, teman, pengikut, game…\n8. .stalk-telegram <username>\n    Stalk profil publik Telegram berdasarkan username: nama, bio, foto pr…\n9. .stalk-threads <username>\n    Cek profil akun Threads: nama, bio, foto profil, jumlah followers, da…\n10. .stalk-tiktok <username>\n    Stalk akun TikTok berdasarkan username: nama, foto profil, bio, follo…\n11. .stalk-x <username>\n    Cek profil akun X (Twitter): nama, bio, foto profil, banner, follower…\n12. .stalk-yt <username>\n    Cek profil channel YouTube: nama, foto profil, banner, jumlah subscri…\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794435800088,
+          "exp": 1794461000088
         }
       ],
-      "lastTs": 1794435793511,
+      "lastTs": 1794435800088,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 2
       }
     },
     "d_244002240741_admin": {
@@ -13383,7 +13432,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 105,
+        "m": 107,
         "c": 0,
         "u": 1,
         "g": 0
