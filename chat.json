@@ -37,15 +37,15 @@
         "last": 1794435734746
       },
       "244002240741": {
-        "n": 3,
+        "n": 4,
         "first": 1794435748277,
-        "last": 1794435780958
+        "last": 1794435786422
       }
     },
     "stats": {
-      "total": 30,
+      "total": 31,
       "daily": {
-        "2026-11-12": 30
+        "2026-11-12": 31
       },
       "cmds": {
         "menu": 15,
@@ -56,7 +56,8 @@
         "help": 1,
         "sticker-reaksi": 1,
         "bratvid": 1,
-        "fakedana": 2
+        "fakedana": 2,
+        "gemini": 1
       }
     }
   },
@@ -12829,9 +12830,53 @@
           "s": 0,
           "ts": 1794435780958,
           "exp": 1794460980958
+        },
+        {
+          "id": "mwcoqhxy0da6c9",
+          "u": "244002240741",
+          "t": ".gemini test",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435786070,
+          "exp": 1794460986070
+        },
+        {
+          "id": "mwcoqjzoa82194",
+          "u": "bot",
+          "t": "✅ .gemini\n━━━━━━━━━━━━━━━━\n: connectedTest received! Everything is working correctly. How can I help you today?\n\n• Model: Gemini 2.5 Flash (Balanced Speed & Intelligence)\n• Question: test",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435788724,
+          "exp": 1794460988724
         }
       ],
-      "lastTs": 1794435780958,
+      "lastTs": 1794435788724,
       "timer": 0,
       "unread": {}
     }
@@ -13219,7 +13264,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 100,
+        "m": 103,
         "c": 0,
         "u": 1,
         "g": 0
