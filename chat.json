@@ -11862,9 +11862,31 @@
           "s": 0,
           "ts": 1794435378217,
           "exp": 1794460578217
+        },
+        {
+          "id": "mwcohu9kcf5cc6",
+          "u": "bot",
+          "t": "✅ .fakedana selesai\n🔗 https://tmpfiles.org/dl/wRAA0IdIhRoC/fakedana-mwcohtn7.bin\n(link sementara, segera unduh)",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794435382136,
+          "exp": 1794460582136
         }
       ],
-      "lastTs": 1794435378217,
+      "lastTs": 1794435382136,
       "timer": 0,
       "unread": {
         "bot": 1
@@ -12254,7 +12276,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 66,
+        "m": 67,
         "c": 0,
         "u": 1,
         "g": 0
