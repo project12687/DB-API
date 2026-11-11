@@ -16439,6 +16439,33 @@
       "unread": {
         "de92a8a86eb3": 1
       }
+    },
+    "d_6a6a32432e01_de92a8a86eb3": {
+      "id": "d_6a6a32432e01_de92a8a86eb3",
+      "type": "dm",
+      "mem": [
+        "6a6a32432e01",
+        "de92a8a86eb3"
+      ],
+      "msgs": [
+        {
+          "id": "mwcs2bmjd963f0",
+          "u": "",
+          "t": "yy mengaktifkan pesan hilang (90 hari).",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794441376603,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1794441376603,
+      "timer": 7776000000,
+      "unread": {}
     }
   },
   "blocked": {
