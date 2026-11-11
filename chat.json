@@ -15591,12 +15591,61 @@
           "s": 0,
           "ts": 1794438434170,
           "exp": 1794463634170
+        },
+        {
+          "id": "mwcqbd9ead0d34",
+          "u": "b4b81ef3e5d3",
+          "t": ".bypass",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794438439394,
+          "exp": 1794463639394
+        },
+        {
+          "id": "mwcqbdj5a10743",
+          "u": "bot",
+          "t": "⚠️ Parameter belum lengkap untuk .bypass\n\nWajib diisi: url\nCara pakai: .bypass <url>\nContoh: .bypass https://sfl.gl/",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".help bypass",
+              "c": ".help bypass"
+            }
+          ],
+          "s": 0,
+          "ts": 1794438439745,
+          "exp": 1794463639745
         }
       ],
-      "lastTs": 1794438434170,
+      "lastTs": 1794438439745,
       "timer": 0,
       "unread": {
-        "bot": 1,
+        "bot": 2,
         "b4b81ef3e5d3": 1
       }
     }
@@ -16053,7 +16102,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 201,
+        "m": 203,
         "c": 0,
         "u": 4,
         "g": 0
