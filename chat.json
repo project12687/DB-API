@@ -3008,7 +3008,7 @@
       "updatedAt": 1794438189822,
       "pref": {
         "bubble": "klasik",
-        "snd": true,
+        "snd": false,
         "prev": true,
         "grp": true,
         "blocks": [],
