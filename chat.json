@@ -24,18 +24,18 @@
     "blocked": {},
     "users": {
       "admin": {
-        "n": 9,
+        "n": 10,
         "first": 1794433766100,
-        "last": 1794434007993
+        "last": 1794434247181
       }
     },
     "stats": {
-      "total": 9,
+      "total": 10,
       "daily": {
-        "2026-11-12": 9
+        "2026-11-12": 10
       },
       "cmds": {
-        "menu": 4,
+        "menu": 5,
         "brat": 1,
         "tiktok": 1,
         "gpt": 1,
@@ -11981,12 +11981,61 @@
           "s": 0,
           "ts": 1794434007993,
           "exp": 1794459207993
+        },
+        {
+          "id": "mwcnti9a25e0f1",
+          "u": "admin",
+          "t": ".menu maker",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794434246830,
+          "exp": 1794459446830
+        },
+        {
+          "id": "mwcntij22b67b9",
+          "u": "bot",
+          "t": "🛠️ MAKER · 15 perintah\nPembuat meme, quote card, dan gambar teks.\n━━━━━━━━━━━━━━━━\n1. .attp <text>\n    Membuat stiker teks animasi warna-warni (ATTP) dari teks\n2. .brat <text>\n    Membuat stiker teks bergaya Brat langsung dalam format gambar PNG den…\n3. .brat-vermeil <text>\n    Membuat gambar teks bergaya Brat dengan template Vermeil\n4. .bratanime2 <text>\n    Membuat gambar teks bergaya Brat dengan berbagai template karakter an…\n5. .bratgojo <text>\n    Membuat gambar teks bergaya Brat dengan template Gojo\n6. .brathd <text>\n    Membuat gambar teks bergaya Brat kualitas HD, hasilnya langsung berup…\n7. .bratspongebob <text>\n    Membuat gambar brat versi papan SpongeBob dari teks\n8. .bratvid <text>\n    Membuat stiker teks bergaya Brat versi animasi (video/gif)\n9. .bratvid2 <text>\n    Membuat video teks bergaya Brat dengan animasi kata muncul satu per s…\n10. .emojimix <emoji1> | <emoji2>\n    Menggabungkan 2 emoji menjadi stiker PNG lewat Emoji Kitchen\n11. .jarvis <text>\n    Membuat meme Jarvis dengan teks sesuka kamu, hasilnya langsung berupa…\n12. .qc <color> | <text>\n    Membuat gambar quote chat dengan warna latar custom\n13. .smeme 📷\n    Membuat stiker meme dari gambar/gif/video\n14. .smemevid <url>\n    Membuat video meme (kotak 512x512, maks 4 detik) dengan teks atas dan…\n15. .sticker-reaksi <text>\n    Membuat gambar stiker reaksi dengan teks nama kustom\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794434247182,
+          "exp": 1794459447182
         }
       ],
-      "lastTs": 1794434007993,
+      "lastTs": 1794434247182,
       "timer": 0,
       "unread": {
-        "bot": 10
+        "bot": 11
       }
     }
   },
@@ -12336,7 +12385,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 26,
+        "m": 28,
         "c": 0,
         "u": 0,
         "g": 0
