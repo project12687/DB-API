@@ -82,15 +82,15 @@
         "last": 1794477076900
       },
       "0c8d9507f32f": {
-        "n": 6,
+        "n": 7,
         "first": 1794478124812,
-        "last": 1794478205433
+        "last": 1794478220941
       }
     },
     "stats": {
-      "total": 100,
+      "total": 101,
       "daily": {
-        "2026-11-12": 100
+        "2026-11-12": 101
       },
       "cmds": {
         "menu": 59,
@@ -99,7 +99,7 @@
         "nova": 3,
         "brat": 2,
         "tiktok": 2,
-        "help": 4,
+        "help": 5,
         "tobotak": 2,
         "tochibi": 2,
         "iqcpink": 1,
@@ -14551,12 +14551,65 @@
           "s": 0,
           "ts": 1794478217341,
           "exp": 1794503417341
+        },
+        {
+          "id": "mwde00ml06e736",
+          "u": "0c8d9507f32f",
+          "t": ".help pap",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794478220589,
+          "exp": 1794503420589
+        },
+        {
+          "id": "mwde00wd4eb337",
+          "u": "bot",
+          "t": "📌 .pap\nGambar pap acak dari Pinterest, langsung berupa gambar. Cukup klik kirim, tanpa parameter.\nKategori : 🎲 Fun\n━━━━━━━━━━━━━━━━\nTanpa parameter, cukup kirim perintahnya.\n━━━━━━━━━━━━━━━━\nCARA PAKAI\n▸ .pap",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "↩ Fun",
+              "c": ".menu fun"
+            },
+            {
+              "l": "🏠 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794478220941,
+          "exp": 1794503420941
         }
       ],
-      "lastTs": 1794478217341,
+      "lastTs": 1794478220941,
       "timer": 0,
       "unread": {
-        "bot": 8
+        "bot": 9
       }
     }
   },
@@ -15162,7 +15215,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 308,
+        "m": 310,
         "c": 0,
         "u": 10,
         "g": 1
