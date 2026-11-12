@@ -3111,6 +3111,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "3e9821dd03d7": {
+      "key": "jraldi640@gmail.com",
+      "username": "aldimahendra",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794471654577,
+      "updatedAt": 1794471654577,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -13621,7 +13642,7 @@
       "2026-11-12": {
         "m": 270,
         "c": 0,
-        "u": 7,
+        "u": 8,
         "g": 1
       }
     }
