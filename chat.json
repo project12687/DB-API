@@ -16597,9 +16597,9 @@
           "exp": 1794468541714
         },
         {
-          "id": "mwct8g6pb2b6f6",
+          "id": "mwct8iq71b3582",
           "u": "bot",
-          "t": "⏳ Memproses .crateimg…",
+          "t": "✅ .crateimg selesai\n🔗 https://tmpfiles.org/dl/wDAH0c5vZGc7/crateimg-mwct8i81.bin\n(link sementara, segera unduh)",
           "i": "",
           "v": "",
           "vd": "",
@@ -16615,11 +16615,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794443342065,
-          "exp": 1794468542065
+          "ts": 1794443345359,
+          "exp": 1794468545359
         }
       ],
-      "lastTs": 1794443342065,
+      "lastTs": 1794443345359,
       "timer": 0,
       "unread": {
         "bot": 2
@@ -17105,7 +17105,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 230,
+        "m": 231,
         "c": 0,
         "u": 7,
         "g": 1
