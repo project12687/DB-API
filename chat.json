@@ -14629,9 +14629,9 @@
           "exp": 1794503425488
         },
         {
-          "id": "mwde04og19df2e",
+          "id": "mwde0730a1c004",
           "u": "bot",
-          "t": "⏳ Memproses .pap…",
+          "t": "✅ .pap selesai\n🔗 https://tmpfiles.org/dl/wRAY0qajqmiV/pap-mwde06pg.bin\n(link sementara, segera unduh)",
           "i": "",
           "v": "",
           "vd": "",
@@ -14647,11 +14647,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794478225840,
-          "exp": 1794503425840
+          "ts": 1794478228956,
+          "exp": 1794503428956
         }
       ],
-      "lastTs": 1794478225840,
+      "lastTs": 1794478228956,
       "timer": 0,
       "unread": {
         "bot": 10
@@ -15260,7 +15260,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 312,
+        "m": 313,
         "c": 0,
         "u": 10,
         "g": 1
