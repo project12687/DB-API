@@ -962,8 +962,8 @@
       "extra": 0,
       "window": {
         "start": 1794441905421,
-        "hits": 18,
-        "reacts": 1
+        "hits": 19,
+        "reacts": 2
       }
     },
     "abadiponselll67@gmail.com": {
@@ -4269,10 +4269,14 @@
       "pass": "s1$25f082c2be3b814ee9d13dc968e33ee3$a7f1741cf19ca3d35e82ee51691a386ebd7b64a460aaaf83f21d88ae78bce3f9",
       "apikey": "rin_85ea1adcfba5ed96e4",
       "cap": "free",
+      "vipUntil": null,
       "ip": "180.247.57.224",
       "regIp": "180.247.57.224",
       "createdAt": "2026-11-12T10:25:06.580Z",
       "lastLogin": "2026-11-12T10:25:06.580Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
