@@ -4262,6 +4262,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "mieayamenak@gmail.com": {
+      "name": "yakk",
+      "email": "mieayamenak@gmail.com",
+      "pass": "s1$25f082c2be3b814ee9d13dc968e33ee3$a7f1741cf19ca3d35e82ee51691a386ebd7b64a460aaaf83f21d88ae78bce3f9",
+      "apikey": "rin_85ea1adcfba5ed96e4",
+      "cap": "free",
+      "ip": "180.247.57.224",
+      "regIp": "180.247.57.224",
+      "createdAt": "2026-11-12T10:25:06.580Z",
+      "lastLogin": "2026-11-12T10:25:06.580Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
