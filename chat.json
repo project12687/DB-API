@@ -11917,59 +11917,6 @@
       "msgs": [
         {
           "bt": [],
-          "id": "mwd0bd7m1c8f1e",
-          "u": "0c29c77e3a97",
-          "t": ".menu aiimage",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1794455235490,
-          "exp": 1794480435490
-        },
-        {
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu aiimage 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "id": "mwd0bdhd4a2589",
-          "u": "bot",
-          "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n1. .crateimg <prompt>\n    Membuat gambar AI dari teks dengan pilihan model, ukuran, dan format\n2. .editimg 📷\n    Mengedit gambar dengan AI (Flux Kontext) berdasarkan prompt yang dibe…\n3. .flux <prompt>\n    Membuat gambar dengan AI Flux dari prompt\n4. .hd 📷\n    Meningkatkan kualitas gambar (HD upscaler 2x/3x/4x)\n5. .hd2 📷\n    Meningkatkan kualitas gambar dengan AI agar tidak blur atau buram\n6. .ihancer 📷\n    Meningkatkan kualitas gambar dengan AI Ihancer (standard, sharpen, re…\n7. .imagetoprompt 📷\n    Mengubah gambar menjadi prompt teks (image to prompt) yang bisa dipak…\n8. .mirror-macbook 📷\n    Mengubah foto jadi mirror selfie di depan layar MacBook dengan hoodie…\n9. .nanobanana 📷 | <prompt>\n    Edit gambar dengan AI Nano Banana sesuai prompt yang kamu tulis, hasi…\n10. .notegpt-nano 📷\n    Mengedit gambar dengan AI Nano Banana lewat NoteGPT berdasarkan promp…\n11. .remove-wm 📷\n    Menghapus watermark dari gambar menggunakan AI\n12. .text2img <prompt>\n    Membuat gambar dengan AI dari prompt yang di berikan\n13. .tobotak 📷\n    Mengubah foto jadi botak (rambut dihilangkan)\n14. .tochibi 📷\n    Mengubah karakter di foto jadi gaya chibi yang imut\n15. .tofigurav2 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 2\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu aiimage 2\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1794455235841,
-          "exp": 1794480435841
-        },
-        {
-          "bt": [],
           "id": "mwd0br8291d8a8",
           "u": "0c29c77e3a97",
           "t": ".tochibi",
