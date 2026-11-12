@@ -62,18 +62,18 @@
         "last": 1794440441589
       },
       "2b279da6f7cf": {
-        "n": 2,
+        "n": 3,
         "first": 1794443292538,
-        "last": 1794443342065
+        "last": 1794443376358
       }
     },
     "stats": {
-      "total": 74,
+      "total": 75,
       "daily": {
-        "2026-11-12": 74
+        "2026-11-12": 75
       },
       "cmds": {
-        "menu": 43,
+        "menu": 44,
         "brat": 2,
         "tiktok": 2,
         "gpt": 6,
@@ -16617,12 +16617,129 @@
           "s": 0,
           "ts": 1794443345359,
           "exp": 1794468545359
+        },
+        {
+          "id": "mwct96df2e90a7",
+          "u": "2b279da6f7cf",
+          "t": ".menu",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794443376003,
+          "exp": 1794468576003
+        },
+        {
+          "id": "mwct96nbe7f72f",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, ..! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "📺 Animein",
+              "c": ".menu animein"
+            },
+            {
+              "l": "🐉 Donghive",
+              "c": ".menu donghive"
+            },
+            {
+              "l": "📚 MangaDex",
+              "c": ".menu mangadex"
+            },
+            {
+              "l": "🖼️ Canvas",
+              "c": ".menu canvas"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            },
+            {
+              "l": "🎬 FreeReels",
+              "c": ".menu freereels"
+            },
+            {
+              "l": "🎲 Fun",
+              "c": ".menu fun"
+            },
+            {
+              "l": "🎮 Game",
+              "c": ".menu game"
+            },
+            {
+              "l": "📰 Info",
+              "c": ".menu info"
+            },
+            {
+              "l": "📖 Komik",
+              "c": ".menu komik"
+            },
+            {
+              "l": "📗 Komiku",
+              "c": ".menu komiku"
+            },
+            {
+              "l": "🛠️ Maker",
+              "c": ".menu maker"
+            },
+            {
+              "l": "🔎 Search",
+              "c": ".menu search"
+            },
+            {
+              "l": "🕵️ Stalker",
+              "c": ".menu stalker"
+            },
+            {
+              "l": "🧰 Tools",
+              "c": ".menu tools"
+            },
+            {
+              "l": "☁️ Uploader",
+              "c": ".menu upload"
+            }
+          ],
+          "s": 0,
+          "ts": 1794443376359,
+          "exp": 1794468576359
         }
       ],
-      "lastTs": 1794443345359,
+      "lastTs": 1794443376359,
       "timer": 0,
       "unread": {
-        "bot": 2
+        "bot": 3
       }
     }
   },
@@ -17105,7 +17222,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 231,
+        "m": 233,
         "c": 0,
         "u": 7,
         "g": 1
