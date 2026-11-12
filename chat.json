@@ -11917,28 +11917,6 @@
       "msgs": [
         {
           "bt": [],
-          "id": "mwd0976lc18eb5",
-          "u": "0c29c77e3a97",
-          "t": ".Nova jelaskan perkembangan Deepseek sejauh ini sudah sampai mana dan bagaimana",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1794455134365,
-          "exp": 1794480334365
-        },
-        {
-          "bt": [],
           "id": "mwd09tu2285feb",
           "u": "bot",
           "t": "✅ .nova\n━━━━━━━━━━━━━━━━\nBaik. Mari kita bedah DeepSeek bukan sekadar sebagai chatbot AI asal Tiongkok, melainkan sebagai salah satu pemain yang berpotensi mengubah peta persaingan kecerdasan buatan dunia.\n\nAda satu hal menarik: **DeepSeek awalnya dikenal karena mampu menantang dominasi perusahaan AI Amerika dengan biaya pengembangan yang relatif efisien. Namun, pada November 2026, ambisinya sudah jauh melampaui itu.**\n\nDeepSeek kini bergerak menuju ekosistem AI yang lebih lengkap: model bahasa, penalaran, pemrograman, multimodal, AI Agent, hingga optimalisasi perangkat keras.\n\nBerikut perkembangan terbarunya.\n\n# 1. Perjalanan DeepSeek: dari pendatang baru menjadi pemain global\n\nDeepSeek didirikan pada 2023 oleh Liang Wenfeng, seorang pengusaha dan investor asal Tiongkok.\n\nAwalnya, DeepSeek tidak terlalu dikenal publik internasional.\n\nNamun, semuanya berubah ketika mereka mulai memperlihatkan bahwa model AI berkualitas tinggi tidak selalu membutuhkan biaya komputasi sebesar yang selama ini diasumsikan industri.\n\nBerikut perjalanan pentingnya:\n\n| Tahun | Perkembangan |\n|---|---|\n| 2023 | DeepSeek didirikan. |\n| 2024 | DeepSeek-V2 dan V3 memperlihatkan efisiensi arsitektur AI yang mengesankan. |\n| Januari 2025 | DeepSeek-R1 menjadi fenomena global berkat kemampuan reasoning. |\n| 2025 | V3.1 dan V3.2 meningkatkan kemampuan coding, reasoning, dan penggunaan tools. |\n| April 2026 | DeepSeek-V4 diperkenalkan dengan konteks hingga 1 juta token. |\n| Agustus 2026 | V4-Pro mendapatkan peningkatan kemampuan Agent. |\n| September 2026 | DeepSeek-V4.1-Flash diluncurkan dengan arsitektur baru dan kemampuan multimodal. |\n| Oktober 2026 | DeepSeek memperbarui V4.1-Flash menjadi versi 1017 dan membuka akses ke teknologi mesin pencari internalnya. |\n\nSumber perkembangan resmi: . \n\n# 2. Perkembangan model AI DeepSeek\n\nIni bagian paling menarik.\n\n## A. DeepSeek-R1: titik balik perkembangan DeepSeek\n\nDeepSeek-R1 merupakan model yang membuat DeepSeek dikenal luas di dunia.\n\nKeunggulan utamanya adalah kemampuan reasoning atau penalaran.\n\nArtinya, AI tidak hanya menghasilkan jawaban berdasarkan pola bahasa, tetapi dapat melakukan proses pemikiran bertahap untuk menyelesaikan persoalan kompleks.\n\nContohnya:\n- Matematika tingkat lanjut.\n- Pemrograman kompleks.\n- Analisis logika.\n- Pemecahan masalah ilmiah.\n- Penalaran multi-langkah.\n\nHal yang membuat R1 menarik adalah pendekatan pelatihannya yang memanfaatkan reinforcement learning secara ekstensif.\n\nDeepSeek memperlihatkan bahwa kemampuan reasoning dapat dikembangkan dengan pendekatan yang relatif efisien.\n\n## B. DeepSeek-V3.2: semakin kuat dalam penggunaan tools\n\nPada Desember 2025, DeepSeek memperkenalkan V3.2 dan V3.2-Speciale.\n\nFokus pengembangannya meliputi:\n\n- Reasoning yang lebih baik.\n- Kemampuan menggunakan tools.\n- Peningkatan kemampuan coding.\n- Penyelesaian persoalan matematika dan kompetisi pemrograman.\n\nDi sini DeepSeek mulai bergerak dari sekadar chatbot menuju AI yang mampu melakukan pekerjaan lebih kompleks.\n\n## C. DeepSeek-V4: lompatan besar berikutnya\n\nPada 24 April 2026, DeepSeek memperkenalkan keluarga model V4.\n\nAda dua model utama:\n\n| Model | Parameter total | Parameter aktif |\n|---|---:|---:|\n| V4-Pro | 1,6 triliun |…\n\n• Question: jelaskan perkembangan Deepseek sejauh ini sudah sampai mana dan bagaimana",
