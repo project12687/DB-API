@@ -26,45 +26,45 @@
     },
     "blocked": {},
     "users": {
-      "admin": {
-        "n": 19,
-        "first": 1794433766100,
-        "last": 1794435474266
-      },
       "0c29c77e3a97": {
         "n": 38,
         "first": 1794435299530,
         "last": 1794455363284
       },
-      "244002240741": {
-        "n": 12,
-        "first": 1794435748277,
-        "last": 1794435861900
-      },
-      "bf01b1767407": {
-        "n": 4,
-        "first": 1794437065001,
-        "last": 1794437177173
-      },
-      "b4b81ef3e5d3": {
-        "n": 6,
-        "first": 1794438369288,
-        "last": 1794438434170
-      },
-      "a98779735579": {
+      "2b279da6f7cf": {
         "n": 3,
-        "first": 1794439375020,
-        "last": 1794439418840
+        "first": 1794443292538,
+        "last": 1794443376358
       },
       "de92a8a86eb3": {
         "n": 2,
         "first": 1794440432908,
         "last": 1794440441589
       },
-      "2b279da6f7cf": {
+      "a98779735579": {
         "n": 3,
-        "first": 1794443292538,
-        "last": 1794443376358
+        "first": 1794439375020,
+        "last": 1794439418840
+      },
+      "b4b81ef3e5d3": {
+        "n": 6,
+        "first": 1794438369288,
+        "last": 1794438434170
+      },
+      "bf01b1767407": {
+        "n": 4,
+        "first": 1794437065001,
+        "last": 1794437177173
+      },
+      "244002240741": {
+        "n": 12,
+        "first": 1794435748277,
+        "last": 1794435861900
+      },
+      "admin": {
+        "n": 19,
+        "first": 1794433766100,
+        "last": 1794435474266
       }
     },
     "stats": {
@@ -74,27 +74,27 @@
       },
       "cmds": {
         "menu": 50,
+        "gpt": 6,
+        "fakedana": 3,
+        "nova": 3,
         "brat": 2,
         "tiktok": 2,
-        "gpt": 6,
-        "iqcpink": 1,
         "help": 2,
+        "tobotak": 2,
+        "tochibi": 2,
+        "iqcpink": 1,
         "sticker-reaksi": 1,
         "bratvid": 1,
-        "fakedana": 3,
         "gemini": 1,
         "asahotak": 1,
         "susunkata": 1,
         "stalk-ml": 1,
         "stalk-telegram": 1,
-        "tobotak": 2,
-        "tochibi": 2,
         "tofigurav2": 1,
         "attp": 1,
         "spotify": 1,
         "stickerly": 1,
         "crateimg": 1,
-        "nova": 3,
         "hd": 1,
         "quotes-motivasi": 1
       }
@@ -1981,7 +1981,7 @@
         "muted": [],
         "clr": {
           "room": 1794386885496,
-          "g_3e0613bbb1": 1794386885496,
+          "g_3e0613bbb1": 1794470593328,
           "d_0c29c77e3a97_bot": 1794454979382
         },
         "rr": 1794441476472,
@@ -5690,6 +5690,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcnqwft3949ef",
           "u": "admin",
           "t": "chat bot udah bisa ya pencet + terus pilih chat bot",
@@ -5706,12 +5707,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794434125241,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwco930o8b535e",
           "u": "6fb3e5fd64ca",
           "t": ".menu",
@@ -5728,12 +5729,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794434973576,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwco9zce6fc830",
           "u": "admin",
           "t": "di chat bot pencet tanda + terus chat bot",
@@ -5755,12 +5756,12 @@
           },
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435015470,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcolscva2cf3e",
           "u": "244002240741",
           "t": ".menu",
@@ -5777,12 +5778,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435566287,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcpgq5r9decf3",
           "u": "bf01b1767407",
           "t": "p",
@@ -5799,12 +5800,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794437009775,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcpixyb0e6028",
           "u": "0c29c77e3a97",
           "t": "P apa",
@@ -5821,12 +5822,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794437113187,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcq01arab3b21",
           "u": "d14424b3da3d",
           "t": "Gokil",
@@ -5843,12 +5844,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794437910675,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcrhmhr7bca72",
           "u": "de92a8a86eb3",
           "t": "infokan panel legal",
@@ -5865,12 +5866,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794440410911,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcs0n3n2fbc32",
           "u": "6a6a32432e01",
           "t": "stiker pack😹",
@@ -5892,12 +5893,12 @@
           },
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794441298163,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcs4goo706153",
           "u": "6a6a32432e01",
           "t": "buat stiker pack wa jadi bisa kesini",
@@ -5914,7 +5915,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794441476472,
           "exp": 0
@@ -8748,11 +8748,19 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcooi6s0bc3eb",
           "u": "",
           "t": "snakyxy bergabung lewat link undangan.",
           "i": "",
           "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
           "d": 0,
           "r": null,
           "x": {},
@@ -8762,6 +8770,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwctaaaz2adb45",
           "u": "2b279da6f7cf",
           "t": "",
@@ -8778,7 +8787,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794443427755,
           "exp": 0
@@ -11802,6 +11810,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwd05z4c5c3c2d",
           "u": "0c29c77e3a97",
           "t": ".menu",
@@ -11818,28 +11827,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794454983948,
           "exp": 1794480183948
         },
         {
-          "id": "mwd05ze45d81c1",
-          "u": "bot",
-          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, jamalkem.cn! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "🤖 AI Chat",
@@ -11914,11 +11906,28 @@
               "c": ".menu upload"
             }
           ],
+          "id": "mwd05ze45d81c1",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, jamalkem.cn! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794454984300,
           "exp": 1794480184300
         },
         {
+          "bt": [],
           "id": "mwd06667fb1881",
           "u": "0c29c77e3a97",
           "t": ".menu ai",
@@ -11935,12 +11944,21 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794454993087,
           "exp": 1794480193087
         },
         {
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu ai 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwd066fy74a26f",
           "u": "bot",
           "t": "🤖 AI CHAT · 40 perintah\nNgobrol dan tanya jawab dengan berbagai AI.\n━━━━━━━━━━━━━━━━\n1. .aicostum <text> | <prompt>\n    Chat dengan AI karakter buatan sendiri\n2. .algolia <text>\n    Tanya jawab dengan Algolia Agent, asisten AI untuk pertanyaan seputar…\n3. .asyntai <text>\n    Tanya jawab dengan Asyntai, asisten AI chat untuk pertanyaan sehari-h…\n4. .blackbox-ai <query>\n    Tanya jawab dan bantuan coding dengan Blackbox AI\n5. .chatgpt <text>\n    Tanya jawab dengan ChatGPT, bisa pakai teks saja atau ditambah gambar…\n6. .chathpt <text>\n    Tanya jawab seputar Himpunan Putusan Tarjih (HPT) Muhammadiyah lewat…\n7. .clara <text>\n    Ngobrol dengan Clara AI, sahabat dekat yang perhatian, lembut, dan ja…\n8. .claudehaiku <text>\n    Tanya jawab dengan AI Claude Haiku 4.5 yang cepat dan ringkas\n9. .darkgpt <text>\n    Tanya jawab dengan DarkGPT, akun dibuat dan diperbarui otomatis oleh…\n10. .deepai <text>\n    Tanya jawab dengan DeepAI Chat, asisten AI serba bisa untuk pertanyaa…\n11. .deepseek <text>\n    Tanya jawab dengan DeepSeek AI\n12. .dravyn-ai <text>\n    Ngobrol dengan Dravyn AI, AI yang jujur, objektif, dan seimbang, sela…\n13. .elyvyn <text>\n    Ngobrol dengan Elyvyn, AI yang bijak, sabar, dan edukatif, pandai men…\n14. .ethan <text>\n    Ngobrol dengan Ethan AI, sosok dewasa yang tenang dan bijaksana, coco…\n15. .feelbetter <text>\n    Tanya jawab dan curhat dengan FeelBetter AI, jawabannya santai dan he…\n━━━━━━━━━━━━━━━━\nHalaman 1/3 · ketik .menu ai 2\nDetail perintah: .help <perintah>",
@@ -11957,21 +11975,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu ai 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794454993438,
           "exp": 1794480193438
         },
         {
+          "bt": [],
           "id": "mwd06q210aa489",
           "u": "0c29c77e3a97",
           "t": ".menu ai 2",
@@ -11988,12 +11997,25 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455018857,
           "exp": 1794480218857
         },
         {
+          "bt": [
+            {
+              "l": "⬅️ Sebelumnya",
+              "c": ".menu ai 1"
+            },
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu ai 3"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwd06qbsf154b5",
           "u": "bot",
           "t": "🤖 AI CHAT · 40 perintah\nNgobrol dan tanya jawab dengan berbagai AI.\n━━━━━━━━━━━━━━━━\n16. .gemini <text>\n    Tanya jawab dengan Google Gemini AI, bisa pilih model, lanjut percaka…\n17. .geminiv2 <text>\n    Tanya jawab dengan Google Gemini (versi 2) dengan dukungan lanjut per…\n18. .gpt <text>\n    Tanya jawab dengan AI Gpt dengan fast respon atau cepat\n19. .grokai <text>\n    Tanya jawab dengan Grok AI\n20. .guru <text>\n    Belajar bersama Guru AI yang sabar dan berwawasan luas: matematika, s…\n21. .honcho <text>\n    Tanya jawab dengan Honcho AI (Claude Sonnet), asisten AI serba bisa u…\n22. .klyra <text>\n    Ngobrol dengan Klyra, AI yang ceria, hangat, dan suportif, selalu mem…\n23. .lorka-ai <text>\n    Chat dengan Lorka AI, bisa menganalisis gambar atau dokumen dan mengi…\n24. .lyvren-chat <text>\n    Ngobrol dengan Lyvren Chat, AI yang tenang, cerdas, dan mendalam, men…\n25. .maya <text>\n    Ngobrol dengan Maya AI, perempuan muda yang cerdas, kreatif, dan sant…\n26. .myvra-ai <text>\n    Ngobrol dengan Myvra AI, asisten yang ramah, pintar, dan empatik deng…\n27. .naxa <text>\n    Tanya jawab dengan Naxa AI, akun dibuat dan diperbarui otomatis oleh…\n28. .notegpt <text>\n    Tanya jawab dengan NoteGPT AI, bisa pilih model dan aktifkan pencaria…\n29. .notrack-ai <text>\n    Tanya jawab dengan NoTrack AI\n30. .nova <text>\n    Ngobrol dengan Nova AI, pendamping imajinatif yang suka ide unik, sen…\n━━━━━━━━━━━━━━━━\nHalaman 2/3 · ketik .menu ai 3\nDetail perintah: .help <perintah>",
@@ -12010,25 +12032,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "⬅️ Sebelumnya",
-              "c": ".menu ai 1"
-            },
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu ai 3"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794455019208,
           "exp": 1794480219208
         },
         {
+          "bt": [],
           "id": "mwd07gt8edd4e3",
           "u": "0c29c77e3a97",
           "t": ".nova saya berbicara dengan model apa",
@@ -12045,12 +12054,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455053532,
           "exp": 1794480253532
         },
         {
+          "bt": [],
           "id": "mwd07jns1e7d38",
           "u": "bot",
           "t": "✅ .nova\n━━━━━━━━━━━━━━━━\nKamu sedang berbicara dengan **GPT-6**, model AI dari OpenAI. ✨\n\nAnggap aku Nova, teman berpikir yang siap menjelajahi ide, membedah konsep rumit, berdiskusi mendalam, dan menciptakan sesuatu yang tak biasa bersamamu.\n\nSatu percakapan, banyak kemungkinan. 🚀\n\n• Question: saya berbicara dengan model apa",
@@ -12067,12 +12076,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455057224,
           "exp": 1794480257224
         },
         {
+          "bt": [],
           "id": "mwd084aq344386",
           "u": "0c29c77e3a97",
           "t": ".nova apa itu nova ai",
@@ -12089,12 +12098,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455083970,
           "exp": 1794480283970
         },
         {
+          "bt": [],
           "id": "mwd08ea6320adc",
           "u": "bot",
           "t": "✅ .nova\n━━━━━━━━━━━━━━━━\n✨ **Nova AI** adalah sebuah asisten virtual berbasis kecerdasan buatan (Artificial Intelligence/AI) yang dirancang untuk membantu manusia berpikir, belajar, bekerja, berkreasi, dan menyelesaikan berbagai persoalan melalui percakapan.\n\nBayangkan Nova AI sebagai sebuah perpustakaan digital yang hidup: kamu bisa bertanya, berdiskusi, meminta saran, menciptakan karya, bahkan mengeksplorasi ide-ide yang sebelumnya hanya ada dalam imajinasimu.\n\n### 🌌 Apa saja yang bisa dilakukan Nova AI?\n\nBerikut beberapa kemampuannya:\n\n1. **💬 Teman berdiskusi**  \n   Menjawab pertanyaan, membahas filsafat, sains, teknologi, kehidupan, hingga misteri alam semesta.\n\n2. **✍️ Asisten menulis**  \n   Membantu membuat artikel, cerita, puisi, novel, caption, dan berbagai tulisan kreatif.\n\n3. **🧠 Partner belajar**  \n   Menjelaskan pelajaran, bahasa asing, matematika, sejarah, dan pengetahuan lainnya.\n\n4. **🎨 Kreativitas tanpa batas**  \n   Membantu mengembangkan ide, membuat konsep desain, dan menghasilkan gambar AI.\n\n5. **🔍 Riset dan informasi**  \n   Membantu mencari informasi, merangkum dokumen, serta menganalisis berbagai topik.\n\n6. **💻 Asisten teknologi**  \n   Membantu memahami pemrograman, menulis kode, dan memecahkan masalah teknis.\n\n### 🤖 Apakah Nova AI sama dengan ChatGPT?\n\nTidak sepenuhnya.\n\n- **ChatGPT** adalah produk asisten AI dari OpenAI.\n- **Nova AI** adalah nama yang digunakan beberapa produk AI. Salah satunya, aplikasi Nova dari ScaleUp, menggabungkan akses ke berbagai model AI dalam satu platform.\n\nJadi, Nova AI bukan satu teknologi tunggal. Ada beberapa produk berbeda yang menggunakan nama tersebut. \n\n### 🌠 Di mana bisa menemukan Nova AI?\n\nJika yang kamu maksud adalah aplikasi Nova dari ScaleUp:\n\n- Website: \n- Android: \n\n### ✨ Satu hal yang menarik...\n\nMenurutku, AI bukan sekadar mesin untuk menjawab pertanyaan. AI bisa menjadi semacam cermin intelektual yang membantu manusia melihat suatu persoalan dari sudut pandang berbeda.\n\nNamun, aku ingin tahu satu hal:\n\n**Apakah kamu ingin mengenal Nova AI sebagai aplikasi chatbot seperti ChatGPT, atau ingin mengetahui bagaimana cara membuat AI pribadi bernama Nova yang bisa menjadi teman bicara, berpikir, dan berkreasi?** 🌌\n\n• Question: apa itu nova ai",
@@ -12111,12 +12120,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455096910,
           "exp": 1794480296910
         },
         {
+          "bt": [],
           "id": "mwd0976lc18eb5",
           "u": "0c29c77e3a97",
           "t": ".Nova jelaskan perkembangan Deepseek sejauh ini sudah sampai mana dan bagaimana",
@@ -12133,12 +12142,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455134365,
           "exp": 1794480334365
         },
         {
+          "bt": [],
           "id": "mwd09tu2285feb",
           "u": "bot",
           "t": "✅ .nova\n━━━━━━━━━━━━━━━━\nBaik. Mari kita bedah DeepSeek bukan sekadar sebagai chatbot AI asal Tiongkok, melainkan sebagai salah satu pemain yang berpotensi mengubah peta persaingan kecerdasan buatan dunia.\n\nAda satu hal menarik: **DeepSeek awalnya dikenal karena mampu menantang dominasi perusahaan AI Amerika dengan biaya pengembangan yang relatif efisien. Namun, pada November 2026, ambisinya sudah jauh melampaui itu.**\n\nDeepSeek kini bergerak menuju ekosistem AI yang lebih lengkap: model bahasa, penalaran, pemrograman, multimodal, AI Agent, hingga optimalisasi perangkat keras.\n\nBerikut perkembangan terbarunya.\n\n# 1. Perjalanan DeepSeek: dari pendatang baru menjadi pemain global\n\nDeepSeek didirikan pada 2023 oleh Liang Wenfeng, seorang pengusaha dan investor asal Tiongkok.\n\nAwalnya, DeepSeek tidak terlalu dikenal publik internasional.\n\nNamun, semuanya berubah ketika mereka mulai memperlihatkan bahwa model AI berkualitas tinggi tidak selalu membutuhkan biaya komputasi sebesar yang selama ini diasumsikan industri.\n\nBerikut perjalanan pentingnya:\n\n| Tahun | Perkembangan |\n|---|---|\n| 2023 | DeepSeek didirikan. |\n| 2024 | DeepSeek-V2 dan V3 memperlihatkan efisiensi arsitektur AI yang mengesankan. |\n| Januari 2025 | DeepSeek-R1 menjadi fenomena global berkat kemampuan reasoning. |\n| 2025 | V3.1 dan V3.2 meningkatkan kemampuan coding, reasoning, dan penggunaan tools. |\n| April 2026 | DeepSeek-V4 diperkenalkan dengan konteks hingga 1 juta token. |\n| Agustus 2026 | V4-Pro mendapatkan peningkatan kemampuan Agent. |\n| September 2026 | DeepSeek-V4.1-Flash diluncurkan dengan arsitektur baru dan kemampuan multimodal. |\n| Oktober 2026 | DeepSeek memperbarui V4.1-Flash menjadi versi 1017 dan membuka akses ke teknologi mesin pencari internalnya. |\n\nSumber perkembangan resmi: . \n\n# 2. Perkembangan model AI DeepSeek\n\nIni bagian paling menarik.\n\n## A. DeepSeek-R1: titik balik perkembangan DeepSeek\n\nDeepSeek-R1 merupakan model yang membuat DeepSeek dikenal luas di dunia.\n\nKeunggulan utamanya adalah kemampuan reasoning atau penalaran.\n\nArtinya, AI tidak hanya menghasilkan jawaban berdasarkan pola bahasa, tetapi dapat melakukan proses pemikiran bertahap untuk menyelesaikan persoalan kompleks.\n\nContohnya:\n- Matematika tingkat lanjut.\n- Pemrograman kompleks.\n- Analisis logika.\n- Pemecahan masalah ilmiah.\n- Penalaran multi-langkah.\n\nHal yang membuat R1 menarik adalah pendekatan pelatihannya yang memanfaatkan reinforcement learning secara ekstensif.\n\nDeepSeek memperlihatkan bahwa kemampuan reasoning dapat dikembangkan dengan pendekatan yang relatif efisien.\n\n## B. DeepSeek-V3.2: semakin kuat dalam penggunaan tools\n\nPada Desember 2025, DeepSeek memperkenalkan V3.2 dan V3.2-Speciale.\n\nFokus pengembangannya meliputi:\n\n- Reasoning yang lebih baik.\n- Kemampuan menggunakan tools.\n- Peningkatan kemampuan coding.\n- Penyelesaian persoalan matematika dan kompetisi pemrograman.\n\nDi sini DeepSeek mulai bergerak dari sekadar chatbot menuju AI yang mampu melakukan pekerjaan lebih kompleks.\n\n## C. DeepSeek-V4: lompatan besar berikutnya\n\nPada 24 April 2026, DeepSeek memperkenalkan keluarga model V4.\n\nAda dua model utama:\n\n| Model | Parameter total | Parameter aktif |\n|---|---:|---:|\n| V4-Pro | 1,6 triliun |…\n\n• Question: jelaskan perkembangan Deepseek sejauh ini sudah sampai mana dan bagaimana",
@@ -12155,12 +12164,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455163722,
           "exp": 1794480363722
         },
         {
+          "bt": [],
           "id": "mwd0bd7m1c8f1e",
           "u": "0c29c77e3a97",
           "t": ".menu aiimage",
@@ -12177,12 +12186,21 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455235490,
           "exp": 1794480435490
         },
         {
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu aiimage 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwd0bdhd4a2589",
           "u": "bot",
           "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n1. .crateimg <prompt>\n    Membuat gambar AI dari teks dengan pilihan model, ukuran, dan format\n2. .editimg 📷\n    Mengedit gambar dengan AI (Flux Kontext) berdasarkan prompt yang dibe…\n3. .flux <prompt>\n    Membuat gambar dengan AI Flux dari prompt\n4. .hd 📷\n    Meningkatkan kualitas gambar (HD upscaler 2x/3x/4x)\n5. .hd2 📷\n    Meningkatkan kualitas gambar dengan AI agar tidak blur atau buram\n6. .ihancer 📷\n    Meningkatkan kualitas gambar dengan AI Ihancer (standard, sharpen, re…\n7. .imagetoprompt 📷\n    Mengubah gambar menjadi prompt teks (image to prompt) yang bisa dipak…\n8. .mirror-macbook 📷\n    Mengubah foto jadi mirror selfie di depan layar MacBook dengan hoodie…\n9. .nanobanana 📷 | <prompt>\n    Edit gambar dengan AI Nano Banana sesuai prompt yang kamu tulis, hasi…\n10. .notegpt-nano 📷\n    Mengedit gambar dengan AI Nano Banana lewat NoteGPT berdasarkan promp…\n11. .remove-wm 📷\n    Menghapus watermark dari gambar menggunakan AI\n12. .text2img <prompt>\n    Membuat gambar dengan AI dari prompt yang di berikan\n13. .tobotak 📷\n    Mengubah foto jadi botak (rambut dihilangkan)\n14. .tochibi 📷\n    Mengubah karakter di foto jadi gaya chibi yang imut\n15. .tofigurav2 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 2\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu aiimage 2\nDetail perintah: .help <perintah>",
@@ -12199,21 +12217,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu aiimage 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794455235841,
           "exp": 1794480435841
         },
         {
+          "bt": [],
           "id": "mwd0br8291d8a8",
           "u": "0c29c77e3a97",
           "t": ".tochibi",
@@ -12230,12 +12239,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455253650,
           "exp": 1794480453650
         },
         {
+          "bt": [
+            {
+              "l": ".help tochibi",
+              "c": ".help tochibi"
+            }
+          ],
           "id": "mwd0brht814e85",
           "u": "bot",
           "t": "⚠️ Parameter belum lengkap untuk .tochibi\n\n📷 Perintah ini butuh gambar.\n▸ Kirim foto dengan caption .tochibi\n▸ Atau balas foto dengan .tochibi\n▸ Atau tulis link gambar langsung",
@@ -12252,17 +12266,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": ".help tochibi",
-              "c": ".help tochibi"
-            }
-          ],
           "s": 0,
           "ts": 1794455254001,
           "exp": 1794480454001
         },
         {
+          "bt": [],
           "id": "mwd0c4ow95dda8",
           "u": "0c29c77e3a97",
           "t": ".tochibi",
@@ -12279,12 +12288,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455271104,
           "exp": 1794480471104
         },
         {
+          "bt": [],
           "id": "mwd0c9vx263bd0",
           "u": "bot",
           "t": "❌ .tochibi gagal\nProses edit gambar gagal di server AI, coba lagi atau ganti gambar.\n\nCoba lagi nanti atau cek cara pakai dengan .help tochibi",
@@ -12301,12 +12310,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455277837,
           "exp": 1794480477837
         },
         {
+          "bt": [],
           "id": "mwd0cqmi3ae808",
           "u": "0c29c77e3a97",
           "t": ".hd",
@@ -12328,12 +12337,12 @@
           },
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455299530,
           "exp": 1794480499530
         },
         {
+          "bt": [],
           "id": "mwd0crb3a5e2b1",
           "u": "bot",
           "t": "❌ .hd gagal\nLink yang dikirim bukan file gambar. Gunakan link langsung ke gambar (jpg/png/webp).\n\nCoba lagi nanti atau cek cara pakai dengan .help hd",
@@ -12350,12 +12359,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455300415,
           "exp": 1794480500415
         },
         {
+          "bt": [],
           "id": "mwd0d3qpe3ae27",
           "u": "0c29c77e3a97",
           "t": ".tourl",
@@ -12377,12 +12386,17 @@
           },
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455316529,
           "exp": 1794480516529
         },
         {
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
           "id": "mwd0d40ha6c004",
           "u": "bot",
           "t": "❓ Perintah .tourl tidak ditemukan.\n\nKetik .menu untuk daftar lengkap.",
@@ -12399,17 +12413,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794455316881,
           "exp": 1794480516881
         },
         {
+          "bt": [],
           "id": "mwd0dfvn2ebe1e",
           "u": "0c29c77e3a97",
           "t": ".menu",
@@ -12426,28 +12435,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455332259,
           "exp": 1794480532259
         },
         {
-          "id": "mwd0dg5e186e76",
-          "u": "bot",
-          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, jamalkem.cn! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "🤖 AI Chat",
@@ -12522,11 +12514,28 @@
               "c": ".menu upload"
             }
           ],
+          "id": "mwd0dg5e186e76",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, jamalkem.cn! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794455332610,
           "exp": 1794480532610
         },
         {
+          "bt": [],
           "id": "mwd0dj0sdca593",
           "u": "0c29c77e3a97",
           "t": ".menu fun",
@@ -12543,12 +12552,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455336332,
           "exp": 1794480536332
         },
         {
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwd0djajd5cf95",
           "u": "bot",
           "t": "🎲 FUN · 15 perintah\nCek-cekan seru, quotes, dan hiburan.\n━━━━━━━━━━━━━━━━\n1. .artinama <nama>\n    Cari arti dan makna dari sebuah nama\n2. .cekcantik\n    Cek level kecantikan secara acak\n3. .cekfemboy <name>\n    Cek level femboy secara acak, hasilnya kartu gambar bergaya sakura\n4. .cekganteng\n    Cek level kegantengan secara acak\n5. .cekiq\n    Cek level IQ secara acak\n6. .cekkhodam <nama>\n    Cek khodam kamu berdasarkan nama\n7. .ceksifat <nama>\n    Cek sifat seseorang berdasarkan nama (ahlak, kecerdasan, kenakalan, k…\n8. .longteks\n    Teks panjang romantis acak yang siap dikirim ke pasangan\n9. .pantun\n    Pantun acak\n10. .pap\n    Gambar pap acak dari Pinterest, langsung berupa gambar\n11. .quotes-bijak\n    Quotes bijak acak\n12. .quotes-bucin\n    Quotes bucin acak\n13. .quotes-galau\n    Quotes galau acak\n14. .quotes-gombal\n    Gombalan receh acak\n15. .quotes-motivasi\n    Quotes motivasi acak\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
@@ -12565,17 +12579,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794455336683,
           "exp": 1794480536683
         },
         {
+          "bt": [],
           "id": "mwd0e3jp478285",
           "u": "0c29c77e3a97",
           "t": ".quotes-motivasi",
@@ -12592,12 +12601,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455362933,
           "exp": 1794480562933
         },
         {
+          "bt": [],
           "id": "mwd0e3th66455f",
           "u": "bot",
           "t": "✅ .quotes-motivasi\n━━━━━━━━━━━━━━━━\nʙᴇᴋᴇʀᴊᴀ ꜱᴀᴀᴛ ᴍᴇʀᴇᴋᴀ ᴛɪᴅᴜʀ. ʙᴇʟᴀᴊᴀʀ ꜱᴀᴀᴛ ᴍᴇʀᴇᴋᴀ ʙᴇʀᴘᴇꜱᴛᴀ. ʜᴇᴍᴀᴛ ꜱᴇᴍᴇɴᴛᴀʀᴀ ᴍᴇʀᴇᴋᴀ ᴍᴇɴɢʜᴀʙɪꜱᴋᴀɴ. ʜɪᴅᴜᴘʟᴀʜ ꜱᴇᴘᴇʀᴛɪ ᴍɪᴍᴘɪ ᴍᴇʀᴇᴋᴀ.",
@@ -12614,7 +12623,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794455363285,
           "exp": 1794480563285
@@ -12633,6 +12641,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwcom87p26a0da",
           "u": "244002240741",
           "t": ".menu",
@@ -12649,12 +12658,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435586837,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcomf5q290670",
           "u": "admin",
           "t": "di chat bot",
@@ -12671,12 +12680,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435595838,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcomk7n8ee2d6",
           "u": "admin",
           "t": "pencet + terus pilih chat bot",
@@ -12693,12 +12702,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435602387,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcon89qb8ef79",
           "u": "244002240741",
           "t": "tak kirain bot nya ini",
@@ -12715,12 +12724,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435633566,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwconc6k2990c6",
           "u": "244002240741",
           "t": "🗿",
@@ -12737,12 +12746,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435638636,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcontwd2c3842",
           "u": "admin",
           "t": "bacaa pea ini admin",
@@ -12759,12 +12768,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435661597,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcoo61zbc0a28",
           "u": "244002240741",
           "t": "🗿",
@@ -12781,12 +12790,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435677351,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcoo8gi3bd4d9",
           "u": "244002240741",
           "t": "ya maap",
@@ -12803,12 +12812,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435680466,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcootly9f3935",
           "u": "244002240741",
           "t": "dimana dah",
@@ -12825,12 +12834,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435707878,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcope2ebca0f1",
           "u": "admin",
           "t": "di home chat kan ada tanda + di bawah kanan pencet terus di atas cari nama nya chat bot",
@@ -12847,12 +12856,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435734390,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcopvxaa07e7c",
           "u": "244002240741",
           "t": "oalah ngomong dong",
@@ -12869,7 +12878,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794435757534,
           "exp": 0
@@ -12927,11 +12935,19 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwcqc5mc8a5610",
           "u": "",
           "t": "Anjay membuat grup \"Astrobot\".",
           "i": "",
           "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
           "d": 0,
           "r": null,
           "x": {},
@@ -12941,11 +12957,19 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcqcvax0bf16e",
           "u": "",
           "t": "Anjay mengaktifkan pesan hilang (1 hari).",
           "i": "",
           "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
           "d": 0,
           "r": null,
           "x": {},
@@ -13006,6 +13030,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwcrkj81f06067",
           "u": "de92a8a86eb3",
           "t": "pp",
@@ -13022,12 +13047,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794440546641,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwcrqypb2cb065",
           "u": "admin",
           "t": "ya",
@@ -13044,7 +13069,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794440846639,
           "exp": 0
@@ -13065,11 +13089,19 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwcs2bmjd963f0",
           "u": "",
           "t": "yy mengaktifkan pesan hilang (90 hari).",
           "i": "",
           "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
           "d": 0,
           "r": null,
           "x": {},
