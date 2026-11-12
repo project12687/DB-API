@@ -60,15 +60,20 @@
         "n": 2,
         "first": 1794440432908,
         "last": 1794440441589
+      },
+      "2b279da6f7cf": {
+        "n": 1,
+        "first": 1794443292538,
+        "last": 1794443292538
       }
     },
     "stats": {
-      "total": 72,
+      "total": 73,
       "daily": {
-        "2026-11-12": 72
+        "2026-11-12": 73
       },
       "cmds": {
-        "menu": 42,
+        "menu": 43,
         "brat": 2,
         "tiktok": 2,
         "gpt": 6,
@@ -16514,11 +16519,66 @@
           "s": 0,
           "ts": 1794443289994,
           "exp": 1794468489994
+        },
+        {
+          "id": "mwct7dp5411fe5",
+          "u": "2b279da6f7cf",
+          "t": ".menu aiimage",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794443292185,
+          "exp": 1794468492185
+        },
+        {
+          "id": "mwct7dyyc4127b",
+          "u": "bot",
+          "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n1. .crateimg <prompt>\n    Membuat gambar AI dari teks dengan pilihan model, ukuran, dan format\n2. .editimg 📷\n    Mengedit gambar dengan AI (Flux Kontext) berdasarkan prompt yang dibe…\n3. .flux <prompt>\n    Membuat gambar dengan AI Flux dari prompt\n4. .hd 📷\n    Meningkatkan kualitas gambar (HD upscaler 2x/3x/4x)\n5. .hd2 📷\n    Meningkatkan kualitas gambar dengan AI agar tidak blur atau buram\n6. .ihancer 📷\n    Meningkatkan kualitas gambar dengan AI Ihancer (standard, sharpen, re…\n7. .imagetoprompt 📷\n    Mengubah gambar menjadi prompt teks (image to prompt) yang bisa dipak…\n8. .mirror-macbook 📷\n    Mengubah foto jadi mirror selfie di depan layar MacBook dengan hoodie…\n9. .nanobanana 📷 | <prompt>\n    Edit gambar dengan AI Nano Banana sesuai prompt yang kamu tulis, hasi…\n10. .notegpt-nano 📷\n    Mengedit gambar dengan AI Nano Banana lewat NoteGPT berdasarkan promp…\n11. .remove-wm 📷\n    Menghapus watermark dari gambar menggunakan AI\n12. .text2img <prompt>\n    Membuat gambar dengan AI dari prompt yang di berikan\n13. .tobotak 📷\n    Mengubah foto jadi botak (rambut dihilangkan)\n14. .tochibi 📷\n    Mengubah karakter di foto jadi gaya chibi yang imut\n15. .tofigurav2 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 2\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu aiimage 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu aiimage 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794443292538,
+          "exp": 1794468492538
         }
       ],
-      "lastTs": 1794443289994,
+      "lastTs": 1794443292538,
       "timer": 0,
-      "unread": {}
+      "unread": {
+        "bot": 1
+      }
     }
   },
   "blocked": {
@@ -17000,7 +17060,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 226,
+        "m": 228,
         "c": 0,
         "u": 7,
         "g": 1
