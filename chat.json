@@ -16467,6 +16467,58 @@
       "lastTs": 1794441376603,
       "timer": 7776000000,
       "unread": {}
+    },
+    "d_2b279da6f7cf_bot": {
+      "id": "d_2b279da6f7cf_bot",
+      "type": "dm",
+      "mem": [
+        "2b279da6f7cf",
+        "bot"
+      ],
+      "msgs": [
+        {
+          "id": "mwct7c0ad66690",
+          "u": "bot",
+          "t": "Halo, ..! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
+          "s": 0,
+          "ts": 1794443289994,
+          "exp": 1794468489994
+        }
+      ],
+      "lastTs": 1794443289994,
+      "timer": 0,
+      "unread": {}
     }
   },
   "blocked": {
@@ -16948,7 +17000,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 225,
+        "m": 226,
         "c": 0,
         "u": 7,
         "g": 1
