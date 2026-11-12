@@ -32,9 +32,9 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 34,
+        "n": 35,
         "first": 1794435299530,
-        "last": 1794455272858
+        "last": 1794455299882
       },
       "244002240741": {
         "n": 12,
@@ -68,9 +68,9 @@
       }
     },
     "stats": {
-      "total": 83,
+      "total": 84,
       "daily": {
-        "2026-11-12": 83
+        "2026-11-12": 84
       },
       "cmds": {
         "menu": 48,
@@ -94,7 +94,8 @@
         "spotify": 1,
         "stickerly": 1,
         "crateimg": 1,
-        "nova": 3
+        "nova": 3,
+        "hd": 1
       }
     }
   },
@@ -14120,12 +14121,61 @@
           "s": 0,
           "ts": 1794455277837,
           "exp": 1794480477837
+        },
+        {
+          "id": "mwd0cqmi3ae808",
+          "u": "0c29c77e3a97",
+          "t": ".hd",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mwd0c4ow95dda8",
+            "w": "0c29c77e3a97",
+            "t": ".tochibi",
+            "k": "img"
+          },
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794455299530,
+          "exp": 1794480499530
+        },
+        {
+          "id": "mwd0crb3a5e2b1",
+          "u": "bot",
+          "t": "❌ .hd gagal\nLink yang dikirim bukan file gambar. Gunakan link langsung ke gambar (jpg/png/webp).\n\nCoba lagi nanti atau cek cara pakai dengan .help hd",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794455300415,
+          "exp": 1794480500415
         }
       ],
-      "lastTs": 1794455277837,
+      "lastTs": 1794455300415,
       "timer": 0,
       "unread": {
-        "bot": 9
+        "bot": 10
       }
     },
     "d_244002240741_admin": {
@@ -17742,7 +17792,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 257,
+        "m": 261,
         "c": 0,
         "u": 7,
         "g": 1
