@@ -11802,28 +11802,6 @@
       ],
       "msgs": [
         {
-          "id": "mwcp979b16c850",
-          "u": "0c29c77e3a97",
-          "t": ".tochibi",
-          "i": "9e011e6530ec413f6fa4.png",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794436658687,
-          "exp": 1794461858687
-        },
-        {
           "id": "mwcp9edn5d65e8",
           "u": "bot",
           "t": "❌ .tochibi gagal\nProses edit gambar gagal di server AI, coba lagi atau ganti gambar.\n\nCoba lagi nanti atau cek cara pakai dengan .help tochibi",
