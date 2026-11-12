@@ -26,6 +26,11 @@
     },
     "blocked": {},
     "users": {
+      "d45603fa2772": {
+        "n": 3,
+        "first": 1794473060763,
+        "last": 1794473072856
+      },
       "0c29c77e3a97": {
         "n": 38,
         "first": 1794435299530,
@@ -65,11 +70,6 @@
         "n": 19,
         "first": 1794433766100,
         "last": 1794435474266
-      },
-      "d45603fa2772": {
-        "n": 3,
-        "first": 1794473060763,
-        "last": 1794473072856
       }
     },
     "stats": {
@@ -13183,22 +13183,6 @@
       ],
       "msgs": [
         {
-          "id": "mwdaxaay28f6ff",
-          "u": "bot",
-          "t": "Halo, ShiroNet! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "📋 Menu",
@@ -13217,11 +13201,28 @@
               "c": ".menu download"
             }
           ],
+          "id": "mwdaxaay28f6ff",
+          "u": "bot",
+          "t": "Halo, ShiroNet! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794473054314,
           "exp": 1794498254314
         },
         {
+          "bt": [],
           "id": "mwdaxf0a2aec61",
           "u": "d45603fa2772",
           "t": ".menu",
@@ -13238,28 +13239,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794473060410,
           "exp": 1794498260410
         },
         {
-          "id": "mwdaxfa59e8bc9",
-          "u": "bot",
-          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, ShiroNet! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "🤖 AI Chat",
@@ -13334,11 +13318,28 @@
               "c": ".menu upload"
             }
           ],
+          "id": "mwdaxfa59e8bc9",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, ShiroNet! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794473060765,
           "exp": 1794498260765
         },
         {
+          "bt": [],
           "id": "mwdaxivtb9e18f",
           "u": "d45603fa2772",
           "t": ".menu aiimage",
@@ -13355,12 +13356,21 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794473065433,
           "exp": 1794498265433
         },
         {
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu aiimage 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwdaxj5k9c5b4e",
           "u": "bot",
           "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n1. .crateimg <prompt>\n    Membuat gambar AI dari teks dengan pilihan model, ukuran, dan format\n2. .editimg 📷\n    Mengedit gambar dengan AI (Flux Kontext) berdasarkan prompt yang dibe…\n3. .flux <prompt>\n    Membuat gambar dengan AI Flux dari prompt\n4. .hd 📷\n    Meningkatkan kualitas gambar (HD upscaler 2x/3x/4x)\n5. .hd2 📷\n    Meningkatkan kualitas gambar dengan AI agar tidak blur atau buram\n6. .ihancer 📷\n    Meningkatkan kualitas gambar dengan AI Ihancer (standard, sharpen, re…\n7. .imagetoprompt 📷\n    Mengubah gambar menjadi prompt teks (image to prompt) yang bisa dipak…\n8. .mirror-macbook 📷\n    Mengubah foto jadi mirror selfie di depan layar MacBook dengan hoodie…\n9. .nanobanana 📷 | <prompt>\n    Edit gambar dengan AI Nano Banana sesuai prompt yang kamu tulis, hasi…\n10. .notegpt-nano 📷\n    Mengedit gambar dengan AI Nano Banana lewat NoteGPT berdasarkan promp…\n11. .remove-wm 📷\n    Menghapus watermark dari gambar menggunakan AI\n12. .text2img <prompt>\n    Membuat gambar dengan AI dari prompt yang di berikan\n13. .tobotak 📷\n    Mengubah foto jadi botak (rambut dihilangkan)\n14. .tochibi 📷\n    Mengubah karakter di foto jadi gaya chibi yang imut\n15. .tofigurav2 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 2\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu aiimage 2\nDetail perintah: .help <perintah>",
@@ -13377,21 +13387,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu aiimage 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794473065784,
           "exp": 1794498265784
         },
         {
+          "bt": [],
           "id": "mwdaxoc987c4f9",
           "u": "d45603fa2772",
           "t": ".menu aiimage 2",
@@ -13408,12 +13409,25 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794473072505,
           "exp": 1794498272505
         },
         {
+          "bt": [
+            {
+              "l": "⬅️ Sebelumnya",
+              "c": ".menu aiimage 1"
+            },
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu aiimage 3"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwdaxom00299bf",
           "u": "bot",
           "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n16. .tofigurav3 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 3\n17. .tofigure 📷\n    Mengubah foto jadi figurine skala 1/7 di atas meja komputer lengkap d…\n18. .tofunk 📷\n    Mengubah foto jadi anak funk punk dengan rambut jabrik, tato, dan tin…\n19. .toghibli 📷\n    Mengubah foto jadi gaya animasi Studio Ghibli\n20. .tohijab 📷\n    Menambahkan hijab pada karakter di foto\n21. .tohitam 📷\n    Mengubah warna kulit karakter di foto jadi hitam\n22. .tojas 📷\n    Mengubah pakaian karakter di foto jadi jas hitam formal dengan dasi\n23. .tojepang 📷\n    Mengubah foto jadi bergaya Jepang (versi lain)\n24. .tokacamata 📷\n    Menambahkan kacamata pada karakter di foto\n25. .tokece 📷\n    Mengubah foto jadi gaya kece: hoodie hitam oversized, kacamata futuri…\n26. .tolego 📷\n    Mengubah karakter di foto jadi gaya minifigure LEGO\n27. .toliquor 📷\n    Mengubah foto dengan efek bertema liquor\n28. .tomaid 📷\n    Mengubah foto jadi memakai pakaian maid\n29. .tomanga 📷\n    Mengubah foto jadi gaya komik manga Jepang\n30. .tomirorv2 📷\n    Mengubah foto jadi mirror selfie di kamar mandi sambil pegang smartph…\n━━━━━━━━━━━━━━━━\nHalaman 2/4 · ketik .menu aiimage 3\nDetail perintah: .help <perintah>",
@@ -13430,20 +13444,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "⬅️ Sebelumnya",
-              "c": ".menu aiimage 1"
-            },
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu aiimage 3"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794473072856,
           "exp": 1794498272856
@@ -13604,7 +13604,8 @@
         "de92a8a86eb3",
         "6a6a32432e01",
         "2b279da6f7cf",
-        "0c29c77e3a97"
+        "0c29c77e3a97",
+        "a98779735579"
       ],
       "lk": [
         "admin"
@@ -13634,7 +13635,9 @@
       },
       "ts": 1794473027808,
       "exp": 1794559427808,
-      "v": [],
+      "v": [
+        "a98779735579"
+      ],
       "lk": []
     }
   ],
