@@ -14202,6 +14202,33 @@
         "8fb21147efb6"
       ],
       "lk": []
+    },
+    {
+      "id": "mwdde69de3ae47",
+      "u": "8fb21147efb6",
+      "t": "Izin Min\nhttps://jadibotsw.freyamd.web.id",
+      "i": "",
+      "vd": "",
+      "c": "",
+      "bg": 0,
+      "ed": {
+        "s": 0,
+        "e": 0,
+        "rot": 0,
+        "cr": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "f": "none",
+        "b": 0,
+        "tx": []
+      },
+      "ts": 1794477201457,
+      "exp": 1794563601457,
+      "v": [],
+      "lk": []
     }
   ],
   "statusImgs": {
