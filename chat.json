@@ -12916,63 +12916,6 @@
       ],
       "msgs": [
         {
-          "id": "mwcqawlqc6a64b",
-          "u": "b4b81ef3e5d3",
-          "t": ".menu tools 2",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794438417806,
-          "exp": 1794463617806
-        },
-        {
-          "id": "mwcqawvh0afbc6",
-          "u": "bot",
-          "t": "🧰 TOOLS · 46 perintah\nAlat bantu: OCR, QR, TTS, screenshot, dan banyak lagi.\n━━━━━━━━━━━━━━━━\n16. .hdvid <url>\n    Memperjelas video buram / blur / rusak jadi HD ala video HP terbaru (…\n17. .hdvid2 <url>\n    Memperjelas video buram / blur jadi lebih tajam dengan AI Video Enhan…\n18. .img2vid 📷 | <prompt>\n    Mengubah gambar jadi video pendek dengan AI sesuai prompt gerakan\n19. .img2vid-v2 📷 | <prompt>\n    Mengubah gambar jadi video pendek dengan AI sesuai prompt gerakan (ve…\n20. .musik-ai\n    Membuat lagu dengan AI dari deskripsi, lirik, atau judul\n21. .ocr 📷\n    Mengambil (scan) teks dari gambar png/jpg menggunakan OCR\n22. .qrcode <text>\n    Membuat QR Code dari teks atau link (maksimal 2048 karakter)\n23. .rateweb <url>\n    Menilai kualitas website lewat PageSpeed Insights: skor performa, aks…\n24. .readqr 📷\n    Membaca isi QR Code dari gambar\n25. .recordweb <url>\n    Merekam tampilan website jadi video (scroll otomatis, mode gelap) ses…\n26. .reminivid <url>\n    Meningkatkan kualitas video 2x lebih tajam dan jernih ala Remini Vide…\n27. .removebg 📷\n    Menghapus latar belakang (background) gambar secara otomatis\n28. .scan-ai-slopweb 📷\n    Periksa apakah sebuah gambar dibuat oleh AI atau bukan, lengkap denga…\n29. .shortlink <url>\n    Memperpendek link, bisa dengan nama custom sesuai yang di inginkan\n30. .shortlink2 <url>\n    Buat short link Pic.surf, bisa sekali lihat\n━━━━━━━━━━━━━━━━\nHalaman 2/4 · ketik .menu tools 3\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "⬅️ Sebelumnya",
-              "c": ".menu tools 1"
-            },
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu tools 3"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1794438418157,
-          "exp": 1794463618157
-        },
-        {
           "id": "mwcqb8yj4e6008",
           "u": "b4b81ef3e5d3",
           "t": ".menu",
