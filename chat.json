@@ -11802,37 +11802,6 @@
       ],
       "msgs": [
         {
-          "id": "mwcpjk8df0598f",
-          "u": "bot",
-          "t": "🔎 SEARCH · 16 perintah\nPencarian lagu, video, stiker, resep, dan lainnya.\n━━━━━━━━━━━━━━━━\n1. .amfinder <url>\n    Cari preset Alight Motion (link preset 5MB dan XML) dari link video e…\n2. .capcut-comment <url>\n    Ambil daftar komentar dari template CapCut lewat link template atau I…\n3. .cc-search <q>\n    Mencari template video di CapCut berdasarkan kata kunci, lengkap deng…\n4. .github-srch <q>\n    Mencari file di GitHub berdasarkan kata kunci, lengkap dengan info fi…\n5. .lyrics <q>\n    Mencari lirik lagu berdasarkan judul (bisa ditambah nama artis)\n6. .npm <q>\n    Mencari package di NPM registry berdasarkan kata kunci\n7. .pinterest <q>\n    Mencari gambar di Pinterest berdasarkan kata kunci yang di masukan\n8. .resep <q>\n    Mencari resep masakan lengkap (bahan dan langkah membuat) dari Cookpad\n9. .search-soundcloud <q>\n    Mencari lagu di SoundCloud lengkap dengan artis, durasi, jumlah putar…\n10. .spotify <query>\n    Cari lagu, artis, album, dan playlist di Spotify lengkap dengan gamba…\n11. .sticker-telegram <keyword>\n    Cari sticker pack Telegram berdasarkan kata kunci\n12. .sticker-tiktok <url>\n    Mengambil stiker yang dipakai di kolom komentar video TikTok, lengkap…\n13. .stickerly <q>\n    Mencari sticker pack di Sticker.ly berdasarkan kata kunci\n14. .ttsearch <q>\n    Mencari video TikTok berdasarkan kata kunci\n15. .yt-comment <url>\n    Ambil komentar dari sebuah video YouTube lewat link atau ID videonya\n━━━━━━━━━━━━━━━━\nHalaman 1/2 · ketik .menu search 2\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu search 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1794437142061,
-          "exp": 1794462342061
-        },
-        {
           "id": "mwcpkejscfbd69",
           "u": "0c29c77e3a97",
           "t": ".Spotify p apa",
