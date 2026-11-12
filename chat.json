@@ -82,15 +82,15 @@
         "last": 1794477076900
       },
       "0c8d9507f32f": {
-        "n": 5,
+        "n": 6,
         "first": 1794478124812,
-        "last": 1794478193512
+        "last": 1794478205433
       }
     },
     "stats": {
-      "total": 99,
+      "total": 100,
       "daily": {
-        "2026-11-12": 99
+        "2026-11-12": 100
       },
       "cmds": {
         "menu": 59,
@@ -99,7 +99,7 @@
         "nova": 3,
         "brat": 2,
         "tiktok": 2,
-        "help": 3,
+        "help": 4,
         "tobotak": 2,
         "tochibi": 2,
         "iqcpink": 1,
@@ -14445,12 +14445,65 @@
           "s": 0,
           "ts": 1794478193513,
           "exp": 1794503393513
+        },
+        {
+          "id": "mwddzonubdd88b",
+          "u": "0c8d9507f32f",
+          "t": ".help freereels-catalog",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794478205082,
+          "exp": 1794503405082
+        },
+        {
+          "id": "mwddzoxm6c0185",
+          "u": "bot",
+          "t": "📌 .freereels-catalog\nDaftar drama pendek FreeReels (feed rekomendasi).\nKategori : 🎬 FreeReels\n━━━━━━━━━━━━━━━━\nPARAMETER\n• page (opsional)\n    Nomor halaman, dimulai dari 1\n    contoh: 1\n• count (opsional)\n    Jumlah drama per halaman (1-50)\n    contoh: 10\n• language (opsional)\n    Kode bahasa konten\n    contoh: en\n━━━━━━━━━━━━━━━━\nCARA PAKAI\n▸ .freereels-catalog [page] | [count] | [language]\n▸ Banyak parameter dipisah garis tegak: page | count | language\n▸ Atau pakai nama: page=isi count=isi\nContoh: .freereels-catalog 1 | 10 | en",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "↩ FreeReels",
+              "c": ".menu freereels"
+            },
+            {
+              "l": "🏠 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794478205434,
+          "exp": 1794503405434
         }
       ],
-      "lastTs": 1794478193513,
+      "lastTs": 1794478205434,
       "timer": 0,
       "unread": {
-        "bot": 6
+        "bot": 7
       }
     }
   },
@@ -15056,7 +15109,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 304,
+        "m": 306,
         "c": 0,
         "u": 10,
         "g": 1
