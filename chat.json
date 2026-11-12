@@ -13475,6 +13475,60 @@
       "unread": {
         "bot": 3
       }
+    },
+    "d_2925073e0e06_bot": {
+      "id": "d_2925073e0e06_bot",
+      "type": "dm",
+      "mem": [
+        "2925073e0e06",
+        "bot"
+      ],
+      "msgs": [
+        {
+          "id": "mwdcgapoe522c6",
+          "u": "bot",
+          "t": "Halo, rohmanserverluar server ! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
+          "s": 0,
+          "ts": 1794475620924,
+          "exp": 1794500820924
+        }
+      ],
+      "lastTs": 1794475620924,
+      "timer": 0,
+      "unread": {
+        "2925073e0e06": 1
+      }
     }
   },
   "blocked": {
@@ -14034,7 +14088,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 277,
+        "m": 278,
         "c": 0,
         "u": 10,
         "g": 1
