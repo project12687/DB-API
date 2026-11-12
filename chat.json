@@ -11802,63 +11802,6 @@
       ],
       "msgs": [
         {
-          "id": "mwcol2ud364bcf",
-          "u": "0c29c77e3a97",
-          "t": ".menu canvas 2",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794435533221,
-          "exp": 1794460733221
-        },
-        {
-          "id": "mwcol345af80f4",
-          "u": "bot",
-          "t": "🖼️ CANVAS · 39 perintah\nBikin gambar kartu, fake chat, dan template keren.\n━━━━━━━━━━━━━━━━\n16. .fakegopay <saldo> | <koin> | <terpakai> | <bulan>\n    Membuat gambar tampilan saldo GoPay palsu lengkap dengan koin dan pen…\n17. .fakeml 📷 | <username>\n    Membuat gambar Fake Lobby Mobile Legends dari avatar, username, rank,…\n18. .fakeovo <nominal>\n    Membuat gambar tampilan saldo OVO palsu dengan nominal bebas\n19. .faketele 📷 | <nama> | <nomor> | <bio> | <username>\n    Membuat gambar profil Telegram palsu\n20. .ffgirl <username>\n    Membuat gambar kartu karakter cewek Free Fire dengan username yang ka…\n21. .ig-story 📷 | 📷 | <name> | <username>\n    Membuat gambar tampilan Instagram Story lengkap dengan foto profil, n…\n22. .igqc <text>\n    Membuat gambar fake chat Instagram (quote chat) dengan reaksi emoji,…\n23. .iqc <text>\n    Membuat gambar chat iPhone mode gelap (iqc dark) dari teks, bisa dita…\n24. .iqcpink <text>\n    Membuat gambar chat iPhone mode pink (iqc pink) dari teks\n25. .iqcpinkv2 <text>\n    Membuat screenshot chat iPhone mode pink versi 2 (bisa pakai gambar,…\n26. .meledak 📷\n    Tempel foto atau stiker (background otomatis dihapus) ke latar adegan…\n27. .meme-polisi <username> | <text>\n    Membuat gambar meme \"timpa\" dengan template kertas.\n28. .mlduo <name1> | <name2>\n    Membuat gambar matching duo Mobile Legends dengan 2 foto profil dan 2…\n29. .musiccard <judul> | <artis> | <cover>\n    Buat gambar kartu pemutar musik (music card) dengan cover, judul lagu…\n30. .nokia <message> | <sender>\n    Membuat gambar SMS ala HP Nokia jadul dengan pesan, pengirim, tanggal…\n━━━━━━━━━━━━━━━━\nHalaman 2/3 · ketik .menu canvas 3\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "⬅️ Sebelumnya",
-              "c": ".menu canvas 1"
-            },
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu canvas 3"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1794435533573,
-          "exp": 1794460733573
-        },
-        {
           "id": "mwcolq9g926883",
           "u": "0c29c77e3a97",
           "t": ".menu",
