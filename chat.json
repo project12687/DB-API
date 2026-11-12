@@ -12426,65 +12426,7 @@
         "bot",
         "d45603fa2772"
       ],
-      "msgs": [
-        {
-          "bt": [],
-          "id": "mwdaxoc987c4f9",
-          "u": "d45603fa2772",
-          "t": ".menu aiimage 2",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1794473072505,
-          "exp": 1794498272505
-        },
-        {
-          "bt": [
-            {
-              "l": "⬅️ Sebelumnya",
-              "c": ".menu aiimage 1"
-            },
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu aiimage 3"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "id": "mwdaxom00299bf",
-          "u": "bot",
-          "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n16. .tofigurav3 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 3\n17. .tofigure 📷\n    Mengubah foto jadi figurine skala 1/7 di atas meja komputer lengkap d…\n18. .tofunk 📷\n    Mengubah foto jadi anak funk punk dengan rambut jabrik, tato, dan tin…\n19. .toghibli 📷\n    Mengubah foto jadi gaya animasi Studio Ghibli\n20. .tohijab 📷\n    Menambahkan hijab pada karakter di foto\n21. .tohitam 📷\n    Mengubah warna kulit karakter di foto jadi hitam\n22. .tojas 📷\n    Mengubah pakaian karakter di foto jadi jas hitam formal dengan dasi\n23. .tojepang 📷\n    Mengubah foto jadi bergaya Jepang (versi lain)\n24. .tokacamata 📷\n    Menambahkan kacamata pada karakter di foto\n25. .tokece 📷\n    Mengubah foto jadi gaya kece: hoodie hitam oversized, kacamata futuri…\n26. .tolego 📷\n    Mengubah karakter di foto jadi gaya minifigure LEGO\n27. .toliquor 📷\n    Mengubah foto dengan efek bertema liquor\n28. .tomaid 📷\n    Mengubah foto jadi memakai pakaian maid\n29. .tomanga 📷\n    Mengubah foto jadi gaya komik manga Jepang\n30. .tomirorv2 📷\n    Mengubah foto jadi mirror selfie di kamar mandi sambil pegang smartph…\n━━━━━━━━━━━━━━━━\nHalaman 2/4 · ketik .menu aiimage 3\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1794473072856,
-          "exp": 1794498272856
-        }
-      ],
+      "msgs": [],
       "lastTs": 1794473072856,
       "timer": 0,
       "unread": {}
