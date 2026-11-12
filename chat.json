@@ -3132,6 +3132,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "d45603fa2772": {
+      "key": "sdnwangyy@gmail.com",
+      "username": "ShiroNet",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794472977403,
+      "updatedAt": 1794472977403,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -13642,7 +13663,7 @@
       "2026-11-12": {
         "m": 270,
         "c": 0,
-        "u": 8,
+        "u": 9,
         "g": 1
       }
     }
