@@ -32,9 +32,9 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 36,
+        "n": 37,
         "first": 1794435299530,
-        "last": 1794455332610
+        "last": 1794455336683
       },
       "244002240741": {
         "n": 12,
@@ -68,12 +68,12 @@
       }
     },
     "stats": {
-      "total": 85,
+      "total": 86,
       "daily": {
-        "2026-11-12": 85
+        "2026-11-12": 86
       },
       "cmds": {
-        "menu": 49,
+        "menu": 50,
         "brat": 2,
         "tiktok": 2,
         "gpt": 6,
@@ -14341,12 +14341,61 @@
           "s": 0,
           "ts": 1794455332610,
           "exp": 1794480532610
+        },
+        {
+          "id": "mwd0dj0sdca593",
+          "u": "0c29c77e3a97",
+          "t": ".menu fun",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794455336332,
+          "exp": 1794480536332
+        },
+        {
+          "id": "mwd0djajd5cf95",
+          "u": "bot",
+          "t": "🎲 FUN · 15 perintah\nCek-cekan seru, quotes, dan hiburan.\n━━━━━━━━━━━━━━━━\n1. .artinama <nama>\n    Cari arti dan makna dari sebuah nama\n2. .cekcantik\n    Cek level kecantikan secara acak\n3. .cekfemboy <name>\n    Cek level femboy secara acak, hasilnya kartu gambar bergaya sakura\n4. .cekganteng\n    Cek level kegantengan secara acak\n5. .cekiq\n    Cek level IQ secara acak\n6. .cekkhodam <nama>\n    Cek khodam kamu berdasarkan nama\n7. .ceksifat <nama>\n    Cek sifat seseorang berdasarkan nama (ahlak, kecerdasan, kenakalan, k…\n8. .longteks\n    Teks panjang romantis acak yang siap dikirim ke pasangan\n9. .pantun\n    Pantun acak\n10. .pap\n    Gambar pap acak dari Pinterest, langsung berupa gambar\n11. .quotes-bijak\n    Quotes bijak acak\n12. .quotes-bucin\n    Quotes bucin acak\n13. .quotes-galau\n    Quotes galau acak\n14. .quotes-gombal\n    Gombalan receh acak\n15. .quotes-motivasi\n    Quotes motivasi acak\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794455336683,
+          "exp": 1794480536683
         }
       ],
-      "lastTs": 1794455332610,
+      "lastTs": 1794455336683,
       "timer": 0,
       "unread": {
-        "bot": 12
+        "bot": 13
       }
     },
     "d_244002240741_admin": {
@@ -17963,7 +18012,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 265,
+        "m": 267,
         "c": 0,
         "u": 7,
         "g": 1
