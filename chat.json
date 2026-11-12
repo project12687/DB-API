@@ -77,18 +77,18 @@
         "last": 1794475630723
       },
       "8fb21147efb6": {
-        "n": 1,
+        "n": 2,
         "first": 1794477059077,
-        "last": 1794477059077
+        "last": 1794477064716
       }
     },
     "stats": {
-      "total": 92,
+      "total": 93,
       "daily": {
-        "2026-11-12": 92
+        "2026-11-12": 93
       },
       "cmds": {
-        "menu": 55,
+        "menu": 56,
         "gpt": 6,
         "fakedana": 3,
         "nova": 3,
@@ -13868,12 +13868,65 @@
           "s": 0,
           "ts": 1794477059078,
           "exp": 1794502259078
+        },
+        {
+          "id": "mwddb8h5a54c76",
+          "u": "8fb21147efb6",
+          "t": ".menu canvas",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794477064361,
+          "exp": 1794502264361
+        },
+        {
+          "id": "mwddb8r2a91274",
+          "u": "bot",
+          "t": "🖼️ CANVAS · 39 perintah\nBikin gambar kartu, fake chat, dan template keren.\n━━━━━━━━━━━━━━━━\n1. .afinitasml 📷\n    Membuat card afinitas Mobile Legends dari fotomu\n2. .balogo <text>\n    Membuat logo bergaya Blue Archive dari teks, hasilnya langsung berupa…\n3. .call-andro 📷 | <nama> | <durasi>\n    Membuat gambar tampilan panggilan WhatsApp Android palsu\n4. .call-ios 📷 | <nama> | <durasi>\n    Membuat gambar tampilan panggilan WhatsApp ios palsu\n5. .codesnap <code>\n    Mengubah potongan kode menjadi gambar cantik ala Carbon (code snapsho…\n6. .derydnta <text>\n    Membuat gambar quote bergaya Derydnta dari teks, hasilnya langsung be…\n7. .fakech 📷 | <nama> | <pengikut> | <jam>\n    Membuat gambar tampilan saluran WhatsApp iOS palsu\n8. .fakedana <nominal>\n    Membuat gambar tampilan saldo DANA palsu dengan nominal bebas\n9. .fakedev <name>\n    Membuat fake developer profile card: foto bulat dengan nama melengkun…\n10. .fakedev1 <text> | 📷\n    Membuat gambar fake developer dari fotomu: foto bulat dengan teks mel…\n11. .fakedev2 <text> | 📷\n    Membuat gambar fake developer dari fotomu: foto bulat berbingkai puti…\n12. .fakeff <name>\n    Membuat gambar lobby custom Free Fire dengan kualitas hd cocok buat b…\n13. .fakeff2 <name>\n    Membuat gambar lobi Free Fire palsu (versi 2) dari username, hasilnya…\n14. .fakeffduo <name1> | <name2>\n    Membuat gambar lobby Free Fire mode duo dengan dua nama pemain\n15. .fakegc 📷 | <nama> | <anggota>\n    Membuat gambar tampilan grup WhatsApp iOS palsu dengan keren\n━━━━━━━━━━━━━━━━\nHalaman 1/3 · ketik .menu canvas 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu canvas 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794477064718,
+          "exp": 1794502264718
         }
       ],
-      "lastTs": 1794477059078,
+      "lastTs": 1794477064718,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 2
       }
     }
   },
@@ -14444,7 +14497,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 285,
+        "m": 287,
         "c": 0,
         "u": 10,
         "g": 1
