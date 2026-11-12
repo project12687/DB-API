@@ -82,18 +82,18 @@
         "last": 1794477076900
       },
       "0c8d9507f32f": {
-        "n": 1,
+        "n": 2,
         "first": 1794478124812,
-        "last": 1794478124812
+        "last": 1794478133906
       }
     },
     "stats": {
-      "total": 95,
+      "total": 96,
       "daily": {
-        "2026-11-12": 95
+        "2026-11-12": 96
       },
       "cmds": {
-        "menu": 57,
+        "menu": 58,
         "gpt": 6,
         "fakedana": 3,
         "nova": 3,
@@ -14136,12 +14136,61 @@
           "s": 0,
           "ts": 1794478124812,
           "exp": 1794503324812
+        },
+        {
+          "id": "mwddy5gv3faf31",
+          "u": "0c8d9507f32f",
+          "t": ".menu freereels",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794478133551,
+          "exp": 1794503333551
+        },
+        {
+          "id": "mwddy5qqfc5b80",
+          "u": "bot",
+          "t": "🎬 FREEREELS · 8 perintah\nDrama pendek dan serial vertikal.\n━━━━━━━━━━━━━━━━\n1. .categories\n    Daftar kategori dan filter drama di FreeReels\n2. .download <q>\n    Download episode FreeReels dari link, judul, atau ID serial\n3. .freereels-catalog\n    Daftar drama pendek FreeReels (feed rekomendasi)\n4. .freereels-detail <id>\n    Detail lengkap serial FreeReels: sinopsis, jumlah episode, dan semua…\n5. .freereels-episodes <id>\n    Daftar episode dari sebuah serial FreeReels\n6. .freereels-search <q>\n    Cari drama pendek di FreeReels berdasarkan judul\n7. .freereels-series <id>\n    Info serial FreeReels beserta daftar episodenya\n8. .unlock <id> | <episode_id>\n    Ambil link stream, subtitle, dan audio dari satu episode FreeReels\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794478133906,
+          "exp": 1794503333906
         }
       ],
-      "lastTs": 1794478124812,
+      "lastTs": 1794478133906,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 2
       }
     }
   },
@@ -14747,7 +14796,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 293,
+        "m": 295,
         "c": 0,
         "u": 10,
         "g": 1
