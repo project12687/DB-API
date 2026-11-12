@@ -14027,12 +14027,61 @@
           "s": 0,
           "ts": 1794455235841,
           "exp": 1794480435841
+        },
+        {
+          "id": "mwd0br8291d8a8",
+          "u": "0c29c77e3a97",
+          "t": ".tochibi",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794455253650,
+          "exp": 1794480453650
+        },
+        {
+          "id": "mwd0brht814e85",
+          "u": "bot",
+          "t": "⚠️ Parameter belum lengkap untuk .tochibi\n\n📷 Perintah ini butuh gambar.\n▸ Kirim foto dengan caption .tochibi\n▸ Atau balas foto dengan .tochibi\n▸ Atau tulis link gambar langsung",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".help tochibi",
+              "c": ".help tochibi"
+            }
+          ],
+          "s": 0,
+          "ts": 1794455254001,
+          "exp": 1794480454001
         }
       ],
-      "lastTs": 1794455235841,
+      "lastTs": 1794455254001,
       "timer": 0,
       "unread": {
-        "bot": 7
+        "bot": 8
       }
     },
     "d_244002240741_admin": {
@@ -17649,7 +17698,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 251,
+        "m": 253,
         "c": 0,
         "u": 7,
         "g": 1
