@@ -82,15 +82,15 @@
         "last": 1794477076900
       },
       "0c8d9507f32f": {
-        "n": 3,
+        "n": 4,
         "first": 1794478124812,
-        "last": 1794478169105
+        "last": 1794478180377
       }
     },
     "stats": {
-      "total": 97,
+      "total": 98,
       "daily": {
-        "2026-11-12": 97
+        "2026-11-12": 98
       },
       "cmds": {
         "menu": 59,
@@ -117,7 +117,8 @@
         "crateimg": 1,
         "hd": 1,
         "quotes-motivasi": 1,
-        "fakeff": 1
+        "fakeff": 1,
+        "freereels-catalog": 1
       }
     }
   },
@@ -14351,12 +14352,57 @@
           "s": 0,
           "ts": 1794478169105,
           "exp": 1794503369105
+        },
+        {
+          "id": "mwddz5bs5f235f",
+          "u": "0c8d9507f32f",
+          "t": ".freereels-catalog",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794478180024,
+          "exp": 1794503380024
+        },
+        {
+          "id": "mwddz5t25bd4f5",
+          "u": "bot",
+          "t": "❌ .freereels-catalog gagal\nDramaWave anonymous login failed: Permission denied\n\nCoba lagi nanti atau cek cara pakai dengan .help freereels-catalog",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794478180646,
+          "exp": 1794503380646
         }
       ],
-      "lastTs": 1794478169105,
+      "lastTs": 1794478180646,
       "timer": 0,
       "unread": {
-        "bot": 4
+        "bot": 5,
+        "0c8d9507f32f": 2
       }
     }
   },
@@ -14962,7 +15008,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 299,
+        "m": 302,
         "c": 0,
         "u": 10,
         "g": 1
