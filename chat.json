@@ -11802,59 +11802,6 @@
       ],
       "msgs": [
         {
-          "id": "mwcpc26f00faf3",
-          "u": "0c29c77e3a97",
-          "t": ".help tofigurav2",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794436792071,
-          "exp": 1794461992071
-        },
-        {
-          "id": "mwcpc2g7e75ac9",
-          "u": "bot",
-          "t": "📌 .tofigurav2\nMengubah foto jadi action figure (figura) dengan gaya versi 2.\nKategori : 🎨 AI Image\n━━━━━━━━━━━━━━━━\nPARAMETER\n📷 url (wajib) · otomatis dari foto\n    Link foto yang mau diubah\n━━━━━━━━━━━━━━━━\nCARA PAKAI\n▸ Kirim foto dengan caption .tofigurav2\n▸ Atau balas foto dengan .tofigurav2\n▸ Atau tulis link gambar langsung",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "↩ AI Image",
-              "c": ".menu aiimage"
-            },
-            {
-              "l": "🏠 Menu",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1794436792423,
-          "exp": 1794461992423
-        },
-        {
           "id": "mwcpckfn6846d2",
           "u": "0c29c77e3a97",
           "t": ".tofigurav2",
