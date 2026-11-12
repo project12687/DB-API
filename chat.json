@@ -32,9 +32,9 @@
         "last": 1794435474266
       },
       "0c29c77e3a97": {
-        "n": 33,
+        "n": 34,
         "first": 1794435299530,
-        "last": 1794455235841
+        "last": 1794455272858
       },
       "244002240741": {
         "n": 12,
@@ -68,9 +68,9 @@
       }
     },
     "stats": {
-      "total": 82,
+      "total": 83,
       "daily": {
-        "2026-11-12": 82
+        "2026-11-12": 83
       },
       "cmds": {
         "menu": 48,
@@ -88,7 +88,7 @@
         "stalk-ml": 1,
         "stalk-telegram": 1,
         "tobotak": 2,
-        "tochibi": 1,
+        "tochibi": 2,
         "tofigurav2": 1,
         "attp": 1,
         "spotify": 1,
@@ -14100,9 +14100,9 @@
           "exp": 1794480471104
         },
         {
-          "id": "mwd0c4yn17ce0b",
+          "id": "mwd0c61md34dc5",
           "u": "bot",
-          "t": "📷 Foto diterima, mengupload ke hosting sementara…",
+          "t": "⏳ Memproses .tochibi…\n📷 Foto sudah diupload, sedang dikirim ke API",
           "i": "",
           "v": "",
           "vd": "",
@@ -14118,11 +14118,11 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794455271455,
-          "exp": 1794480471455
+          "ts": 1794455272858,
+          "exp": 1794480472858
         }
       ],
-      "lastTs": 1794455271455,
+      "lastTs": 1794455272858,
       "timer": 0,
       "unread": {
         "bot": 9
@@ -17742,7 +17742,7 @@
         "g": 0
       },
       "2026-11-12": {
-        "m": 255,
+        "m": 256,
         "c": 0,
         "u": 7,
         "g": 1
