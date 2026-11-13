@@ -12746,57 +12746,7 @@
         "512b1c6eb53d",
         "bot"
       ],
-      "msgs": [
-        {
-          "id": "mweavjp2733a95",
-          "u": "512b1c6eb53d",
-          "t": "10",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1794533439350,
-          "exp": 1794558639350
-        },
-        {
-          "id": "mweavjys8aa58f",
-          "u": "bot",
-          "t": "Halo! Aku bot yang bekerja dengan perintah berawalan titik.\nKetik .menu untuk melihat semua fitur.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1794533439700,
-          "exp": 1794558639700
-        }
-      ],
+      "msgs": [],
       "lastTs": 1794533439700,
       "timer": 0,
       "unread": {}
