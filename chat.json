@@ -12080,9 +12080,31 @@
           "s": 0,
           "ts": 1794547026579,
           "exp": 1794572226579
+        },
+        {
+          "id": "mweiyuoc287cd9",
+          "u": "bot",
+          "t": "✅ .fakeff2 selesai\n🔗 https://tmpfiles.org/dl/wcAv0kqr2BjR/fakeff2-mweiytzq.bin\n(link sementara, segera unduh)",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794547030476,
+          "exp": 1794572230476
         }
       ],
-      "lastTs": 1794547026579,
+      "lastTs": 1794547030476,
       "timer": 0,
       "unread": {
         "bot": 3
@@ -13380,7 +13402,7 @@
         "g": 1
       },
       "2026-11-13": {
-        "m": 15,
+        "m": 16,
         "c": 0,
         "u": 0,
         "g": 0
