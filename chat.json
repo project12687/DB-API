@@ -3231,6 +3231,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "a880370016ba": {
+      "key": "nuraqila05116@gmail.com",
+      "username": "nuraqila",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794605995961,
+      "updatedAt": 1794605995961,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -12843,6 +12864,12 @@
         "m": 23,
         "c": 0,
         "u": 0,
+        "g": 0
+      },
+      "2026-11-14": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
         "g": 0
       }
     }
