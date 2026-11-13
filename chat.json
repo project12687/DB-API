@@ -11957,9 +11957,31 @@
           "s": 0,
           "ts": 1794531563005,
           "exp": 1794556763005
+        },
+        {
+          "id": "mwe9rfnc5799e8",
+          "u": "bot",
+          "t": "✅ .fakeff selesai\n🔗 https://tmpfiles.org/dl/w7AV0bhpidWN/fakeff-mwe9relx.bin\n(link sementara, segera unduh)",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794531567864,
+          "exp": 1794556767864
         }
       ],
-      "lastTs": 1794531563005,
+      "lastTs": 1794531567864,
       "timer": 0,
       "unread": {
         "bot": 1
@@ -12988,7 +13010,7 @@
         "g": 1
       },
       "2026-11-13": {
-        "m": 3,
+        "m": 4,
         "c": 0,
         "u": 0,
         "g": 0
