@@ -1,6 +1,6 @@
 {
   "bot": {
-    "on": false,
+    "on": true,
     "rec": {
       "username": "Rin Bot",
       "bio": "Asisten otomatis Rin API. Ketik .menu untuk melihat semua fitur.",
