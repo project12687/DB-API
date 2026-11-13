@@ -12759,38 +12759,6 @@
   },
   "status": [
     {
-      "id": "mwdcbz19c9210a",
-      "u": "a98779735579",
-      "t": "langsung aja \nhttps://jadibot.farimuru.web.id",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1794475419165,
-      "exp": 1794561819165,
-      "v": [
-        "2925073e0e06",
-        "8fb21147efb6",
-        "admin",
-        "c0c256961017"
-      ],
-      "lk": []
-    },
-    {
       "id": "mwdde69de3ae47",
       "u": "8fb21147efb6",
       "t": "Izin Min\nhttps://jadibotsw.freyamd.web.id",
