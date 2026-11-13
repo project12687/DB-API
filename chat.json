@@ -97,20 +97,20 @@
         "last": 1794533410345
       },
       "a880370016ba": {
-        "n": 1,
+        "n": 2,
         "first": 1794606128366,
-        "last": 1794606128366
+        "last": 1794606142878
       }
     },
     "stats": {
-      "total": 112,
+      "total": 113,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
-        "2026-11-14": 1
+        "2026-11-14": 2
       },
       "cmds": {
-        "menu": 65,
+        "menu": 66,
         "gpt": 6,
         "help": 5,
         "fakedana": 4,
@@ -12691,12 +12691,61 @@
           "s": 0,
           "ts": 1794606128367,
           "exp": 1794631328367
+        },
+        {
+          "id": "mwfi5ttr335293",
+          "u": "a880370016ba",
+          "t": ".menu freereels",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794606142527,
+          "exp": 1794631342527
+        },
+        {
+          "id": "mwfi5u3k471c89",
+          "u": "bot",
+          "t": "🎬 FREEREELS · 8 perintah\nDrama pendek dan serial vertikal.\n━━━━━━━━━━━━━━━━\n1. .categories\n    Daftar kategori dan filter drama di FreeReels\n2. .download <q>\n    Download episode FreeReels dari link, judul, atau ID serial\n3. .freereels-catalog\n    Daftar drama pendek FreeReels (feed rekomendasi)\n4. .freereels-detail <id>\n    Detail lengkap serial FreeReels: sinopsis, jumlah episode, dan semua…\n5. .freereels-episodes <id>\n    Daftar episode dari sebuah serial FreeReels\n6. .freereels-search <q>\n    Cari drama pendek di FreeReels berdasarkan judul\n7. .freereels-series <id>\n    Info serial FreeReels beserta daftar episodenya\n8. .unlock <id> | <episode_id>\n    Ambil link stream, subtitle, dan audio dari satu episode FreeReels\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794606142880,
+          "exp": 1794631342880
         }
       ],
-      "lastTs": 1794606128367,
+      "lastTs": 1794606142880,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 2
       }
     }
   },
@@ -13044,7 +13093,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 3,
+        "m": 5,
         "c": 0,
         "u": 1,
         "g": 0
