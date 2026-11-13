@@ -12124,13 +12124,34 @@
           "s": 0,
           "ts": 1794547037022,
           "exp": 1794572237022
+        },
+        {
+          "id": "mweiz2hfc31517",
+          "u": "bot",
+          "t": "✅ .fakedana selesai\n🔗 https://tmpfiles.org/dl/wLAA0YqJ2b9o/fakedana-mweiz1xj.bin\n(link sementara, segera unduh)",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794547040595,
+          "exp": 1794572240595
         }
       ],
-      "lastTs": 1794547037022,
+      "lastTs": 1794547040595,
       "timer": 0,
       "unread": {
-        "bot": 4,
-        "admin": 1
+        "bot": 4
       }
     },
     "d_6fb3e5fd64ca_admin": {
@@ -13425,7 +13446,7 @@
         "g": 1
       },
       "2026-11-13": {
-        "m": 18,
+        "m": 19,
         "c": 0,
         "u": 0,
         "g": 0
