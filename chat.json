@@ -107,20 +107,20 @@
         "last": 1794435861900
       },
       "aa426ad23e01": {
-        "n": 2,
+        "n": 3,
         "first": 1794667292289,
-        "last": 1794667301714
+        "last": 1794667308100
       }
     },
     "stats": {
-      "total": 126,
+      "total": 127,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
-        "2026-11-14": 15
+        "2026-11-14": 16
       },
       "cmds": {
-        "menu": 75,
+        "menu": 76,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -13852,12 +13852,61 @@
           "s": 0,
           "ts": 1794667301716,
           "exp": 1794692501716
+        },
+        {
+          "id": "mwgikt7o2b54a6",
+          "u": "aa426ad23e01",
+          "t": ".menu freereels",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794667307748,
+          "exp": 1794692507748
+        },
+        {
+          "id": "mwgikthg6c9d52",
+          "u": "bot",
+          "t": "🎬 FREEREELS · 8 perintah\nDrama pendek dan serial vertikal.\n━━━━━━━━━━━━━━━━\n1. .categories\n    Daftar kategori dan filter drama di FreeReels\n2. .download <q>\n    Download episode FreeReels dari link, judul, atau ID serial\n3. .freereels-catalog\n    Daftar drama pendek FreeReels (feed rekomendasi)\n4. .freereels-detail <id>\n    Detail lengkap serial FreeReels: sinopsis, jumlah episode, dan semua…\n5. .freereels-episodes <id>\n    Daftar episode dari sebuah serial FreeReels\n6. .freereels-search <q>\n    Cari drama pendek di FreeReels berdasarkan judul\n7. .freereels-series <id>\n    Info serial FreeReels beserta daftar episodenya\n8. .unlock <id> | <episode_id>\n    Ambil link stream, subtitle, dan audio dari satu episode FreeReels\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794667308100,
+          "exp": 1794692508100
         }
       ],
-      "lastTs": 1794667301716,
+      "lastTs": 1794667308100,
       "timer": 0,
       "unread": {
-        "bot": 2
+        "bot": 3
       }
     }
   },
@@ -14239,7 +14288,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 52,
+        "m": 54,
         "c": 0,
         "u": 4,
         "g": 0
