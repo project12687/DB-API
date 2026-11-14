@@ -112,21 +112,21 @@
         "last": 1794435861900
       },
       "5964e5e8dbba": {
-        "n": 1,
+        "n": 2,
         "first": 1794676140543,
-        "last": 1794676140543
+        "last": 1794676152935
       }
     },
     "stats": {
-      "total": 129,
+      "total": 130,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
         "2026-11-14": 17,
-        "2026-11-15": 1
+        "2026-11-15": 2
       },
       "cmds": {
-        "menu": 78,
+        "menu": 79,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -13450,12 +13450,66 @@
           "s": 0,
           "ts": 1794676140544,
           "exp": 1794701340544
+        },
+        {
+          "id": "mwgnudxhf48971",
+          "u": "5964e5e8dbba",
+          "t": ".menu tools",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794676152581,
+          "exp": 1794701352581
+        },
+        {
+          "id": "mwgnue7je26144",
+          "u": "bot",
+          "t": "🧰 TOOLS · 50 perintah\nAlat bantu: OCR, QR, TTS, screenshot, dan banyak lagi.\n━━━━━━━━━━━━━━━━\n1. .am-send <email>\n    Mengirim Magic Link verifikasi Alight Motion ke alamat email\n2. .am-verify <email> | <magicLink>\n    Memverifikasi Magic Link Alight Motion yang dikirimkan ke email\n3. .bandingkan-hp <hp1> | <hp2>\n    Membandingkan spesifikasi dua smartphone secara berdampingan dari Car…\n4. .bypass <url>\n    Bypass shortlink dan ambil link tujuan aslinya\n5. .bypass-sfl <url>\n    Bypass link shortener SFL (sfl.gl) dan ambil link tujuan aslinya\n6. .bypass-sub4 <url>\n    Bypass link Sub4Unlock dan ambil link tujuan aslinya beserta daftar a…\n7. .bypassv2 <url>\n    Melewati (bypass) link shortener dan mengambil link tujuan aslinya (v…\n8. .bypassv3 <url>\n    Bypass shortlink v3 dan ambil link tujuan aslinya\n9. .cek-nsfw 📷\n    Mendeteksi apakah sebuah gambar mengandung konten NSFW\n10. .cekmail <token>\n    Membaca isi inbox email sementara memakai token dari endpoint tempmai…\n11. .ceknomor-operator <number>\n    Cek operator seluler Indonesia dari nomor HP: operator, brand, prefix…\n12. .cekphising <url>\n    Mengecek apakah sebuah link aman atau mengandung phishing, malware, d…\n13. .cjstoesm\n    Convert kode CommonJS ke ESM (ES Modules)\n14. .convert <url> | <format>\n    Konversi file ke format lain, mendukung semua media (gambar, video, a…\n15. .create-email\n    Buat email sementara (Gmail) gratis, dan cek inbox-nya termasuk link…\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu tools 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu tools 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794676152943,
+          "exp": 1794701352943
         }
       ],
-      "lastTs": 1794676140544,
+      "lastTs": 1794676152943,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 2,
+        "5964e5e8dbba": 1
       }
     }
   },
@@ -13843,7 +13897,7 @@
         "g": 0
       },
       "2026-11-15": {
-        "m": 3,
+        "m": 5,
         "c": 0,
         "u": 0,
         "g": 0
