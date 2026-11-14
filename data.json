@@ -4374,10 +4374,31 @@
       "pass": "s1$c10c5a64140e4731350c036b893df5b1$0c89d0434c590b9d3a722528732584a76a389579d3e00e6ad524d4887c59f68c",
       "apikey": "rin_ef70e9da10cf19774c",
       "cap": "free",
+      "vipUntil": null,
       "ip": "144.79.254.18",
       "regIp": "144.79.254.18",
       "createdAt": "2026-11-14T08:34:04.849Z",
       "lastLogin": "2026-11-14T08:34:04.849Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "hshahahahhaaa22@gmail.com": {
+      "name": "cacacantik.",
+      "email": "hshahahahhaaa22@gmail.com",
+      "pass": "s1$13e3427b8392f23b411882562fd61427$43741f664130e82f5cfd544cc9dfe2de8b8ed35ffcbca98ab2431a4be2cfcffa",
+      "apikey": "rin_bbd6444090d69ce099",
+      "cap": "free",
+      "ip": "160.25.35.138",
+      "regIp": "160.25.35.138",
+      "createdAt": "2026-11-14T09:30:08.544Z",
+      "lastLogin": "2026-11-14T09:30:08.544Z",
       "extra": 0,
       "window": {
         "start": 0,
