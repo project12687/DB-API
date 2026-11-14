@@ -102,22 +102,22 @@
         "last": 1794606168989
       },
       "27b086691f72": {
-        "n": 3,
+        "n": 4,
         "first": 1794648785926,
-        "last": 1794648847308
+        "last": 1794648889298
       }
     },
     "stats": {
-      "total": 118,
+      "total": 119,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
-        "2026-11-14": 7
+        "2026-11-14": 8
       },
       "cmds": {
         "menu": 70,
         "gpt": 6,
-        "help": 5,
+        "help": 6,
         "fakedana": 4,
         "nova": 3,
         "brat": 2,
@@ -13079,12 +13079,65 @@
           "s": 0,
           "ts": 1794648880915,
           "exp": 1794674080915
+        },
+        {
+          "id": "mwg7m16a2a6433",
+          "u": "27b086691f72",
+          "t": ".help tebakbuah",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794648888946,
+          "exp": 1794674088946
+        },
+        {
+          "id": "mwg7m1g3db92eb",
+          "u": "bot",
+          "t": "📌 .tebakbuah\nTebak buah dari petunjuk acak beserta jawabannya. Cukup klik kirim, tanpa parameter.\nKategori : 🎮 Game\n━━━━━━━━━━━━━━━━\nTanpa parameter, cukup kirim perintahnya.\n━━━━━━━━━━━━━━━━\nCARA PAKAI\n▸ .tebakbuah",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "↩ Game",
+              "c": ".menu game"
+            },
+            {
+              "l": "🏠 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794648889299,
+          "exp": 1794674089299
         }
       ],
-      "lastTs": 1794648880915,
+      "lastTs": 1794648889299,
       "timer": 0,
       "unread": {
-        "bot": 5
+        "bot": 6
       }
     }
   },
@@ -13432,7 +13485,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 26,
+        "m": 28,
         "c": 0,
         "u": 3,
         "g": 0
