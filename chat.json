@@ -26,6 +26,31 @@
     },
     "blocked": {},
     "users": {
+      "27b086691f72": {
+        "n": 9,
+        "first": 1794648785926,
+        "last": 1794660031302
+      },
+      "a880370016ba": {
+        "n": 4,
+        "first": 1794606128366,
+        "last": 1794606168989
+      },
+      "admin": {
+        "n": 24,
+        "first": 1794433766100,
+        "last": 1794547058472
+      },
+      "512b1c6eb53d": {
+        "n": 2,
+        "first": 1794533401851,
+        "last": 1794533410345
+      },
+      "c0c256961017": {
+        "n": 2,
+        "first": 1794492278187,
+        "last": 1794492305223
+      },
       "0c8d9507f32f": {
         "n": 8,
         "first": 1794478124812,
@@ -80,31 +105,6 @@
         "n": 12,
         "first": 1794435748277,
         "last": 1794435861900
-      },
-      "admin": {
-        "n": 24,
-        "first": 1794433766100,
-        "last": 1794547058472
-      },
-      "c0c256961017": {
-        "n": 2,
-        "first": 1794492278187,
-        "last": 1794492305223
-      },
-      "512b1c6eb53d": {
-        "n": 2,
-        "first": 1794533401851,
-        "last": 1794533410345
-      },
-      "a880370016ba": {
-        "n": 4,
-        "first": 1794606128366,
-        "last": 1794606168989
-      },
-      "27b086691f72": {
-        "n": 9,
-        "first": 1794648785926,
-        "last": 1794660031302
       }
     },
     "stats": {
@@ -124,6 +124,7 @@
         "tiktok": 2,
         "tobotak": 2,
         "tochibi": 2,
+        "fakeff": 2,
         "iqcpink": 1,
         "sticker-reaksi": 1,
         "bratvid": 1,
@@ -139,7 +140,6 @@
         "crateimg": 1,
         "hd": 1,
         "quotes-motivasi": 1,
-        "fakeff": 2,
         "freereels-catalog": 1,
         "pap": 1,
         "fakeff2": 1,
@@ -3308,6 +3308,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "aa426ad23e01": {
+      "key": "aryannn79734@gmail.com",
+      "username": "tirzz",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794667240879,
+      "updatedAt": 1794667240879,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -5963,6 +5984,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwdejvbyd681c2",
           "u": "d86f6b5f1d32",
           "t": ".menu",
@@ -5979,12 +6001,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794479146846,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwdejyhhc64383",
           "u": "d86f6b5f1d32",
           "t": "#menu",
@@ -6001,12 +6023,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794479150933,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwf3lrv32f6aa8",
           "u": "d82e9b783553",
           "t": ".menu",
@@ -6023,12 +6045,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794581692239,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwg5g6dja9396f",
           "u": "eacfef00196b",
           "t": ".menu",
@@ -6045,12 +6067,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794645256519,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwg5h9i93b73b2",
           "u": "eacfef00196b",
           "t": "cara cht bot",
@@ -6067,12 +6089,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794645307233,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwg5i9f2b96b86",
           "u": "eacfef00196b",
           "t": ".menu",
@@ -6089,12 +6111,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794645353774,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwg5ipy0148535",
           "u": "admin",
           "t": "di halaman chat pencet + terus pilih chat bot",
@@ -6116,7 +6138,6 @@
           },
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794645375192,
           "exp": 0
@@ -12604,6 +12625,7 @@
       ],
       "msgs": [
         {
+          "bt": [],
           "id": "mwg7hb4b40772f",
           "u": "27b086691f72",
           "t": "sayang ini buat apa aku gatau aku daftar aja",
@@ -12620,12 +12642,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648668555,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwgebxmx4b688a",
           "u": "27b086691f72",
           "t": "km dmn ak kgn",
@@ -12642,7 +12664,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794660175113,
           "exp": 0
@@ -12663,6 +12684,24 @@
       ],
       "msgs": [
         {
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
           "id": "mwg7jeo5b4f7ef",
           "u": "bot",
           "t": "Halo, cacacantik.! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 335 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
@@ -12679,29 +12718,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            },
-            {
-              "l": "🎨 AI Image",
-              "c": ".menu aiimage"
-            },
-            {
-              "l": "🤖 AI Chat",
-              "c": ".menu ai"
-            },
-            {
-              "l": "📥 Downloader",
-              "c": ".menu download"
-            }
-          ],
           "s": 0,
           "ts": 1794648766469,
           "exp": 1794673966469
         },
         {
+          "bt": [],
           "id": "mwg7jte87b59f2",
           "u": "27b086691f72",
           "t": ".menu",
@@ -12718,12 +12740,85 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648785552,
           "exp": 1794673985552
         },
         {
+          "bt": [
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "📺 Animein",
+              "c": ".menu animein"
+            },
+            {
+              "l": "🐉 Donghive",
+              "c": ".menu donghive"
+            },
+            {
+              "l": "📚 MangaDex",
+              "c": ".menu mangadex"
+            },
+            {
+              "l": "🖼️ Canvas",
+              "c": ".menu canvas"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            },
+            {
+              "l": "🎬 FreeReels",
+              "c": ".menu freereels"
+            },
+            {
+              "l": "🎲 Fun",
+              "c": ".menu fun"
+            },
+            {
+              "l": "🎮 Game",
+              "c": ".menu game"
+            },
+            {
+              "l": "📰 Info",
+              "c": ".menu info"
+            },
+            {
+              "l": "📖 Komik",
+              "c": ".menu komik"
+            },
+            {
+              "l": "📗 Komiku",
+              "c": ".menu komiku"
+            },
+            {
+              "l": "🛠️ Maker",
+              "c": ".menu maker"
+            },
+            {
+              "l": "🔎 Search",
+              "c": ".menu search"
+            },
+            {
+              "l": "🕵️ Stalker",
+              "c": ".menu stalker"
+            },
+            {
+              "l": "🧰 Tools",
+              "c": ".menu tools"
+            },
+            {
+              "l": "☁️ Uploader",
+              "c": ".menu upload"
+            }
+          ],
           "id": "mwg7jtot91fe75",
           "u": "bot",
           "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, cacacantik.! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
@@ -12740,85 +12835,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "🤖 AI Chat",
-              "c": ".menu ai"
-            },
-            {
-              "l": "🎨 AI Image",
-              "c": ".menu aiimage"
-            },
-            {
-              "l": "📺 Animein",
-              "c": ".menu animein"
-            },
-            {
-              "l": "🐉 Donghive",
-              "c": ".menu donghive"
-            },
-            {
-              "l": "📚 MangaDex",
-              "c": ".menu mangadex"
-            },
-            {
-              "l": "🖼️ Canvas",
-              "c": ".menu canvas"
-            },
-            {
-              "l": "📥 Downloader",
-              "c": ".menu download"
-            },
-            {
-              "l": "🎬 FreeReels",
-              "c": ".menu freereels"
-            },
-            {
-              "l": "🎲 Fun",
-              "c": ".menu fun"
-            },
-            {
-              "l": "🎮 Game",
-              "c": ".menu game"
-            },
-            {
-              "l": "📰 Info",
-              "c": ".menu info"
-            },
-            {
-              "l": "📖 Komik",
-              "c": ".menu komik"
-            },
-            {
-              "l": "📗 Komiku",
-              "c": ".menu komiku"
-            },
-            {
-              "l": "🛠️ Maker",
-              "c": ".menu maker"
-            },
-            {
-              "l": "🔎 Search",
-              "c": ".menu search"
-            },
-            {
-              "l": "🕵️ Stalker",
-              "c": ".menu stalker"
-            },
-            {
-              "l": "🧰 Tools",
-              "c": ".menu tools"
-            },
-            {
-              "l": "☁️ Uploader",
-              "c": ".menu upload"
-            }
-          ],
           "s": 0,
           "ts": 1794648785933,
           "exp": 1794673985933
         },
         {
+          "bt": [],
           "id": "mwg7kh0u7e143c",
           "u": "27b086691f72",
           "t": ".menugame",
@@ -12835,12 +12857,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648816174,
           "exp": 1794674016174
         },
         {
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
           "id": "mwg7khaxe8f540",
           "u": "bot",
           "t": "❓ Perintah .menugame tidak ditemukan.\n\nKetik .menu untuk daftar lengkap.",
@@ -12857,17 +12884,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794648816537,
           "exp": 1794674016537
         },
         {
+          "bt": [],
           "id": "mwg7kuet32067a",
           "u": "27b086691f72",
           "t": ".menu",
@@ -12884,28 +12906,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648833525,
           "exp": 1794674033525
         },
         {
-          "id": "mwg7kuol0592ae",
-          "u": "bot",
-          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, cacacantik.! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "🤖 AI Chat",
@@ -12980,11 +12985,28 @@
               "c": ".menu upload"
             }
           ],
+          "id": "mwg7kuol0592ae",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, cacacantik.! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794648833877,
           "exp": 1794674033877
         },
         {
+          "bt": [],
           "id": "mwg7l4rx65f85b",
           "u": "27b086691f72",
           "t": ".menu game",
@@ -13001,12 +13023,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648846957,
           "exp": 1794674046957
         },
         {
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwg7l51vfdc632",
           "u": "bot",
           "t": "🎮 GAME · 14 perintah\nTebak-tebakan dan kuis.\n━━━━━━━━━━━━━━━━\n1. .asahotak\n    Soal asah otak acak beserta jawabannya\n2. .caklontong\n    Soal tebak-tebakan Cak Lontong acak beserta jawaban dan penjelasannya\n3. .kataacak\n    Soal susun huruf acak menjadi kata yang benar\n4. .susunkata\n    Soal susun kata dari huruf yang diacak beserta tipe dan jawabannya\n5. .tebak-voice-ml\n    Tebak hero Mobile Legends dari suara (voice) movement-nya, hero acak…\n6. .tebakbendera\n    Tebak bendera negara acak, berisi gambar bendera dan nama negaranya\n7. .tebakbuah\n    Tebak buah dari petunjuk acak beserta jawabannya\n8. .tebakepep\n    Tebak karakter Free Fire acak dari gambar, berisi jawaban dan deskrip…\n9. .tebakgambar\n    Soal tebak gambar acak beserta jawaban dan petunjuknya\n10. .tebakhewan\n    Tebak hewan dari ciri-cirinya, soal acak beserta jawabannya\n11. .tebakkalimat\n    Soal melengkapi kalimat atau peribahasa acak beserta jawabannya\n12. .tebakkata\n    Tebak kata dari petunjuk acak beserta jawabannya\n13. .tebakkimia\n    Tebak lambang unsur kimia acak beserta nama unsurnya\n14. .tebaktebakan\n    Tebak-tebakan lucu acak beserta jawabannya\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
@@ -13023,17 +13050,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794648847315,
           "exp": 1794674047315
         },
         {
+          "bt": [],
           "id": "mwg7lup593e4e3",
           "u": "27b086691f72",
           "t": ".tebak bendera",
@@ -13050,28 +13072,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648880553,
           "exp": 1794674080553
         },
         {
-          "id": "mwg7luz783383e",
-          "u": "bot",
-          "t": "❓ Perintah .tebak tidak ditemukan.\n\nMaksud kamu:\n▸ .tebakbuah\n▸ .tebakepep\n▸ .tebakkata\n▸ .tebakhewan\n▸ .tebakkimia\n▸ .tebakgambar\n\nKetik .menu untuk daftar lengkap.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": ".tebakbuah",
@@ -13102,11 +13107,28 @@
               "c": ".menu"
             }
           ],
+          "id": "mwg7luz783383e",
+          "u": "bot",
+          "t": "❓ Perintah .tebak tidak ditemukan.\n\nMaksud kamu:\n▸ .tebakbuah\n▸ .tebakepep\n▸ .tebakkata\n▸ .tebakhewan\n▸ .tebakkimia\n▸ .tebakgambar\n\nKetik .menu untuk daftar lengkap.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794648880915,
           "exp": 1794674080915
         },
         {
+          "bt": [],
           "id": "mwg7m16a2a6433",
           "u": "27b086691f72",
           "t": ".help tebakbuah",
@@ -13123,12 +13145,21 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648888946,
           "exp": 1794674088946
         },
         {
+          "bt": [
+            {
+              "l": "↩ Game",
+              "c": ".menu game"
+            },
+            {
+              "l": "🏠 Menu",
+              "c": ".menu"
+            }
+          ],
           "id": "mwg7m1g3db92eb",
           "u": "bot",
           "t": "📌 .tebakbuah\nTebak buah dari petunjuk acak beserta jawabannya. Cukup klik kirim, tanpa parameter.\nKategori : 🎮 Game\n━━━━━━━━━━━━━━━━\nTanpa parameter, cukup kirim perintahnya.\n━━━━━━━━━━━━━━━━\nCARA PAKAI\n▸ .tebakbuah",
@@ -13145,21 +13176,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "↩ Game",
-              "c": ".menu game"
-            },
-            {
-              "l": "🏠 Menu",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794648889299,
           "exp": 1794674089299
         },
         {
+          "bt": [],
           "id": "mwg7mfraea997b",
           "u": "27b086691f72",
           "t": ".tebakbuah",
@@ -13176,12 +13198,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648907846,
           "exp": 1794674107846
         },
         {
+          "bt": [],
           "id": "mwg7mg5qcaeb51",
           "u": "bot",
           "t": "✅ .tebakbuah\n━━━━━━━━━━━━━━━━\n• Soal: Aku adalah buah. Petunjuk: Kulitnya berduri tajam dan baunya sangat kuat.\n• Jawaban: durian",
@@ -13198,12 +13220,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648908366,
           "exp": 1794674108366
         },
         {
+          "bt": [],
           "id": "mwg7mx1470fcb5",
           "u": "27b086691f72",
           "t": "coba ya nih gua kash lu tebak tebakan",
@@ -13220,12 +13242,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648930232,
           "exp": 1794674130232
         },
         {
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
           "id": "mwg7mxaw42c6de",
           "u": "bot",
           "t": "Halo! Aku bot yang bekerja dengan perintah berawalan titik.\nKetik .menu untuk melihat semua fitur.",
@@ -13242,17 +13269,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794648930584,
           "exp": 1794674130584
         },
         {
+          "bt": [],
           "id": "mwg7n40l93c9c9",
           "u": "27b086691f72",
           "t": "apasi ga asik",
@@ -13269,12 +13291,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648939285,
           "exp": 1794674139285
         },
         {
+          "bt": [],
           "id": "mwg7nnw7e0cf96",
           "u": "27b086691f72",
           "t": ".menu ai",
@@ -13291,12 +13313,21 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794648965047,
           "exp": 1794674165047
         },
         {
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu ai 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwg7no6gfd22bd",
           "u": "bot",
           "t": "🤖 AI CHAT · 40 perintah\nNgobrol dan tanya jawab dengan berbagai AI.\n━━━━━━━━━━━━━━━━\n1. .aicostum <text> | <prompt>\n    Chat dengan AI karakter buatan sendiri\n2. .algolia <text>\n    Tanya jawab dengan Algolia Agent, asisten AI untuk pertanyaan seputar…\n3. .asyntai <text>\n    Tanya jawab dengan Asyntai, asisten AI chat untuk pertanyaan sehari-h…\n4. .blackbox-ai <query>\n    Tanya jawab dan bantuan coding dengan Blackbox AI\n5. .chatgpt <text>\n    Tanya jawab dengan ChatGPT, bisa pakai teks saja atau ditambah gambar…\n6. .chathpt <text>\n    Tanya jawab seputar Himpunan Putusan Tarjih (HPT) Muhammadiyah lewat…\n7. .clara <text>\n    Ngobrol dengan Clara AI, sahabat dekat yang perhatian, lembut, dan ja…\n8. .claudehaiku <text>\n    Tanya jawab dengan AI Claude Haiku 4.5 yang cepat dan ringkas\n9. .darkgpt <text>\n    Tanya jawab dengan DarkGPT, akun dibuat dan diperbarui otomatis oleh…\n10. .deepai <text>\n    Tanya jawab dengan DeepAI Chat, asisten AI serba bisa untuk pertanyaa…\n11. .deepseek <text>\n    Tanya jawab dengan DeepSeek AI\n12. .dravyn-ai <text>\n    Ngobrol dengan Dravyn AI, AI yang jujur, objektif, dan seimbang, sela…\n13. .elyvyn <text>\n    Ngobrol dengan Elyvyn, AI yang bijak, sabar, dan edukatif, pandai men…\n14. .ethan <text>\n    Ngobrol dengan Ethan AI, sosok dewasa yang tenang dan bijaksana, coco…\n15. .feelbetter <text>\n    Tanya jawab dan curhat dengan FeelBetter AI, jawabannya santai dan he…\n━━━━━━━━━━━━━━━━\nHalaman 1/3 · ketik .menu ai 2\nDetail perintah: .help <perintah>",
@@ -13313,21 +13344,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu ai 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794648965416,
           "exp": 1794674165416
         },
         {
+          "bt": [],
           "id": "mwg7om208fd078",
           "u": "27b086691f72",
           "t": ".clara <text>",
@@ -13344,12 +13366,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794649009320,
           "exp": 1794674209320
         },
         {
+          "bt": [],
           "id": "mwg7opob59147a",
           "u": "bot",
           "t": "✅ .clara\n━━━━━━━━━━━━━━━━\nHaii, aku Clara. 🤍\n\nAku di sini buat nemenin kamu, ya. Kamu nggak perlu takut dihakimi atau merasa harus menyembunyikan apa pun.\n\nKalau ada sesuatu yang mengganjal di hati, bikin sedih, kecewa, bingung, atau bahkan cuma ingin cerita tanpa mencari solusi, aku siap mendengarkan.\n\nPelan-pelan aja, nggak perlu terburu-buru. Aku dengerin kamu. 🫂💕\n\n• Question: <text>",
@@ -13366,12 +13388,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794649014011,
           "exp": 1794674214011
         },
         {
+          "bt": [],
           "id": "mwg7p45885e511",
           "u": "27b086691f72",
           "t": "<text>",
@@ -13388,12 +13410,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794649032764,
           "exp": 1794674232764
         },
         {
+          "bt": [],
           "id": "mwg7pccmd94398",
           "u": "27b086691f72",
           "t": "peppeoeo",
@@ -13410,12 +13432,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794649043398,
           "exp": 1794674243398
         },
         {
+          "bt": [],
           "id": "mwg7pp136f8530",
           "u": "27b086691f72",
           "t": "huuuu",
@@ -13432,12 +13454,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794649059831,
           "exp": 1794674259831
         },
         {
+          "bt": [],
           "id": "mwge8qo3955662",
           "u": "27b086691f72",
           "t": ".menu",
@@ -13454,28 +13476,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794660026115,
           "exp": 1794685226115
         },
         {
-          "id": "mwge8qxy7a163d",
-          "u": "bot",
-          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, cacacantik.! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "🤖 AI Chat",
@@ -13550,11 +13555,28 @@
               "c": ".menu upload"
             }
           ],
+          "id": "mwge8qxy7a163d",
+          "u": "bot",
+          "t": "╭──────〔 🤖 RIN BOT 〕──────\n│ Halo, cacacantik.! 👋\n│ 335 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 40  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 46  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794660026470,
           "exp": 1794685226470
         },
         {
+          "bt": [],
           "id": "mwge8ueeb87ccc",
           "u": "27b086691f72",
           "t": ".menu aiimage",
@@ -13571,12 +13593,21 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794660030950,
           "exp": 1794685230950
         },
         {
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu aiimage 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwge8uo61eff68",
           "u": "bot",
           "t": "🎨 AI IMAGE · 49 perintah\nEdit foto dan bikin gambar dengan AI.\n━━━━━━━━━━━━━━━━\n1. .crateimg <prompt>\n    Membuat gambar AI dari teks dengan pilihan model, ukuran, dan format\n2. .editimg 📷\n    Mengedit gambar dengan AI (Flux Kontext) berdasarkan prompt yang dibe…\n3. .flux <prompt>\n    Membuat gambar dengan AI Flux dari prompt\n4. .hd 📷\n    Meningkatkan kualitas gambar (HD upscaler 2x/3x/4x)\n5. .hd2 📷\n    Meningkatkan kualitas gambar dengan AI agar tidak blur atau buram\n6. .ihancer 📷\n    Meningkatkan kualitas gambar dengan AI Ihancer (standard, sharpen, re…\n7. .imagetoprompt 📷\n    Mengubah gambar menjadi prompt teks (image to prompt) yang bisa dipak…\n8. .mirror-macbook 📷\n    Mengubah foto jadi mirror selfie di depan layar MacBook dengan hoodie…\n9. .nanobanana 📷 | <prompt>\n    Edit gambar dengan AI Nano Banana sesuai prompt yang kamu tulis, hasi…\n10. .notegpt-nano 📷\n    Mengedit gambar dengan AI Nano Banana lewat NoteGPT berdasarkan promp…\n11. .remove-wm 📷\n    Menghapus watermark dari gambar menggunakan AI\n12. .text2img <prompt>\n    Membuat gambar dengan AI dari prompt yang di berikan\n13. .tobotak 📷\n    Mengubah foto jadi botak (rambut dihilangkan)\n14. .tochibi 📷\n    Mengubah karakter di foto jadi gaya chibi yang imut\n15. .tofigurav2 📷\n    Mengubah foto jadi action figure (figura) dengan gaya versi 2\n━━━━━━━━━━━━━━━━\nHalaman 1/4 · ketik .menu aiimage 2\nDetail perintah: .help <perintah>",
@@ -13593,16 +13624,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu aiimage 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794660031302,
           "exp": 1794685231302
@@ -13995,7 +14016,7 @@
       "2026-11-14": {
         "m": 47,
         "c": 0,
-        "u": 3,
+        "u": 4,
         "g": 0
       }
     }
