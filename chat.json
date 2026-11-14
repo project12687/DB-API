@@ -13006,12 +13006,85 @@
           "s": 0,
           "ts": 1794648847315,
           "exp": 1794674047315
+        },
+        {
+          "id": "mwg7lup593e4e3",
+          "u": "27b086691f72",
+          "t": ".tebak bendera",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794648880553,
+          "exp": 1794674080553
+        },
+        {
+          "id": "mwg7luz783383e",
+          "u": "bot",
+          "t": "❓ Perintah .tebak tidak ditemukan.\n\nMaksud kamu:\n▸ .tebakbuah\n▸ .tebakepep\n▸ .tebakkata\n▸ .tebakhewan\n▸ .tebakkimia\n▸ .tebakgambar\n\nKetik .menu untuk daftar lengkap.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".tebakbuah",
+              "c": ".help tebakbuah"
+            },
+            {
+              "l": ".tebakepep",
+              "c": ".help tebakepep"
+            },
+            {
+              "l": ".tebakkata",
+              "c": ".help tebakkata"
+            },
+            {
+              "l": ".tebakhewan",
+              "c": ".help tebakhewan"
+            },
+            {
+              "l": ".tebakkimia",
+              "c": ".help tebakkimia"
+            },
+            {
+              "l": ".tebakgambar",
+              "c": ".help tebakgambar"
+            },
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794648880915,
+          "exp": 1794674080915
         }
       ],
-      "lastTs": 1794648847315,
+      "lastTs": 1794648880915,
       "timer": 0,
       "unread": {
-        "bot": 4
+        "bot": 5
       }
     }
   },
@@ -13359,7 +13432,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 24,
+        "m": 26,
         "c": 0,
         "u": 3,
         "g": 0
