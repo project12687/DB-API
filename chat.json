@@ -26,6 +26,11 @@
     },
     "blocked": {},
     "users": {
+      "aa426ad23e01": {
+        "n": 3,
+        "first": 1794667292289,
+        "last": 1794667308100
+      },
       "27b086691f72": {
         "n": 9,
         "first": 1794648785926,
@@ -105,11 +110,6 @@
         "n": 12,
         "first": 1794435748277,
         "last": 1794435861900
-      },
-      "aa426ad23e01": {
-        "n": 3,
-        "first": 1794667292289,
-        "last": 1794667308100
       }
     },
     "stats": {
@@ -3344,28 +3344,6 @@
       "msgs": [
         {
           "bt": [],
-          "id": "mvs7c2r707da30",
-          "u": "admin",
-          "t": "minta eay je",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793197236211,
-          "exp": 0
-        },
-        {
-          "bt": [],
           "id": "mvs7c7cy44bb01",
           "u": "5964e5e8dbba",
           "t": "okeh",
@@ -6146,9 +6124,31 @@
           "s": 0,
           "ts": 1794645375192,
           "exp": 0
+        },
+        {
+          "id": "mwgimwfu0d46c8",
+          "u": "aa426ad23e01",
+          "t": "masih ada ga menu yg nambah like tt?",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794667405242,
+          "exp": 0
         }
       ],
-      "lastTs": 1794645375192,
+      "lastTs": 1794667405242,
       "timer": 0,
       "unread": {}
     },
@@ -13649,22 +13649,6 @@
       ],
       "msgs": [
         {
-          "id": "mwgike3c2afa68",
-          "u": "bot",
-          "t": "Halo, tirzz! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 341 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "📋 Menu",
@@ -13683,11 +13667,28 @@
               "c": ".menu download"
             }
           ],
+          "id": "mwgike3c2afa68",
+          "u": "bot",
+          "t": "Halo, tirzz! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 341 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794667288152,
           "exp": 1794692488152
         },
         {
+          "bt": [],
           "id": "mwgikh0ga9937b",
           "u": "aa426ad23e01",
           "t": ".menu",
@@ -13704,28 +13705,11 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794667291936,
           "exp": 1794692491936
         },
         {
-          "id": "mwgikhabd02d30",
-          "u": "bot",
-          "t": "╭──〔 🤖 RIN BOT 〕──\n│ Halo, tirzz! 👋\n│ 341 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 41  ➜  .menu ai\n🎨 AI Image · 50  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 50  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
           "bt": [
             {
               "l": "🤖 AI Chat",
@@ -13800,11 +13784,28 @@
               "c": ".menu upload"
             }
           ],
+          "id": "mwgikhabd02d30",
+          "u": "bot",
+          "t": "╭──〔 🤖 RIN BOT 〕──\n│ Halo, tirzz! 👋\n│ 341 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 41  ➜  .menu ai\n🎨 AI Image · 50  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 39  ➜  .menu canvas\n📥 Downloader · 27  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 10  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 50  ➜  .menu tools\n☁️ Uploader · 13  ➜  .menu upload\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
           "s": 0,
           "ts": 1794667292291,
           "exp": 1794692492291
         },
         {
+          "bt": [],
           "id": "mwgikoa9c4b78f",
           "u": "aa426ad23e01",
           "t": ".menu maker",
@@ -13821,12 +13822,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794667301361,
           "exp": 1794692501361
         },
         {
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwgikok40dd96e",
           "u": "bot",
           "t": "🛠️ MAKER · 15 perintah\nPembuat meme, quote card, dan gambar teks.\n━━━━━━━━━━━━━━━━\n1. .attp <text>\n    Membuat stiker teks animasi warna-warni (ATTP) dari teks\n2. .brat <text>\n    Membuat stiker teks bergaya Brat langsung dalam format gambar PNG den…\n3. .brat-vermeil <text>\n    Membuat gambar teks bergaya Brat dengan template Vermeil\n4. .bratanime2 <text>\n    Membuat gambar teks bergaya Brat dengan berbagai template karakter an…\n5. .bratgojo <text>\n    Membuat gambar teks bergaya Brat dengan template Gojo\n6. .brathd <text>\n    Membuat gambar teks bergaya Brat kualitas HD, hasilnya langsung berup…\n7. .bratspongebob <text>\n    Membuat gambar brat versi papan SpongeBob dari teks\n8. .bratvid <text>\n    Membuat stiker teks bergaya Brat versi animasi (video/gif)\n9. .bratvid2 <text>\n    Membuat video teks bergaya Brat dengan animasi kata muncul satu per s…\n10. .emojimix <emoji1> | <emoji2>\n    Menggabungkan 2 emoji menjadi stiker PNG lewat Emoji Kitchen\n11. .jarvis <text>\n    Membuat meme Jarvis dengan teks sesuka kamu, hasilnya langsung berupa…\n12. .qc <color> | <text>\n    Membuat gambar quote chat dengan warna latar custom\n13. .smeme 📷\n    Membuat stiker meme dari gambar/gif/video\n14. .smemevid <url>\n    Membuat video meme (kotak 512x512, maks 4 detik) dengan teks atas dan…\n15. .sticker-reaksi <text>\n    Membuat gambar stiker reaksi dengan teks nama kustom\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
@@ -13843,17 +13849,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794667301716,
           "exp": 1794692501716
         },
         {
+          "bt": [],
           "id": "mwgikt7o2b54a6",
           "u": "aa426ad23e01",
           "t": ".menu freereels",
@@ -13870,12 +13871,17 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1794667307748,
           "exp": 1794692507748
         },
         {
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
           "id": "mwgikthg6c9d52",
           "u": "bot",
           "t": "🎬 FREEREELS · 8 perintah\nDrama pendek dan serial vertikal.\n━━━━━━━━━━━━━━━━\n1. .categories\n    Daftar kategori dan filter drama di FreeReels\n2. .download <q>\n    Download episode FreeReels dari link, judul, atau ID serial\n3. .freereels-catalog\n    Daftar drama pendek FreeReels (feed rekomendasi)\n4. .freereels-detail <id>\n    Detail lengkap serial FreeReels: sinopsis, jumlah episode, dan semua…\n5. .freereels-episodes <id>\n    Daftar episode dari sebuah serial FreeReels\n6. .freereels-search <q>\n    Cari drama pendek di FreeReels berdasarkan judul\n7. .freereels-series <id>\n    Info serial FreeReels beserta daftar episodenya\n8. .unlock <id> | <episode_id>\n    Ambil link stream, subtitle, dan audio dari satu episode FreeReels\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
@@ -13892,12 +13898,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
           "s": 0,
           "ts": 1794667308100,
           "exp": 1794692508100
@@ -14288,7 +14288,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 54,
+        "m": 55,
         "c": 0,
         "u": 4,
         "g": 0
