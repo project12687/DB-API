@@ -13914,9 +13914,9 @@
           "exp": 1794701420141
         },
         {
-          "id": "mwgnvuc2647fd8",
+          "id": "mwgnvyxwd42666",
           "u": "bot",
-          "t": "⏳ Memproses .play…",
+          "t": "✅ .play\n━━━━━━━━━━━━━━━━\n• Type: audio\n• Title: [Official Lyric Video] Ayo Senyumlah - JKT48\n• Views: 114236\n• Duration: 4:37\n• Media: https://cdn405.savetube.vip/file/U1BDaJkCRKQ/mv-ayo-senyumlah-jkt48-128kbps-ytshorts.savetube.me.mp3\n• Music: https://cdn405.savetube.vip/file/U1BDaJkCRKQ/mv-ayo-senyumlah-jkt48-128kbps-ytshorts.savetube.me.mp3\n• Cover: https://i.ytimg.com/vi/ZApUoaIG0Cg/hq720.jpg\n• Description: Dipublikasikan: 4d ago",
           "i": "",
           "v": "",
           "vd": "",
@@ -13932,15 +13932,37 @@
           "m": [],
           "bt": [],
           "s": 0,
-          "ts": 1794676220498,
-          "exp": 1794701420498
+          "ts": 1794676226468,
+          "exp": 1794701426468
+        },
+        {
+          "id": "mwgnvyy46afc0c",
+          "u": "bot",
+          "t": "",
+          "i": "",
+          "v": "e7888f9c9ff1b2b0f6ce.mp3",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794676226476,
+          "exp": 1794701426476
         }
       ],
-      "lastTs": 1794676220498,
+      "lastTs": 1794676226476,
       "timer": 0,
       "unread": {
         "bot": 9,
-        "5964e5e8dbba": 1
+        "5964e5e8dbba": 2
       }
     }
   },
@@ -14328,7 +14350,7 @@
         "g": 0
       },
       "2026-11-15": {
-        "m": 19,
+        "m": 21,
         "c": 0,
         "u": 0,
         "g": 0
