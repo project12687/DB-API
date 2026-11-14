@@ -13956,12 +13956,86 @@
           "s": 0,
           "ts": 1794676226476,
           "exp": 1794701426476
+        },
+        {
+          "id": "mwgnwm4oc3f908",
+          "u": "5964e5e8dbba",
+          "t": ".pin ella JKT48",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794676256520,
+          "exp": 1794701456520
+        },
+        {
+          "id": "mwgnwmemf09ee7",
+          "u": "bot",
+          "t": "❓ Perintah .pin tidak ditemukan.\n\nMaksud kamu:\n▸ .pindl <url>\n▸ .pinterest <q>\n▸ .iqcpink <text>\n▸ .iqcpinkv2 <text>\n▸ .aio <url>\n▸ .pap\n\nKetik .menu untuk daftar lengkap.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".pindl",
+              "c": ".help pindl"
+            },
+            {
+              "l": ".pinterest",
+              "c": ".help pinterest"
+            },
+            {
+              "l": ".iqcpink",
+              "c": ".help iqcpink"
+            },
+            {
+              "l": ".iqcpinkv2",
+              "c": ".help iqcpinkv2"
+            },
+            {
+              "l": ".aio",
+              "c": ".help aio"
+            },
+            {
+              "l": ".pap",
+              "c": ".help pap"
+            },
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794676256878,
+          "exp": 1794701456878
         }
       ],
-      "lastTs": 1794676226476,
+      "lastTs": 1794676256878,
       "timer": 0,
       "unread": {
-        "bot": 9
+        "bot": 10,
+        "5964e5e8dbba": 1
       }
     }
   },
@@ -14349,7 +14423,7 @@
         "g": 0
       },
       "2026-11-15": {
-        "m": 21,
+        "m": 23,
         "c": 0,
         "u": 0,
         "g": 0
