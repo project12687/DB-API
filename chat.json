@@ -112,21 +112,21 @@
         "last": 1794435861900
       },
       "5964e5e8dbba": {
-        "n": 3,
+        "n": 4,
         "first": 1794676140543,
-        "last": 1794676165346
+        "last": 1794676176747
       }
     },
     "stats": {
-      "total": 131,
+      "total": 132,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
         "2026-11-14": 17,
-        "2026-11-15": 3
+        "2026-11-15": 4
       },
       "cmds": {
-        "menu": 80,
+        "menu": 81,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -13560,12 +13560,70 @@
           "s": 0,
           "ts": 1794676165346,
           "exp": 1794701365346
+        },
+        {
+          "id": "mwgnuwazab1ee7",
+          "u": "5964e5e8dbba",
+          "t": ".menu tools 3",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794676176395,
+          "exp": 1794701376395
+        },
+        {
+          "id": "mwgnuwkr959064",
+          "u": "bot",
+          "t": "🧰 TOOLS · 50 perintah\nAlat bantu: OCR, QR, TTS, screenshot, dan banyak lagi.\n━━━━━━━━━━━━━━━━\n31. .removebg 📷\n    Menghapus latar belakang (background) gambar secara otomatis\n32. .scan-ai-slopweb 📷\n    Periksa apakah sebuah gambar dibuat oleh AI atau bukan, lengkap denga…\n33. .shortlink <url>\n    Memperpendek link, bisa dengan nama custom sesuai yang di inginkan\n34. .shortlink2 <url>\n    Buat short link Pic.surf, bisa sekali lihat\n35. .speed-web <url>\n    Tes kecepatan loading website lewat Pingdom: DNS, SSL, TTFB, waktu lo…\n36. .ssweb <url>\n    Screenshot website dalam 3 ukuran layar sekaligus: desktop, tablet, d…\n37. .sub2unlock <url>\n    Bypass link sub2unlock.me dan sejenisnya, langsung dapat link tujuan…\n38. .subdo-finder <domain>\n    Cari daftar subdomain dari sebuah domain lewat beberapa sumber sekali…\n39. .tempmail\n    Membuat email sementara (temp mail) baru\n40. .tiktok-checker <username>\n    Cek profil akun TikTok: info akun, statistik, status verified/private…\n41. .trackip <ip>\n    Melacak informasi alamat IP: negara, region, kota, koordinat, ISP, AS…\n42. .transkripsi <url>\n    Mengubah audio/voice note menjadi teks (bahasa Indonesia)\n43. .tts <text>\n    Ubah teks jadi suara (text to speech) dengan banyak pilihan karakter…\n44. .tts2 <text>\n    Ubah teks jadi suara (text to speech) gratis, tersedia 10 pilihan sua…\n45. .txt2video <prompt>\n    Membuat video dari teks (prompt) menggunakan AI\n━━━━━━━━━━━━━━━━\nHalaman 3/4 · ketik .menu tools 4\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "⬅️ Sebelumnya",
+              "c": ".menu tools 2"
+            },
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu tools 4"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794676176747,
+          "exp": 1794701376747
         }
       ],
-      "lastTs": 1794676165346,
+      "lastTs": 1794676176747,
       "timer": 0,
       "unread": {
-        "bot": 3
+        "bot": 4,
+        "5964e5e8dbba": 1
       }
     }
   },
@@ -13953,7 +14011,7 @@
         "g": 0
       },
       "2026-11-15": {
-        "m": 7,
+        "m": 9,
         "c": 0,
         "u": 0,
         "g": 0
