@@ -102,20 +102,20 @@
         "last": 1794606168989
       },
       "27b086691f72": {
-        "n": 2,
+        "n": 3,
         "first": 1794648785926,
-        "last": 1794648833877
+        "last": 1794648847308
       }
     },
     "stats": {
-      "total": 117,
+      "total": 118,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
-        "2026-11-14": 6
+        "2026-11-14": 7
       },
       "cmds": {
-        "menu": 69,
+        "menu": 70,
         "gpt": 6,
         "help": 5,
         "fakedana": 4,
@@ -12957,12 +12957,61 @@
           "s": 0,
           "ts": 1794648833877,
           "exp": 1794674033877
+        },
+        {
+          "id": "mwg7l4rx65f85b",
+          "u": "27b086691f72",
+          "t": ".menu game",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794648846957,
+          "exp": 1794674046957
+        },
+        {
+          "id": "mwg7l51vfdc632",
+          "u": "bot",
+          "t": "🎮 GAME · 14 perintah\nTebak-tebakan dan kuis.\n━━━━━━━━━━━━━━━━\n1. .asahotak\n    Soal asah otak acak beserta jawabannya\n2. .caklontong\n    Soal tebak-tebakan Cak Lontong acak beserta jawaban dan penjelasannya\n3. .kataacak\n    Soal susun huruf acak menjadi kata yang benar\n4. .susunkata\n    Soal susun kata dari huruf yang diacak beserta tipe dan jawabannya\n5. .tebak-voice-ml\n    Tebak hero Mobile Legends dari suara (voice) movement-nya, hero acak…\n6. .tebakbendera\n    Tebak bendera negara acak, berisi gambar bendera dan nama negaranya\n7. .tebakbuah\n    Tebak buah dari petunjuk acak beserta jawabannya\n8. .tebakepep\n    Tebak karakter Free Fire acak dari gambar, berisi jawaban dan deskrip…\n9. .tebakgambar\n    Soal tebak gambar acak beserta jawaban dan petunjuknya\n10. .tebakhewan\n    Tebak hewan dari ciri-cirinya, soal acak beserta jawabannya\n11. .tebakkalimat\n    Soal melengkapi kalimat atau peribahasa acak beserta jawabannya\n12. .tebakkata\n    Tebak kata dari petunjuk acak beserta jawabannya\n13. .tebakkimia\n    Tebak lambang unsur kimia acak beserta nama unsurnya\n14. .tebaktebakan\n    Tebak-tebakan lucu acak beserta jawabannya\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794648847315,
+          "exp": 1794674047315
         }
       ],
-      "lastTs": 1794648833877,
+      "lastTs": 1794648847315,
       "timer": 0,
       "unread": {
-        "bot": 3
+        "bot": 4
       }
     }
   },
@@ -13310,7 +13359,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 22,
+        "m": 24,
         "c": 0,
         "u": 3,
         "g": 0
