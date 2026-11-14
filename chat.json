@@ -27,9 +27,9 @@
     "blocked": {},
     "users": {
       "aa426ad23e01": {
-        "n": 3,
+        "n": 4,
         "first": 1794667292289,
-        "last": 1794667308100
+        "last": 1794667442767
       },
       "27b086691f72": {
         "n": 9,
@@ -113,14 +113,14 @@
       }
     },
     "stats": {
-      "total": 127,
+      "total": 128,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
-        "2026-11-14": 16
+        "2026-11-14": 17
       },
       "cmds": {
-        "menu": 76,
+        "menu": 77,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -13950,12 +13950,62 @@
           "s": 0,
           "ts": 1794667415269,
           "exp": 1794692615269
+        },
+        {
+          "id": "mwginp4ga09d4f",
+          "u": "aa426ad23e01",
+          "t": ".menu uploader",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794667442416,
+          "exp": 1794692642416
+        },
+        {
+          "id": "mwginpeya46555",
+          "u": "bot",
+          "t": "☁️ UPLOADER · 13 perintah\nUpload file ke hosting dan dapatkan link.\n━━━━━━━━━━━━━━━━\n1. .aceimg 📷\n    Upload gambar ke AceImg lalu dapat link langsung\n2. .aisense 📷\n    Upload file ke AISense lalu dapat link langsung\n3. .bashupload 📷\n    Upload file ke BashUpload lalu dapat link langsung\n4. .deploy 📷\n    Upload file lalu dapat link permanen yang siap dibagikan menggunakan…\n5. .fileditch 📷\n    Upload file ke FileDitch lalu dapat link langsung\n6. .kappa 📷\n    Upload file ke kappa.lol, link permanen\n7. .nekohime 📷\n    Upload file ke cdn.nekohime.site lalu dapat link langsung\n8. .picsurf 📷\n    Upload gambar ke pic.surf lalu dapat link langsung\n9. .poners 📷\n    Upload gambar, video, audio, pdf, zip dan file lain ke pone.rs lalu d…\n10. .quax 📷\n    Upload file ke qu.ax, link permanen\n11. .tmpfiles 📷\n    Upload file ke tmpfiles.org, hasilnya link download langsung\n12. .uguu 📷\n    Upload file ke Uguu lalu dapat link langsung\n13. .upload-text <text>\n    Upload teks atau kode ke server lalu dapat link langsung (raw) yang b…\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794667442794,
+          "exp": 1794692642794
         }
       ],
-      "lastTs": 1794667415269,
+      "lastTs": 1794667442794,
       "timer": 0,
       "unread": {
-        "bot": 4
+        "bot": 5,
+        "aa426ad23e01": 1
       }
     }
   },
@@ -14337,7 +14387,7 @@
         "g": 0
       },
       "2026-11-14": {
-        "m": 57,
+        "m": 59,
         "c": 0,
         "u": 4,
         "g": 0
