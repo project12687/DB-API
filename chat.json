@@ -13280,6 +13280,58 @@
       "unread": {
         "bot": 6
       }
+    },
+    "d_5964e5e8dbba_bot": {
+      "id": "d_5964e5e8dbba_bot",
+      "type": "dm",
+      "mem": [
+        "5964e5e8dbba",
+        "bot"
+      ],
+      "msgs": [
+        {
+          "id": "mwgntuta28d28c",
+          "u": "bot",
+          "t": "Halo, Dhanyy! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 340 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
+          "s": 0,
+          "ts": 1794676127806,
+          "exp": 1794701327806
+        }
+      ],
+      "lastTs": 1794676127806,
+      "timer": 0,
+      "unread": {}
     }
   },
   "blocked": {
@@ -13663,6 +13715,12 @@
         "m": 61,
         "c": 0,
         "u": 4,
+        "g": 0
+      },
+      "2026-11-15": {
+        "m": 1,
+        "c": 0,
+        "u": 0,
         "g": 0
       }
     }
