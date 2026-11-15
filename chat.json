@@ -7207,28 +7207,6 @@
       "msgs": [
         {
           "bt": [],
-          "id": "mvrhfwcle49fa9",
-          "u": "",
-          "t": "Sekarang hanya admin yang bisa mengirim pesan.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 1,
-          "ts": 1793153744517,
-          "exp": 0
-        },
-        {
-          "bt": [],
           "id": "mvrhgfbb7c7ef7",
           "u": "",
           "t": "Semua anggota bisa mengirim pesan.",
@@ -9038,9 +9016,23 @@
           "s": 0,
           "ts": 1794716634941,
           "exp": 0
+        },
+        {
+          "id": "mwhbybr3f48b96",
+          "u": "",
+          "t": "Ryyn dijadikan admin grup.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794716647167,
+          "exp": 0
         }
       ],
-      "lastTs": 1794716634941,
+      "lastTs": 1794716647167,
       "timer": 0,
       "unread": {
         "49db73edbc20": 60,
@@ -9065,7 +9057,8 @@
         "33ce5a62b41f": 1
       },
       "adm": [
-        "admin"
+        "admin",
+        "634a5398bb59"
       ],
       "owner": "admin",
       "name": "GROUP || RIN API'S",
