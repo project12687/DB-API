@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "lastDate": "2026-11-15",
-  "lastAt": "2026-11-15T17:05:08.452Z",
-  "lastOk": false,
-  "lastMessage": "Gagal kirim ke Telegram: connect ETIMEDOUT 149.154.166.110:443; connect ENETUNREACH 2001:67c:4e8:f004::9:443 - Local (:::0)"
+  "lastDate": "2026-11-16",
+  "lastAt": "2026-11-15T17:06:01.499Z",
+  "lastOk": true,
+  "lastMessage": "Berhasil (9 file data, 109 media)"
 }
