@@ -4535,6 +4535,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "anginhadina@gmail.com": {
+      "name": "ANGIN HADINA",
+      "email": "anginhadina@gmail.com",
+      "pass": "s1$d98a854143c5a31faad7a1c9ede07284$b02f23334252c664232e59f61628b8934e729cc8adb7e91a05dd2418f33dcdc3",
+      "apikey": "rin_5d4e7119294b7debb1",
+      "cap": "free",
+      "ip": "2001:448a:7100:6965:907f:be9a:e035:295b",
+      "regIp": "2001:448a:7100:6965:907f:be9a:e035:295b",
+      "createdAt": "2026-11-15T14:37:50.998Z",
+      "lastLogin": "2026-11-15T14:37:50.998Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
