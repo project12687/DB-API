@@ -13364,9 +13364,31 @@
           "s": 0,
           "ts": 1794717074290,
           "exp": 0
+        },
+        {
+          "id": "mwhc7ob6e3b7b8",
+          "u": "admin",
+          "t": "pencet profil dia ada di izin perangkat cari aja izin kan semua",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794717083346,
+          "exp": 0
         }
       ],
-      "lastTs": 1794717074290,
+      "lastTs": 1794717083346,
       "timer": 0,
       "unread": {}
     }
@@ -13970,7 +13992,7 @@
         "g": 0
       },
       "2026-11-15": {
-        "m": 54,
+        "m": 55,
         "c": 9,
         "u": 1,
         "g": 0
