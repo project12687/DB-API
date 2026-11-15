@@ -3368,6 +3368,27 @@
         "swm": "Avril ganteng banget",
         "swp": "br"
       }
+    },
+    "264eee18e948": {
+      "key": "zullbootz1@gmail.com",
+      "username": "IjulTaka",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794741022236,
+      "updatedAt": 1794741022236,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -14009,7 +14030,7 @@
       "2026-11-15": {
         "m": 71,
         "c": 10,
-        "u": 1,
+        "u": 2,
         "g": 0
       }
     }
