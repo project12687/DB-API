@@ -4514,6 +4514,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "wayane383@gmail.com": {
+      "name": "Wayan Eka",
+      "email": "wayane383@gmail.com",
+      "pass": "s1$f988857b04335fba69d0855a64bfbc91$59165cbcf10578941d19e225ab95faff9544e34cae74483898d37ea610a81f44",
+      "apikey": "rin_c0aa350c90e9cb55e3",
+      "cap": "free",
+      "ip": "2400:9800:8c1:f304:69e2:2f56:7f1d:9a42",
+      "regIp": "2400:9800:8c1:f304:69e2:2f56:7f1d:9a42",
+      "createdAt": "2026-11-15T13:13:40.475Z",
+      "lastLogin": "2026-11-15T13:13:40.475Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
