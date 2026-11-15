@@ -7207,28 +7207,6 @@
       "msgs": [
         {
           "bt": [],
-          "id": "mvrhgfbb7c7ef7",
-          "u": "",
-          "t": "Semua anggota bisa mengirim pesan.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 1,
-          "ts": 1793153769095,
-          "exp": 0
-        },
-        {
-          "bt": [],
           "id": "mvrozed81b5c5e",
           "u": "",
           "t": ".. bergabung lewat link undangan.",
@@ -9030,9 +9008,23 @@
           "s": 1,
           "ts": 1794716647167,
           "exp": 0
+        },
+        {
+          "id": "mwhbyfo665ac4a",
+          "u": "",
+          "t": "Ryyn bukan admin lagi.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794716652246,
+          "exp": 0
         }
       ],
-      "lastTs": 1794716647167,
+      "lastTs": 1794716652246,
       "timer": 0,
       "unread": {
         "49db73edbc20": 60,
@@ -9057,8 +9049,7 @@
         "33ce5a62b41f": 1
       },
       "adm": [
-        "admin",
-        "634a5398bb59"
+        "admin"
       ],
       "owner": "admin",
       "name": "GROUP || RIN API'S",
