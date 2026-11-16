@@ -13528,16 +13528,30 @@
           "s": 1,
           "ts": 1794844172985,
           "exp": 0
+        },
+        {
+          "id": "mwjfwy8o4f6ecd",
+          "u": "",
+          "t": "Esther mengganti nama grup menjadi \"Kpop stan\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794844233816,
+          "exp": 0
         }
       ],
-      "lastTs": 1794844172985,
+      "lastTs": 1794844233816,
       "timer": 0,
       "unread": {},
       "adm": [
         "d82effaeaff7"
       ],
       "owner": "d82effaeaff7",
-      "name": "Est",
+      "name": "Kpop stan",
       "bio": "b",
       "avatar": "ee60473a43662c393802.png",
       "code": "7af44d60698705f7",
