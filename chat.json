@@ -13457,6 +13457,46 @@
       "unread": {
         "bot": 2
       }
+    },
+    "g_3accc40b3c": {
+      "id": "g_3accc40b3c",
+      "type": "group",
+      "mem": [
+        "d82effaeaff7"
+      ],
+      "msgs": [
+        {
+          "id": "mwjfu22ncbaa55",
+          "u": "",
+          "t": "Esther membuat grup \"Est\".",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794844098815,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1794844098815,
+      "timer": 0,
+      "unread": {},
+      "adm": [
+        "d82effaeaff7"
+      ],
+      "owner": "d82effaeaff7",
+      "name": "Est",
+      "bio": "b",
+      "avatar": "",
+      "code": "7af44d60698705f7",
+      "set": {
+        "adm": false,
+        "inv": true,
+        "inf": true
+      },
+      "createdAt": 1794844098815
     }
   },
   "blocked": {
@@ -14011,7 +14051,7 @@
         "m": 5,
         "c": 0,
         "u": 0,
-        "g": 0
+        "g": 1
       }
     }
   }
