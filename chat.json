@@ -13644,6 +13644,43 @@
         "inf": true
       },
       "createdAt": 1794844098815
+    },
+    "d_d82effaeaff7_ff9daefdf543": {
+      "id": "d_d82effaeaff7_ff9daefdf543",
+      "type": "dm",
+      "mem": [
+        "d82effaeaff7",
+        "ff9daefdf543"
+      ],
+      "msgs": [
+        {
+          "id": "mwjggq5lbfbda5",
+          "u": "ff9daefdf543",
+          "t": "p",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794845156457,
+          "exp": 0
+        }
+      ],
+      "lastTs": 1794845156457,
+      "timer": 0,
+      "unread": {
+        "d82effaeaff7": 1
+      }
     }
   },
   "blocked": {
@@ -14202,7 +14239,7 @@
         "g": 0
       },
       "2026-11-16": {
-        "m": 8,
+        "m": 9,
         "c": 0,
         "u": 1,
         "g": 1
