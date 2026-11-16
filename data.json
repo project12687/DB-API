@@ -3434,9 +3434,9 @@
       "regIp": "49.0.26.43",
       "createdAt": "2026-11-01T14:45:50.162Z",
       "lastLogin": "2026-11-01T14:45:50.162Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-16T15:59:41.398Z",
+      "bannedReason": "IP 49.0.26.43 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 0,
@@ -4634,6 +4634,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "azkacore9@gmail.com": {
+      "name": "ERYU",
+      "email": "azkacore9@gmail.com",
+      "pass": "s1$0f058f20d7bd7b34249a3e570b0a01f0$987a7fed591a3e64384002abd08d3a560d4e4bf68d5009c83e480fe49c0be286",
+      "apikey": "rin_6147138987cba977d7",
+      "cap": "free",
+      "ip": "49.0.26.43",
+      "regIp": "49.0.26.43",
+      "createdAt": "2026-11-16T15:59:41.398Z",
+      "lastLogin": "2026-11-16T15:59:41.398Z",
       "extra": 0,
       "window": {
         "start": 0,
