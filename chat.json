@@ -13484,7 +13484,8 @@
       "id": "g_3accc40b3c",
       "type": "group",
       "mem": [
-        "d82effaeaff7"
+        "d82effaeaff7",
+        "ff9daefdf543"
       ],
       "msgs": [
         {
@@ -13608,9 +13609,23 @@
           "s": 0,
           "ts": 1794844255365,
           "exp": 0
+        },
+        {
+          "id": "mwjgdminae82f1",
+          "u": "",
+          "t": "ERYU bergabung lewat link undangan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794845011775,
+          "exp": 0
         }
       ],
-      "lastTs": 1794844255365,
+      "lastTs": 1794845011775,
       "timer": 0,
       "unread": {},
       "adm": [
