@@ -3421,6 +3421,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "df94fd554db7": {
+      "key": "azmistecu@gmail.com",
+      "username": "AzmiStecu",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1794852949874,
+      "updatedAt": 1794852949874,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -14251,6 +14272,12 @@
         "c": 1,
         "u": 1,
         "g": 1
+      },
+      "2026-11-17": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
+        "g": 0
       }
     }
   }
