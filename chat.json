@@ -13500,9 +13500,23 @@
           "s": 0,
           "ts": 1794844117865,
           "exp": 0
+        },
+        {
+          "id": "mwjfvl8zc1cb46",
+          "u": "",
+          "t": "Sekarang hanya admin yang bisa mengirim pesan.",
+          "i": "",
+          "v": "",
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "s": 1,
+          "ts": 1794844170323,
+          "exp": 0
         }
       ],
-      "lastTs": 1794844117865,
+      "lastTs": 1794844170323,
       "timer": 0,
       "unread": {},
       "adm": [
@@ -13514,7 +13528,7 @@
       "avatar": "ee60473a43662c393802.png",
       "code": "7af44d60698705f7",
       "set": {
-        "adm": false,
+        "adm": true,
         "inv": true,
         "inf": true
       },
