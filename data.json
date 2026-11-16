@@ -4647,10 +4647,31 @@
       "pass": "s1$0f058f20d7bd7b34249a3e570b0a01f0$987a7fed591a3e64384002abd08d3a560d4e4bf68d5009c83e480fe49c0be286",
       "apikey": "rin_6147138987cba977d7",
       "cap": "free",
+      "vipUntil": null,
       "ip": "49.0.26.43",
       "regIp": "49.0.26.43",
       "createdAt": "2026-11-16T15:59:41.398Z",
       "lastLogin": "2026-11-16T15:59:41.398Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "ahmaddjulkifli874@gmail.com": {
+      "name": "dekzyy",
+      "email": "ahmaddjulkifli.874@gmail.com",
+      "pass": "s1$f6a5845bd87c29566de5ad733907a0ff$888a9a252a3a4fc8deec2590fb7117ee9930259f460a2a494a07a6fd475e18ee",
+      "apikey": "rin_f43e6c524ff0e89414",
+      "cap": "free",
+      "ip": "103.145.34.155",
+      "regIp": "103.145.34.155",
+      "createdAt": "2026-11-16T16:26:01.315Z",
+      "lastLogin": "2026-11-16T16:26:01.315Z",
       "extra": 0,
       "window": {
         "start": 0,
