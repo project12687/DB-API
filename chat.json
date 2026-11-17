@@ -13501,38 +13501,6 @@
   },
   "status": [
     {
-      "id": "mwilhbjr084db2",
-      "u": "264eee18e948",
-      "t": "",
-      "i": "8c36ffeff9da0df88964.png",
-      "vd": "",
-      "c": "Test",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1794793116087,
-      "exp": 1794879516087,
-      "v": [
-        "d82effaeaff7",
-        "admin",
-        "ff9daefdf543",
-        "df94fd554db7"
-      ],
-      "lk": []
-    },
-    {
       "id": "mwj03k1tae747d",
       "u": "d82effaeaff7",
       "t": "",
@@ -13629,11 +13597,6 @@
     }
   ],
   "statusImgs": {
-    "8c36ffeff9da0df88964.png": {
-      "u": "264eee18e948",
-      "ts": 1794793115557,
-      "used": true
-    },
     "5330aeba15cf12402d7b.mp4": {
       "u": "d82effaeaff7",
       "ts": 1794817667856,
