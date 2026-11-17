@@ -12828,8 +12828,48 @@
         "27b086691f72",
         "bot"
       ],
-      "msgs": [],
-      "lastTs": 1794660031302,
+      "msgs": [
+        {
+          "id": "mwkn9yt364052e",
+          "u": "bot",
+          "t": "Halo, cacacantik.! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 340 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "📋 Menu",
+              "c": ".menu"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            }
+          ],
+          "s": 0,
+          "ts": 1794917064567,
+          "exp": 1794942264567
+        }
+      ],
+      "lastTs": 1794917064567,
       "timer": 0,
       "unread": {
         "bot": 2
@@ -13621,7 +13661,8 @@
       "exp": 1794939401925,
       "v": [
         "admin",
-        "0924041cf269"
+        "0924041cf269",
+        "27b086691f72"
       ],
       "lk": []
     }
@@ -14078,7 +14119,7 @@
         "g": 1
       },
       "2026-11-17": {
-        "m": 2,
+        "m": 3,
         "c": 0,
         "u": 2,
         "g": 0
