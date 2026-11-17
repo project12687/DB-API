@@ -13501,72 +13501,6 @@
   },
   "status": [
     {
-      "id": "mwj03k1tae747d",
-      "u": "d82effaeaff7",
-      "t": "",
-      "i": "",
-      "vd": "5330aeba15cf12402d7b.mp4",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1794817668161,
-      "exp": 1794904068161,
-      "v": [
-        "admin",
-        "ff9daefdf543",
-        "df94fd554db7"
-      ],
-      "lk": [
-        "ff9daefdf543"
-      ]
-    },
-    {
-      "id": "mwj03y3403f78b",
-      "u": "d82effaeaff7",
-      "t": "",
-      "i": "",
-      "vd": "addf864142cda8f56fe2.mp4",
-      "c": "",
-      "bg": 0,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1794817686352,
-      "exp": 1794904086352,
-      "v": [
-        "admin",
-        "ff9daefdf543",
-        "df94fd554db7"
-      ],
-      "lk": [
-        "ff9daefdf543"
-      ]
-    },
-    {
       "id": "mwjl4vr9963f70",
       "u": "df94fd554db7",
       "t": "https://chat.whatsapp.com/FEyo3KNHr4y28gvaVMMCBP\ngrup informasi jadibot free and jadibot tanpa panel",
@@ -13596,18 +13530,7 @@
       "lk": []
     }
   ],
-  "statusImgs": {
-    "5330aeba15cf12402d7b.mp4": {
-      "u": "d82effaeaff7",
-      "ts": 1794817667856,
-      "used": true
-    },
-    "addf864142cda8f56fe2.mp4": {
-      "u": "d82effaeaff7",
-      "ts": 1794817685817,
-      "used": true
-    }
-  },
+  "statusImgs": {},
   "stickers": {
     "admin": [
       {
