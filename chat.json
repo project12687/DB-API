@@ -47,9 +47,9 @@
         "last": 1794667442767
       },
       "27b086691f72": {
-        "n": 10,
+        "n": 11,
         "first": 1794648785926,
-        "last": 1794917068776
+        "last": 1794917079158
       },
       "a880370016ba": {
         "n": 4,
@@ -128,17 +128,17 @@
       }
     },
     "stats": {
-      "total": 144,
+      "total": 145,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
         "2026-11-14": 17,
         "2026-11-15": 13,
         "2026-11-16": 2,
-        "2026-11-17": 1
+        "2026-11-17": 2
       },
       "cmds": {
-        "menu": 90,
+        "menu": 91,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -12985,13 +12985,66 @@
           "s": 0,
           "ts": 1794917068777,
           "exp": 1794942268777
+        },
+        {
+          "id": "mwkna9so7f0381",
+          "u": "27b086691f72",
+          "t": ".menu ai",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1794917078808,
+          "exp": 1794942278808
+        },
+        {
+          "id": "mwknaa2gc0a7eb",
+          "u": "bot",
+          "t": "🤖 AI CHAT · 41 perintah\nNgobrol dan tanya jawab dengan berbagai AI.\n━━━━━━━━━━━━━━━━\n1. .aicostum <text> | <prompt>\n    Chat dengan AI karakter buatan sendiri\n2. .algolia <text>\n    Tanya jawab dengan Algolia Agent, asisten AI untuk pertanyaan seputar…\n3. .asyntai <text>\n    Tanya jawab dengan Asyntai, asisten AI chat untuk pertanyaan sehari-h…\n4. .blackbox-ai <query>\n    Tanya jawab dan bantuan coding dengan Blackbox AI\n5. .chatgpt <text>\n    Tanya jawab dengan ChatGPT, bisa pakai teks saja atau ditambah gambar…\n6. .chathpt <text>\n    Tanya jawab seputar Himpunan Putusan Tarjih (HPT) Muhammadiyah lewat…\n7. .clara <text>\n    Ngobrol dengan Clara AI, sahabat dekat yang perhatian, lembut, dan ja…\n8. .claudehaiku <text>\n    Tanya jawab dengan AI Claude Haiku 4.5 yang cepat dan ringkas\n9. .darkgpt <text>\n    Tanya jawab dengan DarkGPT, akun dibuat dan diperbarui otomatis oleh…\n10. .deepai <text>\n    Tanya jawab dengan DeepAI Chat, asisten AI serba bisa untuk pertanyaa…\n11. .deepaiv1\n    DeepAI gratis: chat AI (pilih model), buat gambar dari teks (pilih st…\n12. .deepseek <text>\n    Tanya jawab dengan DeepSeek AI\n13. .dravyn-ai <text>\n    Ngobrol dengan Dravyn AI, AI yang jujur, objektif, dan seimbang, sela…\n14. .elyvyn <text>\n    Ngobrol dengan Elyvyn, AI yang bijak, sabar, dan edukatif, pandai men…\n15. .ethan <text>\n    Ngobrol dengan Ethan AI, sosok dewasa yang tenang dan bijaksana, coco…\n━━━━━━━━━━━━━━━━\nHalaman 1/3 · ketik .menu ai 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu ai 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1794917079160,
+          "exp": 1794942279160
         }
       ],
-      "lastTs": 1794917068777,
+      "lastTs": 1794917079160,
       "timer": 0,
       "unread": {
-        "bot": 3,
-        "27b086691f72": 1
+        "bot": 4,
+        "27b086691f72": 2
       }
     },
     "d_aa426ad23e01_bot": {
@@ -14238,7 +14291,7 @@
         "g": 1
       },
       "2026-11-17": {
-        "m": 5,
+        "m": 7,
         "c": 0,
         "u": 2,
         "g": 0
