@@ -26,6 +26,11 @@
     },
     "blocked": {},
     "users": {
+      "0c29c77e3a97": {
+        "n": 42,
+        "first": 1794435299530,
+        "last": 1795003776780
+      },
       "27b086691f72": {
         "n": 12,
         "first": 1794648785926,
@@ -90,11 +95,6 @@
         "n": 3,
         "first": 1794473060763,
         "last": 1794473072856
-      },
-      "0c29c77e3a97": {
-        "n": 42,
-        "first": 1794435299530,
-        "last": 1795003776780
       },
       "2b279da6f7cf": {
         "n": 3,
@@ -9161,6 +9161,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwm2vmhq1034c8",
           "u": "0c29c77e3a97",
           "t": "Minn.. req hasil downloadannya ada keterangan nya kyk caption, author, like, dsb bisa ga min",
@@ -9177,7 +9178,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1795003735454,
           "exp": 0
@@ -12203,358 +12203,7 @@
         "0c29c77e3a97",
         "bot"
       ],
-      "msgs": [
-        {
-          "id": "mwm2socb4581d5",
-          "u": "bot",
-          "t": "Halo, jamalkem.cn! 👋 Aku Rin Bot.\n\nKetik .menu untuk melihat 345 fitur yang bisa kupakai: AI, edit foto, downloader, tools, game, dan banyak lagi.\n\n📷 Mau edit foto? Kirim atau balas fotonya dengan perintah, misalnya .tohitam. Fotonya otomatis diupload ke hosting sementara lalu dikirim ke API.\n\n⏳ Semua chat di sini otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            },
-            {
-              "l": "🎨 AI Image",
-              "c": ".menu aiimage"
-            },
-            {
-              "l": "🤖 AI Chat",
-              "c": ".menu ai"
-            },
-            {
-              "l": "📥 Downloader",
-              "c": ".menu download"
-            }
-          ],
-          "s": 0,
-          "ts": 1795003597883,
-          "exp": 1795028797883
-        },
-        {
-          "id": "mwm2svh55384bc",
-          "u": "0c29c77e3a97",
-          "t": ".menu",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003607129,
-          "exp": 1795028807129
-        },
-        {
-          "id": "mwm2svqz78d5ab",
-          "u": "bot",
-          "t": "╭──〔 🤖 RIN BOT 〕──\n│ Halo, jamalkem.cn! 👋\n│ 345 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 38  ➜  .menu ai\n🎨 AI Image · 49  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n📚 MangaDex · 5  ➜  .menu mangadex\n🖼️ Canvas · 40  ➜  .menu canvas\n📥 Downloader · 26  ➜  .menu download\n🎬 FreeReels · 8  ➜  .menu freereels\n🎲 Fun · 15  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 13  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 15  ➜  .menu maker\n🔎 Search · 16  ➜  .menu search\n🕵️ Stalker · 12  ➜  .menu stalker\n🧰 Tools · 47  ➜  .menu tools\n☁️ Uploader · 15  ➜  .menu upload\n📦 Bypass · 6  ➜  .menu bypass\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "🤖 AI Chat",
-              "c": ".menu ai"
-            },
-            {
-              "l": "🎨 AI Image",
-              "c": ".menu aiimage"
-            },
-            {
-              "l": "📺 Animein",
-              "c": ".menu animein"
-            },
-            {
-              "l": "🐉 Donghive",
-              "c": ".menu donghive"
-            },
-            {
-              "l": "📚 MangaDex",
-              "c": ".menu mangadex"
-            },
-            {
-              "l": "🖼️ Canvas",
-              "c": ".menu canvas"
-            },
-            {
-              "l": "📥 Downloader",
-              "c": ".menu download"
-            },
-            {
-              "l": "🎬 FreeReels",
-              "c": ".menu freereels"
-            },
-            {
-              "l": "🎲 Fun",
-              "c": ".menu fun"
-            },
-            {
-              "l": "🎮 Game",
-              "c": ".menu game"
-            },
-            {
-              "l": "📰 Info",
-              "c": ".menu info"
-            },
-            {
-              "l": "📖 Komik",
-              "c": ".menu komik"
-            },
-            {
-              "l": "📗 Komiku",
-              "c": ".menu komiku"
-            },
-            {
-              "l": "🛠️ Maker",
-              "c": ".menu maker"
-            },
-            {
-              "l": "🔎 Search",
-              "c": ".menu search"
-            },
-            {
-              "l": "🕵️ Stalker",
-              "c": ".menu stalker"
-            },
-            {
-              "l": "🧰 Tools",
-              "c": ".menu tools"
-            },
-            {
-              "l": "☁️ Uploader",
-              "c": ".menu upload"
-            },
-            {
-              "l": "📦 Bypass",
-              "c": ".menu bypass"
-            }
-          ],
-          "s": 0,
-          "ts": 1795003607483,
-          "exp": 1795028807483
-        },
-        {
-          "id": "mwm2sxzddfcedf",
-          "u": "0c29c77e3a97",
-          "t": ".menu download",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003610377,
-          "exp": 1795028810377
-        },
-        {
-          "id": "mwm2sy954162c1",
-          "u": "bot",
-          "t": "📥 DOWNLOADER · 26 perintah\nUnduh video, musik, dan file dari berbagai platform.\n━━━━━━━━━━━━━━━━\n1. .aio <url>\n    Download video/foto/audio dari banyak platform sekaligus lewat satu l…\n2. .aio2 <url>\n    Download video, foto, atau audio dari banyak platform (TikTok, YouTub…\n3. .am-dl <url>\n    Download project atau preset Alight Motion dalam bentuk file zip\n4. .bilibili <url>\n    Download video dari Bilibili lewat link video\n5. .capcut <url>\n    Download video template CapCut tanpa watermark dari link CapCut\n6. .download-soundcloud <url>\n    Mengambil link audio lagu SoundCloud beserta judul, artis, durasi, da…\n7. .facebook <url>\n    Download video Facebook HD beserta audio MP3 nya dengan fast\n8. .gdrive <url>\n    Download file dari Google Drive (link publik)\n9. .instagram <url>\n    Download foto/video/reel/carousel dari Instagram, hasilnya berupa lin…\n10. .likee <url>\n    Download video Likee dengan atau tanpa watermark\n11. .mediafire <url>\n    Mengambil info dan link download langsung dari file Mediafire\n12. .pindl <url>\n    Download gambar atau video dari link Pinterest dengan fast\n13. .play <q>\n    Download audio mp3 dari YouTube via pencarian kata kunci\n14. .play-spotify <query>\n    Cari lagu di Spotify berdasarkan judul lalu ambil link download mp3 d…\n15. .shopee <url>\n    Mengambil link download video Shopee Video tanpa watermark beserta in…\n━━━━━━━━━━━━━━━━\nHalaman 1/2 · ketik .menu download 2\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "Berikutnya ➡️",
-              "c": ".menu download 2"
-            },
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1795003610729,
-          "exp": 1795028810729
-        },
-        {
-          "id": "mwm2tc8r394ea2",
-          "u": "0c29c77e3a97",
-          "t": ".aio https://www.instagram.com/reel/DfeIn8cg4OI/?evlk=MWQwczRkZGV0eGtrNQ==",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003628859,
-          "exp": 1795028828859
-        },
-        {
-          "id": "mwm2tl2t25c4e0",
-          "u": "bot",
-          "t": "✅ .aio\n━━━━━━━━━━━━━━━━\n• Title: #غزة\n• Source: Instagram\n• Thumbnail: https://scontent-sin6-1.cdninstagram.com/v/t51.82787-15/902585635_18033367031855251_7789380991159449272_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNTY5MzA0NjI1MDM3NDAyNDE4MDMzMzY3MDI4ODU1MjUx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjYxMC5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=-cTnN6KZNTAQ7kNvwFQ1UsX&…\n• Duration: 0\n• Duration formatted: -\n• Video: https://scontent-sin6-2.cdninstagram.com/o1/v/t16/f2/m84/AQPkUl4-6O0T-FzMbG6EHNYn9tapId0iX7jjvIef0R7Vxz30lpbJ7NKNV1V2N3G-j1atN7pL1uQ8LKAdGDuabS43y-kIEz-2CybhkNQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_ohc=irRT-cfr7CAQ7kNvwEUc7o6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3Nl…",
-          "i": "",
-          "v": "",
-          "vd": "bb121cfde2b18cb6dbc4.mp4",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003640309,
-          "exp": 1795028840309
-        },
-        {
-          "id": "mwm2w86n768d52",
-          "u": "0c29c77e3a97",
-          "t": ". Instagram https://www.instagram.com/reel/DfeIn8cg4OI/?evlk=MWQwczRkZGV0eGtrNQ==",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003763567,
-          "exp": 1795028963567
-        },
-        {
-          "id": "mwm2w8ge04f766",
-          "u": "bot",
-          "t": "Halo! Aku bot yang bekerja dengan perintah berawalan titik.\nKetik .menu untuk melihat semua fitur.",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "📋 Menu",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1795003763918,
-          "exp": 1795028963918
-        },
-        {
-          "id": "mwm2wi3v825f9c",
-          "u": "0c29c77e3a97",
-          "t": ".instagram https://www.instagram.com/reel/DfeIn8cg4OI/?evlk=MWQwczRkZGV0eGtrNQ==",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003776427,
-          "exp": 1795028976427
-        },
-        {
-          "id": "mwm2x6ixbb434b",
-          "u": "bot",
-          "t": "✅ .instagram\n━━━━━━━━━━━━━━━━\n• Source Url: https://www.instagram.com/reel/DfeIn8cg4OI/?evlk=MWQwczRkZGV0eGtrNQ==\n• Type: video\n▸ Videos (1)\n  1. -\n     https://instagram.fykz1-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQPkUl4-6O0T-FzMbG6EHNYn9tapId0iX7jjvIef0R7Vxz30lpbJ7NKNV1V2N3G-j1atN7pL1uQ8LKAdGDuabS43y-kIEz-2CybhkNQ.mp4?_nc_cat=108&_nc_oc=AdrkOTv8oiEotyIHx5onRBJAVmPZgGgYaowkUEgwyGHXxbLoniWxoViL3sEjbKdtQoM&_nc_sid=5e9851&_nc_ht=instagram.fykz1-2.fna.fbcdn.net&_nc_ohc=irRT-cfr7CAQ7kNvwEjvk40&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY4MTk0Njk3MzUzODA4MiwiYXNzZXRfYWdlX2RheXMiOjEwLCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bb7e6ab09ce1d811&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8wRDE5NUE1QzYyNUU0ODVCQjcxMkJDMkNDNEJBMzM2OF92aWRlb19kYXNoaW5pdC5tcDQV…",
-          "i": "",
-          "v": "",
-          "vd": "54d22b2f8852c9fa6b61.mp4",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795003808073,
-          "exp": 1795029008073
-        }
-      ],
+      "msgs": [],
       "lastTs": 1795003808073,
       "timer": 0,
       "unread": {
