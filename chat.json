@@ -12436,9 +12436,31 @@
           "s": 0,
           "ts": 1795003628859,
           "exp": 1795028828859
+        },
+        {
+          "id": "mwm2tl2t25c4e0",
+          "u": "bot",
+          "t": "✅ .aio\n━━━━━━━━━━━━━━━━\n• Title: #غزة\n• Source: Instagram\n• Thumbnail: https://scontent-sin6-1.cdninstagram.com/v/t51.82787-15/902585635_18033367031855251_7789380991159449272_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNTY5MzA0NjI1MDM3NDAyNDE4MDMzMzY3MDI4ODU1MjUx.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjYxMC5zZHIudmlkZW9fdXNlcl91cGxvYWRlZF90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=-cTnN6KZNTAQ7kNvwFQ1UsX&…\n• Duration: 0\n• Duration formatted: -\n• Video: https://scontent-sin6-2.cdninstagram.com/o1/v/t16/f2/m84/AQPkUl4-6O0T-FzMbG6EHNYn9tapId0iX7jjvIef0R7Vxz30lpbJ7NKNV1V2N3G-j1atN7pL1uQ8LKAdGDuabS43y-kIEz-2CybhkNQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-sin6-2.cdninstagram.com&_nc_ohc=irRT-cfr7CAQ7kNvwEUc7o6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3Nl…",
+          "i": "",
+          "v": "",
+          "vd": "bb121cfde2b18cb6dbc4.mp4",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1795003640309,
+          "exp": 1795028840309
         }
       ],
-      "lastTs": 1795003628859,
+      "lastTs": 1795003640309,
       "timer": 0,
       "unread": {
         "bot": 3
@@ -14340,7 +14362,7 @@
         "g": 0
       },
       "2026-11-18": {
-        "m": 7,
+        "m": 8,
         "c": 0,
         "u": 1,
         "g": 0
