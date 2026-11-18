@@ -92,9 +92,9 @@
         "last": 1794473072856
       },
       "0c29c77e3a97": {
-        "n": 39,
+        "n": 40,
         "first": 1794435299530,
-        "last": 1795003607482
+        "last": 1795003610728
       },
       "2b279da6f7cf": {
         "n": 3,
@@ -128,7 +128,7 @@
       }
     },
     "stats": {
-      "total": 147,
+      "total": 148,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
@@ -136,10 +136,10 @@
         "2026-11-15": 13,
         "2026-11-16": 2,
         "2026-11-17": 3,
-        "2026-11-18": 1
+        "2026-11-18": 2
       },
       "cmds": {
-        "menu": 92,
+        "menu": 93,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -12360,12 +12360,65 @@
           "s": 0,
           "ts": 1795003607483,
           "exp": 1795028807483
+        },
+        {
+          "id": "mwm2sxzddfcedf",
+          "u": "0c29c77e3a97",
+          "t": ".menu download",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1795003610377,
+          "exp": 1795028810377
+        },
+        {
+          "id": "mwm2sy954162c1",
+          "u": "bot",
+          "t": "📥 DOWNLOADER · 26 perintah\nUnduh video, musik, dan file dari berbagai platform.\n━━━━━━━━━━━━━━━━\n1. .aio <url>\n    Download video/foto/audio dari banyak platform sekaligus lewat satu l…\n2. .aio2 <url>\n    Download video, foto, atau audio dari banyak platform (TikTok, YouTub…\n3. .am-dl <url>\n    Download project atau preset Alight Motion dalam bentuk file zip\n4. .bilibili <url>\n    Download video dari Bilibili lewat link video\n5. .capcut <url>\n    Download video template CapCut tanpa watermark dari link CapCut\n6. .download-soundcloud <url>\n    Mengambil link audio lagu SoundCloud beserta judul, artis, durasi, da…\n7. .facebook <url>\n    Download video Facebook HD beserta audio MP3 nya dengan fast\n8. .gdrive <url>\n    Download file dari Google Drive (link publik)\n9. .instagram <url>\n    Download foto/video/reel/carousel dari Instagram, hasilnya berupa lin…\n10. .likee <url>\n    Download video Likee dengan atau tanpa watermark\n11. .mediafire <url>\n    Mengambil info dan link download langsung dari file Mediafire\n12. .pindl <url>\n    Download gambar atau video dari link Pinterest dengan fast\n13. .play <q>\n    Download audio mp3 dari YouTube via pencarian kata kunci\n14. .play-spotify <query>\n    Cari lagu di Spotify berdasarkan judul lalu ambil link download mp3 d…\n15. .shopee <url>\n    Mengambil link download video Shopee Video tanpa watermark beserta in…\n━━━━━━━━━━━━━━━━\nHalaman 1/2 · ketik .menu download 2\nDetail perintah: .help <perintah>",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "Berikutnya ➡️",
+              "c": ".menu download 2"
+            },
+            {
+              "l": "🏠 Menu utama",
+              "c": ".menu"
+            }
+          ],
+          "s": 0,
+          "ts": 1795003610729,
+          "exp": 1795028810729
         }
       ],
-      "lastTs": 1795003607483,
+      "lastTs": 1795003610729,
       "timer": 0,
       "unread": {
-        "bot": 1
+        "bot": 2
       }
     },
     "d_244002240741_admin": {
@@ -14264,7 +14317,7 @@
         "g": 0
       },
       "2026-11-18": {
-        "m": 3,
+        "m": 5,
         "c": 0,
         "u": 1,
         "g": 0
