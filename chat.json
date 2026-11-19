@@ -13678,57 +13678,7 @@
         "bot",
         "d86f6b5f1d32"
       ],
-      "msgs": [
-        {
-          "id": "mwnllrw26c4641",
-          "u": "d86f6b5f1d32",
-          "t": ".menu bypass",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [],
-          "s": 0,
-          "ts": 1795095654770,
-          "exp": 1795120854770
-        },
-        {
-          "id": "mwnlls63bed41d",
-          "u": "bot",
-          "t": "📦 BYPASS · 6 perintah\n━━━━━━━━━━━━━━━━\n1. .bypass <url>\n    Bypass shortlink dan ambil link tujuan aslinya\n2. .bypass-sfl <url>\n    Bypass link shortener SFL (sfl.gl) dan ambil link tujuan aslinya\n3. .bypass-sub2unlock <url>\n    Bypass link sub2unlock.me dan sejenisnya, langsung dapat link tujuan…\n4. .bypass-sub4 <url>\n    Bypass link Sub4Unlock dan ambil link tujuan aslinya beserta daftar a…\n5. .bypassv2 <url>\n    Melewati (bypass) link shortener dan mengambil link tujuan aslinya (v…\n6. .bypassv3 <url>\n    Bypass shortlink v3 dan ambil link tujuan aslinya\n━━━━━━━━━━━━━━━━\nHalaman 1/1\nDetail perintah: .help <perintah>",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "bt": [
-            {
-              "l": "🏠 Menu utama",
-              "c": ".menu"
-            }
-          ],
-          "s": 0,
-          "ts": 1795095655131,
-          "exp": 1795120855131
-        }
-      ],
+      "msgs": [],
       "lastTs": 1795095655131,
       "timer": 0,
       "unread": {
