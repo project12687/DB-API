@@ -3490,6 +3490,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "b694890560c8": {
+      "key": "jamiludinn3@gmail.com",
+      "username": "dinz",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1795084163388,
+      "updatedAt": 1795084163388,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -14142,6 +14163,12 @@
       },
       "2026-11-18": {
         "m": 14,
+        "c": 0,
+        "u": 1,
+        "g": 0
+      },
+      "2026-11-19": {
+        "m": 0,
         "c": 0,
         "u": 1,
         "g": 0
