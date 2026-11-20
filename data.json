@@ -4787,6 +4787,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "aliuszainhart@gmail.com": {
+      "name": "Alius Zainhart",
+      "email": "alius.zainhart@gmail.com",
+      "pass": "s1$aaf499a7695a83fbe23e5657f9a25963$5c611c67b3c68abfb3058455846fff46071e5cdfb7b83159390aaf38f0147ae3",
+      "apikey": "rin_cf86c08ebf9b0a95c7",
+      "cap": "free",
+      "ip": "117.18.20.178",
+      "regIp": "117.18.20.178",
+      "createdAt": "2026-11-20T02:48:51.391Z",
+      "lastLogin": "2026-11-20T02:48:51.391Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
