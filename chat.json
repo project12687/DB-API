@@ -12977,9 +12977,7 @@
       ],
       "lastTs": 1795241508025,
       "timer": 0,
-      "unread": {
-        "bot": 2
-      }
+      "unread": {}
     },
     "d_0c8d9507f32f_bot": {
       "id": "d_0c8d9507f32f_bot",
