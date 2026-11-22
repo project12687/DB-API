@@ -3986,8 +3986,8 @@
       "extra": 0,
       "window": {
         "start": 1795275166576,
-        "hits": 9,
-        "reacts": 1
+        "hits": 10,
+        "reacts": 2
       }
     },
     "riezallofficial@gmail.com": {
@@ -4857,10 +4857,14 @@
       "pass": "s1$b3595d4aef6c022f095c137825645890$96bf6f953dc8e3701999da72779e911fb46f1af58e11b8d49788d4fcf98d22d7",
       "apikey": "rin_2215b006fe2337830b",
       "cap": "free",
+      "vipUntil": null,
       "ip": "2400:9800:b0:4c18:1:0:d7b9:4c0b",
       "regIp": "2400:9800:b0:4c18:1:0:d7b9:4c0b",
       "createdAt": "2026-11-22T03:49:43.524Z",
       "lastLogin": "2026-11-22T03:49:43.524Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
