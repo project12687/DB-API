@@ -13759,37 +13759,7 @@
       "at": 1793078710015
     }
   },
-  "status": [
-    {
-      "id": "mwqa74f28e4dff",
-      "u": "admin",
-      "t": "VIP endpoint 30h cuma 7k",
-      "i": "",
-      "vd": "",
-      "c": "",
-      "bg": 7,
-      "ed": {
-        "s": 0,
-        "e": 0,
-        "rot": 0,
-        "cr": {
-          "x": 0,
-          "y": 0,
-          "w": 1,
-          "h": 1
-        },
-        "f": "none",
-        "b": 0,
-        "tx": []
-      },
-      "ts": 1795257893918,
-      "exp": 1795344293918,
-      "v": [
-        "63f7cfafd24b"
-      ],
-      "lk": []
-    }
-  ],
+  "status": [],
   "statusImgs": {},
   "stickers": {
     "admin": [
