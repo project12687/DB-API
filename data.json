@@ -4976,6 +4976,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "nisrinakhairunnisa67@gmail.com": {
+      "name": "Uzui",
+      "email": "nisrinakhairunnisa67@gmail.com",
+      "pass": "s1$bef2ffa9e629c148d18de105ea7adc49$f7017298f162a1ea4eb9dd84f41f97a35b6373cc542afc73515c8ed0c76abc7d",
+      "apikey": "rin_a9c0cee954df3fd9f4",
+      "cap": "free",
+      "ip": "2402:5680:80f4:c949::1",
+      "regIp": "2402:5680:80f4:c949::1",
+      "createdAt": "2026-11-24T00:30:12.129Z",
+      "lastLogin": "2026-11-24T00:30:12.129Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
