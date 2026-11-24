@@ -4997,6 +4997,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "termos@gmail.com": {
+      "name": "Termos",
+      "email": "termos@gmail.com",
+      "pass": "s1$a36d439c4f7ea4097ba25cab5eb10242$0c078081113f59d2149d9709175b5bfca0a57646183ff5daf81143dfae8cb012",
+      "apikey": "rin_0a44aa0ed764b0c5eb",
+      "cap": "free",
+      "ip": "140.213.170.211",
+      "regIp": "140.213.170.211",
+      "createdAt": "2026-11-24T18:36:21.931Z",
+      "lastLogin": "2026-11-24T18:36:21.931Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
