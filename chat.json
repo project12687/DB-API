@@ -3544,6 +3544,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "2176169960f1": {
+      "key": "termos@gmail.com",
+      "username": "Termos",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1795545384527,
+      "updatedAt": 1795545384527,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -6309,6 +6330,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwufu73u044125",
           "u": "63f7cfafd24b",
           "t": "L",
@@ -6325,12 +6347,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1795509233274,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwufud5lbaac61",
           "u": "63f7cfafd24b",
           "t": "Anjai ai gak ada sesiond id",
@@ -6347,7 +6369,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1795509241113,
           "exp": 0
@@ -14267,6 +14288,12 @@
         "m": 2,
         "c": 0,
         "u": 0,
+        "g": 0
+      },
+      "2026-11-25": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
         "g": 0
       }
     }
