@@ -557,9 +557,9 @@
       "regIp": "103.231.236.93",
       "createdAt": "2026-10-12T07:09:17.264Z",
       "lastLogin": "2026-10-12T07:09:17.264Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-26T00:34:24.396Z",
+      "bannedReason": "IP 103.231.236.93 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 0,
@@ -5054,6 +5054,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "tayow729@gmail.com": {
+      "name": "Ythhhh",
+      "email": "tayow729@gmail.com",
+      "pass": "s1$c891edb49954b7fbd597e297badfa95c$9d93b55ecf4266d1468d3249b3547dad65bc46aa479bcdf4657b80b5dc016a8a",
+      "apikey": "rin_56497b3399da54cf68",
+      "cap": "free",
+      "ip": "103.231.236.93",
+      "regIp": "103.231.236.93",
+      "createdAt": "2026-11-26T00:34:24.396Z",
+      "lastLogin": "2026-11-26T00:34:24.396Z",
       "extra": 0,
       "window": {
         "start": 0,
