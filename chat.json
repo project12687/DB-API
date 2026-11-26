@@ -3565,6 +3565,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "4ad1fa8bf426": {
+      "key": "justknzz@gmail.com",
+      "username": "kenzzxd",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1795714655255,
+      "updatedAt": 1795714655255,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -6330,6 +6351,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwv1flxb7ae068",
           "u": "2176169960f1",
           "t": "cek cek",
@@ -6346,12 +6368,12 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1795545504191,
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mwv1g1nneaf57e",
           "u": "2176169960f1",
           "t": "ytmp4 error kah ini?",
@@ -6368,7 +6390,6 @@
           "r": null,
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1795545524579,
           "exp": 0
@@ -14292,6 +14313,12 @@
       },
       "2026-11-25": {
         "m": 2,
+        "c": 0,
+        "u": 1,
+        "g": 0
+      },
+      "2026-11-27": {
+        "m": 0,
         "c": 0,
         "u": 1,
         "g": 0
