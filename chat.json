@@ -3628,6 +3628,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "c8f80842fd96": {
+      "key": "savengelica@gmail.com",
+      "username": "Vienaa",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1795814452656,
+      "updatedAt": 1795814452656,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -14406,6 +14427,12 @@
         "m": 2,
         "c": 0,
         "u": 3,
+        "g": 0
+      },
+      "2026-11-28": {
+        "m": 0,
+        "c": 0,
+        "u": 1,
         "g": 0
       }
     }
