@@ -557,9 +557,9 @@
       "regIp": "103.231.236.93",
       "createdAt": "2026-10-12T07:09:17.264Z",
       "lastLogin": "2026-10-12T07:09:17.264Z",
-      "banned": true,
-      "bannedAt": "2026-11-26T00:34:24.396Z",
-      "bannedReason": "IP 103.231.236.93 dipakai untuk mendaftar akun baru",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
       "extra": 0,
       "window": {
         "start": 0,
