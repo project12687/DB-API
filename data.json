@@ -872,9 +872,9 @@
       "regIp": "103.168.254.21",
       "createdAt": "2026-10-14T09:49:03.441Z",
       "lastLogin": "2026-10-14T09:49:03.441Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-28T10:22:25.722Z",
+      "bannedReason": "IP 103.168.254.21 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1793374639564,
@@ -5306,6 +5306,23 @@
       "banned": false,
       "bannedAt": null,
       "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "mikasaax7@gmail.com": {
+      "name": "mikasa",
+      "email": "mikasaax7@gmail.com",
+      "pass": "s1$4b0ac5d349a7d67b3b8cc66d04ba67a9$754e199c4cd6a98c56108a95d70ca35e65280f88ec28a04061166304c63a486f",
+      "apikey": "rin_bdec2d2316509d5836",
+      "cap": "free",
+      "ip": "103.168.254.21",
+      "regIp": "103.168.254.21",
+      "createdAt": "2026-11-28T10:22:25.722Z",
+      "lastLogin": "2026-11-28T10:22:25.722Z",
       "extra": 0,
       "window": {
         "start": 0,
