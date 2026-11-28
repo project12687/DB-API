@@ -13325,12 +13325,62 @@
           "s": 0,
           "ts": 1795830454273,
           "exp": 1795855654273
+        },
+        {
+          "id": "mwzr3glae4b8c1",
+          "u": "27b086691f72",
+          "t": ".clara",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1795830472126,
+          "exp": 1795855672126
+        },
+        {
+          "id": "mwzr3gv2c27c39",
+          "u": "bot",
+          "t": "⚠️ Parameter belum lengkap untuk .clara\n\nWajib diisi: text\nCara pakai: .clara <text>\nContoh: .clara halo Clara, hari ini aku capek banget",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": ".help clara",
+              "c": ".help clara"
+            }
+          ],
+          "s": 0,
+          "ts": 1795830472478,
+          "exp": 1795855672478
         }
       ],
-      "lastTs": 1795830454273,
+      "lastTs": 1795830472478,
       "timer": 0,
       "unread": {
-        "bot": 4
+        "bot": 5,
+        "27b086691f72": 1
       }
     },
     "d_aa426ad23e01_bot": {
@@ -14750,7 +14800,7 @@
         "g": 0
       },
       "2026-11-28": {
-        "m": 10,
+        "m": 12,
         "c": 0,
         "u": 1,
         "g": 0
