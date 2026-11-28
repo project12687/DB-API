@@ -3681,28 +3681,6 @@
       "msgs": [
         {
           "bt": [],
-          "id": "mvtfyq6w03c104",
-          "u": "78f795b5c5c7",
-          "t": "jir beneran bisa",
-          "i": "",
-          "v": "",
-          "vd": "",
-          "sk": 0,
-          "fw": 0,
-          "o": 0,
-          "ok": "",
-          "oe": 0,
-          "ov": [],
-          "d": 0,
-          "r": null,
-          "x": {},
-          "m": [],
-          "s": 0,
-          "ts": 1793272196120,
-          "exp": 0
-        },
-        {
-          "bt": [],
           "id": "mvtgdu00bf5535",
           "u": "admin",
           "t": "bisa apa nya tuh",
@@ -6483,9 +6461,36 @@
           "s": 0,
           "ts": 1795854197752,
           "exp": 0
+        },
+        {
+          "id": "mx05mbq434dc18",
+          "u": "admin",
+          "t": "ga bisa itu kan udah ada pencet + terus pilih chat bot",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": {
+            "id": "mx057zegd231da",
+            "w": "b3d3d9d274a6",
+            "t": "Cara pasang bot nya gimana",
+            "k": ""
+          },
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1795854866908,
+          "exp": 0
         }
       ],
-      "lastTs": 1795854197752,
+      "lastTs": 1795854866908,
       "timer": 0,
       "unread": {}
     },
@@ -14865,7 +14870,7 @@
         "g": 0
       },
       "2026-11-28": {
-        "m": 16,
+        "m": 17,
         "c": 0,
         "u": 2,
         "g": 0
