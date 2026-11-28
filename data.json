@@ -5361,10 +5361,31 @@
       "pass": "s1$7b100c148296539ce3409944dafb1e63$dce941763d1226d4f4e3e0679e4109847894210ccd54ff86be0ee570239f4d79",
       "apikey": "rin_84ef11dda03b339c3c",
       "cap": "free",
+      "vipUntil": null,
       "ip": "157.10.8.161",
       "regIp": "157.10.8.161",
       "createdAt": "2026-11-28T13:22:49.767Z",
       "lastLogin": "2026-11-28T13:22:49.767Z",
+      "banned": false,
+      "bannedAt": null,
+      "bannedReason": "",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
+    },
+    "jackgarby195@gmail.com": {
+      "name": "Jack",
+      "email": "jackgarby195@gmail.com",
+      "pass": "s1$1cad940a8f4acffef45969c6839f4fb2$27c767c0830128998f6d915ae59150fb047f9983cdce8db71049046ec4ea4d8b",
+      "apikey": "rin_2c2637da2a3522bec3",
+      "cap": "free",
+      "ip": "2405:8180:e03:5499:a230:a3bf:9ff6:1f29",
+      "regIp": "2405:8180:e03:5499:a230:a3bf:9ff6:1f29",
+      "createdAt": "2026-11-28T13:34:55.851Z",
+      "lastLogin": "2026-11-28T13:34:55.851Z",
       "extra": 0,
       "window": {
         "start": 0,
