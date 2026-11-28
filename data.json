@@ -5396,6 +5396,23 @@
         "hits": 0,
         "reacts": 0
       }
+    },
+    "armift43@gmail.com": {
+      "name": "ARMI",
+      "email": "armift43@gmail.com",
+      "pass": "s1$ded95193c90f0fea17d3b8a4542426e9$2a9ed6dfb3b91078225b5aadd4a3a9d0247fc9a0ffe19d218c2d6f79d321cf6e",
+      "apikey": "rin_18d6ce0d0bc98ef9e9",
+      "cap": "free",
+      "ip": "114.10.146.235",
+      "regIp": "114.10.146.235",
+      "createdAt": "2026-11-28T13:37:47.715Z",
+      "lastLogin": "2026-11-28T13:37:47.715Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
