@@ -5354,6 +5354,23 @@
         "hits": 1,
         "reacts": 1
       }
+    },
+    "aldogccnt@gmail.com": {
+      "name": "Aldo GAccount",
+      "email": "aldogccnt@gmail.com",
+      "pass": "s1$7b100c148296539ce3409944dafb1e63$dce941763d1226d4f4e3e0679e4109847894210ccd54ff86be0ee570239f4d79",
+      "apikey": "rin_84ef11dda03b339c3c",
+      "cap": "free",
+      "ip": "157.10.8.161",
+      "regIp": "157.10.8.161",
+      "createdAt": "2026-11-28T13:22:49.767Z",
+      "lastLogin": "2026-11-28T13:22:49.767Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
+      }
     }
   }
 }
