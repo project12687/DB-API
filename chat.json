@@ -47,9 +47,9 @@
         "last": 1795003776780
       },
       "27b086691f72": {
-        "n": 12,
+        "n": 13,
         "first": 1794648785926,
-        "last": 1794917112787
+        "last": 1795830407283
       },
       "d82effaeaff7": {
         "n": 2,
@@ -138,7 +138,7 @@
       }
     },
     "stats": {
-      "total": 159,
+      "total": 160,
       "daily": {
         "2026-11-12": 104,
         "2026-11-13": 7,
@@ -148,10 +148,11 @@
         "2026-11-17": 3,
         "2026-11-18": 4,
         "2026-11-19": 2,
-        "2026-11-21": 7
+        "2026-11-21": 7,
+        "2026-11-28": 1
       },
       "cmds": {
-        "menu": 102,
+        "menu": 103,
         "gpt": 6,
         "help": 6,
         "fakedana": 4,
@@ -13049,11 +13050,143 @@
           "s": 0,
           "ts": 1795830397030,
           "exp": 1795855597030
+        },
+        {
+          "id": "mwzr22a9f3024b",
+          "u": "27b086691f72",
+          "t": ".menu",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [],
+          "s": 0,
+          "ts": 1795830406929,
+          "exp": 1795855606929
+        },
+        {
+          "id": "mwzr22k4465eda",
+          "u": "bot",
+          "t": "╭──〔 🤖 RIN BOT 〕──\n│ Halo, cacacantik.! 👋\n│ 399 fitur siap dipakai\n│ Prefix perintah : .\n╰──────────────────────\n\n📂 KATEGORI\n🤖 AI Chat · 48  ➜  .menu ai\n🎨 AI Image · 50  ➜  .menu aiimage\n📺 Animein · 8  ➜  .menu animein\n🐉 Donghive · 3  ➜  .menu donghive\n🖼️ Canvas · 47  ➜  .menu canvas\n📥 Downloader · 32  ➜  .menu download\n🎲 Fun · 25  ➜  .menu fun\n🎮 Game · 14  ➜  .menu game\n📰 Info · 13  ➜  .menu info\n📖 Komik · 6  ➜  .menu komik\n📗 Komiku · 9  ➜  .menu komiku\n🛠️ Maker · 16  ➜  .menu maker\n🔎 Search · 18  ➜  .menu search\n🕵️ Stalker · 13  ➜  .menu stalker\n🧰 Tools · 49  ➜  .menu tools\n☁️ Uploader · 15  ➜  .menu upload\n📦 Anichi · 7  ➜  .menu anichi\n📦 Animepahe · 5  ➜  .menu animepahe\n📦 Bypass · 7  ➜  .menu bypass\n📦 Melolo · 10  ➜  .menu melolo\n📦 Nimegami · 4  ➜  .menu nimegami\n\n━━━━━━━━━━━━━━━━\n💡 CARA PAKAI\n▸ .menu <kategori>  lihat daftar perintah\n▸ .help <perintah>  detail dan contoh\n▸ .cari <kata>  cari perintah\n▸ .perintah <teks atau link>\n▸ Kirim atau balas foto + perintah, foto otomatis diupload ke hosting sementara lalu dikirim ke API\n\n⏳ Chat dengan bot otomatis terhapus permanen 7 jam setelah dikirim.",
+          "i": "",
+          "v": "",
+          "vd": "",
+          "sk": 0,
+          "fw": 0,
+          "o": 0,
+          "ok": "",
+          "oe": 0,
+          "ov": [],
+          "d": 0,
+          "r": null,
+          "x": {},
+          "m": [],
+          "bt": [
+            {
+              "l": "🤖 AI Chat",
+              "c": ".menu ai"
+            },
+            {
+              "l": "🎨 AI Image",
+              "c": ".menu aiimage"
+            },
+            {
+              "l": "📺 Animein",
+              "c": ".menu animein"
+            },
+            {
+              "l": "🐉 Donghive",
+              "c": ".menu donghive"
+            },
+            {
+              "l": "🖼️ Canvas",
+              "c": ".menu canvas"
+            },
+            {
+              "l": "📥 Downloader",
+              "c": ".menu download"
+            },
+            {
+              "l": "🎲 Fun",
+              "c": ".menu fun"
+            },
+            {
+              "l": "🎮 Game",
+              "c": ".menu game"
+            },
+            {
+              "l": "📰 Info",
+              "c": ".menu info"
+            },
+            {
+              "l": "📖 Komik",
+              "c": ".menu komik"
+            },
+            {
+              "l": "📗 Komiku",
+              "c": ".menu komiku"
+            },
+            {
+              "l": "🛠️ Maker",
+              "c": ".menu maker"
+            },
+            {
+              "l": "🔎 Search",
+              "c": ".menu search"
+            },
+            {
+              "l": "🕵️ Stalker",
+              "c": ".menu stalker"
+            },
+            {
+              "l": "🧰 Tools",
+              "c": ".menu tools"
+            },
+            {
+              "l": "☁️ Uploader",
+              "c": ".menu upload"
+            },
+            {
+              "l": "📦 Anichi",
+              "c": ".menu anichi"
+            },
+            {
+              "l": "📦 Animepahe",
+              "c": ".menu animepahe"
+            },
+            {
+              "l": "📦 Bypass",
+              "c": ".menu bypass"
+            },
+            {
+              "l": "📦 Melolo",
+              "c": ".menu melolo"
+            },
+            {
+              "l": "📦 Nimegami",
+              "c": ".menu nimegami"
+            }
+          ],
+          "s": 0,
+          "ts": 1795830407284,
+          "exp": 1795855607284
         }
       ],
-      "lastTs": 1795830397030,
+      "lastTs": 1795830407284,
       "timer": 0,
-      "unread": {}
+      "unread": {
+        "bot": 1,
+        "27b086691f72": 1
+      }
     },
     "d_aa426ad23e01_bot": {
       "id": "d_aa426ad23e01_bot",
@@ -14472,7 +14605,7 @@
         "g": 0
       },
       "2026-11-28": {
-        "m": 1,
+        "m": 3,
         "c": 0,
         "u": 1,
         "g": 0
