@@ -2720,9 +2720,9 @@
       "regIp": "103.217.224.175",
       "createdAt": "2026-10-28T01:59:19.333Z",
       "lastLogin": "2026-10-28T01:59:19.333Z",
-      "banned": false,
-      "bannedAt": null,
-      "bannedReason": "",
+      "banned": true,
+      "bannedAt": "2026-11-28T12:23:09.083Z",
+      "bannedReason": "IP 103.28.114.71 dipakai untuk mendaftar akun baru",
       "extra": 0,
       "window": {
         "start": 1795364179637,
@@ -5332,6 +5332,23 @@
         "start": 1795861416695,
         "hits": 1,
         "reacts": 1
+      }
+    },
+    "gambrengringkuk@gmail.com": {
+      "name": "xynn Officiall",
+      "email": "gambrengringkuk@gmail.com",
+      "pass": "s1$ec015135f15c686960cd5ab1eddc20cd$f9248e446deccd4267625a5f565da55cd0b56c22d655c753c70f7900632f7f18",
+      "apikey": "rin_7c3dd6a78d1d9c9ee1",
+      "cap": "free",
+      "ip": "103.28.114.71",
+      "regIp": "103.28.114.71",
+      "createdAt": "2026-11-28T12:23:09.083Z",
+      "lastLogin": "2026-11-28T12:23:09.083Z",
+      "extra": 0,
+      "window": {
+        "start": 0,
+        "hits": 0,
+        "reacts": 0
       }
     }
   }
