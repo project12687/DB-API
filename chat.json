@@ -3671,6 +3671,27 @@
         "swm": "",
         "swp": "br"
       }
+    },
+    "5ee2d4eb3f4a": {
+      "key": "aldogccnt@gmail.com",
+      "username": "Aldo GAccount",
+      "bio": "",
+      "avatar": "",
+      "createdAt": 1795872172624,
+      "updatedAt": 1795872172624,
+      "pref": {
+        "bubble": "klasik",
+        "snd": true,
+        "prev": true,
+        "grp": true,
+        "blocks": [],
+        "pins": [],
+        "muted": [],
+        "clr": {},
+        "rr": 0,
+        "swm": "",
+        "swp": "br"
+      }
     }
   },
   "convs": {
@@ -6463,6 +6484,7 @@
           "exp": 0
         },
         {
+          "bt": [],
           "id": "mx05mbq434dc18",
           "u": "admin",
           "t": "ga bisa itu kan udah ada pencet + terus pilih chat bot",
@@ -6484,7 +6506,6 @@
           },
           "x": {},
           "m": [],
-          "bt": [],
           "s": 0,
           "ts": 1795854866908,
           "exp": 0
@@ -14464,7 +14485,7 @@
       "2026-11-28": {
         "m": 17,
         "c": 0,
-        "u": 2,
+        "u": 3,
         "g": 0
       }
     }
